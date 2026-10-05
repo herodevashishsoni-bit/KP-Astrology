@@ -50,3 +50,34 @@ These are charts with birth data and dated events, taken from the books. They ar
 | R3-AR | R3 p.409–410 | ? (Sun dasa balance 2y9m11d; Jup–Ket from 1-12-1968) | ? | Spiritual initiation predicted Sep 1972 (Jup–Sun–Mars). Birth date not printed. |
 | R3-AS | R3 p.504–506 | 9-11-1942, 4:26 AM **actual** (clock 5:26 AM war time) | ? | Libra lagna, Chitra rising, Moon in Visakha, Sunday. Rectification example. |
 | R3-AT | R3 p.497–501 | 8-11-1945, 5:30 PM and 6:00 PM | 25°19′N 82°30′E (Varanasi) | Epoch example: Asc 21°06′ Taurus and 29°29′ Taurus (sayana?). Sidereal times printed → **useful for validating the house computation**. |
+| R4-A | R4 p.99 | 23-?-1938, 8:55 AM (date partly OCR-lost) | 31°19′N 75°18′E (Jalandhar region) | Married a working woman (army captain). Lagna 26°31′. |
+| R4-B | R4 p.99 | 8-4-1942, 4:31 AM | Jullundur (31°20′N 75°35′E) | Wife also a medical practitioner. |
+| R4-C | R4 p.102–105 | 18-4-1911, Tuesday, 7:34 AM | 13°47′N 79°12′E | Militant wife. Aries Asc 28°49′. 5th child after 1942 evacuation. Mercury dasa balance 7y8m2d. |
+| R4-D | R4 p.105–106 | ? (Asc 25°56′; 7th cusp 25°56′ Venus sign, Mars star, Rahu sub) | ? | Marriage denied (all proposals 1950–70 failed). Birth data not printed. |
+| R4-E | R4 p.106–114 | 15-6-1939, 19:05 (IST?) | New Delhi? (judgement at Delhi) | Asc 8°10′52″ (Scorpio?). Marriage predicted Wed 24-6-1970 (Rahu–Ket–Mer–Sun); dasa dates printed (Rahu dasa from 8-1-1959). |
+| R4-F | R4 p.114–120 | 1-5-1931, 10:02 PM IST (chart says 12:02?) | Karachi 24°51′N 67°04′E | Rahu dasa balance 13y6m2d; Sat–Ven from 24-8-1967. Marriage predicted ~1 Aug 1969 (Sat–Ven–Jup–Moon). |
+| R4-G | R4 p.120–123 | 14-5-1943, 11:42 PM | Colombo 6°56′N 79°58′E | **Married Sat 30-8-1969 (Rahu–Rahu–Mars).** Venus dasa balance 9 months. Planet star/sub table printed. |
+| R4-H | R4 p.123–125 | 30-1-1941, 11:10 AM IST | Delhi 28°40′N 77°12′E | Asc 6°44′ Aries; cusps 2nd 8°44′ Tau, 3rd 3°44′ Gem, 4th 26°44′ Gem, 5th 22°44′ Can, 6th 25°44′ Leo. Rahu dasa balance 0y7m9d. Marriage predicted April 1970 (Sat–Mars). Star/sub table printed → **cusp validation case**. |
+| R4-I | R4 p.126– | 23-5-1925, 8:03:28 AM LMT | 13°N 80°E | "Marriage a problem". |
+| R4-I | R4 p.126–131 | 23-5-1925, 8:03:28 AM LMT | 13°N 80°E (Madras) | Gemini lagna 16°41′. **Married 9-4-1962 (Monday)** in Jup–Mer–Mer–Jup. Moon dasa balance 6y11m21d; Jup–Mer from 14-1-1962. Bride 10-11-1936 (Tuesday), Kancheepuram (birth time OCR-lost). |
+| R4-J | R4 p.132–133 | 31-1-1942, Saturday | New Delhi? | **Married Mon 30-5-1966** (Ket–Ket–Sat). Saturn dasa balance 7y1m12d; Mercury dasa 12-2-1949 to 12-3-1966. |
+| R4-K | R4 p.134–137 | 21-8-1932, 4:48 AM IST | Trichur (10°31′N 76°13′E) | Anuradha. Saturn dasa balance 9y0m24d. Asc 12°47′ Cancer?; cusps printed (II 11°13′, III 12°13′, IV 14°13′, V 15°13′, VI 14°13′). Star/sub table printed. **Married 28-8-1967** (Ven–Ven–Mer–Rahu); Ven–Ven–Mer 15-5-1967 to 5-11-1967; Rahu sookshma 16-8-1967 to 11-9-1967. |
+| R4-L | R4 p.137–140 | 20-7-1911, Thursday, 5:54 PM IST | 11°42′N 75°30′E (Calicut area) | Bharani. Venus dasa balance 9y0m0d(?). Asc 19°50′ Sagittarius?; cusps printed. Star/sub table printed. **Married 2-6-1944, ~9 PM, Bombay** (Rahu–Rahu–Sat–Mer; Sat antara 25-4-1944 to 29-9-1944; Mer sookshma 20-5 to 12-6-1944). |
+| R4-M | R4 p.144–147 | 21-4-1936, 5:07 AM | 30°55′N 75°54′E | (Same data as R3-U.) **Married 22-6-1965 (Tuesday, Uttarabhadra)** in Sun–Jup–Sat–Jup. Separation in Jup–Ven. Divorce predicted June 1969 (Moon–Rahu); 2nd marriage March 1970 (Moon–Mars–Jup). |
+| R4-N | R4 p.147–148 | 7-10-1944, 9:45 AM | 19°50′N 74°48′E | Scorpio lagna 6°28′. Mars dasa balance 4y4m18d. Marriage predicted ~7-7-1970. |
+| R4-O | R4 p.149–151 | 11-9-1942, 1:56 AM (CST?) | 7°30′N 80°57′E (Sri Lanka) | **Ayanamsa printed 22°57′.** Gemini lagna 3°28′; cusps printed; star/sub table printed. Venus dasa balance 2m12d; Rahu–Jup from 5-8-1968. Marriage predicted Thu 27-8-1970. |
+| R4-P | R4 p.174–176 | 19-7-1937, 11:05 PM | 18°55′N 72°54′E (Bombay) | **KP ayanamsa printed 22°53′.** Asc 11°54′ (Pisces?). Mercury dasa balance 11y6m13d. **Promotion 9-4-1964; married 14-6-1964**, both in Ven–Rahu–Sat. |
+| R4-Q | R4 p.154–156 | 7-11-1948 (daughter; time not printed) | ? | Sun dasa balance 2y4m6d. Marital trouble in the Mars dasa; harmony predicted in Rahu–Jup. |
+| R4-R | R4 p.178–181 | 28-8-1935, 12:09 PM | 20°28′N 85°54′E (Cuttack) | Lagna 11°59′ (Scorpio?). Ketu dasa balance 5y9m1d(?). **Married 21-5-1962** (Sun–Rahu; Sun–Rahu 25-4-1962 to 19-3-1963). **Wife died 29-9-1968** (Moon–Rahu; 1-8-1968 to 1-2-1970). 2nd marriage predicted ~1-5-1970 (Moon–Jup–Sat, 5-4 to 21-6-1970). |
+| R4-S | R4 p.182–184 | 9-2-1931, 5:36:40 PM IST(?) | 25°27′N 78°37′E (Jhansi) | Asc 21°41′ (Cancer). Jupiter dasa balance 10y2m5d. **Married 28-10-1951** (Sat–Sun–Sat). **Divorce 16-1-1953** (Sat–Moon–Sat). 2nd marriage in Sat–Rahu–Mer. |
+| R4-T | R4 p.192–197 | 2-8-1940, 0:45 AM | ? | Rahu dasa balance 0y11m2d. **Married 12-12-1964** (Sat–Ven–Sun). **Divorce 27-11-1967** (Sat–Sun–Jup). Appeal 13-8-1968 (Sat–Moon–Mars). Final order predicted 1-2-1969. |
+| R4-U | R4 p.197–198 | 6/7-2-1946, 12:00 midnight (wife of R4-T) | ? | Mercury dasa balance 9y3m5d. Married 12-12-1964 (Ven–Ven–Sat). Divorce 27-11-1967 (Ven–Moon–Ket/Mer). Confirmed Feb 1969 predicted. |
+| R4-V | R4 p.205 | 13-10-1942, 10:35 AM IST | 18°55′N 72°54′E | Return/reunion predicted 21-1-1970. |
+| R4-W | R4 p.204 | 7-12-1939, 8:30 PM | ? | Went to an ashram 18-4-1964 (Jup–Sat–Moon). Marriage predicted Nov 1969 (Jup–Ven–Rahu–Sun). |
+| R4-X | R4 p.215 | 4-5-1938, 8:00 PM | ? | **Child born 10-6-1966** (Rahu–Sat–Mer). Mercury transit Gemini 10°26′40″–12°33′20″. |
+| R4-Y | R4 p.217 | 5-1-1932 | ? | Conception ~7-6-1966. Child predicted mid-March 1967. |
+| R4-Z | R4 p.220–225 | 17-8-1916 11 PM; 10-9-1916 sunrise; 20-4-1919 1:56 AM; 7-9-1930 0:02 AM 26°20′N 78°03′E | ? | Childless charts (negative tests for the child promise). |
+| R4-AA | R4 p.231 | 8-8-1936, 12:43 AM CST | 6°14′N 80°03′E (Ambalangoda) | Mercury dasa balance 6y11m19d. **Never a child** (negative test). |
+| R4-AB | R4 p.241 | 10-7-1931, 6:28 PM | 25°14′N 84°11′E | Venus dasa balance 6y5m23d. First conception disappointing. **2nd child born 16-11-1952** (Moon–Ven–Jup–Mars). |
+| R4-AC | R4 p.247 | 1-12-1954, 5:26 PM | 28°40′N 77°24′E | Moon dasa balance 0y5m21d. Saturn in 6 is the Asc sub lord → mischievous/criminal nature. Jupiter and Saturn dasas from age 25–60 are bad. |
+| R4-AD | R4 p.261 | 17-5-1923 12:56 PM and 24-10-1926 7:20 PM | ? | Couple with the same dasa and dasa-sandhi; happy (rejects dasa-sandhi). |

@@ -44,3 +44,13 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - R3_18 (doubts: owner vs occupant, rajayoga caveats, swabhukti, progression, annual horoscope)
 - R3_19 (ashtakavarga rejected, horary, rains, RECTIFICATION methods, hora)
 - R3_20 (hora per planet, dictionary) → READER 3 COMPLETE
+- R4_00 (intro, marriage general, dasa porutham intro (rejected))
+- R4_01 (poruthams detail (rejected), prasna marriage)
+- R4_02 (sakunam/nimitham, Mars dosha (traditional), KP disharmony rule, time of marriage, punarphoo)
+- R4_03 (punarphoo examples, married life happy/unhappy, two wives, age diff, union, locality, profession, features table, who survives, height (no rule), career girl, chaste wife)
+- R4_04 (positive/negative, militant wife, marriage denial, wedding bell example, will I marry, when will I marry, time of marriage)
+- R4_05 (delay via aspect, examples, letters, separation, 2nd marriage, daughter/son wedding, life with wife start)
+- R4_06 (divorce horary, married life 6/8/12, love & life by 5th sub lord sign, love marriage, wife brings luck, son-in-law)
+- R4_07 (son-in-law, second marriage, two marriages examples, horary method, divorce, kidnapping, reunion)
+- R4_08 (reunion timing, sanyasi, return, who survives, child birth rules & examples, adoption, pregnancy, eunuch, childless examples)
+- R4_09, R4_10 (delivery timing, child sickness horary, Asc sub lord nature, weakness by sign, karaka bhava nasaya, dasa sandhi, eka dasa, gems). **Reader 4 COMPLETE.**

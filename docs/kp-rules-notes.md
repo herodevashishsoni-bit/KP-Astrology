@@ -851,3 +851,160 @@ For dasa lord D (same for bhukti/antara lords):
   - Barren signs: Gemini, Leo, Virgo. Fruitful: Cancer, Scorpio, Pisces. Orb generally 8°.
   - Aspects: vigintile 18°, decile 36°, semi-sextile 30°, sextile 60°, quintile 72°, trine 120°, biquintile 144° (good); semi-square 45°, sesquiquadrate 135°, square 90°, opposition 180°, quincunx 150° (adverse).
   - Short-ascension signs Capricorn–Gemini; reversed in the southern hemisphere.
+
+### Reader 4 (Marriage, Married Life & Children)
+- Use Drik positions (Raphael minus KP ayanamsa); any other ayanamsa "useless and absurd" (R4 p.20).
+- **Judge each chart individually for longevity, health, finance, future, children and harmony before any matching.** Dasa porutham (10 nakshatra agreements) is "useless and meaningless" (R4 p.17–20). The porutham descriptions follow → NOT used; the app will not compute poruthams.
+- R4 p.21–45: detailed porutham rules (Dina, Gana, Mahendra, Sthree Deergha, Yoni, Rasi, Rasyadhipati, Vasya, Rajju, Vedha, Nadi, Gotra, caste by sign). Author: "We do not attach much importance to these", "Rajju cannot change the results indicated by the individual horoscopes." Popular nakshatra proverbs (Moola/Ashlesha/Jyeshta/Visakha girls) are refuted. → NOT used.
+- R4 p.45–46: Prasna (number 1–249/108) marriage questions → horary, not natal.
+- Sakunam (omens) and nimitham are endorsed as "true indications" for the *query* moment (R4 p.46–51). Not applicable to a natal bio.
+- **Mars dosha (R4 p.51–69):** the traditional rules (Mars in 1/2/4/7/8/12 from lagna, Moon or Venus; many cancellations) are reproduced. KP: "one need not unnecessarily entertain any fear". Matching advice is to pair dosha with dosha. The app could show a Mars-dosha flag as *information only*, labelled traditional.
+- **KP marital disharmony rule (R4 p.69):** any planet whose sub lord is a significator of 6, 10 or 12 (or whose sub lord is in the star of a significator of 6/10/12) causes dispute, separation or divorce in its periods.
+  - If that planet also signifies 2/7/11 → only a short separation, then reunion.
+  - If the sub lord is Mars or in a Mars star → violence and separation. If Saturn → silent cold war.
+  - (6 = 12th from 7; 10 = 4th from 7 = 12th from 11; 12 = 6th from 7.)
+- Time of marriage (R4 p.70–74): houses 2, 7, 11. Same traditional early/late lists and examples as R3 (test cases R3-AB, R3-AC).
+- **Marriage "Punarphoo" (R4 p.74–):** any Saturn connection with the Moon → obstacles and delays in negotiation, fixing and celebration (several alliances fail before one succeeds).
+- Punarphoo test (R4 p.78): Saturn in the Moon's star and Saturn's sub, or the Moon in Saturn's star and the Moon's sub, or Saturn in 1/3/6/7/10 (with a Moon link) → marriage obstacles or changes of party.
+- **State of married life (R4 p.80–82). Aspect-based, Western-flavoured, with KP subs:**
+  - **Happy:**
+    - the 7th cusp sub lord is Jupiter or Venus and signifies 2/11
+    - Mercury, Moon or Sun as a significator of 7 aspected well by a significator of 11
+    - Venus in 1/2/upachaya in a good aspect, unless in the sub of a significator of 6/10/12
+    - good aspects to the 7th and 11th cusps
+  - **Unhappy:**
+    - Sun–Moon evil aspect with either signifying 2/7/11
+    - malefics in 7 badly aspected by significators of 6/10/12
+    - Mars in 7 afflicted by Uranus → violence/separation; + Saturn → divorce
+    - Mars in 8 in a Jupiter sub → extravagant partner
+    - Mars in a Moon sub → short-tempered partner, maybe a drunkard
+    - afflicted 7th and 11th cusps → lifelong trouble
+  - The aspect element → in the app show these as "aspect notes", lower weight.
+- Plurality of partners (R4 p.82–83): traditional list, shown as informational only if at all.
+- **Two marriages (KP, R4 p.84):** the 7th cusp sub lord is Mercury or is in a dual sign → more than one wife.
+- **Age difference (R4 p.84):** the 7th cusp star lord / sub lord: Saturn → much older husband; Jupiter/Venus/Sun → proper difference; Mars/Mercury/Moon → very little. Nodes → the planet represented.
+- Union quality by the 7th cusp star/sub lord (Sun repulsion … Venus extreme pleasure, Saturn dissatisfaction) (R4 p.84–85). Descriptive.
+- **Partner's locality (R4 p.85):** the sub lord of the significator owning 4/10 → same street or town; 3 → cousin, neighbour, short distance or via advertisement; 11 → from a friend's family; 5/9 → stranger, love marriage, foreigner, long distance.
+- **Partner's profession (R4 p.85):** significators of 4, 8, 12 (= 10, 2, 6 from 7). Mars a significator of 4/8/12 in a male chart → career woman.
+- **Partner's character and physical features (R4 p.86):** the 7th cusp sign/star/sub lords (2nd marriage: the 2nd cusp; and so on). Detailed table: the 7th sub lord (or its star lord) planet × the sign it occupies → appearance and character (R4 p.86–97). Nodes → the conjoined planet, else the aspecting planet, else their star lord.
+- **Who survives whom (R4 p.86):** the 7th cusp sub lord in a dual sign and signifying the maraka and badhaka houses (of the 7th) → the wife dies first. 2nd wife → the 2nd cusp sub lord. The traditional rule (malefics in 8) "fails".
+- **Height of the partner: no rule exists ("no science") (R4 p.97–98) → GAP; do not predict it.**
+- **Career wife (R4 p.98):** the 4th cusp sub lord signifying 4, 8 or 12 (= 10, 2, 6 from 7) → the wife works.
+- **Chaste wife (R4 p.100):** the 7th sub lord is not Mars, Venus or Saturn, and not in the star of Mars/Venus/Saturn occupying their signs → chaste. A sensitive item → the app should phrase it carefully or omit it. The user wants directness; flag for their decision.
+- Positive/negative temperament of a couple (Western, R4 p.101–105). Example: a militant wife → the Asc sub lord Mars, Moon in Scorpio in a Mercury star. Supports using the Asc sub lord for temperament.
+- **Marriage denial (R4 p.105–106):** "a person is denied of marriage when the 7th cusp sub lord is deposited in the constellation of the significators of 4, 6 and 10" — 4 = failure in love, 6 and 10 = 12th to 7 and 11. Summary line: "note the sublord of the 7th cusp; if connected with 4, 6, 10 → denied."
+  - **CONTRADICTION/VARIANT:** R3 p.430 and R4 elsewhere use 1, 6, 10, 12 (12th to 2, 7, 11) for blocking. R4 p.118 says "if the sub is lord of 1, 6, 10 and is significator of 12 → marriage cannot take place."
+  - → Engine: treat 1, 6, 10, 12 as the classical negation set, and 4 as an additional love-failure indicator; flag it to the user.
+- **Marriage promised (R4 p.108, 117, 121):** the 7th cusp sub lord is a significator of 2, 7 or 11.
+- **Saturn and marriage (R4 p.109):** Saturn signifying 2/7/11 (occupying, owning, or in the star of a planet in them) → delay at every stage, not denial. Saturn only *aspecting* 2/7/11 → denial or disappointment. Saturn in 5 → marriage delayed and delayed. Moon opposed by Saturn → delay.
+- **Significator selection (R4 p.118):** among the significators of 2, 7, 11, those whose *sub lords* connect with 2/7/11 are useful. If the sub lord is a lord of 1, 6, 10 or a significator of 12 → cannot give marriage. Then use the RPs at judgement (horary) or the running dasa.
+  - In R4 p.124–125, the significators *not* in the star or sub of the lords of 6/8/12 are chosen as the strongest.
+- Transit confirmation for the marriage day: Sun, Moon and the dasa/bhukti/antara lords transiting the stars/subs of significators (R4 p.113, 122). Progression is supplementary.
+- Gochara by Moon sign (Guru-bala) is "wholly unreliable"; transits must be related by actual longitude to natal planets and cusps, by star and sub (R4 p.112–113).
+- Partner details from the significators' house lordships (R4 p.125): owning 9/12 etc. → distant friend, long journey; Venus (lord 2/7) in the star of the lord of 5 occupying 10 → wife employed or independent.
+- "Karma comes first. God comes next." Prayers and gems don't change timing (R4 p.119).
+- **Delay through a malefic aspect on the dasa lord (R4 p.127). Scoring rule:** if the dasa lord A promises the matter but a malefic B aspects A and causes delay, success comes only after the A–B bhukti (or the B antara in A's bhukti) is over; then a favourable significator's sub period gives it.
+- Example (23-5-1925): Saturn exalted in 5 aspecting the 7th cusp delayed marriage. Married 9-4-1962 in Jup–Mer–Mer–Jup, with the Sun transiting Jupiter's sign / Mercury's star / Jupiter's sub (Revathi, ~5–10 April) (R4 p.126–131).
+  - **"The ruling planets at the time of query are the ruling planets at the time of birth, and the RPs at the time of fulfilment are also the RPs at the moment of query"** (R4 p.131).
+  - The partner's birth RPs = the marriage significators (bride: Virgo Moon in Hasta, Sagittarius lagna, Tuesday → Mercury, Moon, Jupiter, Mars).
+- Marriage-day transit rule (R4 p.130, 133, 137): the Sun transits the sign of the dasa/bhukti lord *and* the star (and sub) of a significator. Dasa-bhukti and transit must agree (R4 p.137, 140).
+- Selection examples (R4 p.136, 139): drop significators in 12th-to-7 positions, or in the star/sub of planets owning 6/8/12. Nodes override their sign lords.
+- **A planet that signifies 2/7/11 but is the strong single significator of 6 will not give marriage** (6 = separation) (R4 p.145).
+- **Plurality of marriage:** the 7th cusp sub lord (or the node representing it) in a dual sign, and its star lord in a dual sign → certainly more than one marriage (R4 p.145).
+- **Separation/divorce: houses 1, 6, 10, 12** (R4 p.146). Second marriage: the 2nd cusp sub lord connected with 7 → second marriage; connected with 11 → a concubine (R4 p.146).
+- **Son's marriage (R4 p.150):** reject the significators of 2/7/11 that are in the sub of planets in 1, 6, 10 (12th to 2, 7, 11); select those in the sub of significators of 2, 7, 11.
+- Partner's profession from the cusp 10th from 7 (= the native's 4th cusp) sign/star/sub (R4 p.148).
+- **Harmony in married life: the 11th cusp sub lord** (11 = harmony, happiness) (R4 p.152).
+- **Divorce: houses 1, 6, 10** (12th to 2, 7, 11) (R4 p.153). **Second marriage:** the 7th sub lord connected with a dual sign or the dual planet Mercury (R4 p.153).
+- **Kinds of marital trouble (R4 p.154):** significators of 6 → the partner walks out or deserts; of 12 → the native seeks separation and lives alone; of 8 → disharmony and quarrels but no separation.
+- For a child's marriage from the parent's chart (horary there), take the 5th as the child's lagna (R4 p.154).
+- **"Love and life" (R4 p.156–170):** character in love and marriage by the sign of the 5th cusp sub lord, male and female versions → descriptive data.
+- **Love marriage (R4 p.171):** love is judged from the 5th cusp sub lord and the significators of 5. The lover whose birth RPs are significators of 2, 7, 11 in one's chart is the one married. If they are significators of 1, 6, 11 [sic — probably 1, 6, 10; OCR or print] → disappointment. → Natal app: can't compute without the other chart. Optional compatibility feature using the partner's birth data (RPs vs significators) — flag as a possible feature.
+- A spouse doesn't bring luck; both events are in one's own chart (R4 p.174).
+  - Example 19-7-1937: promotion 9-4-1964 and marriage 14-6-1964, both in Ven–Rahu–Sat. Venus aspected by the lord of 2 and the lord of 11 connects to both 2/7/11 and 2/10/11. Transits on the wedding day are given.
+- **Son-in-law relations (R4 p.177):**
+  - From the parents' charts, the 11th sub lord (and its star lord) signifying 1 and 5 → peace; signifying 6 or 12 → no peace.
+  - With several sons-in-law: those whose birth RPs are the 11th significators are friendly. If the 6th sub lord or its star lord signifies 6, 8, 12 (not 1, 5, 11) → unfriendly.
+- **A planet in a star signifying 11 (Magha, Ketu as agent of the 11th lord):**
+  - Sun in it with a Saturn sub (Saturn signifying 2) → marriage.
+  - Moon in the same star with a Venus sub (Venus lord of 12) → the wife's death.
+  - "If a planet has to offer a desirable as well as an undesirable result, it will offer both… One does not cancel the other." (R4 p.180)
+- **Bhukti lord is a "turncoat" (R4 p.180–181). SCORING:** a bhukti lord with mixed significations gives benefit in the dasa of a beneficially connected dasa lord, and harm in the dasa of an evil one. (Rahu gave marriage in the Sun dasa and bereavement in the Moon dasa.)
+- **Second marriage (R4 p.181–182):** the 7th cusp sub lord, or the star lord of that sub lord, in a dual sign or being a dual planet (Mercury) → a second marriage is promised. The 2nd house rules the second wife; the 7th the first (R4 p.184).
+- Neptune on the 7th cusp → a deceptive first spouse (R4 p.184). Neptune not used otherwise; low weight.
+- Horary (number 1–249) is preferred by KSK for the exactness of cusps (R4 p.185). Cusps depend only on latitude: Raphael tables + KP ayanamsa (23°20′ in 1969). The ephemeris at 5:30 PM IST = 12:00 GMT.
+- **Divorce (R4 p.191–192):**
+  - Significators of 2/7/11 also signifying 1 & 6, 6 & 10, 6 & 7, or 10 & 7 → separation; also signifying 1, 6, 12 → separation, then divorce.
+  - Wife runs away: a significator of 7 also signifying 6 and 9. The husband leaves: 3 and 12.
+  - **Reunion: 1, 5, 7, 11.**
+- KP version of Mars dosha (R4 p.194): planets in the star or sub of Mars, where Mars is in 1/2/4/7/8/12, give undesirable married-life results.
+- **Dasa lord supremacy (R4 p.195). CORE:**
+  - "No bhukti lord can offer a result if the dasa lord does not permit. If the dasa lord is not a significator of the result which the bhukti lord is to give, the dasa lord, the final authority, will not give the ultimate result."
+  - Dasa = Prime Minister, bhukti = Cabinet Minister, antara = Deputy Minister. All three must be connected with the relevant houses.
+  - **Scoring: require the dasa lord to signify the matter (gate), weight the bhukti, then the antara.**
+- **Vacant house with its lord's stars also unoccupied → planets in the *sub* of the house lord give the results** (R4 p.195).
+- Marriage comes through the star lord, separation through the sub (R4 p.195).
+- The dasa lord's sub lord decides the final outcome; bhuktis alternate good and bad by their own sub lords (R4 p.194).
+- **Kidnapping (R4 p.198):** significators of 3, 6, 7, 9 → the partner kidnapped; significators of 1, 3, 9, 12 (not connected with 11) → the native kidnapped or a refugee. If also connected with 11 → found, reunion. The 8th cusp sub lord shows whether the wife outlives the native.
+
+### Reader 4 (R4_08, p.203–231): reunion, sanyasi, return, survival, children
+- **Return / reunion:** houses 3, 9, 11 (R4 p.205). Example 13-10-1942 10:35 AM IST Bombay; return predicted 21-1-1970.
+- **Family life vs sanyasi:** 7-12-1939 8:30 PM. The native went to an ashram on 18-4-1964 (Jup–Sat–Moon). Marriage predicted Nov 1969 (Jup–Ven–Rahu–Sun).
+- **Who survives whom (R4 p.208):** compute each spouse's longevity separately. If the 8th cusp sub lord signifies 1, 6, 8, the partner dies in that planet's conjoined period.
+- **Child birth (R4 p.210+):** significators of 2, 5, 11, plus Jupiter (karaka).
+  - **Promise:** the 11th cusp sub lord (male chart) or the 5th cusp sub lord (female chart) must signify 2/5/11.
+  - **Sex of the child:** no universal rule (**GAP**).
+- **Traditional sections (reported, not used by KP):** short-lived children, Beejam/Kshetram, adoption, Kerala santana thithi, month-wise pregnancy, remedies (idols). Excluded: remedies do not change fate.
+- **Eunuch (KP):** the star lord and the sub lord are ruled by Saturn/Rahu/Ketu and all signify 4/10/12.
+- **Sterility:** the Asc and 7th cusp sub lords are in mute or barren signs.
+- **Day rule:** if the star lord is stronger than the bhukti/antara lords, the event falls on the star lord's weekday.
+- **Child denial (horary, 11-12-1969 Ceylon):** abortive Ketu in 5. The 5th and 11th cusp sub lords in 12th-to positions (12th from 5 = 4, 12th from 11 = 10) deny. This is consistent with "1/4/10 never" (R3).
+
+### Reader 4 (R4_09–R4_10, p.231–280): delivery timing, child health, Asc sub lord nature, karaka, dasa-sandhi, gems
+- **Child denial examples (horary):**
+  - 8-8-1936, 12:43 AM CST, Ambalangoda: she can never have a child.
+  - Matale, 4-12-69, no. 220: never a child. The 11th cusp sub lord in the 3rd from 11 denies, and so does the 5th cusp sub lord in the 3rd from 5. **Rule:** a sub lord in the 12th (or 3rd, or 6th) from the house concerned negates it.
+- **Delivery timing:** houses 2, 5, 11.
+  - Select significators that are in the sub of the lords of 2/5/11.
+  - A node displaces the planets it represents.
+  - A retrograde significator does not deliver until it turns direct.
+  - Example: delivery on 24-10-1969, in Mer–Rahu–Sun antara, after Mercury turned direct on 8-10-69.
+  - **Sex of the child:** the author says he "never had experience", and assumed a son because the antara and sookshma lords are male planets. Treat this as anecdotal (**GAP** remains).
+- **Moon-transit timing for minor events (within a week):** the Moon transits the sign, star, sub and sub-sub of the RPs common to the significators. Nodes are first. Signs of a retrograde planet are skipped. Example: 24-11-1969 at 2 AM.
+- **Mother's chart for children (10-7-1931 6:28 PM 25°14′N 84°11′E):**
+  - A node or Saturn in the Asc whose sub lord occupies or owns 1, 4 or 10 → the first issue is short-lived or the first conception aborts.
+  - Conjoined period of the significators of 6, 11 and badhaka:
+    - during pregnancy → abortion
+    - just before delivery → stillbirth
+    - just after delivery → infant death
+  - **Second child:** houses 2, 5, 7, 11 (7 = 3rd from 5). Second child born 16-11-1952 in Moon–Ven–Jup–Mars.
+- **Disease (horary for a child, 21-1-1970):**
+  - Significators of 6 that are also significators of 1 → disease; home treatment is enough.
+  - If they are also significators of 12 → hospitalisation.
+  - The nature of the disease comes from the 6th cusp star/sub (with aspects).
+  - Recovery comes from the 11th cusp. If its sub lord is the agent of a planet in 6 → no permanent cure (recurring).
+- **Nature from the Asc sub lord (R4 p.248):**
+  - signifies 1: dignity, long life, health
+  - 2: money, hard work
+  - 3: mental growth, short journeys, kin
+  - 4: land, vehicles, study, mother
+  - 5: sport, speculation, children
+  - 6: ill health; harmful to others; victorious
+  - 7: partners, marital happiness, litigation
+  - 8: occult, **unnatural end**, accidents, legacy after trouble
+  - 9: long journeys, religion, higher studies, research, father
+  - 10: name and fame, high position, inheritance
+  - 11: all success, friends
+  - 12: secret sorrow, secret enemies, fear of imprisonment; with 2/6/11 → fortune abroad
+
+  With 6: Mars commits crimes openly, Saturn secretly. This gives a "Character" section for the bio.
+- **Weakness by sign (R4 p.265):** the sign holding the star lord of the Asc sub lord. There are 12 descriptive paragraphs, one per sign, Aries–Pisces. Use them as text templates.
+- **Karaka bhava nasaya:** rejected as a blanket rule. A karaka in its own karaka house harms only if it is in the star of a malefic, and only in its own periods or in the joint periods of planets in its stars. Examples:
+  - Mars in 3 → brothers
+  - Moon in 4 → mother
+  - Jupiter in 5 → children
+  - Venus in 7 → marriage
+- **Dasa-sandhi and Eka-dasa:** rejected as threats.
+  - If the next dasa lord is in the star of the current dasa lord → no major change.
+  - The middle of a dasa is when changes happen.
+- **Gems (R4 p.279):** use the gem of the Asc or 11th sub lord if it is not connected with 6/8/12. This is descriptive, not predictive. It is optional output; remedies do not change fate.
