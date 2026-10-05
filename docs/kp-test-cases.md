@@ -93,3 +93,6 @@ These are charts with birth data and dated events, taken from the books. They ar
 | R5-J | R5 p.328 | 10-10-1931, 1:11 PM | 13°04′N 80°15′E | Sun bal 1y10m12d. **Married 1-9-1950** (Rahu–Rahu–Rahu). |
 | R5-K | R5 p.192 | Horary 20-9-1967 6 PM Delhi | 28°38′N 77°12′E | KP ayanamsa 23°18′. Asc target 347°43′–348° → 6:53 PM IST. |
 | R5-L | R5 p.189 | 9-9-1893, 8:53 AM | 13°04′N 80°15′E | Ketu bal 1y3m7d. Father died Jan 1917. |
+| R6-A | R6 p.140 | 16-10-1919, approx 4:30–5:30 AM | 21°N 73°40′E | **RP-rectified to 5:23:50 AM IST** (judged 21-1-1968 10:30 AM). KP ayanamsa 1919 = 22°38′. |
+| R6-B | R6 p.142 | 13-11-1948 | 17°44′N 83°23′E | **RP-rectified Asc 23°10′ Virgo → 3:36:45 AM IST** (judged 24-12-1967 6:45 PM). |
+| R6-C | R6 p.143 | Year 1913, date unknown, born around sunset | 74°E (lat ~?) | **RP-derived: 26-5-1913, 6:10:14 PM IST**, Asc 23°33′ Scorpio. Mars dasa bal 6y1m18d. Judged 9-10-1967 8:37 PM Delhi. KP ayanamsa 1967 = 23°18′. |

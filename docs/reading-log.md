@@ -55,3 +55,5 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - R4_08 (reunion timing, sanyasi, return, who survives, child birth rules & examples, adoption, pregnancy, eunuch, childless examples)
 - R4_09, R4_10 (delivery timing, child sickness horary, Asc sub lord nature, weakness by sign, karaka bhava nasaya, dasa sandhi, eka dasa, gems). **Reader 4 COMPLETE.**
 - R5 complete (pp.1–36, 187–365 read; pp.37–186 verified duplicate of R3 pp.15–164). **Reader 5 COMPLETE.**
+- R6_00–R6_06 (traditional/western horary, KP horary, sign classes, house significations, RPs, RP rectification, retrograde, eclipse, longevity, disease, accident, absent person, buying, finance, second marriage, appeal, negotiation, interview, report)
+- R6_07–R6_13 (vehicle, property, exams, children/twins/adoption, lottery, borrowing, theft, overseas, success house combos, job, transfer, promotion, relatives separation/death houses, partnership, dowry, chastity, suicide/murder, imprisonment (Rahu karaka), raid, spiritual, sanyasi, gems). **Reader 6 COMPLETE. All 6 Readers COMPLETE.**

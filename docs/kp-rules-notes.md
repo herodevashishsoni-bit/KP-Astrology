@@ -1096,3 +1096,244 @@ For dasa lord D (same for bhukti/antara lords):
   - KSK states **Saturn enters Nirayana Pisces on 7-4-1966** → validation point.
   - Delhi 20-9-67: KP ayanamsa 23°18′.
 - **Ruling-planet timing example (R5 p.192–194):** 20-9-1967, 6 PM, New Delhi; electricity came back at 6:53 PM. Use it to validate the RP-to-Asc computation: Pisces, Mercury star, Mercury sub, Rahu sub-sub = 347°43′–348°.
+
+## Reader 6 (Horary) — natal-relevant rules
+- **Traditional horary (Prasna Gyana, Uthrakalamritha, Shatpanchasika, Sinendramala, Padmaprabhusuri) and the Western horary system:** read; reported only; **rejected** (R6 p.19–63). Excluded: the 10 planetary avasthas, exaltation tables, friendship, Arudha, shadow/gunakara, omens.
+- **Horary method:** a number 1–249 gives the Asc sub start. Cusps are computed for the **latitude of the place of judgement**. Planets are cast for the moment of judgement.
+- **Sub-lord-of-significator rules (R6 p.81–83).** I already have these from R3; restated:
+  - **Significator of 1:**
+    - in the sub of a significator of 6 → falls ill
+    - of 8 → danger
+    - of 12 → runs away / imprisoned / hospitalised
+    - not 6/8/12 → long life, success, health
+  - **Significator of 2:**
+    - in the sub of 6 → borrows
+    - of 8 or 12 → lends/repays
+    - of 11 → gain (money, son-in-law, daughter-in-law, child birth)
+    - of 3 → gain through a brother, or the brother loses
+    - of 4 → car/house in the conjoined period
+  - **Significator of 4:**
+    - in the sub of a significator of 11 → purchase
+    - of 12 → sale
+    - of 10 + 12 → lets out (rent/lease)
+  - **Significator of 7:**
+    - in the sub of 2/11 → gain, reunion, marriage
+    - of 12 → separation or the wife ill
+    - of 6 → the wife goes away
+    - of 1 + 2 → **danger to the partner's life** (2 and 1 are the 8th and 7th from 7 — marakas to 7)
+    - of 4 → the partner earns
+    - of 5 → the partner gains / friendship
+    - of 8 → income or danger to life; with 5 → the partner gains
+- **Relative's longevity worked example (R6 p.83–86), chart 29-1-1928 7:06 PM Madras = R3-B:**
+  - Father = 9th house. Danger to father comes from the planet in the star of the 9th occupant whose sub lord is the badhaka of the 9th.
+  - Houses **2 and 3 counted from 9** (= 10, 11) are marakas to the father.
+  - Mother = 4th; marakas to the 4th are the 5th and 10th (= 2nd and 7th from 4).
+  - Results: father died in Sun–Mer–Ven, July 1952. Mother died 27-4-47 in Ven–Mer–Sat–Rahu (Friday, Moola star, night Asc Purvashada 15° Sag). Child died in Moon–Jup–Rahu.
+  - Education: dasa lords connected with 4 and 9 give education; the dasa of a significator of 12 ends studies.
+  - **Rule:** for any relative, take that relative's house as their lagna. Their marakas are the 2nd and 7th from it, and their badhaka is counted from it.
+- **Ruling planets (R6 p.123):**
+  1. Lagna star lord
+  2. Lagna sign lord
+  3. Moon star lord
+  4. Moon sign lord
+  5. Day lord, counted sunrise to sunrise
+
+  A node is added when it sits in a sign owned by an RP. RPs in the star of a retrograde planet are rejected. A retrograde RP is fruitful only after it turns direct and reaches the point.
+- **Which body to move for timing (R6 p.132):**
+  - **Lagna:** within a day
+  - **Moon:** within a month
+  - **Sun:** within a year
+  - **Jupiter:** years
+- **Birth-time correction by RPs (R6 p.137–143) — the core KP rectification:**
+  1. Note the RPs at the moment of judgement.
+  2. Reject RPs in the star of retrograde planets.
+  3. Over the approximate birth window, find the Asc positions whose **sign, star, sub and sub-sub lords are all RPs**.
+  4. If several candidates remain, use known facts (morning or night, sign) to choose one.
+  5. Stronger RPs (Asc lord over Moon-sign lord over day lord) win the deeper levels.
+
+  The same method gives the Moon's position or any cusp. Use the time of judgement, not the time of the original query.
+  - **Examples with answers:**
+    - 16-10-1919, 4:30–5:30 AM, 21°N 73°40′E; judged 21-1-1968 10:30 AM → **5:23:50 AM IST**, Asc Virgo 162°38′+ (Moon star, Rahu sub, Saturn sub-sub).
+    - 13-11-48, 17°44′N 83°23′E; judged 24-12-67 6:45 PM → Asc 23°10′ Virgo → **3:36:45 AM IST**.
+    - Politician, date unknown, year 1913; judged 9-10-67 8:37 PM Delhi → **26-5-1913, 6:10:14 PM IST**, 74°E. Mars dasa balance 6y1m18d. Asc 23°33′ Scorpio.
+  - **Traditional rectification is rejected** as giving multiple answers (R6 p.141): vighati ×4÷9 star check, vighati÷225 sex check, prenatal epoch. **CONTRADICTION** with R3, which used the vighati method; I flag it. KP's final word is RPs. Use RPs as the primary method in the app and show the vighati check as secondary information.
+- **Natal retrograde planets:** "do not worry… no difference. Retrograde planets neither lose strength nor are harmful" (R6 p.145).
+  - **Horary only:**
+    - A retrograde planet in the star of a direct planet → delay, then success once it is direct beyond its station.
+    - Retrograde in the star of a retrograde planet → never.
+    - Direct in the star of a retrograde planet → failure.
+    - A significator of 2/7/11 in the star of a retrograde planet cannot give marriage in its period (R6 p.146–147).
+  - **CONTRADICTION/SCOPE:** apply the retrograde rules only to horary/RP selection, not to natal promise. Flag it.
+  - Nodes are never retrograde.
+- **Exaltation/debilitation:** not used for good or bad. "Container vs contents": the star lord's strength scales the magnitude (R6 p.145–146). Possible small magnitude weight; flag it.
+- **Eclipsed (combust) planets:** a planet in the star of an eclipsed (combust) planet, acting as a cusp sub lord, gives the evil results of that cusp in its periods (R6 p.151–152: cusp 1 imprisonment/fear/loss … cusp 8 sorrow/death …). The Institute's verification says eclipsed planets give both good and bad, decided by the bhukti lords (p.153). **CONTRADICTION** in the same chapter; flag it, and don't use it for scoring.
+- **Longevity (R6 p.154–157):**
+  - Badhaka: **movable lagna → 11th, fixed → 9th, common → 7th**. Marakas: 2nd and 7th.
+  - Death significators follow the same 5-level order applied to badhaka + maraka.
+  - Asc sub lord in the star of significators of badhaka/maraka → short life.
+  - Asc sub lord in the star of a significator of 6 → disease, not death.
+  - … of 8 → accident.
+  - … of 12 → long bed rest / hospital.
+  - **Death = the conjoined period of the significators of the badhaka and maraka houses, confirmed by RPs and the transits of the Sun and Moon.**
+- **Disease (R6 p.158):**
+  - Asc sub lord in the star of an occupant of 1 or 11 → good health.
+  - In the star of a significator of 1 + 6 → disease in its periods.
+  - 6th sub lord in the star of a significator of 6 + 1, not 11 → disease in its sub-period.
+  - Connected with Saturn → chronic; Mars → acute; Mercury → complications.
+  - **Cure:** a significator of 5 or 11 following the 6th-house period. Survival also requires longevity.
+- **Accident (R6 p.159):**
+  - The 8th sub lord in the star of a significator of 8 → accident.
+  - + 6 → fever after it; + 12 → hospital; + badhaka/maraka → death (unless longevity is promised).
+- **Absent person alive or dead (R6 p.160):**
+  - Use the relative's house; **9th for father and for strangers** (note: R6 uses the 9th for father).
+  - If that cusp's sub lord is in the star of a significator of badhaka/maraka → dead.
+  - Mode of death by the sign of that significator: water → drowned; fire → injury; earth → natural.
+- **Second marriage (R6 p.165):** both conditions must hold:
+  - (i) the 7th sub lord is in a dual sign, or in the star of a planet in/owning a dual sign, or is Mercury; and
+  - (ii) the 7th sub lord signifies 2 or 11.
+
+  Timing via 2 and 11. Consistent with R4.
+- **Sale of possessions (R6 p.163):**
+  - 3 + 11 → profit; 3 + 12 → loss.
+  - 3rd sub lord Mercury, or dual → sells repeatedly.
+- **Appeal:** the 3rd sub lord in the star of a significator of 6/11 → success; of 5/12 → fails.
+- **Negotiation:** 3, 9, 11 (+ the matter's house). **Interview:** 3, 9, 11; the 11th sub lord in the star of a retrograde planet → denied.
+- **Report true/false:** the star lord of the 3rd sub lord. Saturn → false; Mars → mischievous/false; Jupiter → true.
+- **Bio text templates (R6 p.109–115), by the sign holding the star lord of the given sub lord:**
+  - Asc sub lord → physical appearance and character
+  - 6th cusp sub lord → health and disease
+  - 2nd cusp sub lord → finance
+  - 5th cusp sub lord (star lord a significator of 5) → romance
+  - 7th cusp sub lord → partner
+
+  12 entries each. Source text in R6_04 lines ~396–622 for extraction.
+- **House significations list (R6 p.116–122):** full list; use it for house descriptions in the UI.
+- **Sign classifications (R6 p.107–109):** fruitful = Cancer, Scorpio, Pisces; semi-fruitful = Taurus, Libra, Capricorn, Sagittarius; barren = Aries, Gemini, Leo, Virgo; mute = Cancer, Scorpio, Pisces; dual = Gemini, Sagittarius, Pisces (plus Virgo as common); etc.
+- **Raphael's Table of Houses and the Raphael ephemeris for Greenwich noon:** the KP ephemeris is computed for 5:30 PM IST.
+- **Node agency order:** inconsistent within R6.
+  - (a) p.188, 212, 233, 274, 277: **conjoined → star lord → aspecting → sign lord**
+  - (b) p.208, 313: conjoined → aspecting → sign lord
+  - R3 earlier gave conjoined → aspecting → sign/star.
+
+  **CONTRADICTION; flag it.** For the app, use (a), the most frequent, and treat a node as also signifying everything its agents signify.
+- **RP strength (R6 p.185, 204, 266, 275):** **Lagna lord > Moon star lord > Moon sign lord > day lord**. A node representing the lagna lord is strongest.
+- **Delay vs speed of fulfilment:** a planet in 11 or the owner of 11 that is fast (Moon, Mercury, Sun, Venus) → early; Saturn → delay (R6 p.215, 278, 303).
+- **Child-birth (horary and natal 5th cusp, R6 p.192, 211):**
+  - The 5th cusp sub lord must be (i) not retrograde, (ii) not in the star of a retrograde planet, and (iii) a significator of 2/5/11. All three are required.
+  - The partner's fertility is read from the 11th cusp.
+  - **Sequence of children:** 1st child = 5th, 2nd = 7th (3rd from 5), 3rd = 9th, and so on.
+  - **Twins (R6 p.204):** the 11th sub lord (or the relevant child's cusp) in the star of Mercury or of a planet in a dual sign.
+  - **Pregnant now:** the 5th sub lord in the star of a significator of 2/5/11, in a fruitful sign.
+  - **Caesarean:** Ketu in the lagna and Mars aspecting.
+  - **Adoption:** the child's 4th cusp sub lord in a dual sign (or Mercury) that also signifies the child's 8th.
+- **Vehicle (R6 p.181–184):**
+  - The 4th sub lord is Venus as a significator of 4, or is in the star of a significator of 4 connected with Venus → vehicle or furniture.
+  - By sign: movable → vehicle; common → vehicle or cradle; fixed → furniture.
+  - Mars → land/building; Moon → mother; Jupiter/Mercury → education; Saturn → mine/treasure.
+  - **Wheels:** sub lord in Gemini, Virgo, Sagittarius (1st half) or Aquarius → two-wheeler; in a bestial sign (Aries, Taurus, Leo, Sagittarius 2nd half, Capricorn) → four-wheeler.
+  - Saturn → self-drive; Jupiter → driver.
+  - Purchase houses: 4, 9, 10, 11. Sale: 3, 4, 5, 10.
+- **Buying a house/building (R6 p.174–176):** 4, 11, 12 (+6 and 9 when buying from a seller). The 4th sub lord, or its star lord, retrograde → cannot. Third child = 9th house; that child's 4th = the native's 12th.
+- **Selling property:** 3, 5, 10; possession via 3 and 12. The 10th sub lord retrograde → wait; its star lord retrograde → cannot sell.
+- **Saturn conjoined with the Moon (Punarphoo):** success only on later attempts (R6 p.179).
+- **Competitive exam:**
+  - The 3rd sub lord gives courage: Moon adjusts, Saturn is cautious, Mercury is in two minds, Sun/Mars/Jupiter/Venus are confident.
+  - Success: 4, 9, 11; the dasa, bhukti and antara must all signify them. A dasa lord with mixed signification gives the good side only if the bhukti and antara co-operate.
+- **College admission:** 4, 11. **Love affair:** the 5th sub lord in the star of a significator of 7/11 → materialises; 6 → the other party falls out; 12 → the native drops it.
+- **Business partner:** the 8th sub lord in the star of a significator of 6/11 → yes; 5/12 → never.
+- **Actor:** 5, 6, 10 (+11 → prosperous; Mars → leader).
+- **Lottery:** the 11th sub lord direct, its star lord direct, and signifying 2/6/11. Exclude the opponent's significators (5/8/12).
+- **Which relative will win:** the relative's house as lagna.
+- **Borrowing:**
+  - The 6th sub lord, if direct, decides. Its manner:
+    - Sun → from government
+    - Moon → quickly
+    - Mars → with tension
+    - Mercury → by correspondence, in instalments
+    - Jupiter → honourably
+    - Venus → friendly
+    - Saturn → delay
+    - Saturn aspecting → only part
+  - **From whom:** the lending relative's 12th:
+
+    | Lender | Houses |
+    |---|---|
+    | Younger brother | 2+6 |
+    | Mother | 3+6 |
+    | Children | 4+6 |
+    | Wife / partner / others | 6 |
+    | Father | 8+6 |
+    | Elder brother / friend | 10+6 |
+- **Repaying:** the 12th sub lord, with the same manner table.
+- **Recovering lent money:** the 6th sub lord.
+- **Theft (R6 p.226–236):**
+  - The thief is the 7th. The 7th sub lord gives age and sex.
+  - The thief's identity by the other houses the 7th's significator also signifies (1 a familiar honest person, 2 family, 3 neighbour/brother, 4 co-resident, 5 children or lover, 6 servant, 8 temporary worker, 9 foreigner/sadhu, 10 respectable businessman, 11 friend/elder brother, 12 professional thief).
+  - Recovery: the 11th sub lord.
+- **Overseas (R6 p.262–265, 301–303):**
+  - The 12th sub lord direct, its star lord direct, signifying 3/9/12. Supported by the 9th sub lord (long journey).
+  - Also signifying 6 → foreign assignment.
+  - **Mode:** the 9th sub lord fast → air; slow in a watery sign → sea.
+  - **Settle:** the 12th sub lord in a common sign → returns; movable → settles permanently; fixed → does not move.
+  - Higher studies abroad: the 11th connected with 9; the 11th sub lord not retrograde.
+  - A planet in 12 whose star lord is in 1/2/3/6/10/11 → gains abroad; otherwise loss.
+- **Success house combinations (R6 p.272):**
+
+  | Matter | Houses |
+  |---|---|
+  | Marriage | 2, 7, 11 |
+  | Child birth | 2, 5, 11 |
+  | Speculation | 2, 5, 6, 11 |
+  | Overseas + higher studies | 6, 9, 11, 12 |
+  | Scholarship | 6, 9, 11 |
+  | Promotion | 2, 6, 10, 11 |
+  | House | 2, 4, 11 |
+  | Car | 2, 4, 11 |
+  | Pets | 6, 11 |
+  | Help from a younger brother | 2, 11 |
+  | Research/thesis | 9, 11 |
+  | Education | 4, 11 |
+  | Litigation | 6, 11 |
+  | Election | 6, 11 |
+- **Transfer:** 3, 10, 12. **Leave/tour:** 3, 9, 12.
+- **Job:** 2, 6, 10. The nature of the job comes from the 10th cusp's sign, star and sub lords and their signs (example: Mercury + Mars + Sun → mechanical engineer in government).
+- **Will earn at all:** the 10th sub lord retrograde → never.
+- **Promotion:** the 11th sub lord direct, its star lord direct, signifying 2/6/10/11.
+- **Change of job:** houses 3, 5, 9 (the 6th, 8th and 12th from 10).
+- **Reinstatement / reappointment:** the 10th (or 6th) sub lord's star lord signifying 2/6/10 → yes; 1/5/9/12 only → never.
+- **Moving place (R6 p.305, explicitly "both natal and horary"):** the 4th sub lord decides the move.
+  - A significator of 3 that also signifies 2/10/11 → gains in the new place; 8/12 → losses.
+  - The 12th cusp gives the place (dual → twin cities).
+- **Separation and death of relatives (R6 p.254):**
+
+  | Relative | Separation | Death |
+  |---|---|---|
+  | Mother | 3, 12 | 3, 5, 10, 12 |
+  | Children | 4, 12 | 4, 6, 11, 12 |
+  | Partner | 6, 12 | 1, 6, 8, 12 |
+  | Father | 8, 12 | 8, 10, 3, 12 |
+  | Elder brother | 10, 12 | 5, 10, 12 |
+
+  Also: 1 + 12 → separation from family; 3 + 12 → moving nearby; 9 + 12 → a far-off place.
+
+  **Rule pattern:** the relative's 12th (separation) plus the relative's marakas (death). This gives the death houses for the family members in the bio.
+- **Partnership:**
+  - The 7th sub lord signifying 6 → the partner initiates the break; 12 → the native initiates; 5/11 → continues.
+  - Retrograde sub lord → an attempt, but no separation.
+  - **Mode of separation:** Venus smooth; Mars violent; Jupiter compromise/court; Mercury notice/instalments.
+- **Dowry:** the 8th sub lord in the star of a significator of 6/11 → receive; 5/12 → give. Amount from the 11th sub lord's star lord's dignity ("container/contents").
+- **Chastity:** the 7th sub lord (and its star lord) neither Mercury nor in a dual sign, and the 11th sub lord in the star of a significator of 7 → chaste. 6 → limits.
+- **Scholarship:** the 11th sub lord in the star of a significator of 2/6/11 and not 8/12. With 8/12 → repayable.
+- **Donation received:** the 8th sub lord in the star of a significator of 6, and the 6th sub lord signifying 2/6/11.
+- **Inheritance by will:** the 8th sub lord / the 6th.
+- **Suicide (R6 p.258):** the 8th sub lord in the star of a significator of badhaka/maraka + 8, connected with Mars. **Murder:** the Asc sub lord in the star of a significator of the victim's badhaka/maraka, also signifying the native's 2. (Sensitive; the texts state these; include them only if they are natal-relevant. Flag as optional.)
+- **Absent father:** leaves via 3/9/12 from 9 (= 11, 5, 8); returns via 2/8/11 from 9 (= 10, 4, 7). **Missing son:** 3 and 12 from 5 leave (= 7, 4); return via 2, 8, 11 (family, 4 from 5, reunion).
+- **Disease and cure (R6 p.308):** nature from the 6th cusp's star/sub lords (example: Mercury + Venus + Rahu → nervous leprosy). The 11th sub lord being a disease significator → no cure. Hospital treatment successful with 3/6/11/12; home with 4/6/12.
+- **Imprisonment (R6 p.313):** houses 2, 3, 8, 12; **Rahu is the karaka for jail**. All three must hold: the 12th sub lord **is Rahu**, not in the star of a retrograde planet, and signifies 2/3/8/12. **CONTRADICTION** with R3 (2/12 or 3/8/12 without the Rahu requirement). Flag it.
+- **Tax prosecution:** the 10th sub lord signifies 7/8/12. **Raid:** the 12th sub lord is a strong significator of 12; the informer by the house combination with 12 (3 neighbour/brother, 6 servants, 11 friend/elder brother, 9 father/stranger, 4 locals, 7 partner/ex-wife).
+- **Spiritual siddhi:** the 11th sub lord in the star of a significator of 5 and 10. **Sanyasi:** the Asc sub lord connected with 3, 10, 12 and with Saturn. **Own press:** the 10th sub lord in the star of a significator of 2/6/10, with Mars + Mercury.
+- **Premier / high position:** the 11th sub lord in the star of a significator of 9, 10, 11, connected with Mars and Jupiter.
+- **Passport:** the 11th sub lord in the star of a significator of 3, 9, 11. Settles abroad: 11 + 2.
+- **Overseas for probation vs promotion:** the 6th sub lord in the star of a significator of 9/12 → training; 11 + 6/10 → promotion.
+- **Gems:** use the colour of the star lord of the 11th sub lord if it signifies 1/2/11; never a gem of a 6/8/12 significator.
+- **Saturn + Ketu conjoined periods → change in an organisation; death of the organiser** (institution example).
