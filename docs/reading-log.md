@@ -64,4 +64,5 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - MC_031–MC_048 (Jun 1965 – May 1966): read in full; notes in magazine-notes.md
 - MC_049–MC_055 (Jun – Oct 1966): read in full; notes in magazine-notes.md
 - MC_056–MC_070 (Nov 1966 – Aug 1967): read in full; notes in magazine-notes.md
-- Next to read: mc/MC_071 (restart from line 1; not yet noted)
+- MC_071–MC_075 (Aug–Oct 1967): read in full; notes in magazine-notes.md
+- Next to read: mc/MC_076 (MC_075 ended mid-article "Undue delay in marriage"; continues at top of MC_076)

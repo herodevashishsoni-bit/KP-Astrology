@@ -29,8 +29,7 @@ Order of work:
 
 ## Status
 - Readers 1–6: read in full.
-- Magazines: MC_000 to MC_070 read in full and noted.
-- MC_071 was started but not noted. Restart MC_071 from line 1.
+- Magazines: MC_000 to MC_075 read in full and noted.
 - Always trust the "Next to read" line in `docs/reading-log.md` over this file.
 
 ## Step-by-step process (repeat for each chunk)
