@@ -63,3 +63,4 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - MC_011–MC_025 (Dec 1963 – Feb 1965): see docs/magazine-notes.md. First KP-specific worked examples (Nehru death timing, KSK brother's death, delivery/interview/overseas horaries with RP timing, health, marriage spouse-RPs, finance houses 1-2-3-6-10-11 vs 4-5-7-8-9-12, longevity/badhaka, node agency order).
 - MC_031–MC_048 (Jun 1965 – May 1966): read in full; notes in magazine-notes.md
 - MC_049–MC_055 (Jun – Oct 1966): read in full; notes in magazine-notes.md
+- MC_056–MC_070 (Nov 1966 – Aug 1967): read in full; notes in magazine-notes.md
