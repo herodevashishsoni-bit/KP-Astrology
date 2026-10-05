@@ -423,3 +423,322 @@ For dasa lord D (same for bhukti/antara lords):
 - **NODE significance order (R1 l.~5370)**: a node signifies (1) planets conjoined with it, (2) its star lord, (3) planets aspecting it, (4) lord of the sign it occupies.
 - Service/entry into job: houses 2, 6, 10, 11 (R1 example 1944 chart). Strongest significator signifying all four; sookshma by RP; day confirmed by transit (Sun in star of RP and sub of dasa lord).
 - War Time in India (1942-45) = +1 hr over IST; resolve with RPs (Lagna sign lord & star lord at birth must be among RPs at judgment). Use tz database (Asia/Kolkata historical offsets) + optional rectification.
+
+### R2 houses/planets chapter additions (R2_11–R2_12)
+- 12th house: a planet in 12 that is connected with 2,6,10 → service in a hospital; connected with 6 alone → admitted as a patient (R2 p.342).
+- Disease split: 6 = ordinary/acute illness, its duration and recovery; 8 = fatal nature / danger to life; 12 = chronic illness needing confinement to bed (R2 p.342).
+- Residence/foreign: lord of 4 in 12 → change of residence. Lord of 9 in 12, or conjoined with lord of 12, or planet in 12 in a star of lord of 9 → long journey and life in a foreign place. "Foreign" = anywhere other than the native's permanent place (R2 p.342–343).
+- 12th = father's permanent possessions (4th from 9); Moon in 12 → father changes residence in Moon's periods (R2 p.339–340).
+- Loan repayment: good aspects between lords of 8 and 12 / benefics in 8 & 12 → loan is returned (R2 p.341) — traditional/lord-based, not sub-lord based.
+- Sanketanidhi (quoted): death may happen in the period of a planet connected with the 12th in any manner.
+- Planet karakatwas for profession (combinations: Sun = Govt/medicine; Sun+Jup physician; Sun+Mars surgeon; Sun+Ven+Jup maternity; etc.) — descriptive, used for profession *nature* (R2 p.351–354, p.362).
+- Day of event: in a Sun period, result on Sunday, when Leo rises, or when Moon transits stars of Sun (R2 p.355). Same pattern for other planets.
+- Aspect results between two planets are felt in their joint dasa/bhukti periods, and also when they form the aspect by transit or progression (R2 p.392). Supports using dasa-bhukti lord aspects as a score modifier.
+- Service entry in a joint period (one planet's bhukti, other's antara); promotion later in either's dasa (R2 p.394).
+- Mars/Mercury: if either is lord of 6 or 12 → native is cheated; if either is lord of ascendant → native is the criminal (R2 p.393, traditional).
+- Nature of promotion by planet (R2 p.406): Mercury → the superior is transferred and the native fills the vacancy; Saturn → the senior dies and the native is promoted; Jupiter → a post is created through expansion. Useful as descriptive text for promotion windows.
+- Venus: kalatra karaka (marriage); vahana karaka (4th + Venus for vehicles); karaka for mother in day births; partner in business if connected to 2/6/10 (R2 p.417).
+- Venus–Sun aspects, all orbs: conjunction 12° applying / 17° separating (R2 p.418). Confirms the R1 orbs.
+- Marriage significator → partner's birth star tends to be in that planet's stars (e.g. Sun → Krittika/Pooram?, Moon → Rohini, Mars → Bharani/Mrigasira 1st half/Chitra 2nd half) (R2 p.420–422). Descriptive, low confidence, and the OCR is unclear.
+
+### Nodes — the KP view (R2 p.452–466). KEY
+- Nodes give results in this order: (a) planets conjoined with them; (b) planets aspecting them; (c) the lord of the sign they occupy. They also act as agents of their sign lord, star lord and sub lord, and give the combined result of the three (R2 p.452, 462).
+- A node is stronger than the planet it is conjoined with; it gives that planet's results more than the planet itself does (R2 p.461).
+- A node in a sign gives the results of both signs owned by that sign lord (R2 p.462–463).
+- A node is a benefic if it is conjoined with or aspected by lords of favourable houses, or if it is in the star or sub of such a lord (R2 p.460).
+- A node in the star of lords of 6, 8 or 12 gives undesirable results, whatever house it occupies (R2 p.460).
+- DEATH: a node causes death in its own period or sub period if it is in the star of the planet occupying the badhakasthana, or in the star of the badhaka lord when no planet occupies it; also if it is in the sub of the badhaka lord, or in the star of the lords of 2 and 7, or conjoined with or aspected by them. This holds "irrespective of the house it occupies" (R2 p.461, Libra-lagna example).
+- PROFESSION: a node conjoined with or aspected by the lord of 2, 6 or 10 → service begins in the node's sub periods, if its star lord is also a significator (R2 p.462).
+- MARRIAGE: the lord of 2/7/11, or a planet in 2/7/11, aspecting a node → marriage in the node's sub period, if its star lord is a significator (R2 p.462).
+- CHILDREN: a node in 2, 5 or 11 with good aspects → children in its periods (R2 p.462).
+- Example: Rahu 26°36′ Taurus (Venus sign, Mars star, Jupiter sub) → manager in an automobile industry; Rahu dasa, Jupiter bhukti, Venus antara, Mars sookshma (R2 p.463). This shows the dasa, bhukti, antara and sookshma lords all being the node's sign, star and sub lords.
+- Interpretation of separate periods (R2 p.459): opposite house results of Rahu and Ketu are not cancelled; each operates in its own period.
+- Uttara Kalamrita rules on nodes in 5/9 with maraka lords are quoted (traditional) (R2 p.452–454). KP supersedes them with the star-lord rules above. Node ownership and exaltation are contradictory across sages, so KP says ignore them (R2 p.455).
+- Descriptive text for each node in each star lord's constellation (R2 p.463–) → usable for period descriptions.
+- Aspects to a bhava: use the cusp only, not the whole bhava (R2 p.471).
+- Fortuna: improves matters of the house it occupies. It has nothing to do with longevity or character (R2 p.489–490). Fortuna = Asc + Moon − Sun. Descriptive text by house is available.
+- Uranus/Neptune do not rule any dasa and are only described briefly (R2 p.482) → not used as significators.
+
+### Reader 3 (Predictive Stellar Astrology) — full read
+- R3 p.1–12: Sub division (confirms): 800′ per star; sub = years × 6⅔′. Sun 40′, Moon 1°06′40″, Mars/Ketu 46′40″, Rahu 2°, Jupiter 1°46′40″, Saturn 2°06′40″, Mercury 1°53′20″, Venus 2°13′20″. The first sub belongs to the star lord, then cyclic. There are 249 sign/star/sub combinations.
+- Star lord = dasa analogy; sub lord = bhukti analogy. "The constellation indicates the matters signified by its lord; the transiting planet influences such results … and it is the sub-lord which decides whether the result is favourable or unfavourable" (R3 p.9–10).
+- **TRANSIT DAY RULE (R3 p.15–18):** in A dasa B bhukti, the matters signified by A and B happen when A, B, or the Sun/Moon transit:
+  - (a) the zone with A's sign and B's star;
+  - (b) the zone with B's sign and A's star;
+  - (c) A's star with B's sub;
+  - (d) B's star with A's sub.
+
+  Example: in a Sun–Mars period (126 days), the Sun transits Mars star / Sun sub, or Sun star / Mars sub, on the day of the event. "Important events indicated by these two planets cannot happen on other dates." This is used for day-level pinpointing inside a window.
+- Per-star significations of body part, disease, mental qualities and profession for all 27 stars, including split stars (R3 p.15–38). → data table for the nature of disease and profession.
+- Barren / fertile zones: Ashwini (Ketu star) does not contribute to child birth unless Ketu is a benefic to the native. Arudra (Rahu star) is a barren zone, where planets signifying children are weakened. Punarvasu 1–3 strengthens planets signifying pregnancy (R3 p.15, 21–22).
+- **Star lord predominates (R3 p.39–61):** a planet gives the results of the houses owned by its star lord (counted from the lagna) more predominantly than those of the house or sign it occupies. This holds both at birth and in transit. The transiting planet itself only indicates the *source*.
+  - Per-lagna listings: for each lagna, the stars of each lord give that lord's house results.
+  - Example: Libra lagna, Mars in Jyeshta (Mercury = 9 and 12) → overseas.
+  - Planets in the star of the occupants of a house are very strong for that house's matters (R3 p.42).
+  - Node stars → the planets conjoined with the node, then those aspecting it, then the node's sign/star lord.
+- Twin examples prove the sub of the cusp (meridian) decides: profession by the 10th-cusp sub; longevity by the Asc sub (Ketu-sub twin died; Mars-sub twin lived) (R3 p.62–64).
+- **Planet / star lord / sub lord roles (R3 p.67–69):**
+  - The planet = the source (how it comes). It acts as significator of 1 (own effort), 3 (brother/publication), 4 (mother) and so on.
+  - The sign = the extent and strength.
+  - The star lord = the nature of the result: the houses it occupies and owns.
+  - The sub lord = favourable or unfavourable: success or failure, gain or loss, victory or defeat.
+  - The result comes "during the conjoined period of the planet, star lord and sub-lord."
+- 249-sub significance table (R3 p.69–110): descriptions of body, disease, character and profession for each sign/star/sub combination. → data for descriptive text, e.g. profession by the 10th-cusp combination and disease by the 6th-cusp combination. When a node is the sub lord, read the sub as the planet the node represents (R3 p.85).
+- Sub notes with rules:
+  - Libra Venus–Jupiter–Saturn: "If Saturn is significator of 2, 7 and badhaka then infantile mortality" (R3 p.88).
+  - Jupiter as a significator of 6 → cancer (R3 p.84, 87–88).
+- **Occupation > ownership of the star lord (R3 p.114–115):** read the planet as "star lord in house X (occupation)" plus "star lord owning houses Y, Z". The house the star lord *occupies* is predominant. This confirms the significator hierarchy.
+- Sub examples:
+  - Virgo native: Moon in Venus (2) star, Saturn (6) sub → cannot give marriage. Mars (lord of 8) in Venus star, Jupiter sub → gives marriage. "It is not the lordship of a planet which is final."
+  - Pisces: Rahu and Jupiter both in Moon (5) star. Rahu in Moon sub → a child in Rahu bhukti; Jupiter in Saturn sub → none in Jupiter's.
+  - Virgo: Jupiter in Venus star, Sun (12) sub → goes abroad. Saturn in the same star, Moon (11) sub → returns.
+  - Aquarius: a planet in Venus (4) star, Jupiter (11) sub → buys a car. One in Venus star, Mars (3) sub → sells it (R3 p.112–113).
+
+  ⇒ Score a significator's bhukti/antara by whether its *sub lord* signifies the favourable or the negating houses.
+- Transit progression: a significator transiting the star of another significator, sub by sub, shows the stages of the event (marriage: negotiation → fixing → celebration in Jupiter sub). Descriptive only (R3 p.110–111).
+- Sub table complete through Pisces (R3 p.69–109).
+- "Behaviour of planets" (R3 p.116–129): delineations for a planet in a star whose lord is in or owns houses 1–12. Text data for each star lord × house.
+- Nodes (R3 p.129): treat the node as if its star lord were posited in the node's house. Give the node's house more weight, then the star lord's ownerships.
+- **Benefic/malefic in KP is per matter (R3 p.130–135):**
+  - A planet good for one matter can be fatal to a relative, e.g. lord of 2 gives income and kills the wife (2 = 8th from 7).
+  - Test: for each house, check whether its significator is in the star or sub of significators of 6, 8 or 12 *counted from that house* → adverse for that house.
+  - "Planet is the source, constellation indicates nature of result, SUB is deciding factor whether favourable or not."
+  - Example: Scorpio lagna, a planet in a Jupiter (2, 5) star: Mercury (11) sub → child; a 12th-lord sub → no child.
+  - A good sub under an evil star lord → only temporary relief.
+- **Ascendant cusp sub lord (R3 p.137–138):**
+  - signifies 1 → health and resistance
+  - 1 + 2 → money/service
+  - 1 + 3 → mental development, short journeys
+  - 1 + 4 → education, estates
+  - 1 + 5 → sports, speculation
+  - 1 + 6 → sickness, poor resistance (but wins litigation)
+  - 1 + 7 → partnership, marital happiness
+  - 1 + 8 → danger, accident, legacy
+  - 1 + 9 → religion, father, higher study
+  - 1 + 10 → honour, high position
+  - 1 + 11 → large profits, cure
+  - 1 + 12 → troubles, secret enemies, danger of imprisonment, self-undoing
+- **2nd cusp sub lord (R3 p.139–141):**
+  - 1 + 2 → earns by own effort
+  - 1, 2, 6 (or 10 without 7) → service
+  - 1, 7, 10 → business
+  - 1, 2, 12 + Sun/Moon/Venus → loses vision; + Saturn → toothache; + Saturn & Moon → pyorrhoea
+  - 2 + 3 → writing, agency
+  - 2 + 4 → inheritance, estates
+  - 2 + 5 → music, speculation
+  - 2 + 6 → profit, overdraft
+  - 2 + 7 → partner, marriage
+  - 2 + 8 → legacy, insurance (2 + 8 + 9 → loss by bank failure)
+  - 2 + 9 → export, foreign
+  - 2 + 10 → government service, steady progress
+  - 2 + 11 → gains without pains, lottery
+  - 2 + 12 → earning in hospital, jail
+- Constellation > sign (R3 p.142): example chart 28-12-1900, 7:52 AM, 13°04′N 80°15′E. Planets in 12 gave gains because of their star lords → test case for the engine.
+- **Significator + sub rule (R3 p.143–145). CORE OF SCORING.**
+  - A planet signifies the houses its star lord occupies or owns. Its *sub lord* decides whether it promotes or negates those matters.
+  - Significator of 1 → good health and long life, unless its sub lord signifies 6 (illness), 8 (danger) or 12 (runs away, imprisoned, hospitalised).
+  - Significator of 2:
+    - sub of 6 → borrows
+    - sub of 8/12 → lends or repays
+    - sub of 11 → gain (money, son-in-law, child)
+    - sub of 3 → via brother
+    - sub of 4 + 11 → buys car/house
+    - sub of 4 + 12 → sells
+    - sub of 10 + 12 → lets property out
+  - Significator of 7:
+    - sub of 2/11 → marriage, reunion
+    - sub of 12 → separation or wife's ill health
+    - sub of 6 → wife leaves
+    - sub of 1 + 2 → danger to partner's life (marakas of 7)
+    - sub of 4 → partner gains
+    - sub of 8 + 1 + 7 → partner's death
+- Worked example (R3 p.145–149), chart 29-1-1928, 7:06 PM, 13°04′N 80°15′E. Derived houses for parents and child; badhaka/maraka *counted from that house*; the period lords' sub lords decide. → See docs/kp-test-cases.md.
+- Education: dasa lord connected with 4 and 9 → education; a 12th connection ends it (R3 p.149).
+- Service: 2, 6, 10 (R3 p.149).
+- **Physical features (R3 p.152):** taken from the sign occupied by the star lord of the Asc sub lord, plus aspects to the Asc cusp.
+  - Tall signs: Gemini, Leo, Sagittarius, Aquarius. Average: Aries, Virgo, Libra, Scorpio. Short: Taurus, Cancer, Capricorn, Pisces.
+  - Jupiter aspect to the cusp → overweight; Saturn → emaciated; Rahu → tall; Ketu → short.
+  - Moles: the sign of the lagna or lagna lord gives the body part; masculine/feminine sign gives right/left; the degree third gives upper/middle/lower (R3 p.153–154). Traditional, low priority.
+- **Longevity (R3 p.157–166):**
+  - The Asc sub lord benefic → long life; malefic → short. Lords of 1, 5, 9, 10 count as benefics; 6, 8, 12 as malefics.
+  - Disease: significators of 6 (6th cusp, occupants, planets in their stars, lord) in their periods. Significators of 11 give cure.
+  - 8th house: danger, the cause and place of death (Saturn in 8 excepted as a killer: it gives long life).
+  - Houses 1, 8, 3 = longevity. Their 12ths (12, 7, 2) = maraka/moksha.
+  - Badhaka evil order: planets in the star of badhaka occupants > occupants > planets in the star of the badhaka lord > the lord; plus planets conjoined with or aspected by them. Then the marakas 2 and 7 in the same order.
+  - Pick the strong evils and find when they run conjointly (dasa, bhukti, antara), then the transit for the day.
+  - Kendradhipatya is NOT a valid longevity factor (R3 p.162).
+  - Ex. 1: death 18-2-1970 in Mercury–Rahu–Ketu, with Saturn transiting Ketu star / Saturn sub conjoined with Ketu.
+- **Mode/place of death (R3 p.168–169):**
+  - Danger comes in the conjoined periods of the 8th cusp's sign lord, star lord and sub lord, plus the star lord of that sub lord. Also those of the 8th lord's sign, star, sub and the sub lord's star lord.
+  - A benefic sub (promising life/cure) → escapes. A malefic sub that is a significator of death → succumbs.
+  - 8th cusp sub lord Jupiter → pleasant end; Mars → sudden; Saturn → chronic, lingering.
+  - Place: the 8th cusp sub lord signifying 1/4/10 → own place; 3 → on a short journey (return); 6/8/12 → jail, hospital or unknown place; 9 → far-off place or long journey.
+  - Traditional yogas for mode of death are listed, with KP saying to use them only as a general principle.
+- Spouse death from the wife's chart: the 7th cusp is taken as the husband's lagna; the period lords in the stars of his 6th/8th lords → danger to him (R3 p.171).
+- **Health (R3 p.174–176):**
+  - Asc cusp in the star of the lord of 6 or 8 → poor immunity. Asc sub lord in the star of a significator of 6 → sickly.
+  - Planets in the star or sub of the lord of 6 cause disease. Planets connected with 11 (6th from 6) or with 1 cure it.
+  - Disease comes in the conjoined periods of 6th significators; cure in the sub period of 1st/11th significators.
+  - **No cure** if there is no planet in 11, none in the star of the 11th's owner or occupant, and the 11th cusp and the 11th lord are in evil subs.
+  - Nature of disease = sign (body part) + star lord (chronic, etc.) + sub lord. Venus sub → fibroid; Jupiter → cancer; Mars → surgery.
+  - Duration: planet in a movable sign → short; common → relapse; fixed → prolonged, chronic.
+- **Finance (R3 p.181–182). KP rule:** in order:
+  - (a) planets in the stars of occupants of 2, 6, 10, 11;
+  - (b) the occupants;
+  - (c) planets in the stars of the lords of 2, 6, 10, 11;
+  - (d) the lords;
+  - (e) planets conjoined with or aspected by them.
+
+  They must be in the sub of significators of 2, 6 or 11, and not adversely aspected. Planets in the star or sub of the lords of 8 or 12 → loss, poverty, repaying. A planet owning a good and a bad house gives gains in benefic sub periods and losses in others; the two do *not* cancel.
+- Traditional finance yogas and rajayogas listed and explicitly rejected (R3 p.179–186).
+- Fortuna gives fortune in the periods of its star lord and sub lord (R3 p.190).
+- 10th house = karmasthana and also the maraka of the father (2nd from 9) and of the mother (7th from 4). Promotion in a 10th-lord period often coincides with a parent's death (R3 p.192).
+- **"Important ruling of the editor" (R3 p.192):** in A dasa B bhukti, results come when planets transit the star of A in the sign of B. Example: in Rahu dasa Saturn bhukti → transit of Shatabhisha (Rahu star, Saturn sign). This is consistent with the R3 p.15–18 rule.
+- **Retirement (R3 p.194–195):** 12th to 2, 6, 10 = houses 1, 5, 9. The strongest significator gives the antara. Day = when the Sun transits the dasa lord's sign / bhukti lord's star / antara lord's sub.
+- **Lottery and competitions (R3 p.196–198):**
+  - Houses 1, 2, 3, 6, 10, 11 favourable → victory, lottery, competition gains. 5 = the mind to speculate. 6 = 12th from 7 = loss to competitors = gain.
+  - Planets signifying 4, 5, 7, 8, 9, 12 → loss.
+  - For transit timing, look first at the transit of the dasa and bhukti lords (their sign/star/sub lords' houses).
+- Sade-sati is "a meaningless slogan" (R3 p.197).
+- **Races / speculation (R3 p.199–201):**
+  - The sub lord decides the source of income.
+  - Lord and occupant of 6 bring loss to the opponent (gain to the native), provided the dasa lord connects with 5 and 2.
+  - Jupiter transiting the sign of the dasa lord (and the sub of the dasa lord) gives the lucky time.
+  - "Always the dasa system and Gocharam will agree."
+  - Swabhukti is not inherently bad.
+- **Borrowing and debts (R3 p.202–218):**
+  - Receipt of money = 2, 6, 10, 11. Discharge of debt = 4, 5, 8, 12 (4 = 10th from 7; 5 = 11th from 7; 8 = 2nd from 7; 12 = 6th from 7).
+  - Borrowing happens in the conjoined period of significators of 2 and 6.
+  - The 8th cusp sub lord signifying 5, 6, 8, 12 → many debts. Signifying 2, 10, 11 → returns money with pleasure.
+  - Planets in 2, 10, 11 but in the subs of significators of 4, 5, 8, 12 → reduced income.
+  - Planets in 4, 5, 8, 12 in the subs of significators of 4, 5, 8, 12 → cannot discharge.
+  - Causes of debt by house (2 family, 3 brother/surety, 4 property/mother, 5 children/speculation, 6 litigation/disease, 7 partner/wife, 9 father/travel, 10 father's debts/business, 11 surety for a friend/elder brother, 12 theft/secret enemies). Descriptive.
+  - Imprisonment or disrepute for non-payment: malefics in 2, 5, 9, 12.
+  - Example 9-3-1923: Moon dasa, Rahu bhukti, Moon antara = free of debts. **"'A' dasa, 'B' bhukti, 'A' anthra will offer the result to the full extent."**
+  - Direction and lender by the house or sign of the lord of 2/11 and the bhukti lord (descriptive). Remedial muhurtas for repaying (Ashwini/Anuradha, Gulika) are given (R3 p.214). Remedies are out of scope.
+- Theft (R3 p.219–225) is a horary example, not a natal matter. Natal: the conjoined period of significators of 2, 6, 11, not connected to 5, 8, 12 → succeeds in theft (R3 p.225). Retrograde planet: "gives a result which will fall through when it takes direct motion" (R3 p.223).
+- **Siblings (R3 p.226–229):**
+  - The 3rd cusp sub lord in a dual sign, or in the star of a planet in a dual sign, or a dual-sign planet aspecting the 3rd cusp → plurality. The number and sex of siblings: no KP rule yet ("not yet found possible") → GAP, flag it.
+  - Younger sibling's longevity: take the 3rd cusp as their lagna and recompute the cusps for the birth latitude.
+  - A significator of 3 also connected with 2 and 11 → has co-borns.
+  - The 3rd sub lord signifying 8 or 10 → danger to the brother.
+  - A significator of 1 also signifying 3, 6, 8 → enmity with siblings; signifying 3 with 11 and 1 → harmony.
+  - With several brothers, the one whose ruling planets match the killing planets dies in their period.
+  - Partition: the conjoined periods of significators of 3, 9, 12 with 4 or 10. Property trouble: lords of 2, 4, 6, 8, 12.
+  - Expenses through siblings: lord of 3 / planets in 3 connected with 12.
+- **Mother (R3 p.230–232):**
+  - The 4th house only (not the 10th). Day birth: Venus = mother, Sun = father; night birth: Moon = mother, Saturn = father.
+  - Mother's longevity: the 4th cusp is her lagna; badhaka and maraka are counted from 4.
+  - The 4th cusp and Moon in the star of significators of 9, 11 or 3 (12th, 8th and 12th from 4…) with the sub of the badhaka or maraka lord of the 4th → mother unhealthy, short-lived after the birth.
+  - Many traditional yogas are listed (low priority).
+- **House/property (R3 p.233–245):**
+  - 4 + Mars → building; 4 + Venus → vehicle; 4 + Moon → mother; 4 + Mercury → education. "Connection" = in Mars's sign, star or sub.
+  - Building significators: occupants of 4 in a Mars star or sub, planets in their stars, the 4th lord in a Mars star or sub, planets in its star, and Mars well placed to 4.
+  - Mode of acquisition: 4 linked with lord 10 → inheritance; with lords 1 and 12 → buys with own money; with lords 1, 6, 12 → borrows (loan, co-op); 4th lord linked with 8th lord → sells.
+  - Construction-material and tenant-type rules by planet (descriptive).
+  - Purchase: 4, 11, 12 (plus 6/9 for taking possession). Acquisition: 2, 4, 11. Disposal: 3, 5, 10.
+  - Evil planets in 4 → loss of the house.
+  - A planet owning a good and a bad house: don't split the dasa in halves; good in the sub periods of benefic planets, bad in others (R3 p.239).
+  - **Lagna only, never the Moon sign — post-1967 ruling (R3 p.243–244).**
+  - The query-moment technique (Moon at query, RPs) is horary.
+  - Guru-balam is dismissed (R3 p.246–248).
+- **Vehicle (R3 p.248–253):**
+  - Houses 4, 9, 10, 11 + Venus/Moon/Jupiter. Not owned unless the lagna or its lord is connected. Rahu → hired vehicle. Saturn + lord 6 → driver.
+  - Traditional vehicle yogas are listed (low priority).
+- Vehicle (R3 p.253–259):
+  - Lord of 6 + lord of 4 connected → borrows to buy; timing = conjoined periods of lords 4 and 6.
+  - Jupiter + lord 6 → hire purchase. Rahu + Sun/lord 2/10 → office vehicle. 4th sub lord + Mars or significator of 3/11 → via brother.
+  - **The 4th cusp sub lord in the star of a significator of 4 and connected with Venus → will own a vehicle (R3 p.259).**
+  - Accident yogas (traditional) are listed.
+  - "Evils threatened by malefics … cannot be averted … by doing Shanthi" (R3 p.258). This confirms no remedies.
+- **Education (R3 p.259–266):**
+  - Significator of 4 = regular schooling; 3 = specialisation; 9 = higher study; 3 and 5 = native intelligence; Asc sub lord = studious or lazy.
+  - The subject comes from houses 2, 3, 4, 9, 10 and planet combinations:
+    - Astrology: Mercury signifying angles + Venus signifying 5/9/2.
+    - Mathematics: strong Mercury signifying 2/4/9.
+    - Law: Jupiter + Mercury + Mars on the 4/9 sub lords.
+    - Engineering: Mercury combinations.
+    - Medicine: Sun combinations.
+    - Music, journalism, accounts, geology, geography, chemistry, physics, history.
+  - **Success: lords of 4 and 9 in the sub of a significator of 11.** Education ends in the periods of significators of 3, 5, 8 (stars of occupants/lords). Rahu in the star of a 4/9-connected planet gives education.
+  - Competitive exams: Mars, Mercury, Jupiter connected to 4, 9, 11.
+  - Scholarship: 4 connected with 6 and 11. Paying fees: 4 with 8/12.
+- Farming (R3 p.268–271): Mars, Venus, Moon, Jupiter connected with 2, 6, 10. Future of a profession: if the next dasa lord has no connection with it, that profession ends and changes per that dasa lord.
+- Owning a cinema (R3 p.271–272): 4, 11, 12. The 4th cusp sub lord's nature = the purpose the building is used for.
+- Saturn ruling both getting and giving → payments in instalments; "a delaying planet … not denying" (R3 p.276).
+- **Disease details (R3 p.278–280):**
+  - Illness only if a significator of 6 is also a significator of 1.
+  - 6 + 2 (not 1) → enters service or borrows. 6 + 1 + 12 → hospitalised.
+  - **Cure: significators of 11 (and 5, the 12th from 6) must operate; if a significator of 11 is also of 5 → sure cure.**
+  - The fatal (last) disease = the 8th cusp sub lord.
+  - Western advice: never predict death to a patient (quoted). The user explicitly wants directness, so the app will state it, flagged as the texts' rule.
+- **Nature of disease (R3 p.280–287):** take the 6th cusp sub lord, the star lord it is in, and the sign that star lord occupies. Signs give body parts; star-lord planet × sign tables for Sun, Moon, Mars and Mercury are printed ("similarly for Jupiter, Venus, Saturn" — not printed → GAP; extrapolate from the sign and planet significations of R2/R3). This applies if the planet is the 6th sub lord, or a significator of 6 and 1, or the star lord of such a significator.
+- **Eyes/blindness (R3 p.287–293):** 2nd house = right eye, 12th = left eye.
+  - Blindness: periods of Sun, Moon, Venus, or planets in the star of the occupant or owner of 2 and the sub of a significator of 12 connected with Sun/Moon/Venus.
+  - The 12th cusp sub lord in 6, or in the star of an occupant/owner of 6/8/12 → defect from when the significators operate.
+  - Cure: needs the next dasa lords connected with 5/11; if the dasas run in the star of the defect planet → no cure.
+  - Many traditional rules are quoted and shown to fail.
+- **Heart/health (R3 p.294–297):** the Asc sub lord in the star of a significator of 6/8/12 → disease, danger, hospitalisation. Cure from 5 and 11. Planet combinations show the type of treatment (Sun + Mars → surgeon).
+- **Speech (R3 p.297–300):** the 2nd cusp sub lord:
+  - Mercury → talks a lot (salesman)
+  - Mars → blunt
+  - Saturn → speaks little, drags
+  - Jupiter → wise talk
+  - Venus → talk about the other sex
+  - Rahu/Ketu → speech defect
+  - Nodes in 2 → speech defect; nodes in 12 → vision defect.
+  - Mars afflicting → great pain to speak; Jupiter → cure.
+- **Marriage (R3 p.300–306):**
+  - Houses 2, 7, 11. Traditional "early marriage" and "late marriage" yogas are listed (Saturn in 1/3/5/7/10, Mars in 8, Moon–Saturn conjoined, etc.). Low priority; R4 covers marriage in full.
+  - Example girl: Moon sign used as stronger — this predates the post-1967 "lagna only" ruling → CONTRADICTION; resolved in favour of lagna only.
+- Partnership longevity: the maraka and badhaka of the 7th (horary example) (R3 p.307).
+- **Ruling planets to select among many significators (R3 p.307–308):** at the moment of judgement, the significators that are also ruling planets are chosen. (Natal app: no "judgement moment" exists → GAP. For a bio report we can't use RPs. Use significator strength order instead; optionally the RPs at report time could be shown as an extra filter, but that is horary.)
+- Partnership dissolution example: transit of the dasa/bhukti/antara/sookshma lords checked for agreement (R3 p.308–309).
+- **Cusp-based significators (R3 p.312–315):**
+  - For a cusp, planets in the star of the cusp's *star lord* are significators (else the star lord itself).
+  - Planets in the star of the cusp's *sub lord* are **very strong** significators (else the sub lord itself).
+  - Example: Saturn, the sub lord of the 3rd and 9th cusps, became the dasa and sookshma lord of the foreign journey despite weak house signification.
+  - → ENGINE: add cusp star lord and cusp sub lord (and planets in their stars) to each house's significator list.
+- **Overseas (R3 p.313–321):**
+  - Promise: the 12th cusp sub lord is a significator of 3, 9 or 12 ("preferably 9th").
+  - Timing: the conjoined periods of significators of 3, 9, 12. Nodes are preferred over the planets they represent.
+  - A one-minute birth-time difference changing the 12th sub lord from Rahu (in 9) to Jupiter (in 8 = 12th from 9) → no overseas.
+  - Higher studies: 9. Stay abroad: 12. Job abroad: 6 and 10. Scholarship: 6 and 11.
+  - Regular schooling: 4 and 11. Research/thesis/hostel abroad: 9 and 12, with an 11th significator also signifying 9/12 for success.
+- **Significator strength statement (R3 p.318–319):** occupant of a constellation > lord of the constellation; constellation > sign; occupant of a sign > lord of the sign. Planets conjoined with or aspected by a planet gain its significations. The owner of a house = the lord of the sign where its cusp falls.
+- Derived houses used freely: 7 = 11th from 9 → success of the father (R3 p.319).
+- **Profession (R3 p.321–335):**
+  - Traditional: navamsa of the 10th lord. Rejected because it fails for twins.
+  - **KP: the 10th cusp's sign lord + star lord + sub lord give the profession** (e.g. Aries 21° = Mars–Venus–Jupiter → animal husbandry or judge; 22° = Mars–Venus–Saturn → slaughterhouse). Then: the strongest significator of profession (service/business), its sign/star/sub, conjunctions and aspects, and the running dasa/bhukti. Sub periods show changes of role.
+  - A profession–planet combination table follows (abrasives … nursery …) → data table.
+- Profession/ministry combinations with houses (R3 p.335–337) → data table.
+- **Profession (R3 p.338–355):**
+  - KP: the 10th cusp sign lord + star lord + sub lord, plus any planet very close to the MC, plus the dasa lord.
+  - **Self-acquisition significators** of 2, 6, 10 in the 6-level order (star of occupants, occupants, star of lords, lords, conjoined, aspected); nodes override.
+  - **First appointment:** look at the dasa running between ages 16 and 30; the strongest significators give dasa, bhukti and antara, on a day when the Moon transits their star.
+  - Significators in a common sign → transferable post.
+  - Changes of job = 3, 9, 12 significators.
+  - Business vs service: income steady vs speculative. Planet in 7 by nature (Sun steady; Moon changeable; Mars rash; Mercury speedy turnover; Jupiter thrives; Venus good luck; Saturn very bad).
+  - **KP: planets in 7 in the star of lords 2, 10, 11 → business success; in the star of lords 8 or 12 → bad** (R3 p.345).
+  - Sign of the MC (fire, air, water, earth / movable, fixed, common) gives a general profession type (Western).
+  - Sub lord of the MC in the star of a planet in Aries → military/police… (R3 p.350). Long descriptive text.
+  - **Aries MC combination table** (sign lord Mars + star/sub pairs → profession) (R3 p.354–355). Only Aries is printed this way.
+  - "Which profession will suit me": the 10th sub lord (e.g. Sun) as a significator of house N → descriptive text for each house (R3 p.355–…).
+- "Which profession": the 10th sub lord as a significator of 11 → politician/business; of 12 → works alone, in jails or hospitals. 249 × 9 × 12 combinations (R3 p.359–360).
+- **Independent business (R3 p.361–362):**
+  - Houses 2, 7, 10. The 7th = customers and partners; 6 + 7 = those you buy from; 7 + 12 = those you sell to.
+  - Judge from the significators of 7 and the **7th cusp sub lord**.
+  - A significator of 7 in Saturn's sub → disadvantageous. Mars connection gives the courage to start.
+  - The 7th sub lord in 5, 8 or 12 (especially in an earthy sign), or a significator of 7 in the sub of a planet in or in the star of a planet in 5/8/12 → loss, winds up.
+- **Music (R3 p.362–365):** the 5th cusp sub lord's star lord:
+  - in Leo or Aquarius → popular musician
+  - connected with Moon + Venus → talent; Venus + Mercury → composer; + Mars → no stage fear
+  - in Gemini or Sagittarius → appeals to the audience; Cancer or Capricorn → only listens
+  - Aries or Libra → rhythm and pitch changes; Virgo or Pisces → harmony
+  - Saturn as a significator of 5 + Mercury → composer.
+- First salary, reinstatement, photography: horary/RP examples.
+  - Reinstatement/promotion: houses 2, 6, 10, 11. The 11th cusp sub lord connected with 2/6/10/11 → yes (R3 p.370).
+- **Transfer (R3 p.375–379):** 3, 9, 12 connected with 6 or 10. With 11 → increase in income and status. For a spouse, count from 7.
+- **Termination of service (R3 p.380–381):** houses 1, 5, 9, 12 (12th from 2, 6, 10 + 12). Example: Rahu–Jup–Sat.
+- **Retirement (R3 p.382–383):** 3, 5, 9 (3 = 12th from 4, giving up quarters). Planets that gave entry into service often give retirement in their conjoined periods.
+- **Shashtashtaka (6/8 relation between dasa and bhukti lords) is explicitly refuted** (R3 p.383).
