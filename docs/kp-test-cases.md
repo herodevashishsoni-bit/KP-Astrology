@@ -81,3 +81,15 @@ These are charts with birth data and dated events, taken from the books. They ar
 | R4-AB | R4 p.241 | 10-7-1931, 6:28 PM | 25°14′N 84°11′E | Venus dasa balance 6y5m23d. First conception disappointing. **2nd child born 16-11-1952** (Moon–Ven–Jup–Mars). |
 | R4-AC | R4 p.247 | 1-12-1954, 5:26 PM | 28°40′N 77°24′E | Moon dasa balance 0y5m21d. Saturn in 6 is the Asc sub lord → mischievous/criminal nature. Jupiter and Saturn dasas from age 25–60 are bad. |
 | R4-AD | R4 p.261 | 17-5-1923 12:56 PM and 24-10-1926 7:20 PM | ? | Couple with the same dasa and dasa-sandhi; happy (rejects dasa-sandhi). |
+| R5-A | R5 p.153 | 23-12-1924, 9:00 PM IST | 18°39′N 72°55′E (Alibag) | **Cusps printed:** I 18°22′ Cancer, II 15°01′ Leo, III 15°01′ Virgo, IV 17°01′ Libra, V 19°01′ Scorpio, VI 19°01′ Sag. Planets: Mars 9°49′, Rahu 23°23′, Saturn 18°39′, Venus 9°33′, Sun 8°51′, Jupiter 8°32′, Moon 3°11′, Mercury 17°21′. Significator table printed (p.156). |
+| R5-B | R5 p.199 | ? (Moon dasa bal 0y7m24d) | ? | Cusps I 26°15′ Libra … Races example; Saturn–Mer–Venus antara 10-6-69. |
+| R5-C | R5 p.207 | ? Asc 6°53′ Virgo (Sun dasa bal 4y1m15d) | ? | Jupiter–Venus from 27-10-66; antara table printed (validates dasa arithmetic). |
+| R5-D | R5 p.224 | 7-6-1927 | 15°27′N 75°05′E | Venus dasa bal 6y3m18d. **Lottery lump sum 30-10-1970** (Rahu–Ven–Mer–Ven). |
+| R5-E | R5 p.243 | 26-3-1936 | Bombay? | Capricorn Asc 3°56′. Venus bal 9y5m23d. Relieved for training 30-9-1965 (Mars–Mer–Mars). |
+| R5-F | R5 p.252 | ? (Saturn bal 16y5m20d) | Vizag | Honour 15-7-1964 (Ven–Moon–Sun). Predicted loss 1967 (Ven–Rahu). |
+| R5-G | R5 p.258 | 9-5-1926, 1:19 PM IST | ? | Mercury bal 11y6m29d. Prize bond won in Sun–Moon. |
+| R5-H | R5 p.266 | 5-11-1926, 5:46 AM | 18°55′N 72°54′E | Rahu bal 10y5m8d. Cusps printed (Asc 5°51′ Libra). |
+| R5-I | R5 p.271 | 23-7-1958, 5:27 PM | 13°04′N 80°15′E | Mars bal 0y6m6d. Cusps printed. |
+| R5-J | R5 p.328 | 10-10-1931, 1:11 PM | 13°04′N 80°15′E | Sun bal 1y10m12d. **Married 1-9-1950** (Rahu–Rahu–Rahu). |
+| R5-K | R5 p.192 | Horary 20-9-1967 6 PM Delhi | 28°38′N 77°12′E | KP ayanamsa 23°18′. Asc target 347°43′–348° → 6:53 PM IST. |
+| R5-L | R5 p.189 | 9-9-1893, 8:53 AM | 13°04′N 80°15′E | Ketu bal 1y3m7d. Father died Jan 1917. |

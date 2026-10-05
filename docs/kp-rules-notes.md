@@ -1008,3 +1008,91 @@ For dasa lord D (same for bhukti/antara lords):
   - If the next dasa lord is in the star of the current dasa lord → no major change.
   - The middle of a dasa is when changes happen.
 - **Gems (R4 p.279):** use the gem of the Asc or 11th sub lord if it is not connected with 6/8/12. This is descriptive, not predictive. It is optional output; remedies do not change fate.
+
+## Reader 5 (Transit / Gocharapala Nirnayam)
+- **Scope:** PDF pages 37–186 duplicate R3 pp.15–164, as the book's own note says. Verified by matching text at pages 37, 60, 100, 140, 184, 185 and 186. I read pages 1–36 and 187–365 in full.
+- **Traditional gochara (from the Moon sign: per-planet good houses, vedha, Saturn/Jupiter death rules, chandrashtama, sade-sati, ashtama sani, Guru-bala):** reported and **rejected** (R5 p.36, 246–264, 327–331). The death-transit rules "answer any year" → useless.
+- **Lagna is primary, not the Moon or the Sun** (R5 intro, p.172). Fortuna = Asc + Moon − Sun. KSK says to consider it in the intro, but it is not used in any KP method later. Treat it as **optional/descriptive only**.
+- **Western transit rules** (aspects, orbs ±8°, progressions): reported; "not included in my system" (R5 p.25). Excluded.
+- **Core KP transit rule (R5 p.156–161, 171–187, 265):**
+  - A planet transiting any of the 3 stars of planet X gives the matters X signifies (by occupation and ownership).
+  - The **source/route** comes from the transiting planet's own signification.
+  - **Success or failure** comes from the **sub lord** of the transited point.
+  - Each sub marks a stage of the matter. Example sequence for a marriage: advert → girl ill → boys come → jewels → negotiation → fixation → purchases → **wedding in the sub of a significator** → separation.
+- **Dasa–transit agreement (R5 p.161–163, 187):** for A dasa B bhukti C antara, the sensitive points are every sign/star/sub permutation of A, B and C (e.g. A sign–B star–C sub, B sign–A star–C sub, C sign–A star–B sub …). Also A star–B sub, and B star–A sub.
+
+  The event comes when one of these points is transited by:
+  - the dasa, bhukti or antara lords
+  - the Sun or the Moon
+  - the **Ascendant at the native's current place of residence** (not the birthplace unless they still live there)
+- **Nodes on the day (R5 p.163):** a node gives results through, in order: the planet conjoined with it, the lord of its natal star, its sign lord. The weekday follows the same order. A Rahu period event may fall in Rahu-kalam (Tamil Nadu). Rahu-kalam is minor; flag it.
+- **Dasa-level transit of the Sun (R5 p.190):** before subs were used, KSK timed A dasa B bhukti to the fortnight when the Sun transits A's sign with B's star. This was superseded by star = dasa and sub = bhukti; each period then has 3 zodiac points 120° apart.
+- **Retrograde transits (R5 p.287, 322):**
+  - retrograde in an evil sub → malefic results aggravated
+  - retrograde in a benefic sub → gains, but smaller
+  - **stationary = severest**
+- **Undoing rule (R5 p.257):** if A dasa B bhukti gave a result, then a bhukti of planet C that sits 6/8/12 from A and B (with an evil aspect) gives the opposite. Example: honour gained in Venus–Moon is lost in Venus–Rahu.
+- **Retrograde natal planet:** "worth research" that natives with a retrograde planet advance when the same planet is retrograde again in transit. Speculative; flag it, don't use it.
+- **Moon in 8 by star (R5 p.235–242):** a long list of results for a natal Moon in 8 by the lord it rules and its star. It is applied when Moon dasa/bhukti/antara runs. These are descriptive text templates.
+
+  **Death cause by the star lord of a Moon in 8 that signifies maraka/badhaka (R5 p.241):**
+  - **Sun:** typhoid, heart, meningitis, fever, paralysis, dropsy, intestinal, uremia, tumours, diabetes
+  - **Mars:** inflammation, plague, haemorrhage, boils, bladder stones, abortion, bleeding, fistula, dysentery
+  - **Mercury:** mental derangement, nephritis, B-deficiency, hysteria, nervous breakdown, paralysis, digestive
+  - **Jupiter:** cerebral congestion, liver, jaundice, dropsy, flatulence, pleurisy, carbuncle, blood poisoning
+  - **Venus (affliction):** diabetes, tonsils, amoebic dysentery, cysts, generative organs, goitre
+  - **Saturn (affliction):** cold, gall stones, chyluria, TB of bones/lungs, cancer, paralysis, Bright's disease, pus
+  - **Uranus/Neptune** (Western): listed only
+
+  Further rules:
+  - Moon conjoined with many planets in 8 → sudden, tragic, unnatural death.
+  - Moon in the star of lord 6/8, afflicted by them → watery grave.
+
+  This **partly fills the disease-table gap** for Jupiter, Venus and Saturn.
+- **Lucky-time sections (R5 p.195–234), electional/muhurtha only, not part of the bio.** Houses per action:
+
+  | Action | Houses |
+  |---|---|
+  | Cards/races gain | sub lord in the sub of significators of 6+11 (best), 2+10 (moderate), 1+3 (small); 12+5 heavy loss; 4+8 moderate loss; 7+9 negligible loss |
+  | Gains without pains | 2, 6, 11 (+5 = races, +3 = lottery) |
+  | Treasure | 11th sub lord + Saturn + 4/6 |
+  | Treatment | 1, 5, 11 |
+  | Actress | 5, 6, 10, 11 |
+  | Tender | 3, 6, 9, 11 |
+  | Film | 6, 10, 11 (release 2, 6, 11) |
+  | Lottery ticket | 2, 3, 6, 11 |
+  | Overdraft | 3, 6, 9, 11 |
+  | Bank account | 3, 6, 11 |
+  | Catching a thief | 6, 10, 11 (with 5/9 the thief stays safe) |
+  | Trapped for bribe | 5, 8, 12 |
+  | Filing a case | 6, 11, not 8/12 |
+  | Strike | 6, 11 |
+  | Mantra | 10, 11 |
+  | Music | 2, 3, 5, 10, 11 |
+  | Donation | the donor's 8, 12 |
+  | Agreement | 6, 11 (or 2, 6, 11), not 5/8/12 |
+  | Love meeting | 1, 7, 11 (native initiates) or 5, 7, 11 (other initiates); avoid 4/6/10 |
+  | Parents' consent | 3, 5, 9, 11; avoid 8/10/12 |
+  | New house | 2, 4, 11; avoid 5/8/12 |
+  | Vehicle delivery | 4, 11 (sub 2/4/11, not 3/10). Asc sub of a 9th significator → damage; 12 → loss; 3+12 → theft |
+  | Scholarship | 3, 6, 9, 11 |
+  | Passport | 3, 9, 11, 12 |
+  | College admission | 4, 9, 11 |
+  | Airport | 3, 9, 11 |
+  | Conception | 2, 5, 11, not 1/4/10 |
+
+  "Life's lucky time" is out of scope for the bio. It could become an optional future feature.
+- **Lottery natal (R5 p.224):** the 3rd sub lord connected with 5, 6 or 11 → lottery gain. The 11th cusp sub lord gives the promise. Example 7-6-1927 15°27′N 75°05′E: lump sum on 30-10-70 in Rahu–Ven–Mer–Ven.
+- **Significator ready-reckoner procedure (R5 p.153–157):** the steps match R3. Planet in its own star: the "Deputy Secretary/Secretary" analogy. The 5th level is "conjoined with or aspected by significators" (very weak).
+- **Node agency examples (R5 p.211–213):**
+  - A node in a sign represents both houses of the sign lord, plus the house the sign lord occupies.
+  - A planet in the star of a node gives the node's house, plus the houses of the node's sign lord.
+- **Mixed significator:** a planet signifying both 6 (gain) and 12 (loss) gives the result decided by the other periods' lords (R5 p.214).
+- **Sub table (249 subs) printed R5 p.164–170.** Use it to validate the generated sub table.
+  - **Typo:** Taurus #36 "20.26.40–23.20.00" should end at 22.40.00 (#37 starts at 22.40.00).
+  - **Typo:** Gemini #53/#54 "18.6.20" should be 18.06.40.
+- **Ayanamsa (R5 p.325–326):**
+  - "I follow only **Newcomb**." KP ayanamsa ≈ Lahiri / C.G. Rajan / Madathu, "difference negligible".
+  - KSK states **Saturn enters Nirayana Pisces on 7-4-1966** → validation point.
+  - Delhi 20-9-67: KP ayanamsa 23°18′.
+- **Ruling-planet timing example (R5 p.192–194):** 20-9-1967, 6 PM, New Delhi; electricity came back at 6:53 PM. Use it to validate the RP-to-Asc computation: Pisces, Mercury star, Mercury sub, Rahu sub-sub = 347°43′–348°.

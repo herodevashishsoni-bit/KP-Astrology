@@ -54,3 +54,4 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - R4_07 (son-in-law, second marriage, two marriages examples, horary method, divorce, kidnapping, reunion)
 - R4_08 (reunion timing, sanyasi, return, who survives, child birth rules & examples, adoption, pregnancy, eunuch, childless examples)
 - R4_09, R4_10 (delivery timing, child sickness horary, Asc sub lord nature, weakness by sign, karaka bhava nasaya, dasa sandhi, eka dasa, gems). **Reader 4 COMPLETE.**
+- R5 complete (pp.1–36, 187–365 read; pp.37–186 verified duplicate of R3 pp.15–164). **Reader 5 COMPLETE.**
