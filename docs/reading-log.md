@@ -66,5 +66,6 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - MC_049–MC_055 (Jun – Oct 1966): read in full; notes in magazine-notes.md
 - MC_056–MC_070 (Nov 1966 – Aug 1967): read in full; notes in magazine-notes.md
 - MC_071–MC_075 (Aug–Oct 1967): read in full; notes in magazine-notes.md
+- MC_076–MC_078 (Oct–Nov 1967): read in full; notes in magazine-notes.md
 - MC_079–MC_084 (Nov 1967–May 1968): read in full; notes in magazine-notes.md
 - Next to read: mc/MC_085 (MC_084 ended mid-article "Dina porutham or nakshatra porutham")
