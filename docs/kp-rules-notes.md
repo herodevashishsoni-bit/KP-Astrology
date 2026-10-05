@@ -742,3 +742,112 @@ For dasa lord D (same for bhukti/antara lords):
 - **Termination of service (R3 p.380–381):** houses 1, 5, 9, 12 (12th from 2, 6, 10 + 12). Example: Rahu–Jup–Sat.
 - **Retirement (R3 p.382–383):** 3, 5, 9 (3 = 12th from 4, giving up quarters). Planets that gave entry into service often give retirement in their conjoined periods.
 - **Shashtashtaka (6/8 relation between dasa and bhukti lords) is explicitly refuted** (R3 p.383).
+- **Pension (R3 p.386–389):** houses 2, 11, plus 10 (benefit through service). Saturn as a significator delays but never denies. Sanction was given in a bhukti whose lord linked to the Sun (government).
+- **Politics/minister (R3 p.389–397):**
+  - Houses 1, 6, 9, 10, 11. Jupiter, Mercury, Mars, Saturn strong and signifying them; occupants in the stars and subs of benefics by lordship.
+  - "Yogas by conjunction" are reproduced by a planet whose sign/star/sub lords are those planets (R3 p.390).
+  - **A retrograde 10th cusp sub lord → negative result despite favourable indications (R3 p.397).**
+- **Friends (R3 p.398–401):**
+  - Lord of 11 or a significator of 11 in the star/sub of 1, 2, 3, 6, 10, 11 → helpful friends; of 4, 5, 7, 8, 9, 12 → loses through friends.
+  - In the star of lord 12 → secret enemies; of lord 10 → faithful, raise reputation; own star → permanent friends. Ketu in 11 → cheating.
+  - People born in the stars of one's 1, 2, 3, 6, 10, 11 lords are beneficial; 4, 5, 7, 8, 9, 12 lords → loss.
+  - Lords 1, 2, 6, 11 stronger than 7, 8, 12, 5 → wins litigation, elections, competitions.
+- **Gifts (R3 p.402–404):** receiving = 2, 3, 6, 11; giving = 8, 9, 12, 5 (the 2/3/6/11 of the 7th). Significators in the standard 5-level order.
+- **Imprisonment (R3 p.404–407):**
+  - Houses 2 and 12: malefics in the stars of planets in 2 and 12, occupants owning evil houses, evil planets in the stars of the lords of 2 and 12, and those lords.
+  - Cause: lord 1 → courts imprisonment; lord 6 → civil (debt); Jupiter/Venus/lords 9, 1 → political; Mars/lord 8 → theft; Saturn + Mercury → forgery; Mars + Saturn + Venus → rape or kidnapping; Mars + Saturn → murder.
+  - Release: benefics in the stars of significators of 2 and 11. Duration = the interval between the two. An evil planet in 3/6/9/12 in a fixed sign → long.
+  - Lord 1 owning 6/12, in 4/7/8/12, combust or retrograde → repeat prisoner. Lord 8 strong and afflicted → dies in jail.
+  - Rahu = chief significator of jails. Visiting a jail on duty also shows up.
+- **Spiritual (R3 p.407–411):**
+  - Sincerity: a benefic in 4 in a benefic star and sub. Concentration: the Moon in Saturn's sub. Arrogance: Mars connected with the Asc or its lord (Mars in a Saturn sub → unassuming).
+  - Initiation by a guru: 5th significators (timed). Practice: 10th. Progress: 11th.
+  - Saturn in 3 → interruptions.
+- Dress, colours, days for new clothes by Moon's star (R3 p.411–413) → muhurta/remedy material, out of scope.
+- Gems (R3 p.414–418): choose by the Asc and 11th sub lords if they don't signify 6/8/12. Remedial → out of scope (the user said no remedies; the texts say remedies don't change outcomes). Possibly list as info only.
+- **Short rules (R3 p.418–432):**
+  - **Engagement:** significators of 2, 7, 11 that also signify 3 and 9.
+  - **Deputation with more pay:** 5, 9, 11 + 12.
+  - **Selection for a higher post:** news when a significator of 11 also signifies 3; actual promotion in the conjoined periods of 2/6/10 with 11.
+  - **Confirmation in a post:** the period of a planet in the sub of a planet in a fixed sign.
+  - **Vigilance/CBI action:** planets connected with 10 and 12. **Suspension:** 5 or 9 with 12.
+  - **Horary:** a retrograde 11th cusp sub lord → desire not fulfilled.
+  - **Truthfulness (2nd sub lord):** Mars + Mercury → lies; Saturn + Mercury → hides; Mercury alone → detailed; Venus → peacemaker; Sun → noble, never lies.
+  - **Spendthrift:** the 2nd sub lord is Mars or in a Mars star (+ 10 → earns and spends more). Saturn → economical. The 12th sub lord Mars + Jupiter → over-liberal.
+  - **Courage to undertake:** the 3rd sub lord signifying 2/10/11 → undertakes and succeeds.
+  - **Contentment:** the 3rd sub lord Mars → never content; Jupiter → legitimate ambition; Saturn → no ambition, lazy, jealous.
+  - **Partner leaving:** significators of 7 in the sub of 6 → partner leaves; in the sub of 12 → native breaks it. New partner: significator of 7 + 11 + 2/10.
+  - **Accident on a journey:** significator of 3 (short) or 9 (long) also signifying 6 and 8 → accident; + 12 → hospitalisation.
+  - **Tenant vacating:** 6 + 8. Getting a tenant: 6, 9, 4.
+  - **8th house:** significator of 8 + 12 → repays or lends; 8 + 6 + 11 → gains money.
+  - **Imprisonment needs 3:** 3, 8, 12 (also 2, 12 earlier). House arrest: 4, 8, 12.
+  - **Ph.D. thesis:** 4 + 9 to submit; 9 + 11 → passes; 9 + 12 → fails; Saturn → resubmits.
+  - **Speculation:** significator of 5 + 6/11 → gain; 5 + 8/12 → loss.
+  - **CHILDREN (R3 p.424): the 5th cusp sub lord signifying 2, 5 or 11 → will have a child; signifying 1, 4 or 10 → can never have a child** (1, 4, 10 = 12th to 2, 5, 11). Stated for horary; the same rule appears for natal in R4 (to verify).
+  - **Writing a book:** 3 + 11 + Mercury; publishing: + Jupiter; printing: Mars + Mercury; as a business: 3 + 10. "Applicable both to natal and horary."
+  - Water/borewell: horary.
+  - **Which child supports in old age:** the child whose birth ruling planets match the dasa/bhukti lords (or their star lords) at that time. The same rule applies for a spouse; one partner's marriage dasa/bhukti/antara lords = the other's birth ruling planets.
+  - **Rectification aid (R3 p.429):** a child's birth RPs agree with the parents' running dasa/bhukti/antara lords (or planets in their stars). "This rule also will never fail."
+  - **Marriage blocked (R3 p.430–431):** the 7th sub lord signifying 1, 6, 10, 12 → no marriage with that party. The added house gives the reason: 2 money; 3 neighbours/tale-bearers; 4 mother/property; 5 past love affair; 1 + 6 health/maternal uncle/servants/enemies; 7 lawsuit; 8 dowry or a death; 9 absence or exam or relations; 1 + 10 elders or status; 11 friends or elder brother; 12 + 1 secret enemies.
+  - **Lagna only (repeated, R3 p.431–432):** given up the Moon sign since end-1965. The exact position of all 12 cusps matters; **"The sub lord of the cusp offers correct solution of that house. The significators show the time of event."**
+- **Character / weaknesses ("Road to success", R3 p.432–):** the sign occupied by the star lord of the Asc sub lord gives character and weaknesses. A descriptive paragraph for each sign → data.
+- Character/weakness text for the sign of the star lord of the Asc sub lord (all 12 signs) (R3 p.433–444) → data.
+- **Dasa interpretation principle (R3 p.444–447). CORE.** For dasa lord D:
+  - (a) D's nature → *how* (Jupiter: legitimately; Saturn: foul means).
+  - (b) Houses owned by D → the source.
+  - (c) The houses occupied and owned by D's star lord → predominant results.
+  - (d) D's sub lord benefic → no disappointment, realised; malefic → harm, denial.
+  - (e) Benefic dasa + benefic bhukti in good mutual (Western) aspect → enjoyed.
+  - (f) A benefic dasa lord in evil aspect with another benefic → in the latter's bhukti things look good but end in delay, denial or disappointment.
+  - (g) Malefic dasa + malefic bhukti in *good* aspect → dangerous ("two enemies co-operate").
+  - (h) Malefic dasa + malefic bhukti in *adverse* aspect → ultimately favourable.
+  - Ignore kendra, kona, shashtashtaka. Include the cusps. A cusp receiving good aspects improves that house.
+  - **This defines the aspect modifier for scoring** (where "benefic/malefic" = per KP, from star-lord houses and sub).
+- Phaladeepika dasa results (lords 1–12, strong vs weak, avaroha etc.) are quoted but "K.P. does not advocate these, as they fail" (R3 p.447–456). NOT used.
+- **Kendradhipatya (R3 p.456–461):** applies (if at all) only to health and longevity, and only for the lords of 4 and 7. It does not deny the house's results. A lagna lord owning a kendra (or the 8th) is a protector. Not used in scoring.
+- Birth of a child does not change the parents' fortune; everything is in each person's own chart (R3 p.461–462).
+- "Doubts" section (R3 p.461–480):
+  - Everyone's chart independently shows the same event; one chart cannot change another's fortune (R3 p.461–463).
+  - **Owner vs occupant:**
+    - The occupant gives a house's results more than the owner, unless the owner is exalted or vargottama, or in its own other sign, or the occupant is debilitated or in an enemy sign (R3 p.464–466).
+    - **A planet in the 6th, 8th or 12th from a house it owns gives results contrary to that house** (e.g. lord of 4 in 11 = 8th from 4 → the mother suffers; gains through 4th matters) (R3 p.464–468). This is a supplementary traditional-style rule that R3 presents within the KP discussion.
+    - The nature of the planet colours the result (Jupiter lawful, Saturn fair or foul).
+    - **KP: the nature of the result depends mainly on the star lord; occupation shows gain or loss; owned houses show the source** (R3 p.468).
+    - Vacant house: KP → planets in the star of its lord give its results (R3 p.468).
+    - Malefics in 4, 6, 8, 12 from any house destroy it; planets in other houses from it improve it (R3 p.470).
+    - A planet owning good and bad houses: both results occur, in benefic and malefic sub periods respectively; never split the dasa in halves (R3 p.470).
+  - **Rajayoga caveats (R3 p.471–474):**
+    - Matters only if the yoga planets' dasas run in the lifetime.
+    - Planets in 6/8/12 from the yoga planet spoil it in their sub periods.
+    - Nodes conjoined with the yoga planet weaken it; nodes in its sign give the results instead.
+    - Lords of 6/8/12 conjoined rob it.
+    - The yoga planet must not be in the star or sub of the lords of 6, 8, 12.
+    - The extent is relative to the birth environment.
+  - **Swabhukti (R3 p.475–478):** the antaras within the dasa lord's own bhukti preview the later bhuktis of the same planets ("Similar results alone will repeat when their bhukties operate"). Events are indicated by a planet pair, or a planet and a cusp, and repeat whenever their periods recur. → A heuristic for the scoring explanation: recurring-event matters (children, transfers) can have multiple windows.
+- Progression (Western) and the annual (solar return, Tajik, Kalidasa) horoscope are described as supplements that always agree with the dasa (R3 p.479–487). The KP solar return uses the KP ayanamsa difference. → Not needed for a dasa-based bio; flag as optional and out of scope.
+- **Ashtakavarga is rejected:** "incomplete: hence incorrect", and it fails for twins. KP's first principle: only use systems that differentiate twins (R3 p.487–489).
+- Horary is a separate book (R6). Rains and electricity is mundane horary (R3 p.490–493) → out of scope.
+- **RECTIFICATION (R3 p.493–506). KEY for the app:**
+  1. **Vighati method:** vighatis from sunrise (1 vighati = 24 s; 1 ghati = 24 min) × 4 ÷ 9 → the remainder r gives the Moon's birth star as the r-th star counted from Ashwini, Magha or Moola (remainder 0 → 9th). Adjust the time vighati by vighati to the nearest value that gives the actual Moon star. (Sunrise is taken in local time; the vighati count is from actual sunrise.) KP calls this "simplest … gives the exact vighati" (R3 p.501). Example: 316 vighatis → corrected to 315 because the star was Jyeshta (remainder 9).
+     - Possible conflict: the remainder-to-star mapping uses remainder 0 → 9th; the text says "remainder is 9" when 1260/9 has remainder 0 ("taken as 139 times and remainder 9"). So the mapping is ((v×4 − 1) mod 9) + 1. Note it.
+  2. **Ruling-planet method:** at the moment of analysis take the RPs:
+     - day lord
+     - Moon's star lord
+     - Moon's sign lord
+     - Lagna sign lord
+     - Lagna star lord
+
+     A node in the RPs represents its sign lord (and its star lord). The birth Asc's sign/star/sub/sub-sub lords must be among these RPs. **The Lagna lord at the analysis moment = the sub-sub lord of the birth Asc.** Then compute when that sign/star/sub/sub-sub rose on the birth day → the corrected birth time.
+     - Examples: 27-4-1966 9:05 AM (Taurus/Gemini doubt → Gemini, Mars star, Mercury sub, Jupiter sub-sub); 3-5-1966 (Scorpio, Mercury star, Saturn sub); 9-11-1942 4:26 AM (war-time clock was +1 h; the RP check gave 4:26 exact).
+     - (Also R3 p.280: "ruling planets … eliminate the previous and next sub". Strength order: star lord > sign lord > day lord.)
+  3. Mandi / Gulika and pre-natal epoch methods are discussed and shown to be unreliable (R3 p.495–501). Uttara Kalamrita's sex-of-child vighati rule is quoted, not endorsed.
+  - War-time clocks in India in 1942–45 ran one hour ahead → the app needs a "war time" option. The tz database already handles IST +6:30 for 1942–45.
+- Hora / planetary hours (Chaldean division sunrise→noon÷6, etc.; sub-divided into 7) for muhurta (R3 p.506–513) → out of scope for the bio.
+- Hora details for each planet (R3 p.514–526) → muhurta, out of scope.
+- **Dictionary (R3 p.527–541):**
+  - **Birth time = "the exact moment when the whole body of the child gets separated from the mother"** (R3 p.528). Use this for the input field help text.
+  - **War time: IST advanced by 1 hour from 1-9-1942 to 15-10-1945 inclusive** (R3 p.540). The tz database Asia/Kolkata has this; verify.
+  - Combust: "within 8°30′ of the Sun" (R3 p.529). **CONTRADICTION** with the R1 notes (5° eclipsed / 10° ordinary?) → flag it. Combustion isn't used in KP scoring anyway (only noted for the pension/jail examples).
+  - Barren signs: Gemini, Leo, Virgo. Fruitful: Cancer, Scorpio, Pisces. Orb generally 8°.
+  - Aspects: vigintile 18°, decile 36°, semi-sextile 30°, sextile 60°, quintile 72°, trine 120°, biquintile 144° (good); semi-square 45°, sesquiquadrate 135°, square 90°, opposition 180°, quincunx 150° (adverse).
+  - Short-ascension signs Capricorn–Gemini; reversed in the southern hemisphere.

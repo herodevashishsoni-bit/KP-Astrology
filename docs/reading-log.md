@@ -38,3 +38,9 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - R3_12 (partnership; letters; overseas; higher studies; profession start + combination table)
 - R3_13 (profession tables, nature of service, length of service, business vs service, MC combos)
 - R3_14 (profession text, business, music, first salary, reinstatement, photography, transfer, termination, retirement)
+- R3_15 (pension, politics, minister, friends, gifts, imprisonment, spiritual, dress)
+- R3_16 (dress stars, gems, short rules p.418-432, road to success start)
+- R3_17 (character by sign, dasa interpretation principle, Phaladeepika rules (rejected), kendradhipatya)
+- R3_18 (doubts: owner vs occupant, rajayoga caveats, swabhukti, progression, annual horoscope)
+- R3_19 (ashtakavarga rejected, horary, rains, RECTIFICATION methods, hora)
+- R3_20 (hora per planet, dictionary) → READER 3 COMPLETE
