@@ -6603,3 +6603,176 @@ Rahu represents Saturn; Ketu represents the Sun.
 - The 3rd sub lord is the Sun (L9 in 9), in the star of Mars (in 9, L12); the Sun never retrogrades; Mars is direct now → yes. The 12th sub lord, the Moon, is in Rahu's star → corroborates.
 - The Moon is in Rahu's star and sub (Rahu = Saturn's representative, L3, in 4), aspected by Mars (L12, 8th aspect) → query confirmed.
 - Significators of 3 and 12 … (continues). Saturn sookshma in the Moon antara: 22-2 to 7-3-71.
+
+## MC_130 (May 1971 cont. + Jun 1971 start)
+
+### End of G. S. Kler — "Thorough change, when?" (number 178)
+- 3rd: no occupant; owned by Saturn; Rahu in Aquarius represents Saturn → look at Rahu's three stars: Rahu and the Moon are in Rahu's stars; Mars, Mercury and the Sun are in Rahu's sub.
+  - Order: Rahu, Moon, then Mars, Mercury, Sun (via the sub; FLAG: sub-based), lastly Saturn.
+- 12th: owned by Mars; the Sun alone is in Mars's star → the Sun is stronger than Mars.
+- **KSK: when there are more than 3–4 significators, use the RPs.**
+  - RPs in order of strength:
+    1. Jupiter (lagna Pisces lord), in Mercury's star;
+    2. Rahu (nakshatra lord);
+    3. Saturn (Moon sign);
+    4. Sun (day).
+  - The Moon conjoined with Rahu (the nakshatra lord) is also included.
+- **The 11th cusp in a movable sign → a short time.**
+- **Transit method (as stated)**: the significators won't let the event materialise until they transit, broadly, each other's stars or subs (failing that, the star/sub where they now are), and the zodiac points ruled conjointly by them.
+  - Rahu dasa and bhukti, Moon antara, Saturn sookshma.
+  - The Sun, a strong significator of 12 and an RP, must transit the Moon's position at judgment (Aquarius 8°11', Saturn/Rahu/Rahu) → 21-2-1971.
+  - Points:
+    - Saturn–Moon–Rahu: Capricorn 11°53'20"–13°53'20";
+    - Saturn–Rahu–Rahu: Aquarius 6°40'–8°40';
+    - Moon–Saturn–Rahu: Cancer 12°53'20"–14°53'20".
+  - Moon position 8°11' Aquarius; lagna 15° Pisces.
+  - → expect 22-2-1971. CHECK.
+
+### M. V. Ramachandran — "Voyage to the west — when?" (number 200 → Capricorn 11°46'40"; 5:37 PM Thursday 5-2-1970, 13°N; Moon dasa balance 8y 9m 18d)
+- The Moon (L7) is in the 12th bhava, in its own star, in the sub of Mars (in the 3rd sign); Mars's star lord is Saturn in 3 and its sub lord is Jupiter in 9 → connected with 3, 9, 12.
+- **Promise rule (contributor's formulation)**: unless the 3rd, 9th and 12th cusps have connection with planets signifying 3, 9 or 12, the wish cannot fructify.
+  - 3rd cusp: Jupiter sign, Mercury star, Jupiter sub. 9th: Mercury sign, Mars star, Jupiter sub. 12th: Jupiter sign, Venus star, Rahu sub.
+  - Jupiter (L3, L12) in 9; Mercury (L9) in 12; the 12th sub lord Rahu is in Jupiter's star and sub → promised.
+- Significators:
+  - 3rd: Saturn occupies it; Mars is in Saturn's star.
+  - 9th: Jupiter occupies it; Rahu is in Jupiter's star and Jupiter in Rahu's (strong in a node's star; aspected by Saturn and Mars).
+  - 12th: Mercury and the Moon occupy it; nothing in Mercury's star; the Moon and Sun are in the Moon's star.
+  - → Mars, Jupiter, Mercury, Moon, Sun. The Sun is replaced by Ketu; Saturn is in Ketu's star and its own sub, in 3.
+- RPs: Jupiter (Thursday), Moon (Sravana), Saturn (Capricorn), Moon (rising lagna Cancer), Mercury (lagna star and sub) → common ones: Moon, Jupiter, Mercury, Saturn.
+- Moon–Jupiter–Mercury–Rahu (Rahu represents Saturn) → last week of Feb 1972. Natal check: Jupiter–Moon from 12-6-71 to 12-10-72. CHECK.
+
+### A. Sivapatham — "Correct birth chart" (medical officer b. 10-6-1940, Colombo, 10:52 or 11:52 AM; judged 7:03 PM Monday 12-1-1970, Matale)
+- RPs: lagna Cancer (Moon), Saturn star; the Moon in Pisces (Jupiter), Saturn star; day Moon → Moon, Saturn, Jupiter, Saturn, Moon.
+  - Mercury aspects the rising lagna but is retrograde → not used.
+- The Moon on 10-6-1940 was in Cancer → the birth Moon is in a Moon sign, Saturn star (Pushya) → Moon and Saturn are used up by the birth Moon. Left: Jupiter and Saturn for the lagna.
+  - But at 10:55/11:55 AM a Jupiter or Saturn sign can't be the lagna.
+  - Ketu aspects Jupiter, and Ketu today governs the Sun and Venus → Asc = Sun sign, Venus star, Jupiter sub, Saturn sub-sub = Leo 20°20'50".
+- KSK ayanamsa 1940 = 22°55'; ST at noon 5h13m51s → 11:55:41 AM CST. Saturn dasa balance 5y 10m 29d.
+- Verification: first employment = 2, 6, 10.
+  - 2nd: Rahu occupies it; Mercury and Venus are in Rahu's star.
+  - 10th: the Sun, Mercury and Venus occupy it; nothing in the Sun's star; Ketu is in Mercury's star; Saturn is in Venus's star.
+  - Rahu and Ketu govern Jupiter and Mercury → reject Mercury, keep Ketu. Venus is retrograde → reject (FLAG: natal retro rejection).
+  - The Sun is a strong significator of the 9th (12 to 10) → reject. Saturn is at the 10th cusp → gives 10th-house results, not employment (FLAG: odd).
+  - → Ketu–Rahu–Ketu–Ketu → 20/21-11-1966 on a Rahu day/star. Employed on 20-11-1966; the star that day was ruled by Rahu. CONFIRMED.
+- FLAG: the reasoning mixes the contributor's own rules (retro rejection in natal, the "12 to 10" rejection), but the result is confirmed.
+
+### B. Danasuriya — "Rectification of birth time and casting the horoscope (for students)" (b. ~10:18 PM CST 16-7-1917, 6°54'N 79°52'E; judged 7:55 AM Friday 18-9-1970 at 7°17'N 80°03'E)
+- **A full worked procedure for casting a KSK chart (useful for app validation)**:
+  1. CST → GMT → LMT (longitude × 4 min).
+  2. **Sidereal time from the KSK Ephemeris (given at 5:30 PM IST)**, plus the interval, plus a correction of 10 s per hour (KSK Ephemeris Vol 3 Table VA) → ST at birth.
+  3. Raphael's Tables of Houses (sayana) for the latitude; interpolate the ascendant.
+  4. Subtract the KSK ayanamsa (1917 = 22°37') → nirayana.
+- First RPs: Venus (Friday), Ketu (Moon star), Mars (Moon sign Aries), Mercury (R) (lagna Virgo), Sun (lagna star). The given time 10:18 PM gave Pisces 2°34' (Jupiter, Jupiter, Rahu); only the day lord Venus (conjoined with Jupiter) agrees.
+- Re-judged 10-12-1970 7:19 PM and 17-12-1970 4:26 PM (RPs Jupiter, Venus/Mercury, Mars/Moon, Mercury, Rahu) → Jupiter, Mercury, Mars, Venus → Pisces, Mercury star, Mars sub, Venus sub-sub.
+- **Sub-sub boundaries from the KSK Ephemeris Vol 3 p.15**: the Mercury star, Mars sub in Pisces starts at 23°20'; the Venus sub-sub starts 32'39" into it → Asc Pisces 23°52'39".
+- Back-calculation: + 22°37' → sayana Aries 16°30' → ST 18h57m35s → LMT 11:21:36 PM → +10m32s → **11:32:08 PM CST** (a full hour+ later than recorded). Other cusps interpolated (+15').
+- Planets: sayana positions from the KSK Ephemeris at 5:30 PM, interpolated with proportional logarithms; subtract the ayanamsa. E.g. Sun 113°35' − 22°37' = Cancer 0°58'.
+- **Fortuna** = Asc + Moon − Sun = Aquarius 27°12'. (FLAG: Part of Fortune is Western; listed but not used by KSK predictions.)
+- **Dasa balance from the KSK Ephemeris Vol 3 pp.17–18 tables**: Moon at Gemini 4°17' → Mars dasa balance 1y 3m 1d.
+- A dasa/bhukti/antara table is to be made "as advised in K.P.".
+- Bhava extents from cusp to cusp (Placidus); occupants; constellation lords.
+- **Significator order: (1) planets in the stars of occupants; (2) occupants; (3) planets in the stars of owners; (4) owners (very weak).** (Ref. A&A July 1970.)
+
+| Planet | Star lord | Sub lord | Signifies |
+|---|---|---|---|
+| Sun | Jupiter | Mars | 1, 2, 4, 6, 10 |
+| Moon | Mars | Venus | 2, 3, 9, 5 |
+| Mars | Mars | Saturn | 3, 9, 2 |
+| Mercury | Saturn | Ketu | 11, 12, 4, 7 |
+| Jupiter | Moon | Moon | 3, 10, 5, 2, 1 |
+| Venus | Mercury | Moon | 4, 5, 7, 8, 3 |
+| Saturn | Saturn | Venus | 4, 11, 12 |
+| Rahu | Venus | Moon | 5, 8, 9 |
+| Ketu | Rahu | Venus | 9, 3 |
+
+- House significators:
+
+  | House | Significators |
+  |---|---|
+  | I | Sun, Jupiter |
+  | II | Sun, Jupiter, Moon, Mars |
+  | III | Moon, Mars, Jupiter, Ketu, Rahu, Venus |
+  | IV | Sun, Venus, Mercury, Saturn |
+  | V | Rahu, Venus, Jupiter, Moon |
+  | VI | Sun |
+  | VII | Venus, Mercury |
+  | VIII | Rahu, Venus |
+  | IX | Ketu, Rahu, Moon, Mars |
+  | X | Sun, Jupiter |
+  | XI | Mercury, Saturn |
+  | XII | Mercury, Saturn |
+
+- **Verification by the parents' deaths (derived houses)**:
+  - **Father = 9th** (Scorpio, fixed) → badhaka = the 9th from the 9th = the 5th from the Asc. Marakas = the 2nd and 7th from the 9th = the 10th and 3rd.
+    - Significators: Rahu, Venus, Jupiter, Moon, Sun, Mars, Ketu. Filter: planets in the sub of the lords/occupants of 5, 10, 3 → Rahu, Moon, Ketu, Sun, Jupiter, Venus.
+    - The father died 3-8-1947 in Jupiter–Sun–Rahu, on a Sunday (the bhukti lord). CONFIRMED.
+  - **Mother = 4th** (Gemini, common) → badhaka = the 7th from it (= the 10th); marakas = the 2nd and 7th from the 4th (5th and 10th).
+    - Significators: Sun, Jupiter, Rahu, Venus, Moon (the Sun, Mercury and Saturn conjoined; Saturn in Venus's sub, Venus in the 5th).
+    - → Jupiter, Venus, Rahu, Moon, Saturn, Ketu. The mother died 1-8-1958 in Saturn–Ketu–Venus, on a Friday (the antara lord). CONFIRMED.
+- App: an exact derived-house death method for relatives (badhaka by the sign quality of the relative's house) with test data (b. 16-7-1917 11:32:08 PM CST, Colombo area). Note: KSK's ayanamsa for 1917 is 22°37'.
+
+### Roshan Lal Gupta — "Annual solar birth chart (varshphal), according to Kalidasa"
+- Solar return (nirayana Sun's exact return; Newcomb or KSK ayanamsa), cast for the place where the native is.
+- Kalidasa's annual dasa: Sun 110 days, Moon 60, Mars 32, Mercury 40, Jupiter 48, Venus 56, Saturn 4, Rahu 5, Lagna 10 = 365.
+  - Start: (the annual Moon-star number − the natal Moon-star number's predecessor) mod 9; the balance is proportional.
+- Reads the dasa lord with K.P. star/sub logic.
+- **FLAG: varshphal / Kalidasa annual dasa / Tajik solar return are NOT K.P.** (KSK never uses them). Exclude from the app. Example: b. 4-11-1914 19:57 IST, 29°10'N 75°46'E; the 57th-year return 5-11-1970 3:52 AM Delhi.
+
+### S. S. Patil — "Luck in lottery" (natal; b. 5 PM 30-1-1931, 31°57'N 75°36'E; ayanamsa 22°48')
+- The 3rd cusp: Venus sign, Rahu star, Jupiter sub.
+- **Rules (as KSK)**:
+  - Speculative gains: (a) lottery, prize bonds → the 3rd house; (b) cards, horse racing, satta → the 5th house.
+  - Definition (KSK): "a lottery is a sudden gain without pain and brain, bringing casual, tax-free income".
+  - Inclination to speculate: the 5th. If the lagna sub lord is connected with the 5th → inclined, more so in their conjoined period.
+  - Promise: the 3rd cusp sub lord in any way connected with the 11th → lottery promised.
+  - KSK: "houses 1, 2, 3, 6, 10, 11 receiving favourable aspects promise victory over enemies, success in litigation, wins in competitions and gains in lottery and games".
+  - **Timing: the significators of 2, 6, 11 improve the bank position in their conjoined period.**
+  - **Source of gain (KSK)**: if the significators of 2, 6, 11 are connected with:
+    - 3 → lottery;
+    - 1 → own efforts;
+    - 4 → mother;
+    - 5 → children, gambling, cards;
+    - 7 → partner or wife;
+    - 8 → legacy;
+    - 9 → a stranger;
+    - 10 → business;
+    - 11 → a friend or elder brother.
+  - (Important app rule: "source of income/gain".)
+- Here the 3rd sub lord Jupiter is in 11, with nothing in its star → strong. Jupiter is in Rahu's star (8 = certainty) and Mars's sub (in 11) → promised.
+- Significators by the 5-level order:
+  - 2nd: Venus, Ketu, Rahu, Mercury;
+  - 6th: –, Sun, Mars, Saturn;
+  - 11th: Moon, Ketu; Jupiter, Mars; Rahu; Mercury.
+  - → all nine.
+- Eliminate Mercury and Jupiter (represented by Ketu and Rahu in their signs).
+- **Fruitful significators (KSK)**: a significator is fruitful if its sub lord is itself (connected to) a significator; barren otherwise.
+  - Contributor's application:
+    - Sun (sub Saturn, in Venus's star; Venus = L3) ✓;
+    - Moon (sub Mercury, in Venus's star) ✓;
+    - Mars (sub Rahu, in Mercury's star, Mercury in 8) ✗;
+    - Venus (sub Ketu, in Mars's star, Mars in 11) ✓;
+    - Saturn (sub Mercury) ✓;
+    - Rahu (own sub, Mercury's star) ✗;
+    - Ketu (Rahu sub) ✗.
+  - The 8th = the 11th to the 7th = gain to the opponent → eliminate.
+  - → Sun, Moon, Saturn, Venus.
+- Saturn–Saturn from 13-5-68; Saturn–Venus 4-3-1975 to 4-5-1978; Moon antara 11-11-1975 to 16-2-1976 → when the Sun is in Capricorn (14 Jan – 11 Feb 1976) and the Moon in a Saturn–Moon–Venus–Sun combination.
+- Editor: the Sun in a Saturn sign, Moon star, Venus sub, Sun sub-sub. (Patil was given the title Jyotish Praveena in 1971.) CHECK.
+
+### G. B. Kusubi — "Krishnamurti method verified" (power failure; Sunday 27-7-1969, 6:35 PM, 15°25'N 75°42'E)
+- **KSK rule: work out the chart for the time when one actually starts erecting it, continuously without a break.** If interrupted, re-do it for the new start time.
+- The day lord, the Sun, is in a Moon sign, Saturn star → delay; the first attempt fails.
+- RPs: Saturn (lagna Capricorn), Moon (lagna star), Venus (Moon star P. Ashadha), Jupiter (Moon sign), Sun (day).
+  - Next strong point: Capricorn 21°35' → 7:34 PM. The light came at exactly 7:34 PM. CONFIRMED.
+- Editor's note: readers should write up real happenings; vague or unscientific work won't be published.
+
+### KSK — "Significance of the sub" (series; sub numbers 94–138, Leo to Libra)
+- Per-sub (sign–star–sub lord) descriptions of character, disease and profession. E.g.:
+  - 94 Sun–Venus–Sun (135°33'20"–136°13'20"): eye defect, palpitation, hospital service, music, radio, government service.
+  - 108 Mercury–Sun–Saturn: reckless diet, tapeworm.
+  - 115 Mercury–Moon–Jupiter: over-eating, intestinal cancer ("without Jupiter cancer cannot appear; Jupiter covers the absorptive system, expansion, fat"), publishers.
+  - 124 Mercury–Mars–Saturn: selfish, forgery, black market.
+  - 128 Venus–Rahu (186°40'–188°40'): "Venus and Rahu go for non-productive and barren, hence birth control; Jupiter and Rahu are for birth control."
+- For node subs: "proceed according to the planet the node represents."
+- (Largely duplicated from the Readers; many lines removed.)
+- App: a sub-number significance table (1–249) for descriptive text. Source = Readers + this series. Not core for timing.
