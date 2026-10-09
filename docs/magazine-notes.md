@@ -2128,3 +2128,38 @@
   - **Business (already in business → 2, 6, 10, 11)**: 2nd vacant (Mars; Moon in Mars star; Moon L10 aspecting 10th); 6th Rahu, Saturn(R); Venus & Mercury in Rahu star; Mercury in Rahu sub; 10th owned by Moon; Sun & Ketu in Moon star but in Saturn(R) sub → won't improve; 11th Mars, Jupiter. → Moon, Mercury, Venus, Mars, Jupiter. Mars–Jupiter ends 6-2-1969; Saturn bhukti weak (Saturn R in own sub); **Mercury bhukti from 13-3-1970, Venus antara 26-5→27-7-1970; Sun in Venus sign Mars star ~13-6-1970 → business improves.** CHECK.
 - **Verification of minor event — when will electricity come? (P. R. Sharma)** — CONFIRMED: wife's query 7:30 AM Tuesday 30-4-1968, Delhi. **RPs definition: (1) day lord (Mars); (2) Moon's star lord (Rohini → Moon); (3) Moon's sign lord (Taurus → Venus); (4) lagna sign lord & lagna star lord (Taurus 16°24' → Venus, Moon).** **Node stronger than a conjoined RP; a node becomes strong (not to be ignored) if aspected by an RP or occupies the sign of an RP.** → Venus, Mars, Moon. Minor event within hours → lagna transit: Taurus 16°24' (Venus/Moon/Jupiter sub); next subs Saturn, Mercury, Ketu, Venus — **ascendant & Moon aspected by Saturn → while Moon's star (Rohini) rises chances remote** (FLAG aspect) → next point Venus sign, Mars star (Mrigasira), Mars sub, Moon sub-sub = 24°04' Taurus; 7°40' × ~4 min/° ≈ 31 min → **8:00 AM; electricity came exactly at 8:00 AM.** CONFIRMED.
 - **Dwadasa bhava phala (contd.)**: planets in 6th — classical disease lists. REJECT.
+
+## MC_096 (Mar 1969) — part 1 (lines 1–800)
+
+- **Dwadasa bhava phala (end of series)** — traditional house-by-house results. REJECT (not KP method; traditional).
+- **Panchang for all-India use (KSK letter 11-11-1968 to DG of Observatories)**: almanac timings disagree with each other; KSK asks that new/full moon times be tested against ephemeris. KSK's stated method: "Calculate using Raphael's ephemeris; deduct Krishnamurti Ayanamsa." → supports app choice: tropical ephemeris − KSK ayanamsa.
+- **Correct time of birth (KSK)**: boy born 0:30 AM 24-8-1952, 22°N 73°16'E; lagna Taurus 18°12'.
+  - Physique read from lagna sign/star/sub: Venus sub → healthy, tall. (Had sub been Saturn → lean.)
+  - Education: Rahu in 9th in Mars star, Jupiter sub → college education; later job in police/military/bank; studies economics/banking.
+  - Rule used: lagna sign + star + sub lord describe body; 9th occupant star/sub → higher education & line.
+- **Promotion by horary (L. P. Deshpande)**: number 105, query 10:10 AM 1-3-1967. Selected Aug 1968; promotion order 30-11-1968 when Sun in Scorpio, Saturn star, Jupiter sub (= significator chain). CONFIRMED case — Sun transit over sign/star/sub of significators gives month/day.
+- **P. Swamy, "Krishnamurti and KP"**: KSK discovered the sub in 1951. Nodes give results in order: conjoined planet → aspecting planet → sign lord/star lord (KP I p.446). KP I p.490 cited for sub-sub use.
+- **K. Ganapathi, "Ruling planets read the results"**:
+  - RPs = lagna lord, Moon star lord, Moon sign lord, day lord; nodes in RP signs are added and preferred (up to 6 RPs).
+  - RP strength: favourable position from own signs, or in stars of exalted/own-sign planets. Favourable/unfavourable is relative to the matter.
+  - **Choosing an advocate**: advocate's RPs (at consultation) should match client's running dasa lords and sub lords of 6th & 11th cusps, not 8th & 12th.
+  - **Tutor**: tutor's RPs should match student's 4th & 11th cusp sub lords.
+  - **Doctor**: doctor's RPs should govern the patient's lagna and 11th cusp subs. Doctor's ruling planet falling in the patient's 11th-house arc gives the treatment style: Saturn → long diagnostics; Mars → surgery/quick action; Mercury → keeps changing treatment; Moon → refers to another doctor; Venus → (continued below).
+  - FLAG: Contributor's method (person-to-person RP matching); no explicit KP Reader basis seen — treat as auxiliary.
+
+## MC_096 (Mar 1969) — part 2 (lines 800–953)
+
+- **Ganapathi, RPs and doctor (cont.)**: Venus in the patient's 11th arc → doctor never frightens the patient, treats smilingly. Jupiter → prompt attention, cure by internal medicine without operation; good physician.
+  - Doctor's RPs must agree with the patient's lagna sub (longevity) and 11th cusp sub (cure); otherwise this doctor cannot cure. If doctor's RPs are the sub lords of 6th & 12th → he can never cure.
+  - If the 11th-cusp sub lord is the Sun, ill-placed, and the doctor's RP is the Sun → disease prolongs; medicine not specific. (6th-cusp sub lord Moon … text cut.)
+- **Ganapathi, "Chandrashtama and its truth"**:
+  - Western transit (from Sun) and Hindu gochara (from natal Moon sign) both rejected by KSK: they ignore other planets' positions and assume Sun/Moon = native. Sun and Moon signify relatives by the houses they occupy and own (e.g. Aries lagna: Moon = L4 = mother; Sun = L5 = children).
+  - KP: only the exact lagna represents the native; transits judged by star & sub of transiting planet and the houses those signify in the natal chart. "Dasa-bhukti must agree with transit."
+  - Chandrashtama (Moon in 8th sign from natal Moon), Guru balam, Ashtama Sani etc. REJECTED as traditional.
+  - Example (Deputy PM, election): Saturn transiting 8th from lagna but in Mercury star & Rahu sub; Rahu in 2nd signifying 2 & 11 → success. Houses 1, 2, 3, 6, 10, 11 promise success in efforts/competition/election/litigation.
+  - Rahu in Mercury sign & Mercury sub → good luck repeats (dual/Mercury repetition rule again).
+- Letter from a Jammu & Kashmir astrological institute: switched entirely to KP (testimonial only, no rule).
+- **Spiritual chart (start, continues next issue)**: native running Jupiter dasa Ketu bhukti from 1-12-68.
+  - Sincerity: benefic in the 4th, in the star of another benefic and sub of a benefic → true, reliable, sincere. Jupiter in 4th in Mercury star, Jupiter sub → honest.
+  - Moon = mind (mathi): connected to natural benefics → (continues).
+  - Initiation = 5th house. 5th occupied by Mars; no planet in Mars star; 5th owned by Jupiter; Sun alone in Jupiter star → initiation in Jupiter dasa Sun bhukti Mars antara = Sept 1972. (CHECK — prediction.)
