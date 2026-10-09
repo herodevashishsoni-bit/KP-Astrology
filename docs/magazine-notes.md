@@ -7765,3 +7765,118 @@ Contents: tour programme; K.P. new Readers I to VI; annual horoscope; love and l
   - The annual dasa: Sun 110, Moon 60, Mars 32, Mercury 40, Jupiter 45 (sic; 48 in MC_130), Venus 56, Saturn 4, Rahu 5, Lagna 10 days, "like Udu dasa".
   - "If the Sun is beneficial: wealth, jewels, a new house; weak Sun: sin, loss through enemies, litigation …"
   - **FLAG: KSK himself presents a varshphal (annual solar return) method** (Kalidasa's annual dasa). This contradicts the earlier assumption that it is purely contributor material. Note in kp-rules.md as KSK-mentioned but outside the core K.P. method (the user asked for no Western/traditional methods → exclude, flag).
+
+## MC_137 (Oct 1971 cont.)
+
+### KSK — "Annual horoscope" (cont.; mostly deduplicated)
+- The annual dasa start: the natal star number mod 9 (Sun first; remainder 2 → Moon 60 days; 3 → Mars 32; 9 or 0 → lagna dasa 10 days). Strong/weak planet readings (traditional style).
+- **The K.P. method for the annual chart (partially visible)**: the planet is the source; **the constellation lord indicates the nature of the result; the sub lord shows how (pleasure or displeasure, success or failure)**.
+  - Example: if Venus indicates marriage and its star Bharani is transited by L2, L7 or L11 → …
+  - Example chart (a Leo annual lagna): Rahu gives 10th and 5th (speculation) results; Ketu (in Rahu's star) is its agent → benefic here; "after 6 Aug 1971 when Ketu rules"; lucky around 13-2-1972.
+- KSK then lists: transit-based dates (the Sun conjoining natal planets: Mercury and Venus about 20 Apr; Saturn 13 May → a minor ailment to the wife, etc.); "fortunate days" from the birth chart (16 May, 18 Sep, 13 Dec 1971, 6 Jan, 8 Feb 1972); inauspicious days (10 Aug, 23 Oct 1971, 23 Feb 1972); and a month-by-month reading by "another method".
+- FLAG: KSK demonstrates annual and transit-conjunction (Western-style Sun conjunction) predictions here as "one of the methods". Outside the core natal-dasa K.P. used for the app; note as a KSK-authored but secondary method. Exclude unless the user wants an annual forecast later.
+
+### N. Bhattacharya — "Love and love affairs" (b. 3:10:37 AM IST 23-9-1944, 23°16'N 87°54'E (OCR; the same data as MC_136 except the date); Rahu dasa balance 2y 7m 1d)
+- **KSK rules (quoted)**:
+  1. **If the 2nd cusp sub lord is connected in any manner with the 11th house → one may have connection with women other than the legal wife.**
+     - 11 = friendship, union, success in love; 7 = legal bond; 5 = love affairs, courtship, licentiousness, legitimate and illegitimate attraction before wedlock, kidnap, rape; 2 = feeling the other as one's own property, taking the opportunity, provided the 5th is connected.
+  2. **When**: the significators of 2 and 11 that are connected with the 5th, in their conjoined period.
+- Case: the 2nd cusp in Leo, Venus star, Venus sub. Venus is in 2, L11 and L4, in the Sun's star (Sun L2 in 2), Mercury's sub (L3, L12 in 2), conjoined with Mars (L5, L10) → affairs from age 19.
+- The subs permit only Saturn, Sun, Mercury, Jupiter and Venus.
+  - Ketu (Saturn's sign) → an older woman; Mercury → minors; Venus → young girls; Jupiter → proper age; the Sun → middle age. FLAG: karaka ages.
+- Periods: Jupiter dasa (6th: refused); Saturn dasa (a maid servant: Saturn = low class, dark, older); Mercury bhukti (a teen girl, separated as Mercury signifies 12); Ketu bhukti (a maid; short as Ketu signifies 6); Venus bhukti from 25-1-1970 (a young lady; marriage expected).
+  - Saturn signifies 2, 5, 7, 11 and is in a dual sign → won't be satisfied with the wife.
+- CONFIRMED (post-mortem, sensitive).
+- App note: a KSK rule exists for extramarital tendency (2nd sub lord ↔ 11th). Sensitive; consider the user's "direct" policy, FLAG.
+
+### P. Swamy — "Basis of astrology: philosophic and scientific"
+- Quotes Western statistical research (Doris Chase Doane): long journey = ruler of the 9th (99%); short journey = ruler of the 3rd (100%); money = 2nd; typhoid = Mars plus 1, 2, 6; surgery = Mars plus 1, 2, 6; honours = Sun and 10th; cancer = afflicted Saturn or Moon; divorce = a discordant 7th ruler or Venus; imprisonment = 12th (and 9th for religious reasons); jobs = 6 and 10; astrologer = Uranus/Mercury prominent; nurse = Moon plus 12th; telephone operator = Mercury, Moon, Uranus, 3rd; athlete = Mars, Jupiter; dentist = Saturn, 6th; illegitimate birth = an afflicted 10th or 4th, Venus aspecting Mars. Paul Flambart's statistics. FLAG: Western; not used.
+- KSK's sub (smallest unit 40', the Sun sub) answers Alan Leo's and Carter's wish for degree-level meaning.
+- Examples using "the planet gives its star lord's houses; the sub lord gives the nature":
+  - Jupiter (6th significator) in Capricorn → low blood pressure.
+  - Jupiter (2, 12) in the Sun's sub (L5 in 12) → doctor's bills for the children.
+  - A 10th significator in Jupiter's sub → business expansion.
+  - **A 6th significator in the sub of the Sun (L10 in 8) → repeated difficulties, overcome at a higher level.**
+  - Mars (2, 5, 12) → lost land through gambling.
+
+### Mathura Ram — "Am I pregnant?" (number 80; 2:10 PM IST Sunday 27-9-1970, Patna)
+
+| Planet | Star lord | Sub lord |
+|---|---|---|
+| Sun | Moon | Moon |
+| Moon | Ketu | Ketu |
+| Mars | Venus | Saturn (R) |
+| Mercury | Venus | Saturn (R) |
+| Jupiter | Rahu | Mercury |
+| Venus | Jupiter | Saturn |
+| Saturn | Sun | Mars |
+| Rahu | Rahu | Rahu |
+| Ketu | Ketu | Jupiter |
+
+- **KSK, Horary Astrology p.204 (quoted, KEY)**: "If one is anxious to know whether one is pregnant, the sub lord of the 5th cusp should be deposited in the constellation of a planet that is a significator of 2, 5 or 11, and also deposited in a fruitful sign and a favourable sub. If the sub lord and the lord of the constellation occupy barren signs, she is not on the family way." Also "astrology gives a clearer picture than medical tests in early stages; the frog test may fail".
+- The 5th cusp Scorpio 23°35': Mercury star, Mars sub. Mars is in Venus's star (Venus signifies none of 2, 5, 11; in the 4th, the negation of the 5th) and the sub of Saturn (R) in 10 (the negation of 11), in Aries (barren). Mars is in Leo (barren).
+- Significators: 2 → Mars, Mercury, Saturn; 5 → Mars; 11 → Mercury, Mars. All in barren signs (Aries, Leo) and unfavourable subs.
+- Not pregnant. CONFIRMED.
+- App: barren/fruitful signs are a KSK concept in Horary (fruitful = watery signs Cancer, Scorpio, Pisces; semi-fruitful Taurus, Libra, Sagittarius, Capricorn?; barren = Aries, Gemini, Leo, Virgo). Verify the list in Reader 6.
+
+### B. V. S. S. Rama Rao — "Longevity assessment and premature death of the child" (girl b. 12-1-1968 ~?:21 AM IST; died 8:25 AM IST Saturday 27-1-1968, aged 16 days; Capricorn lagna)
+- The 6th cusp: Mercury sign, Jupiter star, Venus sub → nervous system, liver/blood circulation, kidney (karakas, FLAG); the child died with these complaints.
+- **KSK longevity rule as stated: the lagna sub lord is the deciding factor.** The Asc sub lord Jupiter is the badhaka lord (11th cusp, Sagittarius 2°07' → Jupiter sign, Ketu star, Venus sub); it occupies the maraka 7th, in Ketu's star (in 8) → short life.
+- **Death significator order**:
+  - (a) planets in the constellations of the occupants of badhaka and maraka;
+  - (b) the occupants;
+  - (c) planets in the constellations of their lords;
+  - (d) the lords;
+  - (e) those conjoined with or aspected by them.
+- Significators: Saturn, Rahu, Ketu, Moon, Venus, Jupiter, Sun, Mercury (the 12th included as "end of life"). Filtered by sub → Venus, Saturn, Mercury, Moon.
+- Died in Moon–Saturn–Venus–Mercury (Saturday). Transit: the Sun in Capricorn (Saturn sign, Moon star, Rahu sub); the Moon in the badhaka Sagittarius 9°33' (Ketu star, Saturn sub); the lagna at death Aquarius, Rahu star, Mercury sub.
+- Predicted and CONFIRMED (per author). Traditional malefic notes as well (FLAG).
+
+### Bimal Kanti Ghose — "K.P. is 100% correct" (departure time; RPs at 7:15 AM IST 30-4-1970, Rourkela)
+- RPs: Jupiter (R) (Thursday) = a delaying factor; Saturn (Moon sign); Mars (Moon star); Venus (Asc); Moon (Asc star).
+  - The Moon is in the 8th sign from its own sign → weak (FLAG: traditional).
+  - Mars closely aspects Ketu in Leo; the Sun is exalted → take the Sun (FLAG: exaltation used to admit an RP).
+  - Sub lords of the RPs: Jupiter and Saturn in Rahu's sub; Mars in Jupiter's sub; Venus and the Moon in Venus's sub.
+  - → Sun, Venus, Rahu, Moon.
+- Rejected the nearer points (in a Venus sign; in Cancer) because of the delaying factors; chose Leo, Sun–Venus–Rahu–Moon = Leo 19°49'40" → 2:01 PM.
+- They left the gate at exactly 2:01 PM (expected around 10 AM). CONFIRMED.
+- Note: the subjective point-skipping (by delay factors) is FLAGged; but the RP-point method holds.
+
+### Bimal Kanti Ghose — "Shall I pass in the examination?" (number 78 → Cancer 21°33'20"; 5:30 PM IST 12-6-1970, Bhubaneswar)
+- The Moon (L1, in the Sun's star; the Sun in the 11th) → the person's own success.
+- **The 4th and 11th cusps are deciding**: the 4th cusp (Libra 20°33') in Jupiter's sub, and Jupiter is retrograde; the 11th cusp (Taurus 22°33') in Venus's sub, and Venus is in 12, in Jupiter's star → both unfavourable → "better luck next time". He failed. CONFIRMED.
+- Editor: "Whether one studies or not, if destined to pass he must." (Fatalism.)
+
+### KSK (probably) — "Can I become an actor? If so, when?" (b. 3:31 AM 18-9-1943, 11°?N 77°?E; KSK ayanamsa 22°58'; Leo lagna 21°52'; Venus dasa balance 8y 3m 9d; Mars dasa from 27-12-1967; Mars–Mercury from 27-6-1971)
+- **Profession = houses 2, 6, 10.** A profession changes with the running period: new combinations of significators in their conjoined periods bring a change of job or nature of work.
+- **Actor/actress: the conjoined period of the significators of houses 5, 6 and 10 (Horary Astrology p.192).** (Earlier note: actor = 10 & 6 connected with 5; consistent.)
+- The 5th cusp Scorpio 23°27', in the sub of Mars (L5, L10, aspecting 2, 5, 6) → fortune to act and earn in cinema.
+- The 11th cusp sub lord is Mars too (in its own sub). The Sun owns and occupies the 2nd (in the sub of a node in 12). Exalted Mercury in 2 has Jupiter (in the lagna bhava) and Rahu (in 12) in its star. Ketu in 6 is in Venus's sub (Venus in Ketu's sub). Mars owns and occupies the 10th; Saturn alone is in Mars's star.
+- Predictions: contacts with producers in the first fortnight of Dec 1971 (Mars–Mercury–Mars; the Sun in Jyeshta); acting and earning from 11-3-1973 (Mars–Venus–Mars). Rahu in Mercury's star (2, 3, 9, 12) → overseas; Rahu's sub lord Venus (L11) → social and financial success. CHECK.
+
+### S. T. Arasu — "Work permit" (number 247; 2:35 AM official time Saturday 15-5-1971, Kuala Lumpur; Sun dasa balance 2y 7m 28d)
+- The Moon is in the 10th with Mars, in the star of the 6th lord the Sun (in 2, own star) → not exactly worried.
+- **To win a case or appeal: houses 1, 2, 3, 6, 10, 11.**
+  - L1 Jupiter (L1, L10) is in 8, retrograde → delay till 24 July.
+  - The 1st cusp sub lord Rahu is in the 11th, in the star of Mars (L2 in 10) → outright success.
+  - When the Sun transits Gemini, Rahu star (25-6 to 2-7-1971), preferably on a Wednesday or Saturday → the extension was received on a Wednesday (early July 1971). CONFIRMED.
+- Permanent stay (citizenship) → the 4th and 11th. The 4th sub lord Jupiter (L1, L10 in 8, in the star of Saturn L11/L12) → not overnight. Saturn and the Sun conjoined in 2 in the star of L6 → citizenship in Sun–Mercury before 7-9-1972. CHECK.
+
+### KSK — "Will the dangerous disease relapse?" (number 232; 5:30 PM IST 2-8-1971, Delhi; Mercury dasa balance 11y 5m 21d)
+- **Rules (KSK)**:
+  - The ascendant shows whether one maintains good health. The cusp is in Saturn's star and sub; Saturn is in Mars's sub → poor health, chronic, yet a cure for any disease is shown (11th-house matters).
+  - **Relapse rule**: "If the sub lord of the 6th cusp is deposited in the constellation or sub of a planet in a dual sign, it will surely relapse." Here the 6th sub lord Jupiter is in the star and sub of Saturn, which is in a fixed sign → no relapse. ("No planet is in a dual sign on that day.")
+  - The 6th significator Mercury is in the star of Ketu in the 5th → stronger to give the cure (5 = 12th from 6). Mercury is connected with Mars and Ketu (Ketu in 5; Mars aspecting Mercury in 1) → cure alone.
+  - "According to Westerners, Jupiter forming an exact trine with the ascendant as its lord is very advantageous for health." (FLAG: Western, KSK cites it.)
+- Prediction; CHECK.
+
+### KSK — "Will the play be continued or not?" (a tennis match on TV, rain; number 7; 3:52 PM 31-7-1971, Delhi)
+- **Method (KSK)**: understand the question, decide the houses. The querist's desire (to enjoy the thrill) → the 11th cusp, combined with the cusp of the specific matter: entertainment, games, cinema = the 5th cusp.
+  - The 11th sub lord the Sun is in Jupiter's sub (in 7), not connected with the 5th → the desire is not fulfilled (they switched off the TV).
+  - **The 5th cusp → whether the game goes on**: the sub lord Moon (L5) is in the star of direct Jupiter, in the sub of Rahu (a 5th significator) → the game will be played, but late, as Saturn aspects the 5th cusp.
+- At 4:20 PM it was announced that the game might be cancelled; they switched off; a few minutes later the game resumed, late. CONFIRMED.
+- Principle: separate houses for "does the event happen" (the matter's cusp) vs "is my desire fulfilled" (the 11th).
+
+### M. S. Mani — "Profession" (b. 4:26 AM 9-11-1942; Virgo? Asc 21°27'; Jupiter dasa balance 2y 7m 11d)
+- First appointment 30-12-1967 in Saturn–Jupiter–Venus: Saturn in the star of the Moon (L11) and the sub of Mercury (L10); Jupiter in its own star in 10, in Rahu's sub (in 7); Venus in Jupiter's star and sub. The Sun was in P. Ashadha (Jupiter's sign, Venus's star).
+- Resigned for a new job 26-10-1968 in Saturn–Jupiter–Rahu. (Continues in MC_138.)
