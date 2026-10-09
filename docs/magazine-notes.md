@@ -8072,3 +8072,129 @@ Contents: tour programme; K.P. new Readers I to VI; annual horoscope; love and l
 - **Explains marriage = 2, 7, 11 (KSK) and progeny = 2, 5, 11**: the 11th = the 5th from the 7th (the partner's progeny); the 5th = the 11th from the 7th and the 10th from the 8th (sex).
 - **FLAG (major)**: the bulk of the article applies Western progressions (day-for-a-year secondary progressions, the "perpetual calculation date" method, Western aspects, Uranus/Neptune transits) combined with K.P. star/sub lords. KSK's magazine publishes it, but it is not K.P. core and the user wants no Western methods → exclude. Note the signifier table categories (A)–(L), including "planets in the sub of occupants/lords" and "the planet owning the constellation on the cusp" (FLAG: extended significator categories, contributor).
 - (Continues in MC_140.)
+
+## MC_140–MC_141 (Dec 1971; end of the magazine set)
+
+### End of "Bala" — experiments (progressions)
+- The second child (a daughter, 28-8-1961) in Rahu–Saturn–Saturn; the third child (a son, 6-4-1967) in Rahu–Ketu–Rahu. Rahu and Ketu are connected to the 11th and 5th (the star lords of the cusps). Explained mostly by progressions, transits and Western aspects.
+- Useful observation: "two planets in evil aspect at birth and malefic by nature bestow beneficial results if they are in the constellation and sub of planets denoting favourable affairs; conversely, benefics in good aspect fail. Neither the quality of the aspect nor the nature of the planets counts."
+- FLAG: progression; exclude.
+
+### "Bala"(?) — foreign scholarship and return journey (native in Mars dasa, Dec 1969 – Dec 1976; Jupiter bhukti from 25-5-1971; Saturn bhukti 1-5-1972 to 10-6-1973)
+- An antara table of Mars–Jupiter and Mars–Saturn is given.
+- **Signification method (as stated, KSK)**: Mars in Ardra (Rahu's star), in Saturn's sub. Rahu is in the 8th, in the Sun's star, in Venus's sign, unaspected → Rahu represents Venus (in 7; L2/L9; star lord of 8/12) and the Sun (in 6; L12).
+  - So Mars signifies: 8 (the star lord's house), 3 (the sub lord's house), 6 and 7 (via Rahu's agents), 2/9 and 8/12 (Venus's), 3/8 (own signs), 5/6 (the sub lord Saturn's signs; and Mars owns the 5th by constellation).
+  - FLAG: mixing sub lord and node agency.
+- **Dasa–bhukti principle (KSK-consistent)**: a dasa lord gives, in a bhukti, the matters of the houses for which both the dasa and bhukti lords are common significators.
+  - Example: dasa A signifies 1, 2, 6, 10, 11, 12; in B's bhukti (6, 10) → promotion without a raise; then C's bhukti (2, 6, 11) → a de facto promotion with gain.
+  - "Simply because a planet signifies many houses, not all matters fructify in every bhukti."
+- **Houses**:
+  - foreign journeys = 7, 9, 12;
+  - 12 = expenditure, foreign surroundings;
+  - 9 = higher education, research, journeys, foreigners;
+  - **7 = travel and its breaks, return journey (Jataka Parijata)**;
+  - 6 = service, debt;
+  - scholarship = 6 with 2 and 8;
+  - **8 = gift, legacy, unearned income; a foreign government scholarship = 8**;
+  - 5 = children, and the return journey (9 to 9).
+- Saturn (a delaying planet) not signifying 7, 9, 12 → the departure delays till the Saturn antara ends → left India 3-9-1971 (Mercury antara: swift; foreign professional training). Breaks the journey on the way. CONFIRMED.
+- **Return journey rule (contributor's experience)**: houses 7, 9, 12 counted from the 9th and from the 12th → 3, 5, 8 and 6, 8, 11 → judge 3, 5, 6, 8, 11 for the return home.
+  - Saturn (L5, L6, in 3, in Ketu's star; Ketu is Mars's agent and represents Jupiter) → Mars–Saturn bhukti → Ketu antara (30-8 to 24-9-1972) → Saturday 16-9-1972 (the Moon in Sagittarius, Moola, conjoined with natal Saturn). RPs at judgment: Saturn, Ketu. Prediction; CHECK.
+  - Consistent with the earlier note "return home 3, 9, 11, 12"? Partially different; contradiction to flag.
+
+### N. Bhattacharya — "The disease invalid him" (boy b. 8:02 PM IST 11-12-1963, Calcutta; KSK ayanamsa 23°15'; Rahu dasa balance 17y 7m 4d; idiotic from birth, right hand and leg paralysed)
+- Partial table:
+
+  | Planet | Bhava | Star lord | Sub lord |
+  |---|---|---|---|
+  | Sun | 5 | Mercury | Rahu |
+  | Moon | – | Rahu | Rahu |
+  | Mars | – | Ketu | Mercury |
+  | Mercury | – | Venus | Venus |
+  | Jupiter | – | Saturn | Jupiter |
+
+- Traditional general rules cited (FLAG):
+  - Virgo and Pisces are sensitive signs; Sun = health; Moon = mind; weak Mercury = nervous breakdown, paralysis.
+  - **Kalapurusha limbs: the 2nd sign = right leg; the 3rd = right hand; the 12th = left leg; the 11th = left hand; the 9th = limbs.** For bhavas, count from the 1st house.
+  - **Right/left: planets between houses 1 and 6 = the right portion** (FLAG: a GAP item; the contributor's rule).
+- **KSK rules (restated)**:
+  1. **The sub lord of the 1st cusp indicates the condition of the head and health; the Ascendant and its significators show whether one maintains good health.**
+  2. The 6th house significators connected with the 1st give the time of disease. Danger to life if they are connected with maraka/badhaka lords and the 8th, with transit permitting.
+  3. The nature of the disease from the 6th cusp sub lord.
+- The Moon is the only 1st-house significator: in Rahu's star and sub, signifying 12 (defective, asylum). Rahu dasa from birth; Jupiter (in Saturn's star, signifying 6, 7, 8, 9) and Saturn (Mars star, Rahu sub) dasas are also bad → "the native will expire earlier".
+- The Asc sub lord Venus owns the badhaka and is in 6 with Mars, Mercury and Ketu → brain disease (Mercury = nerves; Moon and Mercury = brain substance; FLAG: karakas).
+- The 6th cusp sub lord Saturn (in 7, L7/L8, signifying 6, 7, 8) is in Mars's star, Rahu's sub; Mars and Rahu are connected with Mercury → paralysis of the right limbs. The 6th cusp star lord Ketu represents Jupiter in 9 (limbs).
+- CONFIRMED (diagnosis).
+
+### Hanagodimath & Chavadi — "Cricket and K.P." (India vs England, final Test at the Oval; number 207 → Capricorn 27°53'20"; 5:30 PM Thursday 19-8-1971, Dharwar)
+
+| Planet | Star lord | Sub lord |
+|---|---|---|
+| Saturn | Moon | Rahu |
+| Moon | Saturn | Jupiter |
+| Ketu | Mercury | Venus |
+| Venus | Ketu | Ketu |
+| Mercury (R) | Venus | Venus |
+| Jupiter | Saturn | Saturn |
+| Mars (R) | Moon | Venus |
+| Rahu | Moon | Ketu |
+| Sun | Ketu | Venus |
+
+Cusps (sign, star, sub): XI Jupiter/Ketu/Venus; VI Mercury/Jupiter/Venus; V Mercury/Mars/Ketu; XII Jupiter/Sun/Mars.
+
+- **Team-competition rule**: the querist's side (India) = the lagna; the opponent = the 7th. Judge India's 11th (fulfilment) and 6th (win over the opponent); the opponent's 11th = the 5th cusp; their 6th = the 12th cusp.
+- The 11th sub lord Venus is in 7 (competition), in the star of Ketu (in 6 = loss to the opponent), in Ketu's sub. The 5th cusp sub lord Ketu is in the 6th → victory to India, no draw.
+- England 355 in the first innings; India won on 24-8-1971. CONFIRMED.
+
+### Basudev Patro — "Determining sex of the child" (husband b. 5:40:40 PM IST 12-3-1942, Sambalpur; KSK ayanamsa 23°? ; Sun dasa balance 3y 5m 28d; wife's chart also cast; both rectified)
+- Husband's cusp lords and planets are given with sub-sub lords (4 levels). The 11th cusp sub lords: the husband's Mercury, the wife's Rahu. In both charts Jupiter and Venus are connected with 2 and 5 → children promised.
+- **"First consideration should be given to the horoscope of the male."** Significators of 2, 5, 11 (husband): Rahu, Venus, Mercury, Jupiter, Mars, Saturn (Rahu in Leo replaces the Sun).
+  - → Rahu–Mercury–Venus–Rahu pratyantara, Mars sukshma, Jupiter day.
+- **Sex (contributor; FLAG)**: from the "ruling planets" (natal significators) being feminine: Rahu in Venus's star (feminine); Venus feminine; Jupiter in a Venus sign, Moon star; Mars in a Venus sign, Moon star; the Sun in Venus's sub → a daughter. The wife's chart: Ketu, Venus, Moon, Mercury → Mercury–Moon–Ketu–Venus–Ketu (1–4 Apr 1971).
+- **Difficult delivery**: Mars and Saturn connected → surgical aid. Rahu and Venus connected with the 12th; Mercury in the 6th (12 to 7) in Mars's star → trouble to the wife.
+- A daughter was born on the night of 1-4-1971 by forceps. CONFIRMED (sex by contributor heuristic; KSK says no rule; FLAG).
+
+### KSK (likely) — "Longevity of a couple" (native b. Monday 19-?-1912, 9°55'N 78°16'E; Gemini lagna 11°53')
+- **Longevity of the wife from the husband's chart (KSK)**:
+  - "The 7th cusp indicates the partner. When judging the longevity of the wife, first note the lords of the star and sub of the 7th cusp. If they are evil, the partner passes away early."
+  - The 7th cusp is Sagittarius 11°53' (Ketu star, Saturn sub). Ketu indicates the 6th and 10th to the wife (her 12th from 7 and 4th? i.e. 6 and 10 from the lagna = the 12th and 4th from the 7th). Saturn is in the star of a planet in 2 (her 8th).
+  - The 7th cusp in a common sign → the 7th from it (Gemini) is her badhaka. Her marakas = the 2nd and 7th from the 7th (8 and 1).
+  - Mercury and the Sun are in the 2nd from the 7th (the 8th); the 7th is empty → the Sun and Mercury are evil for her. Venus is in the Sun's star; Ketu represents Venus (in a Venus sign).
+  - Saturn is the wife's maraka lord. Ketu is aspected by Saturn → **(Uttara Kalamrita: a node conjoined with or aspected by a planet gives that planet's results)** → Ketu gives Saturn's (L2, maraka) and Venus's (L6, disease) results.
+  - The wife died 18-10-1969 in Ketu–Saturn. CONFIRMED.
+- **Self (KSK)**: Gemini (common) → badhaka = the 7th; marakas = 2 and 7.
+  - Venus is in the 7th bhava (Sagittarius 11°53' to Capricorn 7°58'), although in the 8th sign → **"any planet in the star of a planet in the 7th (badhaka and maraka for common signs) must prove evil"**. Saturn is in Bharani (Venus's star) → a significator for the end of life.
+  - L7 Jupiter (nothing in its star) is strong. The 2nd is empty; L2 the Moon has Mars (in Rohini) → Mars and the Moon give 2nd-house results.
+  - **Death period: Venus–Mars–Mars–Moon → about August 1977** (the Sun in its own sign, Venus star). "From the end of August 1977 expert medical aid will be needed." CHECK (prediction).
+- App: KSK's method for the spouse's longevity via the 7th cusp star/sub lords and the derived badhaka/maraka.
+
+### A. M. Kelkar — "Next higher status — when?" (wife's query; number 40; 11:30 AM 8-11-1970, Raipur 21°?N 81°41'E)
+- Cusps (sign, degree): I 1s 26°06'40" (Taurus); II 2s 20°40'; III 3s 16°06'; IV 4s 16°06'; V 5s 17°06'; VI 6s 23°06'; VII 7s 26°06'40"; VIII 8s 20°40'; IX 9s 16°06'; X 10s 14°06'; XI 11s 17°06'; XII 0s 23°06'.
+- Planets:
+
+  | Planet | Position | Sign lord | Star lord | Sub lord |
+  |---|---|---|---|---|
+  | Sun | 6s22°03' | Venus | Jupiter | Saturn |
+  | Moon | 10s13°08'45" | Saturn | Rahu | Mercury |
+  | Mars | 5s18°36' | Mercury | Moon | Mercury |
+  | Mercury | 6s29°14' | Venus | Jupiter | Sun |
+  | Jupiter | 6s22°55' | Venus | Jupiter | Saturn |
+  | Venus (R) | 6s25°30' | Venus | Jupiter | Mercury |
+  | Saturn (R) | 0s26°05' | Mars | Venus | Ketu |
+  | Rahu | 10s5°29' | Saturn | Mars | Sun |
+  | Ketu | 4s5°29' | Sun | Ketu | Rahu |
+
+- **The husband's promotion from the wife's chart**: the husband's 2, 6, 10, 11 = the wife's 8, 12, 4, 5 (derived from the 7th).
+  - The Moon conjoined with Rahu (representing Saturn in the 12th = the husband's 6th), aspected by Mercury (L5 = the husband's L11) and the Sun (L4 = the husband's L10) → the question is confirmed.
+- Filtering:
+  - 8th: L8 Jupiter; the Sun, Mercury, Jupiter and Venus are in Jupiter's star. **Reject Jupiter and the Sun, both in the sub of retrograde Saturn.** Mercury is strong (in the Sun's sub, L4 in 5). Venus, though retrograde, is in Mercury's sub (L5).
+  - 12th: the occupant Saturn is retrograde → **no planet in its star is considered** (contributor). Rahu represents Saturn; the Moon is in Rahu's star and Mercury's sub → Moon; Rahu (conjoined with the Moon; in Mars's star (L12), the Sun's sub) strong.
+  - 4th: L4 the Sun is rejected; Ketu represents the Sun → Ketu.
+  - 5th: the Sun, Jupiter, Mars …
+  - → Mercury, Venus, Rahu, Ketu (the Moon omitted as conjoined with Rahu).
+- RPs: the Sun (day; Mercury, Jupiter, Venus by conjunction), Saturn and Ketu (for the Sun) (Moon sign), Rahu (nakshatra), Jupiter (lagna Sagittarius) → confirm Rahu, Mercury, Venus, Ketu.
+- Horary Moon at Aquarius 13°08'45" → Rahu dasa balance 9y 3m 5d → Rahu dasa started 13-2-1962. Antaras computed (Rahu–Rahu, Jupiter, Saturn 15-1-1970 …, Mercury from 3-8-1972 …). Continues "on page 72", which is **not in the source files (MC_141 ends here)**. GAP: the conclusion is missing.
+
+---
+
+## END OF MAGAZINE SET (MC_000–MC_141 read)
