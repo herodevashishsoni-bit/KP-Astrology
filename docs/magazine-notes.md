@@ -2230,3 +2230,83 @@
 - **April 1969 issue** (Vol. 1 No. 4 of the new series?) contents.
   - "Guruji enters 61st year" by Som Gupta is PALMISTRY plus Western house-lord readings of KSK's hand — REJECT (non-KP).
   - Biographical: KSK born 1 Nov 1908 (enters 61st year 1-11-1968), Capricorn lagna, Moon in lagna, Venus 9th, Mercury + Sun in 10th; received a Gold Medal and title from the Governor of Bombay in Mercury sub period.
+
+## MC_098 (Apr–May 1969)
+
+(Large de-dup gaps "[...N lines duplicate of Readers...]" in this file; some article bodies are missing. FLAG.)
+
+- End of Som Gupta's palmistry piece on KSK — REJECT.
+  - **Editor's (KSK) note — fatalism, an important doctrinal statement**: God granted the life span at birth; it cannot be changed by prayer or curse. "Astrology is a science which gives the unalterable events with date. Those who say that astrology indicates the tendency are not astrologers at all."
+  - → App: predictions should be phrased as events with dates, not tendencies. (But contrast KSK's own repeated "pray Lord …" advice — FLAG: inconsistency between fatalism and prayer remedies; the remedies are rejected anyway.)
+- **"Farm and future" (KP verified)**:
+  - KP II p.285: Mars, Venus, Moon and Jupiter are connected with farming. Rahu represents Venus (sign) and Mars (star).
+  - Native 4-12-1927, 11:30 AM, 22°15'N 70°56'E. Bought farm land 6-7-1968 in Moon dasa, Venus bhukti, Mars antara, Saturn sookshma.
+  - Purchase of land = 2 (acquisition), 4 (land), 11 (possession/gains). CONFIRMED; used to verify the birth time.
+  - Rule: a profession's future → check whether the coming dasa lords connect with the profession's houses.
+- **Profession reading (fragment)**: 10th cusp Aquarius 9°32' (Saturn sign, Rahu star, Jupiter sub) → sales representative/agent dealing with drugs and pharmaceuticals; medical line. RPs used to reduce significators (lagna Cancer 22°55' Pushya → Saturn).
+  - Character: magnanimous, modest, accommodating, but dual-minded and slow to decide. (Lagna-based, details lost.)
+- **"Time of marriage" by "MERCURY"**: 30-1-1941, 11:10 AM IST, Delhi 28°40'N 77°12'E; Rahu dasa balance 0y 7m 9d.
+  - Uses the "affliction" rule: lagna afflicted by Saturn (debilitated, conjunct Jupiter); L1 Mars in 6 → check the Moon sign (Aquarius: Moon = L6; Saturn debilitated) → neither strong → revert to lagna. FLAG: sign-affliction/debility method (see the earlier contradiction note).
+  - Significators of 2/7/11 not in star/sub of 6/8/12 significators → Jupiter, Saturn, Mars strongest. RPs at judgment (3-12-1968, 10:45 AM Hyderabad): Mars (day), Sun (Krittika), Mars (Aries), Saturn (Capricorn lagna) → Jupiter, Saturn, Mars, Sun.
+  - Second piece (de-dup gap): native born 1-5-1931. The lagna, Moon and Sun each give different birth times when back-calculated (8 PM / 10:05 PM / 11:55 PM) → horoscope inconsistent; rectified by KSK.
+    - KSK answer: "I have totally forgotten the traditional system; I follow only KP." Rule: when most planets connect to 2/7/11, use RPs at judgment plus the sub lord of the 7th cusp to eliminate.
+    - Prediction: marriage August 1969 (KSK "blesses" in the 4th week of July 1969). CHECK.
+- **Ganapathi, "Married life"** — horary number 77, 9:30 PM 21-1-1969 (Tuesday, Purvabhadra, Aquarius).
+  - 77 → Sagittarius 13°20'–16°40'. Married life judged from significators of the 6th (separation).
+  - The 6th is unoccupied and owned by Mars → many difficulties, difference of opinion, "a patient victim to tortures" (for the daughter).
+  - 12th occupied by Saturn; Rahu in Saturn star → whenever a Rahu sub-period operates, the girl goes to her parents' place and stays alone.
+  - Ketu represents Mercury (L6) → in sub-periods of Saturn (in Mercury star), Mercury and Ketu: disharmony and disputes. Venus sub-period (after 2y 8m 6d) → harmony.
+  - Recommends "Lakshmi Hridayam" prayer — REJECT (remedy).
+  - Daughter's chart: Mars dasa (Mars in Jyeshta = Mercury, L6 & L9; Sun sub, L8 in 10 = 12th to 11) → trouble since marriage. Rahu dasa, Guru bhukti → happy. Also: since Jupiter and Venus favour a happy life, the birth star should be Visakha or Purvashadha (a star-guessing heuristic; FLAG).
+- **Review of books**: Noel Jaquin's palmistry books — irrelevant; REJECT.
+- **Jataka Dwadasha Bhava Phala Nirnaya, 8th house** (Gopi Nath Kapoor translation): traditional results of the 8th bhava by sign, L8 in houses, aspects on the 8th, and longevity yogas (short ≤32, medium ≤70, long >70). REJECT (traditional, not KP). Noted only for completeness: the 8th-house signs give cause/place of death, travel death by movable sign, etc. No KP basis.
+- **Ganapathi, "Regaining lost position and retirement"**: native 5:45 PM 20-2-1924, 8°11'N 77°29'E. Ketu dasa balance exactly 4 y.
+  - Regaining position = houses 10 and 11 (and 2/6?, de-dup gap). Success also confirmed when the RPs (day lord + lagna lord at dictation, both Moon on a Monday with Cancer rising) favour.
+  - No planet in Mars or Venus stars → Mars dasa, Venus bhukti will give it; no node conjoined with them or in their signs.
+  - Order date predicted as 3-5-1969 (Sun in Bharani = Venus star; Moon sub-period in Venus Apr–May 1969). CHECK.
+  - Resign/retire = houses 1, 5, 9: Moon and Rahu in 1, Mars in 5, none in 9; L9 Jupiter; Mercury in … (gap).
+- **"Interview — result? — Uchista"** (horary number 56, 6:50 PM 14-11-1968, Sub-Inspector of Police selection):
+  - Moon in Ketu star, Mercury sub; Ketu signifies the 11th, Mercury the 6th → the query is genuine ("the position of Moon fully confirms your query").
+  - Success in interviews/competitions = 6 and 11. The 6th has Rahu and retrograde Saturn. **Planets in the star of a retrograde planet are not capable of fulfilling the desire** → Rahu (in Saturn star) is omitted even though in its own sub in the 6th. Mercury, the only planet in Rahu star, signifies the 6th. 11th: Moon; Ketu alone in Moon star.
+  - Lagna = 7th to 7th (opponents) → represents the querist.
+  - Ketu dasa, Mercury bhukti (balance 3m 29.7d); Rahu antara until 29-11-68 gives no good. Jupiter antara 29-11-68 to 17-1-69 (Jupiter in Sun star in lagna, Mercury sub).
+  - Sookshma: in Ketu dasa, planets in Ketu star act → Moon. Also, judgment was made while Moon star Sravana was rising → Moon sookshma → selection in the first week of January 1969. CHECK.
+  - Ends with "Pray Lord Uchista Ganapathy" — remedy, REJECT.
+- **"Horary — marriage when?" (Muralidharan & Hrushikesh)**: Mercury dasa balance 12y 0m 1d.
+  - Moon is the mind ("invariably; this rule does not fail"). Moon in Mercury star (Mercury = L3 → sister) and Venus sub (Venus = karaka of marriage) → question is about the sister's marriage. Moon sign afflicted by Ketu → querist's mind unclear (agreed).
+  - Uses Hindu aspects, Chandra lagna (judges 2/7/11 from the Moon because it is "stronger"), Saturn-in-1/3/5/7/10-delays rule, and aspect degrees (177°52'). FLAG: mixed traditional; questionable — sister's marriage should use the 9th cusp (7th from 3rd).
+  - Lists the KP significator order for marriage:
+    - (a) planets in the stars of occupants of 2/7/11;
+    - (b) the occupants;
+    - (c) planets in the stars of the lords;
+    - (d) the lords;
+    - (e) planets conjoined with them;
+    - (f) planets aspected by them.
+  - RPs Ketu, Mars, Mercury, Mars, Mercury. Predicted Mercury dasa, Venus bhukti, Saturn antara, Mars sookshma (24-6 to 3-7-1969), Sun in Gemini/Ardra → 25-6-1969. CHECK.
+- **"KP verified" (10 events, one native; probably KSK)**: native 5:25 AM 24-10-1933, 14°31'N 75°58'E; lagna Virgo 23°54' (Mercury sign, Mars star, Mars sub). Ketu dasa balance 0y 9m 17d.
+  - Birth time check at 6-2-69 (Thursday, Aries lagna, Moon in Uttaraphalguni): RPs Ketu, Mercury, Mars, Sun, Jupiter (Ketu represents Mercury). They match lagna Mercury sign/Mars star/Mars sub and Moon in Jupiter sign/Ketu star/Mercury sub → chart correct.
+  - **Marriage 16-5-54**: 2nd has Mercury, Mars, Venus. Mars and Venus in Mercury star; Rahu in Mars star; no planet in Venus star → Venus very strong. Moon in Ketu star. Marriage in Venus dasa, Ketu bhukti, Saturn antara.
+    - Ketu has no day of its own → gave it on Sunday because Ketu was in a Sun sign. Moon conjoined Saturn (antara lord) in the dasa lord's sign that day.
+    - Traditional (rasi/chalit) would put Venus in 3 with no strength; "according to KP the single rule is universally applicable".
+  - **Accident (4 teeth damaged 21-1-1956)**: 8 = accident with injury; 6 = ailment; 12 = hospital.
+    - Rahu in Mars (L8) star; Rahu in Aquarius = 6th cusp sign (gives Saturn's results). Mercury alone in Jupiter (12th occupant) star. Ketu agent of Sun (L12).
+    - Saturday; Sun in Capricorn, Uttarashadha (Sun star), Ketu sub; Moon in Aries, Ketu star; Rahu (bhukti lord) in a Mars sign, Mercury star → "transit fixes the exact date".
+    - Teeth = 2nd house. Mars (L8) in 2nd; Rahu in Mars star indicates the body part. Mars in own star in 2nd → long, projecting teeth. Mars, Moon, Saturn → pyorrhoea (Saturn = bones, Moon = pus).
+  - **Failed exam / discontinued study (end June 1957, Sun dasa, Saturn bhukti, Saturn antara)**:
+    - 4th = study (4th cusp Sag 23° to Cap 23°). Saturn in 4; no planet in Saturn star → Saturn gives study; Saturn in Moon star, Moon in 3rd (12th to 4) → Saturn also ends it.
+    - Rahu in a Saturn sign gives the same. Joined Law in Jupiter bhukti.
+    - **RULE — "convertible" planets**: a bhukti lord signifying both favourable and unfavourable houses acts per the dasa lord. In a beneficial dasa it does good; in a dasa whose lord is to end the matter, it ends it ("a servant in animal husbandry raises animals; if the master is a butcher, he slaughters"). So Saturn bhukti in Venus dasa allowed continuous study; in Sun dasa (Sun in lagna, Rahu star; Rahu in 5 = maraka to the 4th) study ended.
+  - **Disease and cure**: Saturn owns Aquarius (6th cusp), no planet in the 6th or in Saturn star → Saturn shows the nature of disease. It acts in its own periods and those of planets conjoined with or aspected by it (Saturn aspects 3rd, 7th, 10th — Hindu aspects used; FLAG). Sun alone is aspected → Sun dasa, Saturn bhukti: long-standing disease.
+    - Saturn opposes Cancer (4th sign = lungs) in its own sub → asthma (de-dup guess).
+    - Cure: Moon = L11 in Ketu star, Ketu in 11 → cure. Saturn = L5 (12th to 6) in Moon star → also cures. Moon dasa, Saturn bhukti → disease disappeared.
+  - **Oil business started 14-2-67, stopped 12-5-67**: Moon dasa, Mercury bhukti, Moon antara. Mercury = plurality (adds another line or additional charge); Moon = liquids → oil business added. Rahu antara ended it: Rahu in 5 (12th to 6), in Mars star (Mars in 2, L3 & L8).
+    - **RULE**: Mars both does and undoes — "start in a flash and end in a crash". Planets in Mars star give both results.
+  - **Sale of land 6-9-68** (Moon dasa, Venus bhukti, Mercury antara): 4 = permanent possession; 3 = severing connection with 4th matters (12th to 4); 2 = cash. Moon in 3rd → loses 4th-house matters; Venus and Mercury in 2nd → realisation of money.
+    - **RULE**: the 11th is 12th to 12, 6th to 6, 8th to 4 → evil for houses 12, 6 and 4. Whether one demolishes, sells or acquires depends on the sub lord.
+  - **Sister's marriage 29-1-1968** (Moon dasa, Venus bhukti, Mars antara): sister = 3rd; her marriage judged from the 9th cusp (7th from 3rd) — Venus sign, Moon star, Sun sub.
+    - Mars in Mercury star (L11 from the 3rd); Venus = L7 from the 3rd. Mercury in Jupiter star in 12th → pleasant expenses; Mars (karaka of siblings, L3) in 2nd → expense due to sister; also the sister going away (12th from 3 = 2nd).
+  - **Father's death 10-9-58 and entry into service 18-9-58** (Sun dasa, Mercury bhukti, Venus antara, 30-7 to 21-9-58):
+    - 10th = karma: both profession and last rites of parents → the same period can give a job and a parent's death (example: two telegrams at once, Supreme Court Judge appointment and a relative's death).
+    - Father: 9th cusp in Taurus (fixed) → badhaka of the 9th = 9th from the 9th = 5th. 5th occupied by Rahu; Sun alone in Rahu star → Sun dasa = end of father; Mercury bhukti.
+    - Folk note: "in some families father dies when a child is expected; the father takes birth as the child" — belief, ignore.
+- April 1969 contents list (also: Errata, Tour programme, Photography and prosperity, Daily guide, Monthly prediction).
