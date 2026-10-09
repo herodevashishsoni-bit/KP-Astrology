@@ -6091,3 +6091,156 @@ Rahu represents Saturn; Ketu represents the Sun.
 - Outcome: "exactly at 7 minutes past 3 o'clock" (OCR: likely 8 o'clock, i.e. 20:07). CONFIRMED per the author. FLAG: precise death timing by Moon sub-sub transit; a third-party death from horary.
 
 ### "No more doubts!" (Q&A) — continues in MC_127.
+
+## MC_127 (Feb 1971 end + Mar 1971)
+
+### KSK Q&A "No more doubts!" — name-letter matching and marriage porutham
+- "No man can marry a girl unless destined." Name-letter matching, dasa porutham, flower picking and omens are all useless for harmony (Rama and Ravana both start with "Ra").
+- **KSK: "Dasa porutham is not useful."** An astrologer should predict who will marry whom (prāptham) and how the married life will be per their fate, not match charts. (App: no porutham/kuta matching; FLAG confirms the exclusion.)
+
+### Monthly predictions (Pisces etc.)
+- KSK's sign-wise monthly forecasts (by the Moon sign/lagna/Sun sign of readers; FLAG: generic forecasts, which KSK elsewhere calls "absurd" when based on the Moon sign alone).
+  - Uses derived houses: the native's mother = the 4th, children = the 5th, father = the 9th, partner = the 7th. Not for the app.
+
+### "How minor events help" (Dharwar student)
+- KSK anecdote (B.V.B. Mylapore class): two brothers. The bride's period had not come; the wedding was set 13 days after the expected period, 5 days remaining.
+  - KSK split the question into two numbers: (1) will the marriage go on as fixed; (2) when will the anxiety end.
+  - Answer: the marriage goes on; a trunk call from Kumbakonam at 10:35 PM the same day would say the period had started. It happened. CONFIRMED.
+- Principle: predict minor events to build skill for major ones. Applicable to missing persons, returns, entangled money.
+- **Rule: a compound question should be split, with one number per sub-question.**
+
+### Mar 1971 issue — KSK interview "You and your stars" (Kandiah Thiru, Ceylon) — KEY policy statements
+- **Predestination**: "Yes, of course." "The tendency is to die next year but you can avert it" is illogical; events cannot be averted or their time changed. Prarabdha karma is inevitable.
+- **Remedies/shantis**: "I do not wholly believe in santhis; they are no guarantee … but I do believe in prayer or atonement, which certainly mitigates; it depends on the gravity of the sin." (A caption at Matale: prayer "has a limited advantage" and doesn't guarantee warding off evil.) → App: no remedies (consistent with the earlier stance; note "prayer mitigates" as a KSK caveat).
+- **Birth time = the moment of severance**: when the child stops being fed through the mother's circulation, i.e. begins to live independently (any means of delivery). → App: the user enters the birth time; rectification refines it.
+- **Ceylon's rising sign**: the 15th degree of Capricorn. Provinces fall under the country's lagna. (Mundane; not needed.)
+- **Quoting slokas**: "Meaningless. I loathe such quotations." Same longitudes give opposite results depending on the ascendant and cusps (twins).
+- **Ephemeris and ayanamsa (KEY)**:
+  - "Drik ganitha is better and dependable. Forget Vakya; it is incorrect."
+  - "Other ayanamsas are incorrect if they do not agree with drik ganitha."
+  - "Take Raphael's Ephemeris and Krishnamurti's ayanamsa alone."
+  - → App: a modern accurate (drik) ephemeris (Swiss Ephemeris ≈ Raphael but better) with the KSK ayanamsa. Decision input for kp-rules.md.
+- **Lahiri**: "Yes, he is dependable … almost correct. He ever stands for reasoning. Late C. G. Rajan is also correct." Others are faulty. (So Lahiri ≈ KSK, a small difference; KSK = Lahiri − ~6'.)
+- **Sex of the child**: "The pressing need is to determine the sex of the child from the horoscope. Even that is imperfect." → confirms the GAP: no reliable rule. The app should not predict sex.
+- **Human vs animal birth moment**: sages' rules fail; no rule is correct.
+- **Janma lagna vs Chandra lagna**: "Always go on janma lagna, not chandra lagna" (twins: the Moon is the same, the lagna sub differs).
+- **Marriage date**: Jupiter's transit (gochara) alone "is to fool the ignorant"; use K.P. transit.
+- **Horary**: "an exact science"; it can predict from birth to death; used when there is no horoscope, a doubtful one, or alternate dates.
+- **Retrograde in a natal chart (KEY)**: "Whether a planet is retrograde or in direct motion in a natal chart, the result is the same. But in horary, retrograde planets delay or deny according to the constellation they are in and the motion of its lord." (1922 births with many retrogrades → judges and ministers.)
+  - → App: natal ignores retrogression; horary applies the retro rules. Resolves the contributor contradictions (MC_126 Bandaranaike, MC_124).
+- **Sources of K.P. (KEY)**: "For names of planets, signs and Vimshottari dasa I go to the Hindu nirayana system. **For divisions of houses I go to the Western system.** For the predictive part I stand on my own." (House division = Placidus, per the Readers.)
+- Nirayana vs sayana: "Neither is superior … both incomplete … I follow the constellation theory which is nirayana."
+- Precession: ~1° per 71 years; the zodiacs coincide once in ~25,000 years. **"The nirayana zodiac commences at a point right opposite (180°) Chitra or Spica."** (Spica at 180° = the Chitrapaksha basis; KSK's ayanamsa is a slight variant. App: use the KSK ayanamsa formula from the Readers.)
+- Western predictions (Kennedy's murder): lucky hits plus many failures.
+- Nadi granthas: "a mysterious thing under the control of devils"; they give the past correctly up to the moment of consultation, not the future. (Reject.)
+- **Longevity**: "It is no puzzle to K.P. followers. I predict it to the very date of death. The key is in my Padhdhati."
+- Palmistry: no certainty (KSK studied the palms of the dead in crematoriums in 1952).
+- Atomic war: no rule; more research needed. Weather: more research needed. Mundane astrology: yes.
+- Moon-sign or Sun-sign general forecasts: "both absurd."
+- Tamil race: Mercury.
+- **Constellation principle (KSK)**: "The Moon in a sign does not give the effect of the lord of the sign; she gives the effect of the lord of the constellation she is in." Bharani in Aries → the Moon does Venus's work, not Mars's. Krittika → behaves like the Sun whether in Aries or Taurus. "The tenant is stronger than the landlord."
+
+### A. Sivapatham — "At what time will the aeroplane touch the airport?" (KSK, Katunayake, 28-11-1970; number 4 → Aries 3°40', Mars sign, Ketu star, Moon sub; 3:52 PM CST)
+- KSK answered mentally in 3 minutes: 4:39:20 PM CST. The airport later announced 4:45. The plane touched down at exactly 4:39:20. CONFIRMED.
+- Reconstruction by Sivapatham:
+  - Lagna lord Mars aspects the lagna. The 11th cusp sub lord Jupiter is direct, in its own star, aspecting the lagna and the 3rd → arrival certain. But Jupiter is in the sub of retrograde Venus → slight delay.
+  - **Arrival of a plane = 3 + 11** (3 = short travels, transport, air; 11 = reaching the destination).
+  - 3rd cusp Gemini 1°40' (airy), Mars star, Mercury sub. Contributor symbolism: the Mercury sub → plane/route/seat number connected with 5 (route 572 → 5). FLAG: numerology, not for the app.
+  - Significators:
+    - 3rd: Mercury (L3, nothing in its star);
+    - 11th: Rahu occupies it; Venus is in Rahu's star; L11 Saturn has the Sun and Moon in its star.
+    - The Sun, Moon and Saturn are in the stars of retrograde planets (Saturn R, Venus R) → reject them.
+    - Mars aspects the 11th cusp, Jupiter the 3rd cusp → add both.
+    - → Mars, Venus, Mercury, Jupiter, Rahu.
+  - RPs: Mars, Venus, Saturn. Saturn is retrograde in the star of another retrograde planet (Venus) → reject → Mars, Venus.
+  - Minor event → ascendant transit: Mars sign, Venus star, Mercury sub, Jupiter sub-sub = Aries 25°20'15". Sidereal time at noon 16h38m50s, ayanamsa 23°20' → 4:39:20 PM.
+  - Why not Rahu? Rahu in a Saturn sign gives Saturn's results, and Saturn is retrograde in a retrograde star → Rahu/Saturn won't manifest.
+  - Observed: in the Rahu sub the officers came out; in the Saturn sub (4:28) the plane was seen then vanished; in the Mercury sub it reappeared; it touched down at the Jupiter sub-sub, 4:39:20.
+- App: excellent minor-event timing example (RP filter: reject retrograde RPs and RPs in retrograde stars).
+
+### "Traditional astrology and the consultants" (P. M. Powar, Hubli)
+- Muhurtha failures:
+  - the brother left at an "auspicious" 6:30 AM and died of heart failure on arrival;
+  - the astrologer who set his own "auspicious" operation time died on the table.
+- Five traditional astrologers gave contradictory porutham verdicts. Three K.P. followers gave the same answer.
+- **KSK editor's note**: "Dasa porutham is meaningless. Judge prāptham: whether A will marry B." Advice to find a fertile partner for a childless chart is wrong: fate can't be changed.
+
+### "Questions for traditional astrologers" (KSK challenge list)
+1. No classic text gives different results for planets in different stars (dasa) and subs (bhukti). Critics borrow K.P. without credit.
+2. "Sathabhisha" at Cocanada openly follows K.P.
+3. KSK left overseas on 15-5-1970 during Rahu kalam, Chandrashtama, a Pubba (P. Phalguni) star day and a Navami, and returned with honours → muhurtha is meaningless as a cause.
+4. Twins: same rasi, navamsa, dasa, gochara, ashtakavarga and shadbala, yet opposite results.
+5. Nadi amsa doubts.
+6. K.P. tests via minor events.
+7. Post-mortems improve the science (failures over Nixon, Kennedy, Senanayake, Wilson, Chavan, Sanjiva Reddy, Giri, Pakistan's scrapping).
+8. KSK predicted at a press conference that the PM's downfall/disappointments start on 6-9-70 (Saturn dasa); Belgaum "status quo". (Continued.)
+
+### P. R. Murali Dharan — "Sister's arrival — when?" (2:57 PM IST 8-10-1970, Mysore)
+- **RP list with refinements (as stated)**:
+  - reject RPs posited in the constellation or sub of retrograde planets (FLAG: "or sub" is broader than KSK's star-only rule);
+  - include the nodes if conjoined with any RP, occupying a sign of an RP, or aspected by them.
+- RPs: Jupiter (day? OCR), Jupiter (Moon sign Sagittarius), Venus (P. Ashadha), Saturn (lagna Capricorn), Mars (lagna star). Rahu represents Saturn (in Aquarius).
+- **Derived houses**: lagna = the consultant; the 3rd = the younger sister. The 11th cusp from the 3rd = the 1st cusp (but the author uses the horary 11th cusp; OCR). Rule: if that sub lord is in the star of a retrograde planet → she won't return.
+  - The 11th cusp Capricorn 26°01', sub lord Rahu in its own star and sub, in the 11th from the 3rd cusp, aspected by Mars (L3) and Jupiter (natural benefic) → certain.
+- Ascendant transit: Saturn sign, Mars star, Venus sub = Aquarius 2°40'–4°53'20" → 3:20–3:28 PM.
+  - Subs after the moment: Jupiter, Saturn (R → delay till over), Mercury, Ketu (not RPs → reject), Venus. Mars aspects Venus by sextile (FLAG: Western aspect). Venus is an RP in the star of Jupiter, an RP.
+  - Jupiter sub-sub → 3:24 PM. She arrived at exactly 3:24 PM. CONFIRMED.
+
+### P. S. Sastry — "Astrology and self thought" (number from opening Horary Astrology: page 159; 8:50 PM 16-9-1970, 18°07'N)
+- KSK, Horary Astrology p.105: open the book and note the right-hand page number (the method for self-queries).
+- **Horary Astrology p.312 (KSK)**: when awaiting a reply from an astrologer, the astrologer = the 7th house. The 7th sub lord gives early/late; the 11th sub lord gives whether it is promised.
+  - 7th cusp Taurus 18°33', sub lord Mercury (R) → a reply only after Mercury turns direct (22-9).
+  - The 11th sub lord Jupiter is direct, not in a retrograde star, in 11 → promised.
+- Significators of 3 and 11:
+  - 3rd: Rahu, with Venus and Jupiter in its star. L3 Saturn is retrograde → reject.
+  - 11th: Jupiter (nothing in its star). Jupiter aspects the Moon; the Moon is in the star of L11.
+  - Venus in 12 → reject. → Moon, Jupiter, Mercury, Rahu.
+- Received a communication on Thursday 29-9 (Hasta). Mercury is "dual" → he replies, and receives another letter from Guruji on Monday 12-10. Both CONFIRMED.
+
+### KSK — "Will this happen?" (number 151 → Scorpio 7°20', Mars sign, Saturn star, Ketu sub; 5:51 PM Thursday 29-10-1970, 28°40'N; ayanamsa listed 22°20' (OCR, should be 23°20'))
+- The Moon is in a Venus sign, Mars star, Venus sub (L7 and L1) → competition or litigation.
+  - Venus (R) is in 12, in the star of Jupiter in 12 → **L7 in the star of a planet in 12 → secret inimical activities**.
+  - Lagna lord Mars (also L6) is in the star of the Moon in 11. Moon–Mars sookshma parivartana (FLAG: traditional term) → the querist always gains.
+- **KSK rule**: if a matter is to happen, the Ascendant will be in the sub of a planet that signifies the 11th (besides other houses).
+  - Here the lagna is in the Ketu sub; Ketu signifies 9 and 10, not 11 → won't happen.
+  - The 11th cusp sub lord Saturn (R) is in 6 (12 to 7, litigation/competition) → no promise.
+- "According to the Western system, in exactly 8 months there will be some demand; in the air for 8 months; falls through." FLAG: KSK mixing in Western timing.
+- **Analogy (KSK)**: "will my wife deliver prematurely?" For a normal-course question, take houses 7 and 11. The 7th = the partner; the 5th from the 7th = the 11th → normal or not.
+  - So the doubtful matter will not happen early; it comes in the normal course.
+
+### M. K. Garbhaya & S. M. Zaveri — "Longevity" (mother's death from cancer; number 25 → Taurus 3°00'; 10 AM Wednesday 8-4-1970, Wankaner; Venus dasa balance 7y 11m 3d)
+
+| Planet | Star lord | Sub lord |
+|---|---|---|
+| Sun | Mercury | Rahu |
+| Moon | Venus | Jupiter |
+| Mars | Sun | Rahu |
+| Mercury | Ketu | Saturn |
+| Jupiter (R) | Rahu | Jupiter |
+| Venus | Ketu | Mercury |
+| Saturn | Venus | Sun |
+| Rahu | Rahu | Venus |
+| Ketu | Venus | Moon |
+
+- Rahu represents Saturn; Ketu represents the Sun. Conjunction: Mercury, Moon, Venus, Saturn, Mars.
+- The Moon in 12, in the star of Venus (maraka lord) and the sub of Jupiter (badhaka lord) → the query is confirmed.
+- Fixed lagna → marakas 2 and 7; badhaka 9th.
+- **K.P. rule (cited)**: the fatal disease is shown by the significator of the 8th. The last disease is indicated by the 8th cusp sub lord, or by the star lord of that sub lord.
+- Significators:
+  - 2nd: vacant; L2 Venus has the Moon, Saturn and Ketu in its star (Ketu is the Sun's agent).
+  - 7th: vacant; L7 Mars, nothing in its star → powerful (conjoined with Venus, Moon, Saturn, Mercury).
+  - 9th: vacant; L9 Jupiter, nothing in its star.
+  - → Moon, Saturn, Ketu, Sun, Mars, Jupiter.
+- The 8th sub lord Saturn signifies 2, in Venus's star, the Sun's sub → the fatal disease manifested in Venus dasa.
+- "Node is always powerful" → Ketu first; Mars (in Rahu's sub) and Jupiter (own sub).
+- Venus–Jupiter–Mars 21-6 to 11-8-70; Mars sookshma 21–24 Jun → declared 22/23-6-1970.
+- RPs: Mercury (day), Venus (Moon star Bharani), Mars (Moon sign), Venus (Asc), Moon (Asc star Rohini). Jupiter direct from 24-6.
+- Died 12:30 AM 23-6-1970 (Tuesday); the Moon in Sravana, passing the 9th house. CONFIRMED.
+
+### S. Ramachandran Nair — "Horary" (number 224 → Aquarius 23°53'20"; 7:20 PM IST Thursday 1-10-1970, Kanyakumari; Mars dasa balance 5y 10m 14d)
+- Question: is the 4th younger brother secretly married? If not, when? Legally arranged?
+- Planet longitudes and lords: Sun 164°39' Moon/Jupiter; Moon 175°29' Mars/Rahu; Mars 144°42' Venus/Mercury; Mercury 147°20' Sun/Sun; Jupiter 194°51' Rahu/Ketu; Venus 205°44' Jupiter/Mercury; Saturn (R) 28°38' Sun/Mars; Rahu 307°27' Rahu/Rahu; Ketu 127°27' Ketu/Rahu.
+- **Sibling derivation rule (contributor, K.P.-consistent)**: 1st younger sibling = 3rd; 2nd = 5th; 3rd = 7th; 4th = 9th (every alternate house). So the 4th younger brother's ascendant = the 9th cusp (Libra 28°32').
+- The Moon is in the star of Mars (L3, L10, in 7) → houses 7, 2, 11 from the 9th → marriage of that brother.
+- Saturn occupying the 3rd bhava → the news is false (to be confirmed by the sub). Continues in MC_128.
+- RPs: Jupiter (Thursday), Mercury (Moon in Virgo), Mars (Chitra), Mars (lagna Aries? OCR), Ketu (Aswini) → common ones: Jupiter, Mercury, Mars, Ketu. The brother runs Mars–Rahu–Venus … (continues).
