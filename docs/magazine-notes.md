@@ -5483,3 +5483,234 @@ Second delivery; When will I get a residential telephone; When will I get my fir
   2. Sun, Mars, Mercury, by conjunction;
   3. Moon and Rahu, by aspect.
 - The Moon (mind) is L9, in 3, in Rahu's star; Rahu is in 3 and represents Saturn (L3 only) … (continues in MC_124).
+
+## MC_124 (Dec 1970 cont. + Jan 1971 start)
+
+### End of S. Lakshminarasimhan — "Any overseas service again?" (number 166 → Asc 27°53'20"; 5:50 PM Monday 14?-9-1970, Madras; Rahu dasa balance 7y 6m 13d)
+
+| Planet | Bhava | Star lord | Sub lord |
+|---|---|---|---|
+| Sun | 9 | Sun | Moon |
+| Moon | 3 | Rahu | Mercury |
+| Mars | 9 | Venus | Venus |
+| Mercury (R) | 9 | Venus | Mercury |
+| Jupiter | 11 | Rahu | Saturn |
+| Venus | 11 | Rahu | Mercury |
+| Saturn (R) | 5 | Sun | Mars |
+| Rahu | 3 | Rahu | Rahu |
+| Ketu | 9 | Ketu | Jupiter |
+
+- The Moon (mind) is L9, in 3, in Rahu's star, aspected by L10 (Mercury), L12 (Mars) and Ketu → mind on a job, a long journey, foreign life. The Moon in 3 → separation from kin.
+- **Foreign-travel promise: three conditions (consistent with KSK)**:
+  - (a) the 12th cusp sub lord is not retrograde;
+  - (b) its star lord is not retrograde;
+  - (c) the sub lord signifies 3, 9 or 12.
+  - Here the 12th sub lord is Rahu, in its own star:
+    - 3 by occupation;
+    - 9 by conjunction with its lord, the Moon;
+    - 12 by aspect on L12 Mars.
+- Cusps: 3rd = Saturn sign, Mars star, Saturn sub; 9th = Moon sign, Mercury star, Saturn sub; 12th = Mars sign, Jupiter star, Rahu sub; 11th = Venus sign, Mars star, Venus sub.
+- Significators:
+
+  | House | Significators |
+  |---|---|
+  | 3 | Rahu, Moon, Jupiter, Venus, Saturn |
+  | 9 | Ketu, Mars, Mercury, Sun, Moon |
+  | 12 | Mars |
+  | 11 | Rahu, Venus, Jupiter, Mars |
+
+- **Purpose of travel**:
+  - the 12th sub lord also signifying 6 → service;
+  - signifying 10 → business or professional assignment.
+  - The 6th is vacant; its lord Venus is in Rahu's star → a job abroad.
+- RPs (5:30 PM Monday 14-9-1970): Moon (day), Saturn (Moon sign Aquarius), Rahu (Moon star Satabhisha), Saturn (lagna Aquarius), Rahu (lagna star) → Rahu predominates.
+- Dasa: Rahu–Mercury to 26-9-70; Rahu–Ketu–Ketu to 19-10; Venus antara, with sookshmas Venus/Sun/Moon/Mars/Rahu (14–23 Nov)/Jupiter (24 Nov – 2 Dec) → leaves between 14-11 and 2-12-70.
+- **Rule (contributor)**: to enter a job, the 6th cusp sub lord must transit the stars of the significators of 10 and 11.
+  - The 6th sub lord is Jupiter (OCR "5th"); the 10th significator is Mercury (R), represented by Ketu (conjoined); the 11th significators are Rahu, Venus, Jupiter, Mars.
+  - 21-11-70: Jupiter in its own star Visakha, Ketu sub; Sun in Mars sign, Saturn star and sub; Moon in Ketu star, Saturn sub; Venus in Rahu star, Moon sub; Rahu in Saturn sign, Mars star, Venus sub.
+- Natal cross-check (b. 10:30 PM IST 26-?-1922, Trichinopoly 10°50'N 78°46'E; Mercury dasa balance 6y 5m 0d; now Moon–Venus–Rahu–Mercury):
+  - Cusps: 3rd = Moon sign, Saturn star, Jupiter sub; 9th = Saturn sign, Moon star, Jupiter sub; 12th = Mars sign, Venus star, Rahu sub.
+  - Planets:
+
+    | Planet | Bhava | Star lord | Sub lord |
+    |---|---|---|---|
+    | Sun | 4 | Moon | Moon |
+    | Moon | 7 | Mercury | Rahu |
+    | Mars | 7 | Venus | Venus |
+    | Mercury | 5 | Mars | Sun |
+    | Jupiter | 5 | Mars | Mercury |
+    | Venus | 6 | Jupiter | Ketu |
+    | Saturn | 4 | Moon | Saturn |
+    | Rahu | 4 | Sun | Mercury |
+    | Ketu | 11 | Saturn | Mercury |
+
+  - Significators:
+    - 3rd: Moon, Sun, Saturn (Rahu for the Sun and Saturn by association in 4);
+    - 9th: Ketu, Saturn, Rahu;
+    - 12th: Mercury, Jupiter, Mars (Rahu for Mercury by occupation, Ketu for Jupiter by occupation).
+  - "Remarkable coincidence":
+    - the natal L3 Moon sits in the horary 3rd;
+    - Mars is L12 in both charts;
+    - Rahu is the 12th sub lord in both;
+    - Jupiter is the 5th sub lord in both.
+  - On 21-11-70 the natal dasa is Moon–Venus–Jupiter–Saturn → leaves India on a job on 21-11-1970. CHECK (prediction).
+- The number was taken from a page number of a book opened in the astrologer's presence (not cooked up).
+
+### P. R. Murali Dharan — "Friends' arrival" (number 30?/50 → Gemini, Ardra (Rahu), Mercury sub 12°33'20"–14°26'40"; 10:05 PM IST 6-7-1970, Davangere 14°31'N)
+- Procedure as before: sayana Asc Cancer 5°53'20"; Raphael at 15°N; planets interpolated between the 5:30 PM positions of 6-7 and 7-7 from the A&A July 1970 ephemeris (the KSK ephemeris is given at 5:30 PM IST daily).
+
+  | Planet | Star lord | Sub lord |
+  |---|---|---|
+  | Sun | Jupiter | Jupiter |
+  | Moon | Mercury | Rahu |
+  | Mars | Jupiter | Sun |
+  | Mercury | Jupiter | Jupiter |
+  | Jupiter | Mars | Venus |
+  | Venus | Mercury | Saturn |
+  | Saturn | Venus | Ketu |
+  | Rahu | Rahu | Saturn |
+  | Ketu | Ketu | Mercury |
+
+- **Rule**: for arrival, if the 11th cusp sub lord is retrograde or in the star of a retrograde planet → arrival not promised.
+  - Here the 11th is Aries 9°26' (Ketu star, Saturn sub); Saturn is in 11, not retrograde, not in a retrograde star → certain.
+- Significators:
+  - 1st (Gemini 12°33' to Cancer 7°40'): Mercury, Sun and Mars occupy it; the Moon and Venus are in Mercury's star; nothing is in the Sun's star; Jupiter is in Mars's star → Moon, Venus, Jupiter, Sun, Mercury, Mars.
+  - 11th: Saturn.
+- RPs: Moon (day), Mercury (Moon star), Moon (Moon sign), Saturn (lagna lord), Rahu (lagna star).
+- Rising point at arrival: Saturn sign, Rahu star, Moon sub = Aquarius 18°06'40"–19°13'20"; Mercury sub-sub 18°45'33"–18°54'59". Sayana Pisces 12°05'33" → Raphael → 10:31 PM.
+- He arrived at 10:31 PM. CONFIRMED.
+
+### A. Sivapatham, Matale — "Marriage when?" (horary number 89, 6:30 PM CST 10-7-1970; plus natal b. 2:02:49 PM CST 23-10-1941, 7°03'N 80°43'E)
+- The girl's chart was cast with the Raghunatha Iyer panchanga ("does not always give correct positions"). He used horary instead.
+- Horary: Moon dasa balance 9y 10m 24d.
+  - The Moon (L12, in 2, in a Mercury sign, own star and sub) shows the query: 12 = separation and new environment; 2 = family addition; 11 = gain.
+  - 7th cusp: Mars star, Moon sub. The sub lord Moon signifies 2 → marriage promised.
+- **Significator method used here (contributor; FLAG, non-standard)**: "planets in the SUB of the occupants".
+  - 2nd: occupied by the Moon → Venus and the Moon are in the Moon's sub;
+  - 7th: Rahu → Mars in Rahu's sub;
+  - 11th: Sun, Mercury, Mars → Saturn and Mercury in the Sun's sub; the Sun and Ketu in Mercury's sub.
+  - → Venus, Moon, Mars, Saturn, Mercury, Sun, Ketu.
+  - Then "fruitful = those occupying 2, 7, 11": Moon, Sun, Mercury, Mars.
+  - FLAG: sub-based significators contradict KSK's star-based order.
+- Sun and Mercury are in the same sign and star (Jupiter) but different subs: Mercury signifies the lagna (12 to 2); the Sun signifies 2 and 11 → choose the Sun antara: 5-2-1971 to 20-2-1971.
+- **Partner description (contributor)**: the 7th sub lord Moon is in a Mercury sign, Moon star, Moon sub → the bride born on a Wednesday or Monday, with lagna and/or birth star ruled by the Moon or Mercury. The girl was born on a Wednesday with Kanya lagna. CONFIRMED (partial).
+- Destiny statement: "you have to marry one of the girls who satisfies these conditions; you cannot dodge your fate".
+- Natal chart:
+  - Saturn dasa balance 2y 1m 2d; Asc 3°47'47".
+  - Four retrograde planets: Mars, Jupiter, Saturn, Mercury.
+  - Others had predicted marriage in Ketu dasa, or never; Ketu dasa passed and Venus dasa started without marriage.
+  - 7th cusp: Ketu star, Sun sub. The Sun is L7 and a strong significator of 2 → promised.
+  - **Rule (KSK, quoted in Readers)**: whenever Saturn aspects Venus or the Moon, marriage is delayed (late), not denied. Saturn aspects both here.
+  - Significators:
+    - 2nd: Mars occupies it; Jupiter, Rahu and Sun are in Mars's star; L2 Jupiter has Ketu in its star;
+    - 7th: Rahu occupies it; Mercury is in Rahu's star; L7 the Sun has Saturn in its star;
+    - 11th: vacant, lord Jupiter.
+    - → Jupiter, Rahu, Mercury, Mars, Ketu, Sun, Saturn. Rahu governs the Sun and Mars; Ketu governs Saturn and Jupiter → Rahu, Ketu plus Mercury strong.
+    - Mercury is retrograde but in Rahu's star and aspected by Rahu → weak results (natal retrograde considered here; FLAG vs KSK's natal disregard).
+  - **Rule**: Mars (R) and Venus are in the same star (Mercury) and the same sub (Venus) → Mars gives Venus's results and vice versa; Venus becomes strong (nothing in its star).
+  - → Venus–Venus–Ketu (5-1-1971 to 15-3-1971); Rahu sookshma 4–15 Feb 1971. Consistent with the horary (5–20 Feb 1971). CHECK.
+
+### Ramdass — "Wedding — when?" (daughter b. 4:54:30 PM IST 25-12-1953, Fatwah 25°36'N 85°08'E; ayanamsa 23°06'; married Thursday 16-4-1970, 10 AM – 1:30 PM)
+
+| Planet | Star lord | Sub lord |
+|---|---|---|
+| Sun | Ketu | Saturn |
+| Moon | Ketu | Saturn |
+| Mars | Rahu | Jupiter |
+| Mercury | Mercury | Saturn |
+| Jupiter (R) | Mars | Jupiter |
+| Venus | Ketu | Venus |
+| Saturn | Rahu | Mercury |
+| Rahu | Sun | Jupiter |
+| Ketu | Jupiter | Rahu |
+
+- Bhavas: II Ketu; III Mars, Saturn; V Mars, Saturn (OCR); VI Venus, Mercury; VII Sun; VIII Rahu; XII Jupiter.
+- Dasa at the wedding: Venus–Saturn–Venus–Ketu.
+- 2, 7, 11 plus Venus (chief governor of marriage):
+  - 2nd: Ketu occupies it; the Sun, Moon and Venus are in Ketu's star. Ketu, in a Moon house(?), is more important than the Moon.
+  - 7th: the Sun occupies it; Rahu is in the Sun's star; Rahu in a Saturn house represents Saturn; Venus is in the same sign as the Sun.
+  - 11th: vacant; lord Jupiter; Ketu is in Jupiter's star.
+- Significators: Venus, Sun, Moon, Saturn, Rahu, Ketu. Venus is conjoined with the Sun, in Ketu's star, in the 2nd, in its own sub → very powerful.
+- Transit on the day: Thursday (Jupiter, L7 and L11); the Moon in Ketu's star, Venus sub; Venus in its own star; the Sun in Ketu's star, Venus sub; Saturn in Venus's star, Moon sub; the lagna at the end of the function was Cancer.
+- CONFIRMED test case (good: full data).
+
+### M. R. Sharma — "Study in foreign land and success therein" (number 111; 5:30 PM IST Sunday 12-7-1970, Calcutta; Mars dasa balance 1y 3m 20d)
+- Medical exam in Kabul on 16-9-1970; a visa delay.
+- **Rules (stated as KSK's)**:
+  - Success promised if the 11th is in any manner connected with the 9th (higher studies). If the 11th cusp sub lord is retrograde → success denied.
+  - Going abroad: as above (the 12th sub lord and its star lord direct, and the sub lord signifying 3/9/12).
+- 12th cusp: Leo, Ketu star, Jupiter sub. Jupiter is in Mars's star and Venus's sub, all direct; Mars and Venus signify 3, 9, 12 → he will go.
+- 11th cusp: Saturn star, Venus sub. Venus is in 11, with nothing in its star; Venus is the sign lord of the 9th cusp → success sure.
+- Mars–Venus–Saturn to 2-9-70: the delay is due to Saturn, which signifies 5 and 8 (the 12th from 6 and 9). Delay, not denial, as Saturn also signifies 6 and 12.
+  - Permission card around 28 Aug (Saturn antara, Jupiter sookshma).
+  - Visa on Thursday 10-9-70 (Mercury antara, Mercury sookshma), the Moon in Jupiter sign, Ketu star, Mercury sub at about 1 PM.
+  - Leave for Kabul 14-9.
+  - Success news 3-11-70, about 2:35 PM, Pisces 2°30' rising (Ketu antara, Venus sookshma).
+- All predictions; CHECK.
+
+### Bachh Raj Vyas — "Will I win in election?" (class representative, Ethiopia; number 45; judged 8:37 PM IST 16-9-1970, Bikaner 28°01'N 73°19'E)
+- "Readers must always take only the time of judgment, whatever the time of the query." (Consistent with KSK.)
+
+  | Planet | Longitude | Sign lord | Star lord | Sub lord | Bhava |
+  |---|---|---|---|---|---|
+  | Sun | 4s29°59' | Sun | Sun | Rahu | 4 |
+  | Moon | 11s16°20' | Jupiter | Saturn | Jupiter | 10 |
+  | Mars | 4s15°12' | Sun | Venus | Venus | 3 |
+  | Mercury (R) | 4s22°40' | Sun | Venus | Saturn | 4 |
+  | Jupiter | 6s11°55' | Venus | Rahu | Saturn | 5 |
+  | Venus | 6s15°01' | Venus | Rahu | Ketu | 5 |
+  | Saturn (R) | 0s29°10' | Mars | Sun | Mars | 11 |
+  | Rahu | 10s8°16' | Saturn | Rahu | Rahu | 9 |
+  | Ketu | 4s8°16' | Sun | Ketu | Jupiter | 3 |
+
+- **Rules**: election success = houses 6 and 11. Three checks:
+  1. the lagna cusp sub lord connected favourably with 6 and 11;
+  2. the 11th cusp sub lord shows fulfilment;
+  3. the running dasa is favourable.
+- Lagna sub lord Sun (L4, in 4, own star, Rahu sub; Rahu in 9) → 4 and 9, unfavourable.
+- 11th sub lord Mars is in Venus's star and sub (L12, in 5) → unfavourable.
+- Saturn–Jupiter: Saturn in the Sun's star (4); Jupiter L1/L7/L8(?) in 5, in Rahu's star (in 9), with Venus L12 → unfavourable.
+- "You will be defeated"; he was defeated the next day. CONFIRMED.
+
+### Jan 1971 issue — KSK, "Fortune follows misfortune" (number 131 → Libra 8°40', Venus sign, Rahu star, Jupiter sub; Tuesday 13-10-1970, Delhi)
+- A father asks about his son (b. 11-8-1946). The son fell and hurt his head on 27-11-1953; since then he is invalid, bedridden, and his limbs don't grow.
+- The query Moon is at Pisces 4°40'. Saturn dasa balance 17y 1m 6d. Working the dasa backwards: Jupiter dasa 19-11-1952 to 19-11-1968; at the accident, Jupiter–Jupiter–Ketu.
+- **Derived houses**: the father asks about his son → take the 5th cusp as the lagna; the 6th cusp = the son's 2nd, etc.
+- **KSK significator principle, restated in full**: no planet gives results by its nature, ownership or occupation alone. Every planet first gives the results of the lord of the constellation in which it is deposited.
+  - If there is no planet in the constellation owned by planet A, then A gives the results of the houses it owns and occupies.
+  - If there are planets in A's constellation, then those planets give the results of the house occupied by A. A itself gives the results of its star lord, and only a very feeble result of the house it occupies.
+- 6th = disease; 8th = accident, danger; 12th = defects, isolation, hospitalisation.
+- Jupiter (dasa lord) is in Rahu's star and Venus's sub. Rahu, in its own star, signifies the son's lagna and 12th → isolation, invalidity.
+- Ketu, in its own star (Magha) in the son's 6th, in the Sun's sign; the Sun in the son's 8th, conjoined with Mercury → disease plus accident. Ketu in Rahu's sub → nervous system. (Mercury = nerves: karaka, FLAG.)
+- **Cure = the 11th cusp counted from the son's lagna** (the 3rd of the horary, Sagittarius 8°55', Jupiter sign, Ketu star, Jupiter sub).
+- **Rule (KSK)**: a planet signifying both beneficial and adverse houses gives both, depending on the dasa lord.
+  - Signifying 11 and 12 → gains, then spending or investing them.
+  - Signifying 5 and 6 → disease and cure in the same period.
+  - In a good dasa it gives favourable results; in a bad dasa, harm.
+- The son's 11th is vacant, ruled by Jupiter. Only Venus is in Jupiter's star (Visakha) → Venus is the strongest significator for cure.
+- **Planets conjoined with or aspected by the significator** cause the cure: Saturn and Rahu are aspected by Jupiter → Saturn–Venus–Jupiter, complete cure on 10-5-1977. CHECK (prediction).
+- **Remedies — CONTRADICTION/FLAG**: asked about shanti, KSK advises visiting the Kanchi Sankaracharya and praying to Goddess Kamakshi.
+  - Reasoning from the significators: Jupiter and Saturn are "philosophers"; Venus (in Mars's sign) → a saint who worships a slightly ferocious goddess.
+  - When challenged ("you say neither God nor Guru nor gem changes fate"), KSK replies:
+    - every action has a reaction, but the effort must be sufficient;
+    - "Astrology gives what and when; those who can bless will bless you just before such a fortunate time starts; you attribute it to God, Guru or gem";
+    - the visit to Kanchi is itself part of the fortune that follows the misfortune.
+  - So remedies are framed as timing-coincident, not fate-changing. Consistent with the earlier note: remedies are rejected as causal. App: no remedies.
+
+### KSK — "Longevity — horoscopy" (b. 6:07 AM 27-2-1931, 8?°N 101°52'E (Malaya?); ayanamsa 22°48'; Asc 8°19' (Aquarius?, fixed))
+- **KSK longevity rule**: if the Ascendant's sub lord is in the constellation of a planet that is a significator of badhaka or maraka → short-lived; otherwise long life promised.
+  - Badhaka: movable lagna → 11th; fixed → 9th; common → 7th (also maraka and kendra).
+  - Marakas: 2, 7.
+- Here the lagna is fixed → badhaka 9th. The Asc sub lord Rahu is in Mercury's star, in 12. Mercury is not a badhaka/maraka significator → long life.
+- Death timing: the strong significators of badhaka and maraka.
+  - Badhaka 9th (Libra 14°12' to Scorpio 13°12'): empty; Venus is the cusp sign lord; no planets in Venus's stars → Venus very strong.
+  - Maraka 2nd: Rahu occupies it; Jupiter and the Sun are in Rahu's star; Jupiter owns 2; the Sun owns 7 (empty); Saturn and Venus are in the Sun's star.
+- RPs (Sunday): Sun; the Moon in Rahu's star, Saturn's sign; lagna in Saturn sign, Sun star → Sun, Saturn, Rahu. Rahu occupies a Saturn sign; Ketu occupies the Sun's sign → **Ketu dasa, Ketu bhukti, Rahu antara → about 27-10-2004**.
+  - Traditional sade-sati coincides (KSK: "no faith in it"). Saturn transits Gemini (Mercury sign; Ketu represents it); Jupiter in Leo with Neptune; the Sun in Venus sign, Rahu star.
+- App relevance: an important worked example of KSK natal longevity (sub lord test plus badhaka/maraka significators filtered by RPs at judgment). CHECK (prediction; birth details partly OCR-damaged).
+
+### M. R. Sharma — "Thought — progenitor of destiny"
+- Philosophy: karma, Moon = mind, yoga/trataka. Praises the RPs for rectifying birth time to the minute when the lagna falls at the fag end of a sign. No new rule.
+
+### Som Gupta — "Know the truth (K.P. offers peace)" (number 149; 7:05 PM Monday 27-4-1970, Delhi; Sun dasa balance 5y 3m 13d)
+- House construction at a standstill, no money … (continues in MC_125).
