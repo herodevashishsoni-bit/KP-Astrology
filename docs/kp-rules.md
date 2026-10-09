@@ -238,3 +238,125 @@ For every matter the app shows: **promise** (from the cusp sub lord — yes / no
 - Writing 3; speech 2; book completion 3, 11 + Mercury; publication + Jupiter.
 - Spiritual: initiation 5, practice 10, progress 11 (R3 l.~17625); sanyasi: the Asc sub lord connected with 3, 10, 12 and Saturn (R6); siddhi: 11th sub lord in the star of a significator of 5 and 10.
 - Negotiation/agreements 3, 9 (+11 success, +12 failure); engagement: 2, 7, 11 also signifying 3 and 9.
+
+---
+
+## 4. Timing — finding and ranking the top 3 windows
+
+### 4.1 Rules from the texts
+- Results of a house come only in the dasa/bhukti/antara of planets connected with it, and on days, stars and lagnas ruled by them (R2 l.~11830).
+- Event = **conjoined period** of the planet, its star lord and its sub lord (R3 l.~3420). The dasa lord must signify the matter (dasa supremacy, §2.7). "A dasa, B bhukti, A antara give the result to the full extent" (R3).
+- **Selection among significators:** the RPs at the moment of judgment pick the dasa/bhukti/antara (R3 l.~13400; R6). For a life bio the "moment of judgment" is when the user asks — **DECIDE**: the app computes RPs at the time the bio is generated and uses them only to break ties between equally strong windows (default), since the bio must not change from minute to minute.
+- **Repeating events** (job change, transfer, travel, children, residence) recur whenever their significators' periods recur; birth and death happen once (R3 l.~16200).
+- **Pinpointing within a window (R3 ch.2; R5 p.161–187):** sensitive points are every sign/star/sub permutation of the D, B, A lords; the event comes when one of them is transited by the D/B/A lords, the Sun or the Moon, or the **Ascendant at the native's current place of residence**. Order of fineness: Jupiter → year, Sun → month, Moon → day, Ascendant → hour [KSK; R5].
+- Retrograde transits: retrograde in an evil sub aggravates; stationary = severest (R5 p.287).
+- **Undoing rule:** a result given in A–B can be undone in a later bhukti of a planet 6/8/12 from A and B (R5 p.257) → used to describe "loss of what was gained".
+
+### 4.2 Scoring — APP CHOICE (not a KP rule; for your approval)
+For each matter the engine walks every dasa–bhukti–antara of the native's life (birth to 100 years, or to the death window) and scores it:
+1. **Gate:** the cusp-sub-lord promise for the matter must be positive (§3); if it is denied, the matter shows "denied" with the reason and no windows.
+2. **Dasa, bhukti, antara lords** each scored by how strongly they signify the matter's houses: level 1 (star of occupant) = 6 points … level 6 (aspect) = 1 point; plus a bonus if their **sub lord** also signifies the houses (fruitful), and a penalty if it signifies the 12ths of the houses (§2.4).
+3. The dasa lord must score > 0 (dasa supremacy); otherwise the window is dropped.
+4. Ties broken by: (a) RPs at judgment time, (b) "A–B–A" full-extent pattern, (c) a matching Sun/Jupiter transit point in the window.
+5. Top 3 non-overlapping windows are shown; each with dates, the lords, and a one-line reason ("Venus: occupant of 7, sub lord Jupiter signifies 11"). Past windows are marked PAST.
+6. Each window can be opened to see the transit-pinpointed dates within it (§4.1).
+
+---
+
+## 5. Horary (only as needed)
+The bio is natal. Horary (1–249 numbers, R6) is used inside the app for one purpose: KSK's own practice of confirming a natal judgment with the RPs at the moment of the question. A full horary module is **not** planned unless you ask for it. Retrograde-denial rules (§2.8) are horary-only.
+
+---
+
+## 6. Birth-time rectification — R3 l.~21250–21720; R6 p.140–143
+
+### 6.1 KP method (primary)
+1. Take the RPs at the moment of judgment (day lord, Moon star lord, Moon sign lord, lagna sign lord, lagna star lord, with nodes representing their agents; reject RPs in the star of a retrograde planet).
+2. The birth lagna's sign lord, star lord, sub lord (and sub-sub lord) must be among these RPs. The lagna lord at the moment of judgment = the sub-sub lord of the birth ascendant (R3 example).
+3. Within the user's uncertainty range (e.g. ±2 hours) list every Asc sign/star/sub/sub-sub combination ruled by the RPs; compute when each rose → candidate times to the second.
+4. If several candidates remain, confirm with past events: the candidate whose dasa windows match the user's known events (marriage date, children's births, parents' deaths, job) wins. "Multiple judgments are allowed" [KSK].
+- Validation cases: R6-A (5:23:50 AM), R6-B (3:36:45 AM), R6-C (26-5-1913 6:10:14 PM, date unknown), R3-AS (war-time clock), R5-K (6:53 PM electricity).
+
+### 6.2 Traditional checks (secondary, shown as information only)
+- Vighati method (×4 ÷ 9 → birth-star group) — R3 used it as a confirmation; R6 p.141 rejects it as giving multiple answers. **DECIDE**; default: shown as information, not used to choose.
+- Prenatal epoch — R3 shows it fails (30 minutes apart gives 2 minutes); KSK used it once as a cross-check (magazines). **Excluded.**
+
+---
+
+## 7. Excluded or flagged methods
+
+| Method | Status | Source |
+|---|---|---|
+| Moon sign as lagna (when lagna "afflicted") | Excluded — "always the Lagna alone" | R3 l.~10725, l.~18680; early magazines used it |
+| Yogas, raja yogas, Gajakesari etc. | Excluded — "fail" | R3 l.~7960, l.~19340 |
+| Ashtakavarga | Excluded | magazines |
+| Gochara from the Moon sign, sade-sati, ashtama sani, Guru bala, chandrashtama, vedha | Excluded | R3 l.~8740; R5 p.246–264 |
+| Exaltation/debilitation as good/bad | Excluded (R6 "container/contents" magnitude only — **DECIDE**, default off) | R6 p.145 |
+| Kendradhipatya dosha | Excluded from scoring | R3 p.456–461 |
+| Shashtashtaka, dasa-sandhi | Excluded | R3; R4 p.261 |
+| Porutham, Mars dosha | Excluded | R4 p.17–20 |
+| Navamsa and other divisional charts | Excluded — twins disprove them | R3 profession chapter |
+| Western aspects, progressions, transits with orbs | Excluded from scoring (aspects **DECIDE**, §2.2) | R5 p.25 |
+| Uranus, Neptune | Descriptive only | R3 l.~15760 |
+| Pars Fortuna | Descriptive only | R3; R5 |
+| Varshphal (annual chart) | Excluded (KSK showed one once) | magazines |
+| Prenatal epoch, Mandi/Gulika rectification | Excluded | R3 l.~21250 |
+| Remedies, gems, shanti, homa | Not given. KSK 1963 said remedies help; later KSK: fate cannot be changed, prayer may mitigate. Gem by Asc/11th sub lord could be shown as information — **DECIDE**, default off | R3 p.258; R4 p.279; magazines |
+| Sex of children, number of children | GAP — no rule | R2; magazines |
+| Muhurta / "lucky time" tables | Out of scope for the bio (possible later feature) | R5 p.195–234 |
+
+---
+
+## 8. Decisions you need to make (summary of every DECIDE)
+
+| # | Question | Options | My default |
+|---|---|---|---|
+| 1 | Ayanamsa | KSK (Newcomb) / Lahiri | KSK, Lahiri as setting |
+| 2 | Aspects in significator levels 5–6 and the dasa principle | conjunction only / Hindu aspects / Western degree aspects | conjunction + Hindu aspects for nodes |
+| 3 | RP strength order | R6 / R3 / contributors | R6, used for ties only |
+| 4 | Node agency order | conjoined→aspect→star→sign (KSK 1965, MC_120, MC_139) / star first (MC_123) | KSK order |
+| 5 | Natal retrogression | ignore (KSK MC_139) / apply (R3 ministership case, contributors) | ignore in natal |
+| 6 | Combustion | 8°30′ / other / not used | not used |
+| 7 | Marriage blocking houses | 1, 6, 10 / 1, 6, 10, 12 | 1, 6, 10; 12 as extra negative |
+| 8 | Spouse's death houses | R6 table 1, 6, 8, 12 / Indira case 1, 6, 10 | computed badhaka + maraka of 7th |
+| 9 | Transfer | 3, 9, 12 + 6/10 / 3, 10, 12 / 2, 5, 6, 9, 10 | 3, 9, 12 + 6/10 |
+| 10 | Change of job | 3, 5, 9 / 3, 9, 12 | 3, 5, 9 |
+| 11 | Retirement | 3, 5, 9 / 1, 5, 9 / 1, 5, 9, 12 | 3, 5, 9 + 12 |
+| 12 | Imprisonment | 2, 12 / 3, 8, 12 / 2, 3, 8, 12 + Rahu | R6 (2, 3, 8, 12 + Rahu) |
+| 13 | Return from abroad | 3, 9, 11 / 3, 9, 11, 12 / 3, 5, 6, 8, 11 | 3, 9, 11 |
+| 14 | Vehicle sale | 3, 4, 5, 10 / 1, 3, 8, 10 | 3, 4, 5, 10 |
+| 15 | Suicide/murder indications | show / hide | show only within the mode-of-death text |
+| 16 | Vighati rectification check | info / off | info |
+| 17 | Gem by Asc/11th sub lord | info / off | off |
+| 18 | Exaltation magnitude weight | on / off | off |
+| 19 | RP moment for the bio | time of generation / none | time of generation, ties only |
+| 20 | Scoring scheme (§4.2) | as proposed / changes | as proposed |
+
+Other contradictions already resolved by later KSK statements (no decision needed): lagna vs Moon sign (lagna only); barren signs (not in natal); sub discovery dates (sub 1947, full method 1951); remedies (no remedies); nodes never retrograde.
+
+---
+
+## 9. Gaps (the app will say "no rule in the sources")
+- Sex of a child; exact number of children; number/sex of siblings (only "plural if dual sign").
+- Disease tables for Jupiter, Venus and Saturn in signs (R3 says "similarly"; R5 p.241 partly fills them).
+- MC_141's article continues on a "page 72" missing from the source files.
+- Some printed birth data is OCR-damaged (see `?` entries in `docs/kp-test-cases.md`); those cases are used only for the parts that are legible.
+- No rule for windows beyond death or for posthumous matters (not needed).
+
+---
+
+## 10. Validation test cases
+- Readers: all rows in `docs/kp-test-cases.md` (R3-A … R6-C). Priority set for the first engine build:
+  - Chart casting: R3-AN (ayanamsa 22°40′, full cusps), R4-H, R4-O (22°57′), R4-P (22°53′), R5-A (cusps + planets), R3-AT (sidereal times), R5 p.325 Saturn into Pisces 7-4-1966, sub table R5 p.164–170.
+  - Dasa arithmetic: R5-C antara table; all printed dasa balances.
+  - Events: R3-B (mother's death, marriage), R3-C (death 18-2-1970), R3-AQ (KSK's own service/retirement), R4-G, R4-I, R4-L (marriages), R4-R (wife's death), R4-S/T (divorce), R4-X (child), R4-Z/AA (childless — negative), R5-D (lottery), R5-L (father's death).
+  - Rectification: R6-A, R6-B, R6-C, R3-AS, R5-K.
+- Magazines (CONFIRMED cases noted in `docs/magazine-notes.md`): Indira Gandhi multi-event chart; Yogananda's death; Bandaranaike's assassination; father's death across five sons' charts (MC_135); KSK aeroplane timing 4:39:20 PM; chart-casting procedure (MC_130); Agra 15-5-1963 worked cusps.
+- Acceptance target (APP CHOICE): the engine reproduces printed cusps/planets within 5′, dasa dates within a few days, and ranks the actual event window in its top 3 for at least most of the event cases; every miss is listed for review rather than tuned away.
+
+---
+
+## 11. Next step
+After you review this document (accept the defaults or change any DECIDE item), I build the app:
+- Backend: FastAPI, Swiss Ephemeris, the engine above, SQLite with single-user login and saved charts.
+- Frontend: React — chart entry, rectification wizard, the life bio (each matter: promise, description, top 3 windows with PAST marks), and the reasons behind every statement with citations.
