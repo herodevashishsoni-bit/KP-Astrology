@@ -2637,3 +2637,156 @@ Native: Alibag 18°39'N 72°55'E, 9:00 PM IST, Tuesday 23-12-1924. Cancer lagna 
   - Subtract the ayanamsa → nirayana II Gemini 10°41', III Cancer 6°41', X Aquarius 4°41', XI Pisces 6°41', XII Aries 10°41'. Opposites +180°.
   - Planets for the moment of judgment.
 - (continues next file)
+
+## MC_101 (Jun–Jul 1969)
+
+### KSK, "Can I become the queen of actresses?" (cont.; number 32, 1:30 PM 14-1-1969 Madras, Tuesday)
+- Significator reference table, horary:
+
+  | Planet | Houses |
+  |---|---|
+  | Sun | 8, 4 |
+  | Moon | 11, 6, 3 |
+  | Mars | 11, 6, 7, 12, 8, 11 |
+  | Mercury | 6, 9, 3, 2, 5 |
+  | Jupiter | 6, 5, 3, 8, 11 |
+  | Venus | 11, 10, 1, 6, 8, 11 |
+  | Saturn | 9, 11, 2, 5, 9, 10 |
+  | Rahu | 11, 11, 8, 11, 9, 10 |
+  | Ketu | 6, 5, 3, 2, 5 |
+
+  (and the reverse house → planets table).
+- **Actress rule**: one becomes an actor/actress if the significators of 10 and 6 are connected with the 5th. Mercury and Venus by nature indicate actor/actress. To top the field and be popular → 10 & 11.
+  - Saturn (10, 11) → perseverance pays. Venus (10, 11) → popularity, social success. Rahu representing Jupiter (10, 11) → prosperity, ambition realised.
+  - Saturn dasa balance 14y 5m 26d. Periods of rise: Saturn–Venus–Venus/Rahu; Mars? –Venus–Rahu/Venus … (5 occasions).
+- **Marriage denial**: 7th cusp in a Mars sign, Saturn star, Rahu sub → "Saturn and Rahu show friendship alone and not marriage".
+  - Mars is the only significator of the 7th and it is in the 6th → stronger to give 6th-house results → any prospective partner backs out → never legally married.
+  - Contrast: if Mars signified 6 and 7 and were IN the 7th → marriage happens, then temporary or permanent separation.
+  - Today is Tuesday (Mars) and Moon is in a Mars sign → confirms.
+  - RULE: a significator signifying both 6 and 7 → the occupied house decides which dominates.
+
+### KSK, "Cure any: if so, when" (number 249, 9:30 AM 9-4-1969, 13°04'N)
+- 249 = Pisces (Jupiter sign), Revati (Mercury star), Saturn sub (last sub). Venus dasa balance 9y 3m.
+- Houses: 6 = disease, 8 = danger, 12 = defect.
+- 6th cusp: Leo, Venus star, Jupiter sub. Jupiter is in the star of Sun (L6 in 12). Venus = L8, in the star of Mercury in 12. Rahu in a Jupiter sign is stronger than Jupiter; Rahu is the sub lord of Venus.
+  - **Nature of disease** = Mercury (nervous system) + Venus (beauty/thejas = skin) + Rahu (leprosy) → nervous leprosy.
+  - RULE: disease nature from the 6th cusp's star lord, sub lord, and their star/sub links.
+- **Cure?** 11th cusp: Capricorn, Moon star (Sravana), Ketu sub; Ketu in 6. "As the sub lord is to cause disease, the 11th cusp does not promise cure." Ketu gives 4, 6, 12 → treatment at home only.
+- **Hospital rule**:
+  - 3, 6, 12 → hospitalised, but the disease continues (3 = 12th to 4, leaving home).
+  - 3, 6, 11, 12 → successful treatment in hospital.
+  - 4, 6, 12 → treated at home.
+  - → Cure denied.
+- "Pray to Mahalakshmi to arrest further development" — REJECT (remedy).
+
+### KSK, "Confusion clarified"
+- **Which lagna, Taurus or Gemini?** Querist born 8:01 AM IST 14-5-1943 near Bangalore. Given number 210 → Capricorn (Saturn sign), Mars star, Venus sub. Moon today in Capricorn, Sravana (Moon).
+  - → Lagna Taurus (Venus) 29° = Venus sign, Mars star (Mrigasira), Saturn sub, Moon sub-sub. "Use KSK ayanamsa and the result is confirmed."
+  - Technique: combine the horary number's lords + Moon's lords at query as RPs for the natal lagna. FLAG: number-based birth-lagna fixing.
+- **IMPORTANT RP FILTER (KSK)**: "If a ruling planet (except Rahu and Ketu) is retrograde, reject it. If the ruling planet is deposited in a sub whose lord does not signify the houses of the matter, reject it. Therefore significators in direct motion, and in a sub whose lord signifies the matter, alone will clearly and correctly promise the result."
+- **4th dasa Saturn as maraka (for Dhanishta/Mrigasira/Chitra-born) — REJECTED by KSK**.
+  - Infants of all 27 stars die in the 1st dasa, etc.; a rule by dasa ordinal is meaningless.
+  - Examples: Dr A. Ramaswamy Mudaliar and Dr A. Lakshmanaswami Mudaliar (twins, Dhanishta, 14-10-1888) completed 19 years of Saturn dasa with a steep rise. P. N. Raghavan (Dhanishta 4th quarter) had promotion after promotion in Saturn dasa. Dr Y. S. Narayana Rao (Dhanishta, 1899) died at 69 in Mercury dasa.
+  - → APP: don't use dasa-sequence maraka rules; use house significations only.
+- KSK: "never I bless anything which I do not find in the chart" — Minister not promised.
+
+### **KSK, "Transit" — CORE THEORY of what a planet signifies and how transits operate**
+Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's star and sub"), Moon Libra 12°16' (Venus sign, Rahu star, Saturn sub), Sun in lagna-bhava in the star of a planet in the 9th, Mars Aries 18°16' (Venus star, Rahu sub) in 7, Jupiter in Dhanishta, Mercury in 2nd, 72°54'E. Rahu dasa balance 10y 5m 8d; Saturn dasa, Rahu bhukti to 1-10-1969.
+- Querist: transiting Mars over natal Saturn in Scorpio; soon Saturn transits Aries over natal Mars.
+- **Rules stated**:
+  1. **Nature of result** = the house occupied by the planet's star lord. Sun is in the star of a 9th-house planet → Sun gives 9th-house results (father, higher education, long journey).
+  2. **Only when no planet is in a planet's star** does that planet give the results of the bhava it occupies. No planet in Sun's star → Sun also gives lagna results. (If a planet were in Sun's star, that planet would give lagna results "to a greater extent".)
+  3. **Ownership**: if no planet is in the star of a planet, it also gives the results of the houses it owns. Sun owns the 11th, none in its star → Sun indicates 1, 9, 11.
+  4. **Node check**: is there Rahu or Ketu in the planet's sign? If so the node shares or represents its results.
+  5. **Source** (how the result is accomplished) = the houses owned by the planet and the house it occupies.
+- Worked examples:
+  - Moon (in Rahu star; Rahu in 9) → 9th matters; Moon gives houses 1, 9, 10 through sources 1 and 10 (owns 10, occupies 1).
+  - Mars in 7, Venus star (Venus in lagna), Rahu sub → though L2 & L7 in 7, gives lagna results via sources 2 and 7. Jupiter in Dhanishta (Mars star) gives 7th results.
+  - Mercury in 2nd, none in its star → gives 2nd and 7th matters (7th via Saturn's star?), source 9 and 12.
+  - Saturn in lagna in own star → lagna results, source 4 and 5 (owner). Mercury is in Saturn star → lagna results also.
+  - Jupiter → 7, 6, 4 via 3 and 6. Venus → 9th via … Ketu → 1, 7, 5, 4 via 3 and 6.
+  - Summary prediction: reputation, success; children, long journey, pleasant; wife/partner unhealthy; father loss; elder brother auspicious.
+- **Transit rule**:
+  - "If a planet transits, it shows the source of a result; the transiting planet indicates HOW a matter is brought out. WHAT the matter is = the houses signified by the natal planet whose position is transited."
+  - Second example (5:27 PM 23-7-1958, 13°04'N 80°15'E; Mars dasa balance 0y 6m 6d; 10-year-old boy): Saturn transiting 8°14' Aries conjoining natal Mars → 4th & 5th matters (Mars's) come forward through 2nd, 3rd, 8th (Saturn's houses).
+  - Western descriptions of Saturn–Mars conjunction (murderous tendencies, accidents, etc.) are mocked; KP says judge by sub: Mars in Jupiter sub decides.
+- FLAG: this "source vs nature" layer adds a 3rd dimension (owned houses = source) to the significator idea; consistent with KP Readers' "star lord gives the matter, planet's own houses give the source"? To verify against Reader notes.
+
+### D. M. Swamy, "Surprisingly accurate" (telegram delivery, Bikaner 28°01'N 73°19'E, 12:26 PM IST 16-1-1969)
+- RPs: Thursday (Jupiter); Asc Aries 8°11'16" (Mars sign, Ketu star → agent of Mercury, Jupiter sub); Moon Sag 5°11'56" (Jupiter sign, Ketu star, Mars sub) → Jupiter, Mars, Mercury, Ketu.
+- Hindu aspects used (L1 Mars aspects lagna → query answered; Saturn in the 9th... → some delay; Saturn L11 → won't disappoint). FLAG.
+- Ketu conjoined with Jupiter acts for Jupiter.
+- Predicted delivery when the ascendant reaches Gemini 2°06'17" (Mercury sign, Mars star, Ketu sub, Moon sub-sub, …) → 3:41 PM same day. The relative reported "just before 4 PM". CONFIRMED (approximately).
+
+### K. Ganapathi, "Higher studies and foreign country"
+- Native 7:32 PM 27-10-1942, 24°06'N 88°19'E; Scorpio lagna 3°42'. Moon dasa balance 7y 4m 20d.
+- **Foreign studies**: to leave home, stay away from kith and kin in new surroundings and succeed → houses 9 and 12. The 11th-house significator should also signify the 9th or 12th.
+- Rahu occupies the 9th; Sun and Ketu in Rahu stars. Moon rules the 9th cusp sign; Moon, Saturn and Mercury in Moon stars. Moon in 7, in own star → 9th & 7th matters (contracts). Saturn in 7 in Moon star → 7th & 9th.
+- **Twins rule**: one twin with Rahu as 12th cusp sub lord, the other with Jupiter → same planets, dasa, ashtakavarga, gochara, yet one goes overseas and the other is disappointed. "In the constellation of the planet which is vyaya (12th) to the 9th → cannot go overseas" (8th-house link denies the 9th).
+- RPs at judgment: Thursday (Jupiter) — Rahu in a Jupiter sign → take Rahu dasa. Lagna Capricorn 12°30' (Saturn sign, Moon star) at 6:51 AM 23-1-1969 Madras. Moon star Uttarabhadra (Saturn) in Pisces (Jupiter).
+  → Overseas in Rahu dasa, Moon bhukti, Saturn antara, 3rd week of April 1973. CHECK.
+- **Health from the lagna cusp sub lord**: Asc Scorpio 3°42' = Saturn star, Saturn sub → chronic patient (susceptibility). Moon + Saturn in Taurus (7th) in Moon star → throat and intestines.
+  - Mars = L6 in own star → in Rahu dasa, Mars bhukti causes disease; Mars also in 11 → cure. Cured in Rahu–Mars–Venus; Jupiter dasa follows, unconnected to the 6th.
+  - Houses: 6 & 8 → danger; 6 & 12 → confinement to bed, hospital, isolation; 6 & 11 → ailment followed by cure.
+  - "An operation period is not evil — operation causes the cure" (like sowing a seed).
+  - Vitamin advice — ignore.
+
+### Muralidharan & Purushottam, "Transfer — when?" (KP verified then predicted)
+- Horary, Friday 3:53 PM 6-12-1968, 17°19'N 76°54'E. Rahu dasa balance 17y 8m 4d.
+- Notes: "Westerners are quite right in preparing the bhava chart with the ascendant as the BEGINNING of the 1st bhava, not its middle" (KP bhava = cusp to next cusp).
+- Transfer = 3, 10, 12.
+  - 3rd vacant; Mercury owns; Sun, Mercury and Saturn in Mercury stars.
+  - 10th vacant; L10 Saturn; Rahu alone in Saturn star.
+  - 12th: Saturn.
+- Nodes in significators' signs are stronger: Rahu in a Saturn sign (11th bhava); planets in Rahu's sub (Moon, Saturn, Ketu) reflect Rahu.
+- Ketu in Leo with Jupiter (L12) and in Virgo (Mercury) in the rasi → Ketu strong.
+- Movable ascendant (Aries) matches a question of movement. Lagna lord Mars is Rahu's sub lord; Rahu in 11 → favourable reply.
+- Past transfer 7-2-1966 (Mars dasa, Ketu bhukti, Ketu antara) CONFIRMED.
+- Next: Rahu–Rahu–Saturn–Ketu sookshma, 28-6 to 6-7-1969; Sun in Gemini in Rahu star (Ardra) → 28-6-1969. CHECK.
+
+### KSK, "Horary — money entangled: will I recover?" (number 237 of 249 and 78 of 108; 8:30 AM 15-2-1969, 11°51'N? 72°54'E?)
+- Borrowing or getting back dues → judge the **6th cusp**, and whether its sub lord signifies … (de-dup gap).
+- Sub-lord nature: Venus? → by compromise and sweet words; Sun sub lord → through government officials or litigation.
+- Procedure: 249 number → sign/star/sub start → add KSK ayanamsa → Raphael table at the LATITUDE OF THE PLACE OF JUDGMENT (not the querist's location) → cusps → subtract ayanamsa.
+- Dates (a) 24-9-1969 Moon? dasa … Moon sookshma; (b) 30-12-1969 Moon dasa, Rahu bhukti, Ketu antara, Moon sookshma. "You will recover most of your money."
+- Then cross-checked with the debtor's natal chart: 6-9-1927, 13°57'N 72°54'E, 5:42 PM IST; Venus dasa balance 18y 10m 24d; Rahu dasa from 30-7-1969.
+  - **NODE RULE (important)**: Rahu/Ketu in kona houses do not give advantage if conjoined with or aspected by lords of maraka houses 2/7; they cause death. Rahu/Ketu in 2 or 7 do not kill if conjoined with or aspected by lords of kona houses; they confer wealth. Nodes give "what they are dictated by the planets which are conjoined with or aspected by", more than the bhava occupied.
+  - Rahu aspected by Moon → gives 6th results. Rahu in Gemini (dual) → recovery from more than one person, on many occasions. Rahu–Rahu–Rahu and Rahu–Rahu–Guru → Sept 1969 and end Dec 1969.
+
+### K. Ganapathi, "Transfer"
+- Native 10:32 AM 9-10-1919, 33°37'N 73°06'E. Mercury dasa balance 16y 2m.
+- **KSK principle of repeating events**: a matter may be indicated by many planets. Affairs that repeat (childbirth, jewel purchase, transfer, change of residence, journeys) → **the significators at the moment of judgment show the immediate next repetition**. "Birth and death alone happen only once."
+- RPs (Tuesday Mars; Cancer lagna Moon; Purvabhadra Jupiter — Rahu in a Jupiter sign represents it; Saturn rasi) → Moon … Rahu in Saturn star; Rahu in 12, none in its star → Rahu strongest. (Rest lost to de-dup.)
+
+### KSK, "Horary — partnership: continue or break?" (number 156, 7:30 AM 19-2-1969, latitude 19°N)
+- 156 = Scorpio, Anuradha, Rahu sub → 12°53'20"–14°53'20" Scorpio; take 12°53'20".
+- "As KP is on a fixed zodiac and is stellar astrology, this position is nirayana." Add ayanamsa 23°20' → sayana Sag 6°13'20". Interpolate in Raphael's table at 19° between Asc Sag 5°44' and 6°34' → II Cap 5°35', III Aqu 7°35', MC Virgo 10°35', XI Libra 12°35', XII Scorpio 10°35' (sayana; subtract ayanamsa).
+- Planets from Raphael at Greenwich noon = 5:30 PM IST of 18-2; add 14 h of motion (subtract for retrograde); subtract ayanamsa. Plot planets above or below the cusp in the sign to show the bhava at a glance.
+- Moon Pisces 0°51' (Purvabhadra, Jupiter) → Jupiter dasa balance 3y 2m 5d.
+- **Partnership rule**: the 7th cusp sub lord:
+  - connected with 6 & 12 → partnership breaks; with 5 & 11 → more permanent tie;
+  - signifies the 6th → the partner takes the initiative to separate; signifies the 12th → the querist is bent on separation.
+  - 7th cusp 12°53'20" Taurus (Venus sign, Moon star, Rahu sub). Rahu in Pisces 8°41' (Saturn star UBhadra, Venus sub).
+- **Rahu rule**: Rahu gives the results of the house occupied by its star lord. The matter materialises if the sub lord of Rahu's position is direct. If the sub lord is retrograde, the matter appears to come through but falls through in the sub lord's period.
+  - Rahu is in the star of a planet in 5 (union, denying separation); sub lord Venus direct in 5 → continuity and harmony.
+  - Contrast (another number, same time): 7th cusp sub lord in the star of Saturn in 6 and Venus sub, Venus direct → separation in periods of 6/12 significators. If Venus were retrograde → attempts at separation but no separation.
+- "You cannot give any other number. An unknown, unseen force makes you give only that number."
+- End of partnership by death: horary ascendant fixed → 9th = badhaka. The 9th is vacant; owner Moon; Jupiter and Mercury in Moon star; Ketu in a Mercury sign. RPs: Wednesday (Mercury, represented by Ketu), Purvabhadra (Jupiter); Jupiter conjoined Ketu; Rahu in lagna-bhava; Sun in Rahu star → Ketu, Jupiter, Sun will give "peaceful life in the heavens". Apply to the birth chart.
+  - FLAG: death from a horary chart (KSK suggests confirming with the natal chart).
+
+### Letter: G. Subramanian (CA), "Planets — best executors"
+- KSK's predictions all fulfilled: new job in Calcutta (the friend's offer), entry on 18-9-1968 (exact, despite appointment from 16-9). Leaving Calcutta for Madras on 6-4-1969 (exact, despite trying earlier). CONFIRMED examples.
+- Querist chart: 1:33 AM 5-1-1929, 9°29'N 78°54'E; Rahu dasa balance 8y 0m 20d. Question: service vs independent CA practice vs partnership → reply pending.
+
+### KSK, "Ayanamsa (vexation ends)" — the wife's-chart example
+- Wife: Libra? lagna 13°27'; Moon dasa balance 6y 7m 29d. Ready-reckoner tables given.
+- Marriage significators (2, 7, 11): Venus, Rahu, Ketu, Sun, Mars, Mercury, Jupiter, Venus, Rahu, Moon. Marriage in Rahu dasa, Mercury bhukti, Jupiter antara, Rahu sookshma.
+  - Marriage day Sunday; star Revati (Mercury); Moon in Pisces (Jupiter); marriage lagna Scorpio, Jyeshta (Mercury).
+  - Transits: Rahu in Mercury star; Mercury in Rahu star; Jupiter in Sun star, Venus sub; Saturn in Sun star, Jupiter sub; Sun in a Mars sign, Jupiter star, Rahu sub.
+- **Ayanamsa proof claim**: "If one uses any ayanamsa less than 22°44' for 1935 (?), the marriage would come in Rahu dasa, Ketu bhukti, which is wrong." → KSK ayanamsa validated by event timing.
+- Daughter born 12-12-1962 (Wednesday; Moon in Gemini, Mrigasira; Scorpio lagna) in Rahu dasa, Ketu bhukti, Jupiter antara. The significators of 2 and 5 give childbirth to a lady ("11 is important for gents"). FLAG: house set for childbirth differs by sex (female 2, 5; male 2, 5, 11).
+- **Husband's chart rectified by the wife's RPs** (husband born ~10:30? on 16-3-1933, 13°04'N 80°15'E; Visakha 4th quarter, Scorpio rasi; Thursday). Corrected chart → Jupiter dasa balance 2y 0m 29d; marriage 19-11-1961 in Mercury dasa, Moon bhukti, Jupiter antara, Venus sookshma.
+  - Wife's RPs at her birth (Mercury lagna lord, Moon star lord, Venus Moon-sign lord, Jupiter aspecting, Jupiter sub) = husband's 2/7/11 significators (Moon, Venus, Saturn; Mercury, Moon, Venus, Sun, Jupiter; Moon, Saturn). CONFIRMED.
+  - On the marriage day Jupiter was in the 3rd and Saturn (L6) conjoined Mars (L8), which Hindus and Westerners call dangerous; KP shows the traditional system is wrong.
+- KSK: "If anyone wants to improve, learn KP."
+- Next day a stranger asks: Uttarabhadra or Revati? (continues next file).
