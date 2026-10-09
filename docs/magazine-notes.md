@@ -4029,3 +4029,128 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 
 ### "Patrimony — partition: peaceful or not?" (number 131 → Taurus (Venus), Rahu star, Jupiter sub, 8°40')
 - Receiving one's share: the 11th cusp sub lord. 11th cusp 12°56' (Ketu star, Mercury sub). Houses 1, 2, 3, 6, 10, 11 auspicious for money and success. Ketu in 11, Mercury in 10 → (continues).
+
+## MC_112 (Mar–Apr 1970)
+
+### "Patrimony — partition" (end; number 131, 10:28 AM 7-8-69 Delhi; Moon dasa balance 6y 0m 10d)
+- Moon (query) in its own star in the 8th (legacy), owner of the 10th. Ketu in 11; Mercury in Ketu's star → 11th results → satisfactory success.
+- **Timing: houses 6 and 11** ("he who now enjoys it is to give": the 6th = 12th from 7th, the other party's loss). Saturn in the 7th → the giver is economical, self-centred, obstructive. L6 has only Rahu in its star; the 11th has Ketu and Jupiter; Mercury alone in Ketu's star → Jupiter bhukti, Rahu antara, Ketu sookshma → 9-10-1969.
+- **Mode of payment from the bhukti lord**: Jupiter → paid in full. If Saturn → only part. If Mercury → in instalments. (Planet nature → manner.)
+
+### G. Ramachandra, "Can I do business?" (KP verified; Gemini lagna 9°18'; Saturn dasa balance 3y 9m 18d)
+- KSK: "delay whenever there is any connection between Moon and Saturn"; Moon–Saturn close conjunction → overcautious, pessimistic.
+- **Business success = the sub lords of the 7th and 10th cusps, and the houses they signify; fare in business in their periods.**
+- Ketu dasa (age 13–30): Ketu in 7 represents L10 (Jupiter's sign), in its own star, sub of Saturn (in 6, retrograde, signifying 8 & 6) → labour trouble, non-cooperation, no bank support.
+- KSK: Gemini lagna-born are good at business (Mercury reads customers quickly). "If general principles are bad they come true in bad periods; if favourable, only in good periods."
+- Venus dasa (Venus in Ketu's star, Jupiter's sub; Jupiter gives 9 & 10: 10 = profit, 9 = pleasure not profit) → good bhuktis profit, adverse ones loss.
+
+### K. C. Subramanian, "Astrology aids in obtaining job" (number 40, 8:15 PM IST Thursday 26-6-1969, Coimbatore)
+- RPs: Jupiter (day), Venus (Moon sign), Venus (lagna), Ketu conjoined with Jupiter (node with an RP).
+- Moon in the 6th bhava → service. Venus (L1) in own star in 11; Jupiter (L11) aspects the lagna and 11; L10 Saturn in 11 in Ketu's star (Ketu with Jupiter); Mercury (L2) in the star of Moon in 5 → significators of 2, 6, 10, 11 well placed → soon.
+- 1-7-1969: Moon enters Capricorn, trine to L11 (Western aspect; FLAG); Sun in Rahu star, Venus sub (Rahu in Pisces represents Jupiter) → joined service that day at 10 AM. CONFIRMED.
+
+### K. C. Subramanian, "Stars show success in examination" (number 238, 8:07? PM 14-6-1969, Coimbatore; B.Sc. 2nd year)
+- Moon in Mars's star (Mars near the 9th cusp); Moon with Mercury (L4) → the query concerns the 4th (study/exam). 9th = higher studies.
+- **Exam success = 4, 6, 11.** L11 in the lagna bhava in the star of Ketu in 6 (with Jupiter, L1) → success. Retrograde Mars aspects L4 Mercury from the 9th → no distinction.
+- **Timing within a fortnight**: the Moon's transit forming a "trine" with the 11th cusp → 24-6-1969 (Moon in Virgo, Hasta, Venus sub — an RP; Tuesday Mars — an RP; Jupiter and Ketu in Virgo). The result was published 24-6-1969 6:45 AM; passed, no distinction. CONFIRMED.
+- "When significators don't indicate the timing properly, combine luminary transits with the RPs." FLAG: aspect-based timing (trine) is non-KP.
+
+### K. C. Subramanian, "Will I get back what I lent?" (book lent; number 201, Thursday 31-7-1969, Coimbatore)
+- RPs: Jupiter (day), Saturn (Moon sign), Jupiter (Moon star), Venus (lagna star), Mars (Aries rising).
+- Moon in the star of Jupiter in 8 (other's money/possession); Jupiter = L3 (books, papers) → a book. L11 sextile L3 (aspects; FLAG).
+- Timing: Moon transit over points ruled by the RPs → Friday 1-8-1969 (Venus), by 10 AM before the Moon enters Pisces; Venus aspected by Mars. The book returned 8:30 AM 1-8-1969. CONFIRMED.
+
+### Sivapatham, "When is my son's marriage?" (son born 1:5? AM CST 11-9-1942, 7°30'N 80°37'E?; Gemini lagna 3°28')
+- **7th cusp sub lord Sun is a significator (conjoined with L2 Moon) → marriage promised.** 7th cusp in Ketu star, Sun sub.
+- 2nd: Moon (Mercury in Hasta, Saturn in Rohini) → Mercury, Saturn, Moon. 7th: Jupiter (only Jupiter in its stars). 11th: Mars (none in its stars).
+  - Conjunctions with significators: Mars, Sun, Rahu, Venus.
+- Rahu dasa, Jupiter bhukti (5-8-68 to 29-12-70).
+- RPs (11:54 PM Thursday 9-10-69): Jupiter (day), Sun (Moon in Leo, Magha? "star of Sun"), Venus (lagna star in Sagittarius) → Rahu (represents Venus, same sign and star in natal) and Jupiter → Rahu–Jupiter–Rahu antara, Rahu or Jupiter sookshma, 10-8 to 9-9-1970.
+- **Editor's addition**: 27-8-1970, when the Sun crosses natal Rahu; Mars (L11) in Ketu's star in Leo (Ketu and Sun co-rule the 7th cusp); Rahu in its own star, Jupiter sub; Jupiter in Swati (Rahu) → Thursday, Punarvasu, Libra lagna. CHECK.
+
+### "On blindness"
+- Traditional (many combinations) and Western (Sepharial, Carter: nebulous degrees — 8° Gemini/Sagittarius, 6° Leo/Aquarius, 3° Cancer/Capricorn, 29° Taurus/Scorpio; luminaries afflicted; Mercury squint; Pluto) — FLAG/reject.
+- **KP**: disease 6, danger 8, **defect 12** (12th = left eye). Ketu in 12 → planets in Ketu's star (Saturn in Aswini; Mercury and Venus in Magha) show the defect when the 12th cusp sub lord … (lost).
+- Child born 10:20 AM 12-8-1968, Delhi (Saturn dasa balance 5y 11m 16d): cure denied — the coming dasas Saturn, Mercury, Ketu, Venus all tied to Ketu in 12 (in the star of Moon in 6).
+- RULE: blindness/eye defect = 12th-house significators (Sun, Moon = eyes) with the 12th cusp sub lord.
+
+### P. C. Bhattacharya, "Suspension from service" (born 11:52 PM IST Monday 24-2-1930, 24°48'N 85°01'E; ayanamsa 22°47'; Scorpio lagna 4°56'; Sun dasa balance 4y 0m 29d)
+- **Suspension = 1, 9, 12** (1 = negation of 2 self-earning reduced; 9 = negation of 10 status/power; 12 = loss). **Adding the 5th (negation of the 6th) → dismissal.** (Cf. KSK MC_105: suspension 5, 9, 12; dismissal 1, 5, 9, 12 — FLAG: variant.)
+- 1st: L1 Mars; none in its star or sub; Rahu (in a Mars sign, aspected by Mars) gives 1st results. 5th: L5 Mercury; none in its stars; Rahu, Ketu, Mercury, Sun in Mercury subs — Rahu and Mercury highly malefic. 9th: L9 Moon; Jupiter, Mercury, Mars in Moon's stars — Mars and Mercury highly malefic. 12th: Ketu; Rahu alone in Ketu's star → Rahu very malefic.
+- Suspended 26-9-1968 in Rahu dasa, Mars bhukti, Mercury antara. CONFIRMED.
+
+### G. Ramachandra, "Can I marry the one in view without trouble?" (number 97, 9:29 PM Saturday 12-4-1969, Bangalore; Leo lagna 18°06'40")
+- Moon in 7, in the star of Jupiter in the lagna bhava → about the 7th and 1st → marriage.
+- **KSK: if the 7th cusp sub lord is in the star of a direct planet → fruitful; in the star of a retrograde planet → falls through.** 7th cusp Aquarius 18°06'40" (Saturn sign, Rahu star, Moon sub). Moon (never retrograde) is in the star of retrograde Jupiter → cannot take place.
+- The marriage was fixed for 3-5-1969 but cancelled due to trouble from dayadis (paternal cousins). CONFIRMED.
+
+### S. Ramachandran Nair, "Horary — marriage" (number 94 of 108 → Aquarius; 8:50 AM Sunday 23-11-1969, Jorhat 26°48'N 94°16'E)
+- **Moon (mind) in Sun's star and Sun's sub; Sun = L7 → query on marriage.** "A planet offers the results of the lord of its constellation (by occupation and ownership) wherever it is." Moon in 3 gives 7th and 10th results. Correct guess.
+- "KP Vol II p.205: if the Moon at query is in 3, 5, 7, 10 or 11 and receives Jupiter's beneficial aspect, marriage will surely take place." (Traditional rule quoted in Reader II.) FLAG: aspect-based.
+- Significators of 2, 7, 11: Venus and Rahu in Jupiter's star (L2, L11); Ketu in 7; Saturn alone in Ketu's star; Moon in the star of L7; Mars and Jupiter in Ketu's sub → Sun, Moon, Mars … (continues; Sun dasa balance 5y 8m 15d).
+
+### S. S. Patel, "Will I have any child?" (born 1:42 AM 13-7-1933; Ketu dasa balance 3y 11m 20d; two abortions in Moon dasa)
+- "Generally houses 2, 5, 11. For natal charts, 5 and 11 themselves give the correct picture. KSK: for a male consultant concentrate first on the 11th, then the 5th."
+  - FLAG: matches MC_101 "11 is important for gents" (male: 11th = 5th from the wife's 7th).
+- 11th cusp Aquarius 15°12' (Saturn sign, Rahu star, Ketu sub). Ketu in the 6th from the 11th; Rahu in the 12th from the 11th; Saturn (R) in the 12th from the 11th, in semi-fruitful Capricorn. **The 11th sub lord Ketu "portends abortion"** → denies long-living children.
+- 5th cusp Leo 15°12', Venus star, Venus sub; Venus in the 12th from the 5th → denies.
+- Jupiter in 5 in Venus's star, Ketu's sub ("abortive Ketu"); Neptune "most deceptive" on the 5th cusp (FLAG). Mars in Moon star (8th from 5th), Rahu sub (6th from 5th). L5 Sun in a barren sign (Gemini). L11 Saturn in 10 (12th to 11). Lagna lord in barren Virgo; Moon in barren Aries in 12.
+- Moon dasa 5-1-63 to 5-7-73 (Moon in barren Aries, Rahu sub in 10); Mars dasa denies; Rahu dasa (with retrograde Saturn) → still-birth/abortion/short-lived child.
+- → No long-living child. FLAG: barren/fruitful signs — traditional add-on (Reader IV does use fruitful/barren sign notions; check).
+- RULE: Ketu as the 5th/11th sub lord → abortion.
+
+### April 1970 issue contents
+- "Messages from…"
+- "The innovator and the innovation"
+- "The new light of Jyotisha"
+- "KP replaces traditional astrology"
+- "KP — a treasure house"
+- "Future"
+- "When can I deliver?"
+- "When will I have a child?"
+- "Correct position of lagna — ruling planets"
+- "For God's sake forget rajayogas"
+- "What a headache! Can you read the state of married life?"
+- "Ruling planets never err"
+- Q&A
+- "No more doubts"
+- "Election results"
+- "Health and heart"
+- "Brother is to become father"
+- "Assurance for insurance"
+- "Scholarship for studies?"
+- "Guess why the editor is happy"
+- Books
+- "Maturity of trunk call"
+- "When will the branch manager come?"
+
+### Prof. K. S. Sharma, "The innovator and the innovation" — KSK BIOGRAPHY
+- Born **1-11-1908, 12 noon, Tanjore** (earlier note: 12:15 PM — FLAG; minor discrepancy).
+- Schooling at Sir P. S. Sivaswami Iyer's High School. Father died in 1927 → left college (top student, scholarship). Joined the water analysis department (King Institute, Guindy; later sanitary inspector).
+- After 14 years' research: **stellar theory 1941; sub of the constellation 1947; precision in 1951** (received the Uchchishta Maha Ganapathi idol via the Kanchi Shankaracharya).
+- Founded the "Modern Astrological Research Institute" (sic; elsewhere "Stellar Astrological Research Institute"). The 1961–62 8-planet panic tour. Visiting Professor at BVB (K. M. Munshi); gold medal and title "Jyotish Marthanda" from Governor Dr Cherian (Bombay). Magazine started in 1963.
+- FLAG: KSK elsewhere says "discovered the sub in 1951" (P. Swamy) and "research from 1939". Date variance only.
+
+### M. Kittur, "New light of Jyotisha" / "Gemini", "KP replaces traditional astrology" / "KP — a treasure house" — encomia; twins and sub rationale; scholarship for overseas study is a new question the ancients didn't address. No new rules.
+
+### D. R. S. Murty, "Future" (horary; lady; number 135, 4:47 PM 27-6-1969)
+- Moon in lagna (about herself), conjoined with L7 → marriage; in the star of Saturn (L4, L5, in 6); 4 = happy home, 5 = married pleasure, **6 = separation from husband**; Moon in the sub of Venus in 7 → the issue is married life. (She lives apart from her husband.) Saturn signifies 11; Venus signifies 8 → reunion is the real question.
+- **Reunion houses: 2 (family get-together), 7 (husband), 8 (2nd from 7 = "mangalyam", husband's longevity/purse), 11 (tie of friendship)**; 5 (11th from 7 → bed-sharing bliss).
+- Venus in 7, none in its stars → Venus gives 7, 8, 1 (owned). 7th cusp Venus star, Venus sub. Venus in the sub of Sun (L11 in 8) → good.
+- **Contributor rule**: "Unless the signifying planet is a sub-lord in the relevant cusp, the events of that bhava will not fructify although they may develop very near to it." FLAG: stronger than KSK's (cusp sub lord must be a significator) — this says the significator must BE the cusp sub lord.
+- 8th: Mercury and Sun; Jupiter, Ketu, Venus in Sun's stars; Ketu deputises Mercury in Virgo. Jupiter in Saturn's sub (in 6 = 12th to 7) → no material benefit. Ketu in Jupiter's sub (in 11) → favourable. 11th: Ketu and Jupiter (node stronger); Saturn alone in Ketu's star, in Mercury's sub (Mercury signifies the lagna) → reunion in Saturn dasa.
+- Saturn dasa, Venus bhukti (10 months), Ketu antara, Rahu sookshma → 5–11 March 1970. CHECK.
+
+### "Aquarius", "When can I deliver?" (number 100, 7:30 PM IST 2-7-1969, Bombay 18°55'N)
+- Correct ayanamsa is essential (Raphael is sayana). The doctor gave November 1969.
+- RPs: Jupiter (Sagittarius lagna), Mars (Dhanishta) …; "ruling planets give precise predictions even without a birth chart".
+- Mars → surgical instruments; Ketu → some danger; but Jupiter in lagna and a well-placed lagna lord → no danger to life. (Rest lost.)
+
+### Sivapatham, "When will I have a child?" (number 135 → ~15° Libra; 5th and 11th cusps ~14° Aquarius and ~14° Leo)
+- Childbirth = 2, 5, 11. 2nd cusp Saturn star, Rahu sub; nodes in 3 and 11.
+- RPs: Asc Venus sign, Rahu star, Venus sub; Moon in a Jupiter sign, Mercury star, Rahu sub; Wednesday; …
+- **Nodes stronger → the result when the Moon transits a sign "ruled" by Ketu/Rahu** (signs of the planets they represent) → Monday 24-11-1969, 2 AM.
+- **Sex determination (contributor)**: "Ketu is in 11; the lagna denotes the querist (male); 1, 5 and 11 are male signs (odd) → a male child." Alternative: the time of birth ruled by Venus, Sun, Mercury, Jupiter … FLAG: odd/even sign gender rule (traditional). KSK: no rule (gap).
+
+### N. D. Kedare, "Correct position of lagna — ruling planets" (born Saturday 23-12-1939, 4–6 PM, Ahmednagar; Gemini vs Taurus disputed)
+- "The first important question is always answered by the RPs at the moment of judgment": lords of the day, rasi, star and lagna. (Continues.)
