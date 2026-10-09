@@ -4495,3 +4495,42 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 - "Is there second marriage for me?"
 - **Reprints** of the 1969 Students Section articles ("Ayanamsa — vexation ends" with the wife/husband charts; the Dhond Uttarabhadra/Revati case; the third example of three charts). Already noted in MC_101–MC_102; nothing new except:
   - "Reject if the ayanamsa is less than 22°44' for 1938" (the wife born 7:40 PM 8-5-1938, 11°31'N 78°12'E; Moon dasa balance 6y 7m 29d): with a smaller ayanamsa, the marriage would fall in Ketu's period, which cannot give marriage (Ketu gives Sun's 6th, 9th, 2nd results; the day would be Friday; the husband's star should be a Ketu star — nothing agrees).
+
+## MC_117 (Jul 1970, cont.)
+
+Mostly **REPRINTS** in the July 1970 Students Section:
+- "Ayanamsa — vexation ends" (cases from MC_102: Jupiter exaltation by RPs; sade-sati; SSLC student; the Jyeshta interview timing; the Leo vs Cancer professor; the trunk-call birth star) — already noted.
+- Ganapathi's "Traditional transit system meaningless" (K. B. Jagadish marriage 1-9-1950; Phaladeepika transit evils listed; KP II pp.93–94 lottery case with Jupiter in janma etc.) — already noted (MC_102).
+- KSK's "How to judge a nativity" (Alibag native 9 PM 23-12-1924) — reprint of MC_099. **This copy restores text lost to de-dup earlier**:
+  - **Significator order (verbatim)**: "(1) Planets in the constellation of the occupants. (2) Occupants. (3) Planets in the constellation of owners. (4) Owners. (Very weak; but yet, those connected with a bhava are those planets conjoined with or aspected by the significators found out already.)"
+  - **Secretary analogy (KSK)**: "A planet occupying a constellation is the Deputy Secretary who executes what the lord of the constellation (the Secretary with a particular portfolio) indicates by occupation or ownership. If the Deputy Secretary is absent, the Secretary does. So also if there is none in its star, the owner gives."
+  - Steps III–V: Saturn in Swati (1st); Venus in Anuradha, Mars in UBhadra, Mercury in PAshadha (4th: Saturn, Venus, Moon); Moon in Visakha (5th: Jupiter, Sun, Mercury); Rahu in Ashlesha; Jupiter and Sun in Mula (7th: Mars?? — text "VII Jupiter and Sun in Moola" → Ketu 6th? the reprint lists VI Ketu; VII Mars); Ketu in Dhanishta (8th). "Planets occupy only houses 1, 4, 5, 7 and 8; planets in the constellations of these occupants are the strongest significators of those bhavas."
+  - Ready reckoner (full):
+
+    | Planet | Houses |
+    |---|---|
+    | Jupiter | 7, 5, 6, 9 |
+    | Venus | 4, 4, 4, 11, 7, 8 |
+    | Saturn | 1, 4, 8, 7 |
+    | Rahu | 3, 12, 5, 1, 4 |
+    | Ketu | 8, 7, 8, 4 |
+
+    | House | Significators |
+    |---|---|
+    | V | Sun, Mercury, Jupiter, Rahu |
+    | VI | Jupiter, Moon |
+    | VII | Sun, Ketu, Jupiter, Venus, Mercury, Saturn |
+    | VIII | Mars, Venus, Saturn, Ketu |
+    | IX | Moon, Jupiter, (X?) Ketu, Mars |
+    | XI | Mercury, Venus |
+    | XII | Rahu, Mercury |
+
+  - Wife's birth RPs (0:30 AM? 12-4-1936): lagna constellation lord Venus, lagna sign lord Jupiter, Moon sign lord Moon? (text "Lord of the sign occupied by Jupiter Moon" — garbled), day lord Sun, planet in lagna Ketu → Venus, Jupiter, Mercury, Sun, Ketu = the husband's 2/7/11 significators. (Confirms the method.)
+  - **APP**: implement exactly this 4-level significator method (+ conjunction/aspect as the weakest level) and the "deputy/secretary" rule.
+
+### Ramachandran Nair, "Any child birth at all? If so when?" (number 235, 7 PM IST Friday 26-12-1969, Jorhat 26°48'N 94°16'E; married 16 Nov ?, no issue)
+- For a male, "**the 11th is to be judged first and then the 5th**".
+- 11th cusp Capricorn 1?°36': Saturn sign, Sun star, Jupiter sub. Sub lord Jupiter = L6, in the star of Ketu ("abortive node") in a barren sign (Leo); Sun in the 10th (12th to 11th), in Mercury's sub (L4 & L7 = 12th to 5th and 8th). Jupiter in Rahu's star, Moon's sub; Rahu in 12 → the 11th cusp denies.
+- 2nd: vacant; L2 Mars conjoined with Rahu in 12, in Rahu's star, Ketu's sub → spoiled. 5th: Moon (owner and occupant), in the star of retrograde Saturn, Mars's sub (Mars in 12). 11th: L11 Saturn (R); Rahu in Saturn's sign; Mars in Rahu's star; Saturn in Rahu's sub.
+- Moon (mind) in Ketu's sub? … in the sub of Mars (L2), owns and occupies the 5th → the query is about childbirth.
+- → Not promised. FLAG: barren signs / abortive Ketu notions.
