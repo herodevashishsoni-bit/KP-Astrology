@@ -2922,3 +2922,132 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
   - FLAG: these are traditional/Western rules preserved in Reader II. Cross-check with the Reader notes; they conflict with KP's pure star/sub method. Treat as supplementary indicators of delay only, if at all.
 
 ### Ashok Ghosh, "Horary — overseas" (start; Dr (Mrs) X, post-doctoral fellowship in California) — continues next file.
+
+## MC_103 (Aug–Sep 1969)
+
+### Ashok Ghosh, "Horary — overseas" (cont.)
+- Number 59 (of 1–108), 4:25 PM IST Saturday 6-6-1968, Calcutta. Question: post-doctoral fellowship abroad this year?
+- "According to KP, Moon must indicate the nature of the query." Moon in the lagna bhava → about herself; Moon = L10 in the star of Jupiter (L3, L6, in 10) → professional. Moon in the sign and sub of Mars (L2, L7) in 9; Jupiter in the star of Ketu in 12 → overseas.
+- 11th cusp in Venus star, Venus sub; Venus = L1, in 9 with Sun (L11) → fulfilment promised. Hindu aspects (Jupiter on the 11th; Saturn aspecting the lagna → delay) used. FLAG.
+- RPs: Saturn (day), Mars (Moon sign Scorpio), Jupiter (Moon star), Mars (Moon sub — the contributor adds Moon's SUB lord as an RP; FLAG), Mars/Mercury/Rahu (Asc Scorpio 24°30': sign, star, sub).
+  - Nodes replace the planets whose signs they occupy (Ketu in Virgo → Mercury; Rahu in Pisces → Jupiter) → Saturn, Mars, Ketu, Rahu.
+- **Timing rule (as KSK teaches)**: transit of **Jupiter → year, Sun → month, Moon → day, ascendant → moment**.
+  - Jupiter in Leo (Sun not a significator) → nothing until Jupiter enters Virgo (Mercury, represented) on 12-10-68. Then Sun in a Mars sign, Saturn star → late Nov 1968.
+  - Actual flight 27-11-1968, ~11 AM: Wednesday (Mercury); Sun in a Mars sign, Saturn star; Moon in a Saturn sign, Rahu star; Asc in a Saturn sign, Mars star. CONFIRMED.
+  - Principle: RPs at judgment = RPs at fructification.
+
+### K. C. Subramaniam, "Prediction about service comes true"
+- KCS (20-7-1911) lost his job 1-1-1969 (earlier stated as 1-12-68; FLAG minor discrepancy). Predicted on 16-1-69: re-employment 15-3-1969 — came true to the day.
+- "Not always necessary to find the RPs; sheer analysis of the birth chart with transits suffices."
+- Service = 2, 6, 10. 2nd: nil (owner Saturn). 6th: nil (Venus). 10th: Jupiter and Ketu (owner Mercury). None in Jupiter's star → Jupiter strong; Ketu close to Jupiter gives its results. Rahu and Mars in Ketu star; Sun in Saturn star; Venus, Saturn and Moon in Venus star; Mercury in own star.
+- **Elimination**:
+  - Mars (L5 & L10; 5 = 8th from 10?) and Rahu with it → their antaras have passed.
+  - Sun (L9 = 12th to 10) rejected; Moon (L8, conj Saturn) rejected.
+  - → Guru, Ketu, Saturn, Venus, Mercury.
+- Jupiter dasa, Ketu bhukti; Saturn antara (22-2 to 15-4-69); Saturn in Ketu sub, Mercury in Venus sub → Saturn antara, Venus sookshma.
+- 15-3-1969: Saturday; Moon in a Saturn sign; Sun in a Jupiter sign and star; Jupiter conj Ketu in Virgo, Venus sub; Ketu in Ketu sub. CONFIRMED.
+
+### KSK "Customer's confusion clarified" — reprint of the MC_101 "Transit" article, with the chart data restored:
+- Native 5:46 AM 5-11-1926, 18°55'N 72°54'E? (garbled). Libra Asc 3°51'; Rahu dasa balance 10y 5m 8d.
+- Extra detail: Sun = L11 (11th cusp in Leo 7°32' → extends to Virgo 8°32'; no occupant → Sun is the lord of 11). Sun is in Rahu star, Moon sub; Rahu is in the 9th → Sun gives 9th matters.
+  - 9th = father, wife's younger brother, younger brother's wife, grandchild, elder brother's elder brother; higher education, long journey.
+  - Planets in Krittika / Uttaraphalguni / Uttarashadha would give lagna results.
+- Sources: Rahu gives 9th & 12th, also 2nd & 7th, via 9 & 12. Ketu gives 1, 7, 6, 4 via 3 & 6. Saturn gives 1st & 5th via 1, 4, 5.
+- "Individual chart must be studied and prediction offered" (no general transit rules).
+
+### KSK, "Television at Sweden" interview (9-5-1969, Delhi)
+- Biography and doctrine:
+  - Hindu astrology originated with Sage Garga; Western with "Seth" (~3769 BC). Neither copied the other.
+  - Both systems are incomplete and general. KSK did 40+ years of research, starting seriously in 1926 at college; initiated by a Siddha Purusha; teaching since 1951.
+  - Research began with twins and births minutes apart, then the sub.
+  - Vimshottari dasa = "marvellous", its sage revered as God.
+  - The KP book is 1000 pages (Rs 25).
+- Demonstration: Friday, Dhanishta → Saturn, Venus, Mars rule the moment; Venus → music, opera, cinema, television, transport.
+  - Saturn+Venus+Mars → slaughterhouse or family planning; Mars+Venus+Jupiter → animal husbandry. (The accompanying officer had just been transferred to Family Planning; running Saturn–Saturn–Venus–Mars.)
+- Guessed the Swede's rasi: Saturn, Venus, Mars; Moon transiting a Saturn sign; Venus conjoined with Rahu → Rahu's star in a Saturn sign = Satabhisha → Aquarius rasi. CONFIRMED.
+  - Further: around Sept 1961 he met saints (with the Dalai Lama), was restless, toured, unmarried → "marriage is to come". CONFIRMED (bachelor).
+
+### Hiralal Sharma, "Result of the examination undertaken" (number 248, 4:55 PM 29-10-1968, Banjar 31°58'N? 77°E; B.Ed. result)
+- Mars dasa balance 6y 3m 15d; Rahu sub-period 0y 8m 18d.
+- Education houses (as given): **3 = aptitude to specialise in a subject**; **4 = study work, preparation, appearing at exam centres (school/college)**; **9 = chances to study further**. **Exam result = 4 + 11**.
+- 4th unoccupied; L4 Mercury; Ketu in Virgo represents Mercury (node stronger); Ketu in the star of Moon in 11 → 4 & 11 linked. L11 Saturn in Mercury star → linked both ways.
+- The 4th cusp star lord Rahu represents Jupiter, the 11th cusp sub lord; the 11th cusp star lord = the 4th cusp sub lord → success certain. "Had there been doubt I would have taken RPs."
+- Result in the Tribune ~1-12-1968: passed. (Also "heard news 2-2-1968" — FLAG date garbled, probably 2-12-1968.) Monday (Moon), Bharani (Venus), Pisces lagna (Jupiter, Rahu representing). CONFIRMED.
+- RULE (APP education): exam success when the 4th cusp and 11th cusp star/sub lords interlink and significators of 4 & 11 run.
+
+### August 1969 issue contents
+- "Guruji visits Banjar (Kulu)"
+- "Ephemeris ready"
+- "Kendra adhipathyam"
+- "Fate versus freewill"
+- "Electional astrology"
+- Readers Section: "No more doubts"; "Will I earn at all?"; "Uncle, I want to become a politician"; "Transfer — when?"
+- Letters
+- "Which explains the truth? — Switch on to KP"
+- "My luck in horse racing"
+- "KP — unique in its application — minor event verified"
+- Editor's speech at Banjar
+- "Correct chart"
+- "Ruling planets reveal"
+- "Horary astrology"
+
+### KSK, "Kendra adhipathyam" (partly lost to de-dup)
+- KP REJECTS kendradhipathya dosha: "whether a planet is by nature a benefic or malefic, whether it owns a kendra or kona, it must lay its icy hand if it is connected with badhaka or maraka and it is in the sub of a planet which is a significator of maraka".
+- Morarji Desai: Gemini lagna; Jupiter (L7, kendradhipati) in the 2nd (maraka); yet rose to fame and prosperity in Jupiter dasa; now in Saturn dasa, Rahu bhukti.
+- **Case**: boy born 9:54 PM 26-10-1954, 13°04'N 80°15'E (Madras); Gemini lagna 12°50'; Jupiter Cancer 6°05' (exalted, in 2nd? listed as in lagna bhava). Rahu dasa balance 14y 11m; Jupiter dasa from 26-9-69.
+  - "Jupiter in 2 in exaltation, owning badhaka (7th for a common sign), kendra and maraka, will indicate death only of those in whose horoscopes Jupiter is in the sub of a significator of badhaka/maraka."
+  - **RULE**: if planets A, B, C are in the star of a planet in 2 or 7, then A, B, C and the occupant all signify death. Such a significator kills in its period only if it is in the sub of a maraka significator. If Jupiter signifies 2 & 7 but is in a sub whose lord is unconnected with 2/7 → it can never kill.
+  - In this chart: significators of 2 & 7 are Mars (in the star of the 2nd-cusp sign lord); Ketu, Moon, Sun, Mercury, Saturn (in Rahu star; Rahu in 7). Jupiter has gone to the lagna bhava, weaker than the node. Jupiter is in Mercury sub; Mercury, in the star of the node in 7, is in Venus sub (Venus not a death significator) → Mercury can't kill → Jupiter in Mercury sub never harms → successful Jupiter dasa; long life.
+  - **Procedure for death periods**: write down all death significators (2, 7, badhaka), note their subs, eliminate those in subs of non-maraka planets, keep those in subs of maraka significators. "Tradition should have this rule in addition."
+- Also: parents only ask when the child will be PM — humour.
+
+### S. Moglikar (?), "Fate versus freewill" — essay. Mentions Sun = ego, Moon = personality with Western aspects (attributed to KSK). FLAG: not Reader doctrine; ignore for the app. Includes "freewill has taken the form of shanti, pujas" — remedies, ignore.
+
+### "Capricorn", "Electional astrology" — business start 9:05 AM 28-5-1969, chart for that moment
+- Mars dasa balance 5y 0m 18d → Mars–Jupiter bhukti 28-5 to 7-11-69.
+- **KP muhurtha method**: judge the ascendant of the moment (star and sub). Asc in the star of a direct planet in 3 and the sub of Rahu in 9. Jupiter in Sun star → turnover, publicity, name. Rahu in the star of Saturn in 10, Saturn sub → steady progress, prestige.
+- Gain = 6 & 11:
+  - 6th: L6 Jupiter, none in its stars → Jupiter; Ketu conjoined; others by aspect.
+  - 11th: Sun, Mercury; Jupiter and Ketu in Sun star; Mars and Venus in Mercury stars → many significators of 11.
+- **Opponents** = 7th. 6th from 7th (12th) vacant, lord in 5 (12th to 6) → loss to them. 11th from 7th (5th) occupied and owned by Mars; Moon in Mars star → Moon bhukti (from 16-11-1973) gives them success → for ~4.5 years their efforts fail.
+- 12th = purchases/investment or loss. L12 occupying the 11th → investments give gains.
+- Saturn in the star of Ketu in 3 (Ketu agent of Mercury) → sources 3 (agents, distribution, salesmen, publicity), 4 (native state), 12 (other states), 11 (friends).
+- **"Ketu is invariably beneficial if it occupies the 3rd house."** FLAG: a general rule from a contributor (or KSK?). "Jupiter in the 3rd in a Mercury sign = popularity."
+- **Editor's note — muhurtha doctrine**: the native did start (despite floods and competitors) and "mints money". "Lucky people will have their luck following their attempts at a particular moment … unlucky people must suffer even though they do pooja, give dhanam … and start in the so-called auspicious time. All depends on one's future. Auspicious time is to be selected considering one's full horoscope. Taking one's birth star and selecting a time is useless."
+  - → APP: no generic muhurtha; at most, election charts judged against the natal dasa.
+
+### Readers section, "No more doubts" (KSK) — CORE: same house, different results via dasa + sub combos
+- 6th house = disease, debts, defeat of opponent, service, servants, pet animals, tenants, separation from wife, etc. Virgo = "hospital of the zodiac".
+
+  | Dasa lord signifies | Bhukti lord signifies | Result |
+  |---|---|---|
+  | 6 | 1&6, 1&8 or 1&12 | falls ill |
+  | 6 | sickness, and the bhukti lord also signifies 1, 5 or 11 | survives |
+  | 6 | sickness, and the bhukti lord signifies badhaka/maraka | succumbs |
+  | 6 | 2 | borrows (and only then) |
+  | 6 | 1 & 2 | ill AND borrows |
+  | 6 | 7 & 8 (sic) | partner leaves home |
+  | 6 | 2 & 10 | enters service |
+  | 6 | 7 & 11 | wins competition, election, litigation |
+  | 1 | 6 | falls ill |
+  | 2 | 6 | borrows |
+  | 7 & 11 | 6 | victorious (6 = 12th to 7: "poison to the opponent") |
+  | 7 & 12 | 6 | separation from partner |
+  | 2 & 10 | 6 | serves |
+  | 5 & 12 | 6 | servant disappears with loss |
+  | 5, 6, 7, 12 conjoined periods | — | death of pet animals or tenant |
+
+- Horary: a 6th significator in the sub of a planet in a quadruped sign → animals die; in a biped sign → the tenant dies.
+- Example life (KSK's own?):
+  - dasa lord signifying 4 & 2, bhukti signifying 11 → got brother's property;
+  - next dasa signifying 4 & 9 → passed an exam with first class in the same bhukti;
+  - next dasa signifying 5 & 10 → mantra initiation and a rare costly idol;
+  - dasa signifying 1, 2, 3 with an 11th-signifying bhukti → money by short tours, a magazine, books, advertisements; fame.
+  - "Even though the sub lord signifies a bhava, in each dasa it gave different matters depending on the dasa lord."
+- → **APP**: matter selection = intersection of dasa-lord houses × bhukti-lord houses (× antara). Implement a combination table.
+
+### "Arudhra", "Will I earn at all?" (number 71, 8:30 AM Sunday 11-5-1969, Delhi 28°38'N 77°12'E; ayanamsa 23°20')
+- Jupiter dasa balance 9y 2m 26d; Jupiter–Mercury ends 13-7-69, then Ketu 11 months.
+- Significators: Rahu, Jupiter, Ketu, Sun, Saturn. RPs: Sun (Sunday), Jupiter (Purvabhadra), Saturn (Aquarius), Gemini lagna (Ardra rising; Ketu represents Mercury) → Jupiter, Ketu, Saturn, Sun, Rahu. Earning between 8-3-70 and 1-5-70.
+- **"Urge" rule**: the urge to ask comes when the Moon touches the most sensitive point for that matter. The matter materialises when the significator touches that point in direct motion; failure on the day it touches while retrograde.
+- Sun (L2 in 10, exalted) and Ketu strongest … (continues next file).
