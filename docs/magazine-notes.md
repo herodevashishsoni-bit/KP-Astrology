@@ -5904,3 +5904,190 @@ Rahu represents Jupiter; Ketu represents Mercury.
 ### Visaka — Jataka Chandrika, stanzas 5–8 (traditional lordship rules: kona good; 3/6/11 lords evil; benefics owning kendras evil; 2nd/12th lords by association; 8th lord evil)
 - Editorial gloss uses "the 12th from a house = negation of that house" (consistent with K.P.).
 - FLAG: these are traditional lordship rules, not for the app.
+
+## MC_126 (Jan 1971 end + Feb 1971 start)
+
+### KSK — "Rectification of lagna (ruling planets)" (Thursday 15-10-1970; birth place 17°45'N 77°43'E)
+- Doubt: Scorpio or Sagittarius lagna.
+- **KSK principle**: a horoscope is taken up for judgment only at a moment whose RPs fit those of the birth moment → "the RPs at the moment of birth and the RPs at the moment of judgment should be the same."
+- RPs at judgment: Jupiter (day Thursday); lagna Libra 5° → Venus sign, Mars star, Sun sub(?); the Moon in Ketu's star (Aswini), Mars sign.
+- The end of Scorpio is ruled by Mars/Mercury (Jyeshta); the start of Sagittarius by Jupiter/Ketu (Moola). Jupiter and Ketu are RPs; Venus is not … → Sagittarius 0°–13°20' (Ketu star), Venus sub, Mars sub-sub → Sagittarius 1°03'? → 10:20:43 AM.
+- CHECK (no verification given).
+
+### M. S. Mani — "Service in foreign country (permanent stay)" (horary)
+- Houses: 2 = self-acquisition; 6 = service; 10 = profession; 11 = prosperity; 12 = life in a foreign land. The conjoined period of these significators → settles abroad, earning there.
+- 9th cusp Virgo 16°20', sub lord Saturn (R) in Aries 28°27', in the 4th bhava (permanent residence), in a fixed sign(?) → **"Saturn retrograde, slow, in the 4th: not favourable to long travel"**.
+  - Saturn is in Krittika (the Sun's star); the Sun occupies and owns the 8th → delay.
+  - Saturn is in the Moon's sub; the Moon is in 10 (profession) → not denial.
+  - Jupiter (L3, L12, in 9) and Venus (L10 in 10) aspect Saturn → Saturn represents 3, 9, 10, 11, 12 → delay without disappointment.
+- 12th cusp Sagittarius 9°20': sub lord Saturn again.
+- **KSK significator order quoted correctly**:
+  1. planets in the stars of the occupants;
+  2. the occupants;
+  3. planets in the stars of the lords;
+  4. the lords;
+  5. those aspected by the above.
+  - "These in favourable subs denote strength."
+- Venus (in Visakha, Jupiter's star; Jupiter L3/L12 in 9; Venus L10 in 10) → strong for settling abroad. Mercury (L6, L9) in Venus's star, Saturn's sub → significator.
+- RPs: Saturn (lagna lord and star), Mars (rasi), Moon (day); Jupiter and Venus aspect Saturn; Mercury conjoins Mars.
+- Prediction: settles abroad in Mercury–Venus on 5-12-1978 (the Sun in Jyeshta, Venus sub; Jupiter in Punarvasu, Venus sub).
+  - Also uses **progression** ("by progress in Dec 78, Jupiter conjoins the 10th cusp; Mercury conjoins the 9th cusp"). FLAG: progression is Western, non-KP.
+  - "Mercury indicates the United States." FLAG: country-planet symbolism.
+
+### KSK (presumably) — "Inherited property — possession when?" (b. 1:06 AM 8/9-1-1912; sidereal time 8h05m35s; ayanamsa 22°32'; Libra Asc 7°36')
+- "According to Westerners, whenever the Ascendant is connected with malefics there will be a struggle for possession of the inheritance." FLAG: Western.
+  - Ketu represents Libra … Saturn aspects the Asc; the Asc is in Rahu's star (Rahu signifies 2, 6, 7, 12) → afflicted.
+- **K.P.: the 10th house indicates inheritance.** (Note: 10th = 4th from 7 / 8th from 3? Recorded as stated. Elsewhere the 8th is inheritance in tradition. FLAG for reconciliation.)
+  - 10th: Cancer 6°47' to Leo 7°47'; empty; lord the Moon, with nothing in its star → the Moon is a strong significator.
+  - The Moon is in the star of L8 and the sub of Saturn → realisation difficult. The Moon in 11 → no denial; "delayed till you get dejected".
+- Trouble from Mars–Venus (Mars L2, in the star of L11, the sub of Jupiter L6). Litigation from 1951.
+- Ends in Jupiter–Rahu–Moon, June 1973.
+  - **Saturn in the 7th is always for prolonged litigation** (FLAG: traditional-style).
+  - L10 in 11, in the star of planets in 2 → ultimate success.
+- Prediction: possession in June 1973. CHECK.
+
+### "Bhavani" — "The last journey" (S. W. R. D. Bandaranaike, PM of Ceylon; b. 9:57:37 AM CST 8-1-1899?, 7°N? 80°04'E; Saturn dasa balance 18y 10m 26d)
+- Rectification "100% correct by RPs"; verified with death.
+- Star lords (partial): Jupiter → Rahu/Ketu; Venus → Saturn/Rahu; Saturn → Mercury/Jupiter; Rahu → Venus/Sun; Ketu → Rahu/Venus.
+- **Rules (contributor citing K.P.)**:
+  - Danger in the conjoined periods of the lords of the sign, star and sub where the 8th cusp falls.
+  - If the 8th cusp sub lord is a malefic → an unnatural, sudden end. (FLAG: natural-malefic wording.)
+  - Here the 8th sub lord Rahu is conjoined with the Sun (lord of a maraka) and Mercury (L8) → a sudden end.
+- 8th cusp: Mercury sign, Mars star, Rahu sub. Mars is retrograde → reject ("will never manifest results"). FLAG: natal retrograde rejection, contrary to KSK. → Mercury and Rahu.
+- Rahu governs Venus (Venus is in Rahu's star? OCR: "Rahu governs Venus as it is in Venus star; Venus is in the sub of Rahu" → Venus = Rahu). Venus is in the 9th = badhaka (fixed lagna).
+- 2nd and 7th vacant. The 9th is occupied by the Moon and Venus. Contributor's "sub" method again: planets in the sub of the occupants → Mercury and Ketu are in Venus's sub.
+- → Venus–Mercury–Venus–Moon, between 5-9 and 29-9-1959, on a Venus-ruled day/star.
+- Actual: shot on 25-9-1959, died 26-9-1959. CONFIRMED (dasa match).
+- **Place**: the strongest killer, Venus, is L4 (own place) in 9 → at his own residence. CONFIRMED (he was shot at home).
+- **Killer (contributor)**: the sub lords of the 12th (secret enemies) and 7th (the person who commits).
+  - The 7th cusp is Venus star, Jupiter sub; Jupiter is L2/L11 in 8 → known to him, not a relative. Jupiter = teacher or priest. CONFIRMED (a Buddhist monk shot him).
+  - Jupiter in Rahu's star gives Mercury's results (L5 = desire, third party). The 12th sub lord is also Mercury → a secret plan.
+- **Weapon**: the 8th cusp sub lord gives the mode of death. Rahu is in Venus star, Sun sub.
+  - Venus = vehicle, ornament (handy, beautiful), in a Mars sign (movable weapon) and Saturn's star.
+  - The Sun (fire) and Mercury (multiple; airy) aspect Rahu → a revolver: handy, light, several shots. CONFIRMED (pistol).
+  - FLAG: karaka symbolism, but a clear demonstration of the "8th cusp sub lord = manner of death" principle.
+
+### S. Lakshminarasimhan — "Will I sell my property at a good price?" (number 55; 6:30 AM IST 20-9-1970, Madras 80°17'E; Sun dasa balance 2y 4m)
+
+| Planet | Bhava | Star lord |
+|---|---|---|
+| Sun | 3 | Saturn |
+| Moon | 11 | Saturn |
+| Mars | 3 | Mars |
+| Mercury | 3 | Jupiter |
+| Jupiter | 4 | Mercury |
+| Venus | 4 | Sun |
+| Saturn | 11 | Mars |
+| Rahu | 8 | Rahu |
+| Ketu | 2 | Jupiter |
+
+Rahu represents Saturn; Ketu represents the Sun.
+
+- The Moon (mind) is in 11 with Saturn (estates), in the star of the Sun (L3 in 3), the sub of Saturn (L8, L9). Mars (land) and Mercury (L1, L4) are in 3 with the Sun → disposal of property.
+- **Rules**:
+  - Immovable property = 4th; disposal = the 3rd (12th to 4th); the buyer = the 7th. Whether the buyer can buy → the 10th (the 4th from 7).
+  - Conditions:
+    - (a) the 10th cusp sub lord is not retrograde;
+    - (b) it is not in the star of a retrograde planet;
+    - (c) it signifies 5 or 10 (OCR "5th or 10th"; likely 3 or 10, cf. MC_098 "selling 3 & 10"). FLAG/CHECK.
+  - Here the 10th sub lord Jupiter is direct, in the star of Rahu ("never retrogrades"), and the sole significator of the 10th → sale certain.
+  - **Sale = 3, 5, 10; handing over possession = 3, 12.**
+- Significators:
+  - 3rd: Sun, Moon, Mars, Saturn (R), Mercury (R), Rahu, Ketu;
+  - 5th: Mars, Mercury (R), Venus;
+  - 10th: Jupiter;
+  - 12th: Mars, Mercury (R), Venus.
+- Retrograde Saturn and Mercury give nothing until direct (Mercury on 22-9-70, Saturn on 17-1-71).
+- RPs (6:30 AM 20-9-70): Sun (day), Venus (Moon sign), Sun (Moon star), Mercury (lagna), Moon (lagna star) → Sun, Mercury, Venus, Moon.
+- Sun–Saturn to 8-11-70: no sale (Saturn retrograde). Sun–Mercury–Venus–Moon 19–23 Feb 1971 → 21-2-1971 (Sunday). Transit table given.
+- Price: the Sun (dasa lord, L3 in 3) is with Mars and Mercury, under the sway of Venus (L5, L12), which is favourable to the opponent (6 and 11 from the 7th) → not a good price. CHECK.
+
+### G. S. Kler — "Would farming suit me?" (number 212 → Aquarius 5°33'20", Saturn sign, Mars star, Moon sub; 17:30 IST 10-8-1970, Delhi 28°38'N 77°12'E)
+- Procedure explained:
+  - add 23°20' → Raphael at 28°40'N → subtract the ayanamsa;
+  - the planets in the A&A ephemeris are for 17:30 (sayana, per the contributor; FLAG: elsewhere the KSK ephemeris is nirayana) → subtract the ayanamsa.
+- Jupiter dasa to 15-10-79; Mercury bhukti to 21-9-70.
+- **RP strength order (contributor)**: lagna lord strongest, then the lagna star lord, then the Moon sign lord, then the day lord → Jupiter, Venus, Moon. (Moon star lord omitted? FLAG: RP strength-order contradiction already noted.)
+- Query check: the Moon in 9, Libra, in Jupiter's star, Mercury's sub. The Moon is L6 (animals), in a watery sign (udder, milk) … → dairy.
+  - FLAG: heavy karaka and derived-house symbolism (4th as lagna for farming, etc.).
+- **Promise rule** (as KSK):
+  - the sub lord of the relevant cusp (4th for farming) in the star of a direct planet → yes; in a retrograde star → no;
+  - if the sub lord itself is retrograde → delay until it turns direct, passes its judgment-degree, and reaches a point ruled conjointly by the significators.
+  - Here the 4th sub lord Saturn is in the Sun's star (never retrograde) and Mars's sub (direct) → promised. Saturn gives in instalments and with delay.
+- **Source rule (KSK)**: the source or cause is shown by the planet deposited in the star of the dasa lord. Only the Moon is in Jupiter's star → irrigation; 9th → a tenant (derived houses). FLAG: contributor elaboration.
+- Animal type: the 4th and 6th sub lord Saturn (hairy, bony), in the star of the Sun, the sub of Mars (muscular), in watery Cancer → buffalo, not cow (needs Venus) or goat. Sheep: indicated but not promised. Fishery: no connection with Pisces.
+  - FLAG: all karaka symbolism; not for the core app.
+- Significators: 4th → Venus, Mercury; 11th → Jupiter, Moon. RPs → eliminate Mercury.
+  - Jupiter–Venus–Moon: 25-3-72 to 15-6-72.
+- **Speed rule (attributed to KSK)**: look at the 11th cusp sign: movable → immediate; common → normal course; fixed → delayed. Saturn aspecting the 11th cusp → further delay.
+  - Note the multiple versions: also in MC_126's Ph.D. class (fixed → delayed maturity).
+- **Transit method (KSK, as described)**:
+  - Mark the zodiac points ruled conjointly (sign/star/sub) by the dasa, bhukti and antara lords; also the lagna and Moon positions at the moment of judgment.
+  - Reject points aspected by Saturn.
+  - The event happens when the three lords transit these points at the same time.
+  - Points: Sagittarius 16°13'20"–17°20' (Jupiter, Venus, Moon); Taurus 13°53'20"–15°40' (Venus, Moon, Jupiter); the Libra point is rejected (Saturn aspect).
+  - The Moon is opposed by Saturn → the first attempt fails → start on Monday 1-5-1972. CHECK.
+
+### Dinesh Sharma — "An evening with Professor K.S.K." (Delhi class, 27-9-1970) — rich KSK teaching
+- Ph.D. query: the first number 211 (Aquarius 4°53'20"). KSK can calculate the chart mentally. A second number, 128, judged at 18:45; the chart was cast in 7 minutes.
+- **Higher studies / research = 9; fulfilment = 11.**
+- **KSK: "In K.P. there is no place for Krishna paksha or Shukla paksha."**
+- **Step 1**: does the Moon indicate the nature of the query? This cross-checks the correct erection of the chart.
+  - Here the Moon is in 10, L10, conjoined with Ketu (which represents 11), in the sub of Rahu in 4 (education). Rahu is aspected by Mars (L2, L7 in 11) and Mercury (L9, L12 in 11).
+- **Step 2**: will the answer be favourable? If negative, don't waste time on significators.
+  - The 11th cusp is Leo, Ketu star, Jupiter sub → the sub lord Jupiter decides.
+  - **KSK rule**: a sub lord in the star of a retrograde planet → negative. In the star of a direct planet → success. Rahu and Ketu, like the Sun and Moon, never retrograde.
+  - **If the sub lord itself is retrograde, it does not deny; it only delays until it turns direct.**
+  - Link the sub lord to the query: Jupiter = education by nature, in Rahu's star in 4, aspected by L9 and Mars in 11.
+- **Speed**: the 11th cusp in a fixed sign → delayed maturity. The sub lord Jupiter in a movable sign → fructifies when the significator touches the very first sensitive point conjointly ruled by the dasa, bhukti and antara lords.
+- The lecturer confirmed an earlier rejection. Second attempt → success.
+- **When**:
+  - 9th (Gemini): owner Mercury, nothing in its star → very strong.
+  - 11th (Leo): occupied by Mars and Mercury, nothing in their stars → very strong. L11 the Sun is in 12, in the star of the Moon (L10 in 10).
+  - **Nodes: Ketu conjoined with Mars and Mercury gives what they promise.**
+  - Running Ketu dasa, Rahu bhukti.
+  - RPs: Sun (day), Sun (rashi), Ketu (nakshatra), Mars (lagna).
+  - **KSK: Mercury is not an RP, but "Mercury is in the same degree as Mars, so it should also be treated as an RP"; "planets conjoined with another play its role also apart from their own".** (Important RP-extension rule.)
+  - Jupiter bhukti is rejected because Jupiter is not an RP at the moment.
+  - → Ketu–Mercury–Mars: late May / early June 1973.
+- **Mercury as L12**: "Don't jump to hasty conclusions. The 12th also indicates foreign matters" → the Ph.D. from a foreign university or another university (L9 = L12). Confirmed by the querist's situation.
+- Transit: the points ruled conjointly by Mars–Ketu–Mercury:
+  - Aries 11°26'40"–13°20';
+  - Scorpio 18°33'20"–19°20';
+  - Gemini 1°53'20"–2°40'.
+  - Ketu moves backwards and will touch Gemini 2°40'–1°53'; plus points from the Moon and the lagna at judgment.
+- Second number given → success in the second attempt. Retrograde Saturn (L of the first number's lagna) aspects the 9th, but Jupiter is in the lagna → the thesis is not rejected outright; he'll be asked to expand it (Jupiter expansion; Saturn incomplete). FLAG: symbolism.
+- Bhukti-level details: Jupiter bhukti → serious work and success; Saturn bhukti → delay; Mercury bhukti → success.
+- **Ayanamsa demonstration**: a student's ephemeris says the Moon is in P. Phalguni; KSK's says Magha. KSK asks for a number: 84 → Leo 0°00', Sun sign, Ketu star, Ketu sub. Ketu is now in Magha (its own star) → "God guides us … you could not give any other number than 84". Promises a lecture on ayanamsa next week.
+  - FLAG: an RP/number-based "proof" of the ayanamsa; the ayanamsa decision is still to be made in kp-rules.md (KSK ayanamsa).
+
+### M. S. R. Murthy & M. Purushottama — "Short method of predictions in K.P."
+- **Sub-number arithmetic**: per 4-sign cycle (9 constellations), 81 subs + 2 extra numbers where a sub straddles a sign boundary = 83; × 3 = 249. E.g. 22 and 23 are the Rahu sub in both Aries and Taurus; 62 and 63 are the Moon sub in Gemini and Cancer. (Important for the app's 1–249 table.)
+- RPs: day lord, Moon sign lord, Moon star lord, Asc sign lord, Asc star lord. **Reject an RP deposited in the star of a retrograde planet.**
+- **Yes/no short method (contributor)**:
+  - number → R-C-S (sign, star, sub lords);
+  - if the number's sub lord equals the star lord of the Asc or the Moon among the RPs → YES;
+  - if it equals only a sign lord among the RPs → probable, uncertain; ask another number.
+  - FLAG: a contributor shortcut; no KSK endorsement shown.
+- **Sidereal time shortcut**: a daily "deduction constant" = (17:30 − ephemeris ST at 5:30 PM IST) + (IST − LMT offset).
+  - Example for Gulbarga (76°54'E, 17°15'N?) on 18-9-1970: 0h34m26s; decreases ~4 min per day.
+  - Uses the A&A ephemeris ST at 5:30 PM. App: compute properly instead.
+- Cases:
+  - school admission (number 35: Venus–Moon–Ketu; RPs: Moon, Sun, Ketu, Moon, Saturn) → yes (Ketu = Asc star lord) → admitted. CONFIRMED.
+  - retain in office (number 29: Venus–Moon–Moon; RPs: Mars, Jupiter, Jupiter, Mars, Ketu) → no → relieved on 17-9-70. CONFIRMED.
+
+### "Cancer" — "Fact or fiction: predicting the exact time and date of death" (number 173; judged 9:00 AM 9-9-1969, Calcutta)
+- Query at 8:20 AM: will the seriously ill father-in-law survive? Number 173 → Jupiter house (Sagittarius/Pisces), Ketu star, Jupiter sub (likely Pisces? OCR).
+- Chart: Libra Asc 11°56'; cusps listed; Mercury dasa balance 9y 5m.
+  - At judgment: Mercury dasa, Moon sub (11m 14d left), Jupiter sub-sub (1m 21d).
+  - Planets: Neptune 2°53'; Mars 27°29' (Scorpio, 2nd); Rahu 27°59' (Aquarius, 5th); Saturn 15°18' (Aries, 7th); Venus 19°46' and Moon 22°35' (Cancer, 10th); Sun 22°55', Ketu 27°59', Uranus 9°54' (Leo, 11th); Jupiter 16°31', Mercury 18°59' (Virgo, 12th).
+- RPs: Mars (Tuesday), Mercury (Moon star), Moon (Moon sign), Venus (lagna), Rahu (lagna star).
+- **Death houses (as per K.P.)**: 2, 7, 12 and badhaka (11th here; movable lagna). Significators: Mars, Saturn, Moon, Venus, Ketu, Rahu.
+- Transits of the RPs at judgment: Mars in Mercury star, Saturn sub; Mercury in Moon star, Mercury sub; Moon in Mercury star, Sun sub; Venus in Mercury star, Venus sub.
+- **"The individual cannot live beyond the Moon's transit of Mercury's star (Aslesha)"**: the Moon enters Aslesha at 21:06 on 8-9-1969.
+- **KSK, Death chapter (cited)**: the sub lord of the rising lagna has a mysterious link with death. The contributor finds that the lagna sub lord (birth or horary) is always connected with the period, sub-period or sub-sub period at the time of death.
+  - Here the lagna sub lord Saturn is in the 7th → a death significator, in a Mars house (the day lord).
+  - → the Moon in Mercury's star (Aslesha), Saturn's sub (19:27:37 for 4h12m23s), Mercury sub-sub → 20:07:37 on 9-9-1969.
+- Outcome: "exactly at 7 minutes past 3 o'clock" (OCR: likely 8 o'clock, i.e. 20:07). CONFIRMED per the author. FLAG: precise death timing by Moon sub-sub transit; a third-party death from horary.
+
+### "No more doubts!" (Q&A) — continues in MC_127.
