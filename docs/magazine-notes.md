@@ -3812,3 +3812,112 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 - Advice section (Saturday actions, elders, labour, discretion, colours/sapphire/lead/numbers 8, 17, 26) — REJECT remedies.
 - Saturn-period journeys: postponements, breakdowns, second trips needed. Health: chronic complaints, falls, bones, teeth. Professions: agriculture, bricks, coal, cement, clay, geology, farming, glue, gravel, hides, ice, slaughterhouse, cremation, tannery, leather, labour, mines, monuments, prison, paralysis treatment, famine centres, quarry, refugee camps.
 - → APP: these are "magazine delineation" texts usable for natural-language descriptions keyed by (planet, sub lord) and (planet, houses signified). Mark source.
+
+## MC_110 (Jan–Feb 1970)
+
+### "Saturn" (end): Saturn professions (tanks, dentist, timekeeper, clocks/calendars, land, lead, plumber, jailer, grave-digger, watchman, coolie, porter). Remedy (Mars red, ruby/coral, number 9 against an evil Saturn) — REJECT.
+
+### KSK, "Correct time of birth" (Navaratri Monday consultation, 4:51:30 PM)
+- Native claims birth 7:14 AM 22-2-1932, 28°46'N 76°18'E (±few min). A "well-known astrologer of the South" said the dasa balance is unchanged by an 18-minute shift (KSK disagrees: balances change).
+- At entry: Asc Pisces, Uttarabhadra (Saturn), Mercury sub; Moon in Visakha (Jupiter), Saturn sub.
+  - → Birth lagna: Saturn sign (Aquarius), Rahu star (Rahu in a Saturn sign and Jupiter star → powerful agent of Saturn and Jupiter), Mercury sub, Jupiter sub-sub, Venus sub-sub-sub.
+  - "As Moon is in Jupiter star and Venus sign, and the star lord is stronger than the sign lord" → 14°02' Aquarius. Ayanamsa 1932 = 22°49' → sayana Pisces 6°51' → ST 16h54m13s → 6:54:15 AM LMT → **7:19:03 AM IST**.
+- Horary confirmation: number 49 = Mercury sign (Gemini), Rahu star, Saturn sub → "all three planets signifying the ascendant repeat themselves".
+  - "You could have given any other number, but you cannot give any number except that which will guide an honest astrologer — the divine force works."
+- **Verification method (KSK)**: verify past events to the ANTARA (and even sookshma) level, because a birth-time error of 10–15 minutes stays within the same bhukti. "It is most unscientific if an event is said to have happened in a dasa or bhukti" for rectification.
+  - → APP rectification: score candidate times by antara/sookshma-level agreement with events.
+- Chart: Ketu dasa balance 2y 1m 22d.
+- **Mother's end (4th week Feb 1933; Ketu–Saturn–Rahu)**: "Always, for the end of life of anybody, take the house representing that relative and find the significators of badhaka and maraka."
+  - 4th cusp Taurus (fixed) → badhaka = 9th from it (12th). The 4th cusp is in Moon star, Venus sub; Venus is in the star of Mercury (maraka lord to the 4th).
+  - In the 8th from the 4th (11th), Saturn is in the star of Sun (in the badhaka 12th) → Saturn evil. Rahu in Saturn's star and sub → very evil. Ketu in Sun's star (occupying badhaka) → evil.
+  - Also no younger brother: the 3rd cusp in the sub of Mercury, in the 12th, in the star of a 12th-house planet.
+- **Father's end (4th week Dec 1941; Venus–Rahu–Jupiter)**: 9th cusp Libra (movable), Jupiter star, Ketu sub. Badhaka = 11th from 9th (7th; Leo 14°02' – Virgo 24°53'); Ketu there. 9th cusp sub lord = badhaka significator → father short-lived.
+  - Marakas 2 and 7 from the 9th (10th, 3rd): Mars owner; Mercury and Mars in Mars star. Venus (L9) is in Mercury's star and sub.
+  - **RULE**: "Whenever the lord of the lagna (of the relative) is in the sub of a maraka significator, the lord of the lagna itself gives death" → Venus dasa.
+  - "A node gives first the result of the planet with which it is conjoined" → Rahu with Venus in Pisces → Rahu bhukti. Jupiter (in Mercury star, Moon sub; Moon aspected by Mars, giving Ketu's badhaka results) → antara.
+  - Transit: Rahu in a Mercury sign, Rahu star; Mercury in a Mercury sign and star.
+- **Service entry 8-7-1954** (Sun dasa, Sun bhukti, Mercury antara): 2, 6, 10. 2nd vacant (Jupiter; Rahu in Jupiter's sign); Sun alone in Rahu star and Jupiter sub (L2, L11) → Sun favourable. Moon in 6 (none in its star); Jupiter in 6 (represented by Rahu). 10th owned by Mars; Mercury and Mars in Mars star. Thursday (exalted Jupiter); Sun in a Mercury sign, Jupiter star; Moon in a Mercury sign.
+- **Marriage 6-5-1938** (Sun dasa, Mercury bhukti, Venus antara): Sun in Rahu star, Jupiter sub; Rahu = agent of Jupiter (L2, L11). Sun = L7. Mercury with Sun, in Venus sub; Venus aspected by L2/L11 and by Saturn in 11. Transits each in the star/sub of significators.
+
+### Sivapatham, "When will my daughter deliver?" (number 111, 6:45 PM 18-9-69, Matale; KSK ephemeris)
+- Childbirth = 2, 5, 11. 5th cusp: Sun star, Mercury (R) sub; 11th cusp: Saturn (R) star, Mercury (R) sub; 2nd cusp Rahu star, Jupiter sub.
+- Mercury retrograde till 8-10-69 → the hospital's "on or before 6-10-69" is wrong; "she will never have the child before 8-10-69".
+- Significators: 2nd vacant, Venus lord, Saturn (R) in Bharani → Saturn strong; Rahu (governing Saturn and Jupiter) replaces Saturn. Reject planets not in the sub of the lords of 2, 5, 11.
+- Sookshma list → Friday 24-10-1969 (transits: … Rahu sub; Jupiter in a Mercury sign, Jupiter sub; Moon in a Jupiter sign, Mercury star).
+- **Sex**: "never had experience pinpointing sex, but as the antara and sookshma lords are male planets → a son". Born male, 7:55 AM 24-10-69. CONFIRMED (date and sex).
+  - FLAG: sex of child from the gender of the antara/sookshma lords — a contributor heuristic; KSK said no rule (gap). Note as an unverified candidate rule.
+
+### KSK, "Ear trouble" (number 118, 1:30 PM Wednesday 15-10-1969)
+- Disease = 6; defect = 12; **ear = 3rd house** (Gemini = 3rd sign).
+- Moon (L11) in Mercury's star (Mercury rules Gemini) → the query is about the ear.
+- 3rd owned and occupied by Mars; Mars in the star of Venus in 12 → defect in the ear.
+- **Cure**: 11th cusp Cancer 25°32'; sub lord Rahu in Saturn's sign in the 6th → chronic. The 11th cusp sub lord is not connected with 1, 5, 11 → no cure. Fixed sign (Aquarius) → the disease continues. Rahu in Ketu sub (in 12) → unfavourable. No further deterioration.
+- Jupiter and Sun in the ascendant in Mars star → "pray to Vishnu (Rama/Krishna)" — remedy for solace, REJECT. "Astrologers can only predict; prayers give peace."
+
+### February 1970 issue contents
+- KSK "Profession"
+- Announcement
+- "Editor addresses Rotarians (11-12-1969)"
+- Tour programme
+- "Who won Haryana"
+- "I pray KP should fail"
+- "When will she speak?"
+- "Will I be doing my own business?"
+- "The journey's end"
+- "How long the suffering?"
+- Q&A
+- "Married life"
+- "Packet lost — recovery possible?"
+- Letters
+- "Diagnosis of disease"
+- "Technical course — is it worth taking?"
+- "Sub and its significance"
+- "Contents of horary astrology"
+
+### KSK, "Profession" (mostly lost)
+- Traditional source-of-income-by-planet list (Mercury → clerk, writer, maths, poetry, arts; Jupiter → Brahmins, deities, learning, religion; Venus → gems, silver, cattle; Saturn → toil, coolie; Mars → metallurgy, violence).
+- "Twins: one medical, the other a lawyer/educationist. Tradition must fail; follow KP" (rules lost).
+
+### KSK, Rotary address "Fate and free will" (11-12-1969)
+- **KSK's fatalism**: "followers of KP will declare that a particular event must happen on a particular day and time … however much the consultant tries he can never modify it … Fate and fate alone governs. Karma and fate must come first; God next." Prayers, shanti, donations and gems give only mental solace; the outcome is as predicted. "'Will' itself is under the pattern of fate." Calls traditional "tendency" a lame excuse.
+- → APP: phrase predictions as definite events/dates (with the caveat of method limits).
+
+### Nirmalendu Bhattacharya, "Who won Haryana" (lottery 1st prize Rs 3 lakh on 4-10-1969; native born 4:57 AM IST 10-5-1927, 22°41'N 90°22'E; Ketu dasa balance 1y 6m 5d)
+- KP II p.91: houses 1, 2, 3, 6, 10, 11 (favourable) → victory, litigation, competition, lottery.
+- **KSK (A&A Sep 1968 p.13; Aug 1969 p.35): the 3rd house = lottery, prize bonds; the 5th = horse racing, cards, share market — provided the significators of 2, 6, 11 connect with the 3rd or 5th.**
+  - Connection = occupation of sign/star/sub, conjunction or aspect.
+  - Contributor's caution: for racing etc. take planets connected with the 5th but not those whose SUB signifies the 5th (5 = 11th from 7 = opponent's gain). Consistent with "Capricorn" (MC_104).
+- **11th cusp sub lord** decides promise: 11th cusp Rahu star, Mercury sub, Mercury sub-sub, Saturn sub-sub-sub. Mercury in 12 (investment) in the star of Venus (in 2), sub of Venus, sub-sub of Mars (in 3) → investment in lottery, bank position up → promised.
+- "The cusp indicates whether an event is promised; the significators show the time (via Vimshottari)."
+- Significators of 2, 6, 11: Sun, Mercury, Rahu, Venus, Mars, Jupiter, Saturn, + Ketu (in Jupiter's sign, aspected by Mars and Venus).
+- **Strong significator = a significator whose SUB lord is also a significator** (KSK quoted). Sun weak (sub Mercury in 12; Sun owns 5); others strong.
+- Node replacements: Rahu (conj Venus and Mars in Venus's sign? Mercury's sign) represents Venus (same bhava). Ketu represents Jupiter.
+- All strong significators connect with the 3rd. Event: Mars dasa, Ketu bhukti, Mercury antara, Rahu sookshma; Saturday; transits all in the stars/signs of strong significators. CONFIRMED.
+- Ketu (signifying 8: unearned money, worry from the sudden gain). "The rule for retrograde planet as KSK says is verified" (Saturn R).
+
+### Sivapatham, "I pray: KP should fail" (9:30 PM 7-9-69, Matale; Aries lagna 18°22')
+- **Moon shows the query**: Moon in Saturn's star and Saturn's sub; Saturn (L10, L11) retrograde in Aries (debilitation sign) in the 12th; Moon in 3 with Venus (L2, L7) → travel and spend for a purchase of a Saturn article: Saturn in a fiery sign = sharp weapon, black, deadly → a gun. Correct!
+- **11th cusp: Rahu star, Saturn sub; sub lord Saturn retrograde → desire not fulfilled.** The friend tried for a month and failed. Sivapatham: he cannot buy before Saturn turns direct on 3-1-1970.
+  - Uses traditional "exaltation by retrogression" talk (FLAG).
+- RULE: retrograde 11th-cusp sub lord → denial until (at least) the planet turns direct.
+
+### Sivapatham, "When will she speak?" (dumbness)
+- 2nd house = speech. Dumbness when the 2nd is in a mute sign (Cancer, Scorpio, Pisces), or natural malefics (esp. Ketu) occupy the 2nd, or the 2nd cusp is in the star of a mute-sign lord and the sub of a node. Jupiter's aspect/association → some speech.
+- Case 1: born 4:00 AM 21-2-1969 Matale; Venus dasa balance 2y 9m.
+  - 2nd cusp in Mars star (lord of mute Scorpio), Ketu sub. Ketu in 2 with Mercury and Sun (all in Rahu star); aspected by Rahu in 8; no Jupiter influence → totally dumb.
+  - Venus–Mercury (~3 yrs): fell sick (Venus and Mercury signify 6). Mercury in 12th from Venus → loss of voice (Mercury = speech, Venus = sweet voice).
+- Case 2: born 11:50 PM 5-6-1956, Matale; Rahu dasa balance 14y 8m 18d.
+  - 2nd cusp in Moon star (mute-sign lord), Ketu sub; Rahu (2nd significator in Venus star) in the 9th (8th from the 2nd); Mars afflicts; Jupiter aspects → stammerer, not dumb. Improves in Jupiter dasa a little.
+- FLAG: contributor rules mixing traditional mute signs and Hindu aspects.
+
+### J. G. Hasabe, "Will I be doing my own business?" (number 75, 5:30 PM 22-7-1969; Cancer lagna 16°40'–18°33'20"; Mars dasa balance 0y 3m 23d)
+- Houses: 2 = self-acquisition; 6 = service; 7 = business (dealings: purchase and sale); 10 = profession; 11 = profit.
+- **"Success or failure is shown by the lord of the sub occupied by the dasa lord."**
+- Service continues while significators of 2, 6, 10 operate; **gives up service when significators of 3, 5, 9, 12 operate conjointly** (FLAG: variant of 1, 5, 9, 12).
+- Rahu dasa (Rahu in the sub of the lagna lord, in the star of Jupiter in 2 aspecting 7 and 11) → business. Rahu–Rahu 14-12-69 to 26-8-72 → starts business May 1970. CHECK.
+- Nature from the 10th cusp: Mars, Venus, Moon → cold storage (Saturn in Aries?), condensers, chemicals (Venus), rubber (Venus+Moon). Mercury → many lines.
+
+### KSK, "The journey's end" (longevity of a 70-year-old father; number 121; 28-9-1969)
+- KSK prefers horary because older birth times are unreliable (pre-standard time). Cites Sepharial's twins (born 5:40 and 5:50 PM: one married in Feb 1899 and died in March 1899; the other unmarried, healthy).
+- "Horary: a map for the moment of a thought/question … planetary positions cause chemical changes leading people to ask questions when planets bear relation to the subject." (Rationale.)
+- The Moon at query is in the 7th bhava (a maraka sthana) → confirms the father's worry about life (not marriage, given age 70; "consider the age of the native"). Continues next file.
