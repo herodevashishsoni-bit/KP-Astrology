@@ -4426,3 +4426,72 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
   - "Malefics for health" = planets connected with 6, 8, 12, marakas and badhaka.
   - Rationale: a house takes ~2 hours to rise, a sub minutes → the sub lord gives the exact condition.
 - 4th cusp sub lord Jupiter in Scorpio (lagna bhava), aspected by Saturn, conjoined with Mars (star lord of 6 and 1) → breast tumour. (Continues.)
+
+## MC_116 (Jul 1970)
+
+### Bhattacharyya, "Tumour" (end)
+- The 4th cusp sub lord Jupiter is in Mercury's star (Mercury in 3 = 12th to 4 → defect and loss) and its own sub. Mercury = L8 & L11 (danger and cure).
+- Lagna in Scorpio (watery) afflicted by Saturn's aspect → fluid accumulation. The Moon (breast karaka) is afflicted by Mars, Saturn, Rahu; it is in the star of the badhaka lord (9th for a fixed lagna) and placed in the 10th (breast).
+- 6th cusp sub lord Saturn in the 4th (breast, chest); Saturn rules earthy Capricorn → the flesh around the breast. Mars (L1, L6) conjoined → tumour, operation.
+- Mercury = twins → two tumours (two operations). Rahu in 2 aspecting 6 and 10 (flesh) → loss of flesh; Venus (beauty) with Rahu → beauty of the breast lost.
+- **Timing**: "the time of disease = the conjoined period of significators of the 6th that are connected with the 1st" (KSK). Significators: Mars, Jupiter, Sun, Saturn, Mercury, Ketu, Rahu. By sub:
+  - Rahu (Mars sub; Mars L1/L6 in 4) — malefic;
+  - Saturn (Venus sub, with Rahu) — malefic;
+  - Mars (Venus sub) — malefic;
+  - Jupiter (own sub; signifies 1, 5, 11, 3, 2, 8) — both;
+  - Mercury (Venus sub; signifies 10, 11) — danger and cure;
+  - Sun (Jupiter sub), Ketu — agents of both.
+- Tumour noticed in the second half of Dec 1968 (Rahu dasa, Jupiter bhukti, Mars antara from 16-12-68). Hospitalised Friday 18-7-1969 (Rahu–Saturn–Saturn–Mercury–Venus prana). "The 3rd house shows longevity" (8th from 8th); 3, 10, 11 → recovery.
+- Operations: Wednesday 23-7-69 (Rahu–Saturn–Saturn–Mercury–Mars prana: Mars = operation, Mercury = cure after loss) and 30-7-69 (…Mercury sookshma, Jupiter prana; Wednesday). Transits listed. CONFIRMED.
+
+### Sivapatham, "Rectification of birth chart" (girl born ~9:05 PM 3-4-1969, Matale; given lagna Scorpio 2°25' using Lahiri)
+- RP procedure: (a) day lord at answering; (b) Moon star lord; (c) Moon sign lord; (d) lagna lord; (e) lagna star lord → "these ruling planets will be the same who govern at the time of birth".
+- RPs at 8:00 PM Friday 10-10-1969: Venus, Mercury (Moon sign), Moon (Moon star), Mars (Aries lagna), Sun (asc star) — Ketu in Leo represents Sun.
+- The natal Moon (Libra 1°29' = Venus sign, Mars star) uses Venus and Mars. Ketu's double role (in Leo now = Sun; at birth in Virgo = Mercury) confuses the sub choice. Jupiter is in Virgo in both charts (harmonious with Mercury) → Mercury sub, Jupiter sub-sub for the Moon → Moon at Libra 1°10'33" → 8:45 PM (not 9:05). FLAG: harmonious/inharmonious = aspects.
+- Rectified lagna Libra 27°37' (Venus sign, Jupiter star, Venus sub, Jupiter sub-sub). Mars dasa balance 2y 9m 12d.
+- Appearance: local astrologers (old chart) predicted a dark child because of the malefic aspect on the lagna. New lagna in Venus sign and sub → fair and beautiful (verified); Mars in lagna in own sign → active.
+  - **RULE (complexion/appearance from the lagna sub lord)**: Venus sub → fair, beautiful. FLAG: contributor.
+- The mother's labour sequence matched the Sun sub-sub start at 7:39 PM etc.
+- Claims: he predicted admission, delivery time and "the sex of the child before delivery" via KP (method unpublished; FLAG gap).
+
+### "Siva", "Rectification of birth time" (Point Pedro querist, born ~9:15 PM 10-12-1937)
+- RPs at 7:23 PM Thursday 25-12-1969 (Matale): Moon and Jupiter (lagna Cancer 0°33'; Moon at Cancer 0°30'; Moon in Punarvasu = Jupiter); Thursday = Jupiter. "Considering aspects per the Eastern system only."
+- Natal Moon in Aquarius (Saturn) in Rahu or Jupiter star; Rahu governs Saturn and Jupiter; Jupiter is an RP → Purvabhadra (Jupiter star). Sun in Scorpio + night → Cancer lagna (Moon). "Star lord stronger than sign lord; sub lord stronger than star lord" → Cancer, Saturn star (Pushya), Moon sub, Jupiter sub-sub → Cancer 11°15'55". Ayanamsa 1937 22°53' → 9:05:16 PM CST. Jupiter dasa balance 15y 4m 10d.
+- **Verification**:
+  - First employment: 2, 6, 10 significators Mercury, Saturn, Moon, Ketu, Rahu. Ketu in Moon's star, Rahu in Saturn's star → reject Moon and Saturn, select the nodes. "Any planet in the sub of a node gives the node's results" → Sun (in Rahu's sub). Mercury and Sun signify 5 (12th to 6) → reject. Rahu & Venus same sign/star → Venus too. Saturn aspects Ketu.
+    - → Saturn dasa, Ketu bhukti, Venus antara, Rahu sookshma (to 28-2-1959); a Monday or Friday → appointed Monday 2-3-1959 (text 1937 typo). CONFIRMED.
+  - Marriage: 2/7/11 significators Jupiter, Sun, Mars, Saturn, Ketu, Mercury, Venus, Rahu; Jupiter, Mercury, Sun signify 6 (12th to 7) → weak. Fruitful: Rahu, Ketu, + Saturn, Venus → Saturn–Venus–Ketu–Ketu, Monday or Friday. CONFIRMED.
+  - RULE: reject significators that also strongly signify the 12th from the matter's house.
+
+### Sivapatham, "Rectification of birth time" (lady, given 1:10 AM CST 8-8-1936, Ambalangoda)
+- RPs at 5:23 PM Wednesday 3-12-1968: Mercury (day), Sun (Uttaraphalguni), Mercury (Virgo Moon), Venus (Scorpio lagna?), Moon (Rohini rising star). Venus strongest (aspects its own sign rising; FLAG aspects), then Sun, Mercury.
+- → Scorpio? / "Venus sign, Sun star, Mercury sub, Moon sub-sub" → 5°53'42" "Vrishchika" (text inconsistent: Venus sign ≠ Scorpio; probably Taurus/Libra — FLAG OCR/logic) → 12:42:29 AM 8-8-1936 (ayanamsa 22°52'). Mercury dasa balance 6y 11m 19d.
+- Marriage: 2nd: Ketu (Rahu, Venus, Mercury in Ketu's star); 7th: Jupiter (Saturn in its star); 11th: Moon. "Retrograde planets will not manifest results → reject Saturn and Jupiter." Ketu in Rahu's sub → gives Rahu's results; Mercury and Moon in Rahu's sub; Venus indirectly governed by Rahu.
+  - → Venus dasa, Mercury bhukti, Moon antara, Moon sookshma (2-10 to 9-10-1967), on a Rahu-ruled day → married Thursday 5-10-1967 ("governed by Rahu" since Rahu represents Jupiter). CONFIRMED.
+  - FLAG: "retrograde significators rejected" in a NATAL chart (contrast KSK: no place for retrogression in natal).
+
+### "Mercury", "Correct position of lagna — RPs" (born 9:59 AM 13-2-1943 Guntur 16°18'N 80°27'E; War Time ambiguity)
+- **War Time in India: Sept 1942 – Oct 1945, IST advanced 1 hour.** → APP: handle the 1942–45 IST+1 war-time offset.
+- Number 163 → Scorpio 25°20' (Mars sign, Mercury star); judged 8:00 AM IST 13-10-1969 (Wednesday; Moon in Scorpio, Anuradha). RPs: Mercury, Saturn → Rahu (Rahu in a Saturn sign replaces Saturn), Moon, Mars → Moon, Mars, Mercury, Rahu.
+- Case (i) 9:59 = clock (actual 8:59 AM IST): Asc Pisces 15°45' (Jupiter–Saturn–Jupiter); RPs Moon (Monday), Rahu (Ardra), Mercury (Gemini Moon), Jupiter → Jupiter not in the horary RPs → reject.
+- Case (ii) actual 9:59 AM IST: Asc Aries 4°03' (Mars) → RPs Moon, Rahu, Mercury, Mars = horary RPs → correct lagna Aries 4°03'.
+- **TECHNIQUE (APP)**: compare RPs of the candidate birth moments with the RPs at judgment; pick the candidate that matches.
+
+### "Is my house a haunted one?" (number 161 → Scorpio 21°33'20"; 5:15 PM 13-8-1969, 16°31'N 80°39'E)
+- Haunting = psychic → 6th & 12th (Uranus/Neptune in these give mystic experiences, black magic). House = 4th; 6th and 12th from the 4th = 9th and 3rd → **if significators of the 4th connect with 3 and 9 → mystifying happenings in the house.**
+- Rahu in 4; Ketu alone in Rahu's sub, in Leo, in the star of Sun (in 9) → link 4–9. Ketu–Ketu running. L4 Saturn; Mars in 12 in Saturn's star, Jupiter's sub (in 10) → link 4–9. Neptune in 12, Mars in 12 → querist psychic. → "definitely haunted".
+- **House "birth time" = griha pravesham (first occupation), not foundation-laying.** "What cannot be cured must be endured." Modify and re-enter or sell. FLAG: contributor; superstition-adjacent.
+
+### July 1970 issue contents
+- Students Section: "Ayanamsa"
+- "Traditional transit system meaningless"
+- Syllabus for new students and for old students
+- Tour programme
+- Students Section I "How to judge a nativity"
+- "Ayanamsa and house divisions"
+- "Any child birth at all?"
+- "Will politics suit me?"
+- "Will I be selected as a minister?"
+- "Is there second marriage for me?"
+- **Reprints** of the 1969 Students Section articles ("Ayanamsa — vexation ends" with the wife/husband charts; the Dhond Uttarabhadra/Revati case; the third example of three charts). Already noted in MC_101–MC_102; nothing new except:
+  - "Reject if the ayanamsa is less than 22°44' for 1938" (the wife born 7:40 PM 8-5-1938, 11°31'N 78°12'E; Moon dasa balance 6y 7m 29d): with a smaller ayanamsa, the marriage would fall in Ketu's period, which cannot give marriage (Ketu gives Sun's 6th, 9th, 2nd results; the day would be Friday; the husband's star should be a Ketu star — nothing agrees).
