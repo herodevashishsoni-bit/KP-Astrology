@@ -3051,3 +3051,127 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 - Significators: Rahu, Jupiter, Ketu, Sun, Saturn. RPs: Sun (Sunday), Jupiter (Purvabhadra), Saturn (Aquarius), Gemini lagna (Ardra rising; Ketu represents Mercury) → Jupiter, Ketu, Saturn, Sun, Rahu. Earning between 8-3-70 and 1-5-70.
 - **"Urge" rule**: the urge to ask comes when the Moon touches the most sensitive point for that matter. The matter materialises when the significator touches that point in direct motion; failure on the day it touches while retrograde.
 - Sun (L2 in 10, exalted) and Ketu strongest … (continues next file).
+
+## MC_104 (Aug–Sep 1969)
+
+### "Will I earn at all?" (end, partly lost)
+- Jupiter dasa lord in Rahu star, Saturn sub; Ketu in Venus star, Rahu sub; Sun in Jupiter star, Mercury sub; Moon in Saturn star, Rahu sub.
+- Nature of work from the meridian's sub lord etc.: Moon → liquids; Saturn → mine products; Ketu aspected by exalted Venus conjoined Jupiter → paints.
+
+### KSK, "Uncle, I want to become a politician" (number 1, 5:30 PM IST 10-5-1969, 28°40'N)
+- 1 → Aries 0°–0°46'40" (Mars sign, Ketu star, Ketu sub); Asc Aries 0°11'?
+- **5th house = desire to become a politician or statesman.** 5th vacant; 5th cusp in Cancer (Moon); star lord and sub lord both Mercury. Mercury is in the 2nd, in the star of L5 in 11 → grand success, "success after success".
+- Rahu dasa balance 3y 7m 14d (Moon Aquarius 17°19'); Mercury bhukti to come.
+- Saturn dasa (direct, L11, in the star of Ketu in 6 → success) is in the sub of retrograde Jupiter → "in Saturn period, Saturn will tempt but cannot fulfil your desire". Befriends politicians, slowly comes up.
+- Actual political rise only in Mercury dasa → 38 years later (age ~53). CHECK.
+- **RULE**: a significator in the SUB of a retrograde planet tempts but doesn't fulfil.
+
+### Muralidharan, "Transfer — when?" (B.P.K., 2:24 PM IST 4-3-1969, Gulbarga 17°19'N 76°54'E)
+- Transfer = 3 (change of place, journey), 10 (employment), 12 (totally different environment). Leave/tour = 3, 9, 12.
+- "Invariably Moon indicates the mind": Moon in Venus star (L5, L12, in 10) and in the 3rd → query is genuine. Uses Hindu aspects. FLAG.
+- Bhava chart: "Westerners are correct — the ascendant is the beginning of the lagna bhava, not ~15° behind."
+- Significators of 3/10/12: Sun, Ketu, Jupiter (retrograde), Moon, Mars, Rahu, Venus, Saturn. Nodes: Rahu in Pisces (Jupiter's sign) with Venus and Saturn; Ketu conjoined with Jupiter in the 3rd → take Rahu and Ketu, reject Jupiter. Mercury in Rahu's sub reflects Rahu.
+- RPs at 6:55 PM: Mars (day), Sun (Moon sign?), Venus (Moon star), Mercury (lagna), Sun (lagna star) → common with significators: Sun, Venus, Mars.
+  - **Sun is in the star of retrograde Jupiter → "appears to give results but ultimately falls through" → reject Sun.**
+- Venus dasa, Saturn bhukti; Mercury antara (16-4 to 27-9-69); Ketu sookshma 9–19 May 1969. Sun on 9-5-69 in Aries (Mars) in Venus star, Mercury sub; Friday (Venus); Moon in Dhanishta (Mars) → 9-5-1969. CHECK.
+- Quotes KSK: (a) the RPs at query are the RPs at the birth; (b) the RPs at fulfilment are the RPs at query.
+
+### "Which explains the truth? — Switch on to KP" (dialogue: 2 traditional astrologers vs 1 KP follower)
+- **Case 1**: lady born 1:40 AM 2-4-1929, 30°19'N 78°04'E (ayanamsa 22°46'). Venus dasa balance 19y 5m 3d.
+  - Traditional readings (Mars in 7 → mangalya dosha, L7 debilitated, L5 in 7 → no child or no marriage) predict no marriage.
+  - KP: "In KP there is nothing as exaltation, debilitation, etc." 2nd: Mercury; 7th vacant (owner Mercury); 11th owned by Venus; Rahu represents Venus; Mars in Rahu star, Venus sub; Sun in Mercury star, Ketu sub. Mercury is in the star and sub of L2 and owns the 7th.
+  - Married at 40 on 13-9-1968 in Mars dasa, Mercury bhukti, Mars antara. CONFIRMED.
+  - Note: "You should know the sex": 5th afflicted → delivery needing surgical aid only if female.
+- **Case 2**: man born 10:36 AM IST 13-3-1919 (Mercury dasa balance 13y 11m 1d); Asc 5°45' (7th cusp Scorpio 5°45').
+  - Traditional: many yogas; Rahu in 7 → wives die one after another.
+  - **KP — 7th cusp sub lord Mercury (and Scorpio 5°45' … "further it is in a dual sign") → more than one marriage.**
+  - 2/7/11: Jupiter in 2, Rahu in 7, Sun/Mars/Mercury/Venus in 11. Separation/bereavement = houses 1, 6, 10, 12. Rahu in the star of Saturn (L10?) → can give marriage (in 7) and separation (Saturn star). Moon and Saturn in Ketu sub — evil.
+  - Rahu in Jupiter sub (Jupiter = L11, in 2) → marriage twice. Married 1-6-1947 in Venus dasa, Rahu bhukti, Rahu antara, Jupiter sookshma. Divorce July 1968 in Moon–Rahu–Ketu; 2nd marriage Sept 1968 in Moon–Rahu–Venus. Both wives living. CONFIRMED.
+  - **Second-marriage rules**:
+    - "Rahu in the sub of Jupiter (a benefic in 2) gives a 2nd marriage while the first spouse is alive. In the sub of malefic planets → 2nd wife after the first one's death."
+    - "Rahu cannot give a second marriage at all, even in the 7th, if the 7th cusp sub lord is neither in a dual sign nor in the star of a planet in a dual sign."
+    - "Rahu in 7 need not be evil to the partner; judge from its sub lord."
+    - "**Two marriages are certain if the 7th cusp sub lord is in a dual sign AND the occupant of the 7th is in the sub of the planet in the 2nd, or in the sub of a planet in a dual sign.**"
+- Next issue promised: a man who is the second husband to his wife.
+
+### "Capricorn", "My luck in horse racing"
+- Natal chart (Libra Asc 26°15'; Moon dasa balance …). Bhavas from cusps (I Libra 26°15' – Scorpio 25°34' etc.).
+- **Rules**:
+  - (1) Gains without effort → periods ruled conjointly by planets in the star and sub of significators of 2, 6, 11.
+  - (2) Gains through races: significators of 2, 6, 11, with 5 for the mind to bet. Select benefic periods and reject "tempters":
+    - **the planets must be in the SUB of significators of 2, 6, 11 alone — never the 5th. The 5th shows only the mode of gains; it applies to the constellation, never the sub.**
+- Example: significators of 2/6/11 = Jupiter, Mars, Sun, Venus, Rahu, Saturn, Ketu. By sub: benefics Venus, Saturn, Ketu, Mercury, Jupiter; adverse Mars, Sun, Rahu.
+  - Star days of the benefics, then their sub windows within the day → specific race-day times for June 1969 (Bangalore). Saturn = L5 gives the mind to bet; Jupiter in 2 as L6 in own sub gives gains.
+  - A day ruled by Mars (in the sub of a planet in 12 owning 5) → takes a venture, doubles and loses.
+  - Saturn dasa, Mercury bhukti from 27-11-68: antaras listed; Venus antara profitable; Jupiter/Saturn/Mercury/Ketu antaras lucky; 29-6-1969 after 2:34 PM (Jupiter sub) the best.
+- → APP (optional): gambling/speculation windows = star days of benefic significators + Moon's sub windows. Natal "bio" could list speculation periods only.
+
+### Balakrishnamurti, "KP unique — minor event verified" (train arrival)
+- 7:36 PM IST 23-5-1969 (79°E 12°N). Asc Scorpio 24°08' (Jyeshta). RPs: Venus (day), Mercury (Moon star Ashlesha), Moon (Cancer), Mars (lagna), Mercury (lagna star).
+- "Retrograde planets will not fructify any event" → Mars and Mercury (both retrograde) rejected. Nodes: Ketu in Virgo (Mercury) → Ketu; Rahu in Pisces with Venus → Rahu. Planets in their stars: Saturn in Aswini (Ketu) → Saturn.
+- While the lagna is ruled by retrograde planets, the train can't arrive. Sagittarius (Jupiter, not an RP) also passes. Capricorn 11°53'20" = Saturn sign, Moon star (Sravana), Rahu sub → lagna travels 47°45'20" ≈ 3h12m → 10:48 PM. The train arrived exactly at 10:48 PM. CONFIRMED.
+
+### KSK, "Editor's speech at Banjar (Kulu)" — biography
+- Studied Western and Hindu astrology from 1927. Started research in 1939. Received Uchchishta Mahaganapathi from a Siddha Purusha on 4-3-1951 and began teaching KP then. 1951–61 Madras students verified.
+- 1961: refuted panic over the 8-planet conjunction of Feb 1962 (no evil from mass conjunctions historically; important events had only 2–3 planets in one constellation).
+- Retired from government service at 52. Visiting Professor at B.V. Bhavan (K. M. Munshi).
+- Slogans: "Think good, do good and be ever good"; "Don't talk ill of others, don't bluff; know your limitations; speak the truth". Promises graded astronomy/astrology books.
+
+### "Gemini", "Correct chart" (Sambalpur native, born early morning 12-9-1939)
+- RPs at 12:01 PM IST Wednesday 11-6-69 (Madras): lagna Leo 24°14' (Sun sign, Venus star, Mercury sub); Moon in Bharani (Venus) in Aries (Mars); day Mercury.
+- Candidate lagnas:
+  - (a) Sun sign, Venus star, Mars sub, Mercury sub-sub;
+  - (b) Sun sign, Venus star, Mercury sub, Mars sub-sub;
+  - (c) Mercury sign, Sun star, Mercury sub, Mars sub-sub.
+  - The present lagna agrees with (b) → Leo 24°56'40". Ayanamsa 1939 = 22°55' → sayana Virgo 17°51'40". At 21°28'N → 5:38:21 AM IST (84°01'E). Ketu dasa balance 4y 7m 7d.
+  - **Rectification rule**: choose the candidate whose sign/star/sub match the current lagna's.
+- **Verification**:
+  - **Mother died March 1941** (Ketu dasa, Jupiter bhukti). 4th = mother; 4th cusp in a fixed sign → badhaka = 9th from it = 12th. Moon and Mercury signify the 12th → evil. Jupiter (L2 = 11th from 4th?) and Ketu representing Mars in 2nd from 4th (= 5th) → evil.
+    - **RULE**: "If the significator of lagna (here the mother's lagna = 4th cusp) is in the sub of a maraka significator, then the former, during the sub period of the latter or of the planet in the latter's constellation, causes death." Ketu (representing the 4th cusp) is in Jupiter sub → denies long life to mother.
+  - **Father died** in Sun dasa, Sun bhukti, Jupiter antara, Ketu sookshma. 9th cusp Aries (movable) → badhaka = 11th from it = 7th. Jupiter in 11? (in 7?), Saturn owns 11 (the badhaka?); Jupiter in Saturn star. Venus = L2 & L7 (marakas … of the 9th?); Sun and Mercury in Venus star. Ketu in Aries = agent of Mars (L9), in Jupiter sub.
+  - **Marriage 21-11-1965** (Sunday, Swati = Rahu star): Rahu in 2; Rahu alone in its star; Jupiter in 7 in the star of L7.
+    - Mercury (L11) in the sub of a planet in 12 → not fruitful (no marriage in Mercury period); planets in Mercury star are useful.
+    - Sun in its dasa (in the sub of L2 & L11); Jupiter in 7 in the star of L7, Sun sub → marriage.
+  - **Service 17-5-1966** (Sun dasa, Saturn bhukti, Mercury antara): Sun in the star of L10, sub of L2 & L11; Saturn L6; Mercury L2 & L11 in the sub of L10. CONFIRMED.
+
+### J. O. Hasbe, "Ruling planets reveal (minor events)" — friend's arrival
+- RPs: Saturn, Rahu, Venus, Moon. "Lord of 1 in the 11th promises the meeting."
+- The friend arrived when the lagna was in Taurus 22°50' — Rohini (Moon) star, Sun sub, Rahu sub-sub — a few seconds before 1:48 PM. CONFIRMED.
+- Editor: "Invariably in all cases, without any single failure, using RPs one can decide the nature of event and predict the moment."
+
+### "Capricorn", train-journey horary: Sholapur, 6:30 AM 28-5-1969, number 9 → arrival at Madras
+- 9 = Aries, Ketu star, Mercury sub (11°26'40"–13°20'). Sayana Asc Taurus 4°46'40" (ayanamsa 23°20'); cusps at 17°40'N.
+- "For events within a day or two, no need to calculate the dasa balance."
+- **Reaching home = 4th (+11th, wish fulfilled)**. The 4th is Cancer (Moon): Mercury and Sun in Rohini (Moon star). The 11th: Rahu; Moon in Rahu star. In Moon's sign there is a Mercury star; Sun as sub → lagna at arrival = Moon sign, Mercury star, Ketu sub (Ketu represents Mercury) → above 16°40' Cancer → Leo 10° sayana at 13°N → 10:15 AM IST.
+- Day: Moon in Libra and Asc in Taurus (Venus) → Friday 30-5-69. Saturn is neither RP nor significator → not Saturday.
+- The G.T. Express reached Madras 30-5-69 at 10:15 AM. CONFIRMED.
+- "Use the same method for the return of one's son/husband/father from abroad. For vital affairs, the rule is the same."
+
+### September 1969 issue contents
+- Letters
+- "Why KP is more predictive?"
+- "Cusps and subs"
+- "Significance of each sub"
+- "Correct time of birth" ×2
+- "Negotiation successful or not"
+- Ephemeris
+- "Gajakesari yoga not useful"
+- "Gajakesari yoga brings imprisonment"
+- "Overdraft — getting or not"
+- "Confusion clarified"
+- "Fulfilment of one's desire or not"
+- "Child birth — when? (horary)"
+- Book review
+- "Marriage — when?"
+- "Promotion and overseas — same number"
+- "Change in service"
+
+### Nirmalendu Bhattacharyya, "Why KP is more predictive (short life)"
+- Parasara: short life = death within 24 years (as quoted).
+- A traditional sloka: Aries lagna + Moon conj Mars + Sun crossing Saturn in Capricorn → death within 3 days. It is incomplete (no degrees, star or sub; sign-level only).
+- KP reinterpretation:
+  - short life when the ascendant cusp is in a malefic constellation (one signifying 2/7/badhaka) AND the sub lord is malefic for longevity, i.e. a significator of 2, 7, 12 (sic), badhaka, or L6/L8.
+  - Aries: Venus star (L2 & L7) with Venus or Saturn sub (Saturn = badhaka lord of 11 for a movable sign) → short life.
+  - Then death timing = dasa/bhukti of significators of 2, 7, 12 and badhaka + transits of luminaries and slow planets.
+- Restates the significator order: planets in the stars of occupants > occupants > planets in the stars of lords > lords.
+- FLAG: contributor includes the 12th among marakas (KSK uses 2, 7, badhaka; 12 = hospitalisation/end). Reader position to be confirmed in kp-rules.md.
