@@ -4534,3 +4534,111 @@ Mostly **REPRINTS** in the July 1970 Students Section:
 - 2nd: vacant; L2 Mars conjoined with Rahu in 12, in Rahu's star, Ketu's sub → spoiled. 5th: Moon (owner and occupant), in the star of retrograde Saturn, Mars's sub (Mars in 12). 11th: L11 Saturn (R); Rahu in Saturn's sign; Mars in Rahu's star; Saturn in Rahu's sub.
 - Moon (mind) in Ketu's sub? … in the sub of Mars (L2), owns and occupies the 5th → the query is about childbirth.
 - → Not promised. FLAG: barren signs / abortive Ketu notions.
+
+## MC_118 (Jul–Aug 1970)
+
+### Ramachandran Nair (cont.) — the husband's natal chart (Mars dasa balance 1y 4m 21d)
+- 11th cusp Aries 6°53' (Mars sign, Ketu star, Rahu sub). Mars in Virgo (barren) in the 4th (12th to 5th? — "11 to 5" in text); Ketu (abortive) in a barren sign; sub lord Rahu, an agent of retrograde Saturn → the 11th cusp denies in the birth chart too.
+- 2nd: Mercury and Venus, both in the star of retrograde Mercury (L4 = 12th to 2nd and 5th).
+- **Wife sterile?** Her Venus in a mute sign and Moon in a barren sign (FLAG traditional). The native's RPs (Jupiter, Mars, Mercury, Rahu); the female's RPs taken as his 2/7/11 significators (Venus, Jupiter, Moon, Mars); horary RPs at judgment (Venus, Saturn, Moon, Saturn) — Venus and Moon (representing the female) are RPs → she is sterile. FLAG: contributor inference.
+
+### "Mercury", "Will politics suit me?" (number 206 → Capricorn 26°06'40"; 8:30 AM 1?-9-1969, 16°31'N 80°39'E; Moon dasa balance 8y 6m 5d)
+- Qualities: orator (Jupiter, Mercury, Mars well placed), tact with facts and figures, public confidence, fortune → popularity; Saturn → positions of trust.
+- **Politics houses: 1, 6, 9, 10, 11** (6 = 12th from 7 → winning over rivals; 10 & 11 = popularity and prosperity; 1 & 9 = fortune, benefit).
+- Jupiter (L11) and Mercury (L6) in Moon's star (L7 in 8) → victory to opponents. Mars (L10) in 11 in the star of Ketu (in 7) → popularity, gains. Saturn (L1) in Venus's star and sub (L9 in 6) → wins over rivals by luck. Mars signifies 6, 9, 10, 11; Saturn 1, 3, 6, 9.
+- → success, but only after Moon dasa ends (18-3-1978). CHECK.
+
+### "Mercury", "Will I be selected as a minister?" (number 37 → Taurus 22°40'; 9:20 AM IST 29-3?-8-1969, 16°31'N)
+- Moon in 10 in Saturn's star and sub (L9 & L10 in 11) → mind on political success.
+- **"According to KP, Jupiter, Mercury, Mars and Saturn signifying 1, 6, 9, 10, 11 → political prosperity and ministership."**
+- Venus (L1, L6) in 2 in Saturn's star, Mercury's sub → success. Jupiter (L11) in Moon's star (in 10), own sub → success. Saturn (L9, L10) in 11 in Venus's star, Sun's sub (in 3) → positions of confidence. Mars (L7, L12) in 7 → not well placed.
+- **Meridian (10th cusp) in Rahu's star, Saturn's sub (Rahu in a Saturn sign, representing Saturn …)** → popularity and prosperity, but no hope of becoming a minister. (Reason partly lost.)
+
+### Ramachandran Nair, "Is there second marriage for me?" (number 241; Venus dasa balance 1y 5m 10d)
+- **KSK rule restated**: "For more than one marriage, the only rule: the sub lord of the 7th cusp. If it is Mercury (a dual planet), or any planet occupying a dual sign, or deposited in the constellation of a planet in a dual sign → more than one marriage."
+- 7th cusp sub lord Saturn in Aries (not dual), in Aswini (Ketu), Ketu in Leo (not dual; agent of Sun; Sun not in a dual sign) → "you will never have a second marriage".
+
+### August 1970 issue contents
+- "Astrologer predicts increase in price of rubber"
+- "Latitudes and longitudes of Malayan towns"
+- "Malayan Standard Time"
+- Editor's speech and lectures in Malaysia
+- "Overseas — when"
+- "Any foreign assignment?"
+- "Horary — reinstatement when?"
+- "Is journalism good for me?"
+- "Can I do business?"
+- "Absconded after insanity"
+- "Return to foreign land — when?"
+- "Any raid in my house?"
+- "Partner in business not…"
+- "Will my love affairs materialise?"
+- "How long will I live?"
+- "Will I succeed in examination?"
+- "Promotion — when?"
+- "Employment — when?"
+- "No news — your views"
+- "Colleague's resumption of work — when?"
+- "When will my brother come home from work?"
+
+### Malay Mail 9-6-1970: KSK at Pudu Rotary — rubber price would steady next month and rise by early October; tin and palm oil to rise; "Malaysia is under the sub of the Moon" (mundane). FLAG: mundane prediction; not applicable to the app.
+
+### N. K. Ponnampalam, "Malayan Standard Time" — APP TIME-ZONE DATA
+
+| Period | Offset vs GMT |
+|---|---|
+| 1-7-1905 to 31-12-1932 | +7:00 |
+| 1-1-1933 to 31-8-1941 | +7:20 |
+| 1-9-1941 to 15-2-1942 | +7:30 |
+| 15-2-1942 to 14-9-1945 (Japanese occupation) | +9:00 (Japan time) |
+| from 15-9-1945 | +7:30 (incl. Singapore) |
+
+- KL longitude 101°41' (6h47m); Singapore 103°51'.
+- → APP: use a tz database (Asia/Kuala_Lumpur) for historical offsets; this confirms the IANA history.
+
+### KSK Rotary speech (Kuala Lumpur 26-5-1970) — fate doctrine
+- Varahamihira and Vikramaditya's prince; the suicide that failed (Delhi, "you'll live 20 years"); a train warning; gems work only when time is good; a child saved by vows until fate struck at 24. "Fate = net result of past evil minus present good." Prayer has little appeasing effect.
+
+### "Overseas — when" (number 144, 2:56:40 PM Saturday 6-12-1969, Delhi 28°38'N; Rahu star day)
+- Houses: **3 = leaving home; 9 = long journey; 12 = change of environment. Whether one goes = the 12th cusp sub lord.**
+  - 12th sub lord Venus (L12 in lagna → change in service on leave; in the star of Saturn, L3) → goes. The 12th cusp star lord Mars in 3, in own star, Saturn's sub (L3 in 6) → also 10th results: won't leave service; continues while abroad. 3rd sub lord Rahu (represents Saturn L3) in the star of Jupiter in 12 with the Moon (L9).
+- Moon (L9 in 12) in Rahu's star and sub → confirms. Rahu dasa, Rahu bhukti; Jupiter antara (to 4-4-1970: in 12, Mars's star, Venus's sub); Venus sookshma.
+- → 5-2-1970, Thursday, Moon-star day, Cancer lagna 23°58' at 6:03:20 PM? (transit table: Sun in Capricorn Moon star; Moon in Capricorn, Moon star, Rahu sub; Jupiter in Libra, Rahu star, Saturn sub; Venus in Capricorn, Mars star, Rahu sub; Saturn in Aries, Ketu star, Saturn sub; Rahu in Aquarius, Jupiter star and sub …). CHECK.
+
+### N. D. Kedare, "Any foreign assignment to me?" (number 17, 5:30 PM IST 26-7-1969, Bombay; Ketu dasa balance 5y 6m 7d)
+- 12th cusp Pisces 17°06' (Jupiter sign, Mercury star, Mercury sub). Sub lord Mercury direct, in the star of Saturn (direct); Mercury in the star of a planet in the 12th bhava → strong 12th significator → sure to go abroad.
+- **Foreign ASSIGNMENT (vs tour/honeymoon)**: if any significator of going abroad is also a significator of the 6th → goes abroad on a foreign assignment. (Rest lost.)
+
+### V. Balakrishnamurti, "Horary — reinstatement when?" (railway employee suspended after the 19-9-1968 strike; number 233 → Pisces 5°26'40" (Jupiter–Saturn–Mercury); 7:49 PM Sunday 12-1-1969)
+- "Suspension is like a cat on the wall."
+- Moon in Rahu's star, Saturn's sub; Rahu represents Jupiter (L10); Saturn = L12 (worry through profession) and L11 (delay) → it will materialise late after much worry.
+- **Appointment/reinstatement = 2, 6, 10**: 2nd vacant, L2 Mars (none in its star; Sun in Mars's sub) → weak, mixed. 6th vacant, L6 Sun; Rahu in Sun's sub → Sun, Rahu. 10th: Sun → Sun, Saturn, Rahu.
+- Rahu dasa, Saturn bhukti; Mars antara (balance 1m 10d) can't give (Mars L9 in Mercury's sub); Rahu antara 22-2 to 26-7-1969; Sun sookshma 18–24 June 1969; a Saturday (Saturn the chief cause, L11 & L12) → rejoined Saturday 21-6-1969 (Sun at the end of Mrigasira, about to enter Ardra = Rahu, in a Mercury sign). CONFIRMED.
+
+### "Mercury", "Is journalism good for me?" (number 188 → Scorpio? "29°13'20"" …; 5:20 PM IST 7-8-1969, Vijayawada)
+- "Horary has two schools: the traditional 108 (navamsa) system and the stellar 249 (sub) system; the latter is preferable to avoid equivocation."
+- Journalist qualities: vivid narration (Moon), brevity (Jupiter), expeditious communication (Mercury). Press = 3rd (publication); communications = 3rd and 9th — both clear of evil aspects. **Professional journalist: houses 3 and 9 connected with significators of 1, 6, 10.**
+- Moon in its own star, Mercury's sub (L6 & L9), aspected by Jupiter (L3 in 9) → confirms. "Jupiter's favourable tredecile aspect on the ascendant" (FLAG: Western minor aspect).
+- 6th: Venus; Saturn in Venus's star and sub; Sun in Venus's sub. 10th: lord Venus (Saturn and Sun signify it). Venus in Saturn's sub → reject; Mars in Saturn's star → eliminate. Sun (in Mercury's star, Venus's sub) favourable; Ketu represents Sun. Mercury in Ketu's star, Rahu's sub (in 2). Jupiter (L3 in 9) aspecting the exalted Moon … → go ahead in journalism.
+
+### "Mercury", "Can I do business?" (number 28 → Taurus 7°46'40" (Venus–Sun–Venus); 1:30 PM IST 20?-4-1969, Calcutta 22°33'N 88°20'E)
+- "Always take the commencement of the sub as the nirayana ascendant cusp."
+- **Business houses**: 1, 2, 10, 11 = prosperity and secure finances; 3 = determination/courage to face losses; 7, 11 = profitable public contracts, agreements, partnerships. **For success: 1, 2, 3, 7, 10, 11 strong; the occupant of the 7th should connect with 2, 10, 11 for ever-growing business; if connected with 8, 4, 5 → ends in loss.**
+- Moon in 1 (exalted, own star) in Saturn's sub (L10, L11 in 12) → anxious to invest; Saturn in 12 → more loss. Mercury (L2, L3) in 12, in the star of exalted Venus in 11, Rahu's sub (in 11) → some gains. Mars in 7 (own sign, star; Moon's sub) → rash, impulsive → loss. Venus and Rahu in 11, but Venus in the star of Mercury (in 12), Ketu's sub (in 5); Rahu in the star of Saturn (in 12), Mercury's sub (in 12) → financial breakdowns → avoid business.
+- FLAG: uses "exaltation" and aspects; KP-ish otherwise.
+
+### Nirmalendu Bhattacharyya, "Absconded after insanity" (born 9:16:26 AM IST 11-12-1935, 22°23'N 88°30'E?; ayanamsa 22°51'; Rahu dasa balance 15y 11m 29d)
+- Traditional insanity combinations (Mars/Saturn/Moon/Mercury afflictions) listed — FLAG.
+- **KP (contributor)**: the 1st cusp sub lord = general health and the condition of the head (1st = head). For twins, if the sub lord is the same, judge the sub-sub lord.
+  - 1st cusp sub lord Mars in the 12th bhava with Rahu (12th = negation of 1; asylum, detention, isolation, running away). Mars is in Moon's star and sub (Moon = mind, in 5 = intelligence, in the star of L7 = maraka) → weak mind. Mars's sub-sub lord Rahu in 12 → asylum or running away.
+  - **Disease nature = the 6th cusp sub lord**: Ketu in 6 in Mercury's sign (mind, nerves), in Jupiter's star and sub (Jupiter signifies 12) → mental disorder.
+- **Timing (KSK)**: "the conjoined period of significators of the 1st house connected with the 6th → disease"; with the 8th → danger to life and the nature of death; with the 12th → isolation, hospital, asylum; **1st-house significators connected with 6 AND with 3, 9, 12 → runs away with the disease**.
+  - 1st: Saturn (Jupiter alone in Saturn's star); Jupiter with Sun (L8) and Mercury (L6) in Scorpio; Sun and Mercury in the 11th (badhaka for Capricorn).
+  - Insanity began ~4-4-1960 (Jupiter dasa, Venus bhukti, Sun antara, Moon sookshma); Tuesday.
+- **Absconding = the 12th cusp sub lord** (foreign travel or running away): Venus in the 9th, in the star of Rahu (in 12), in Jupiter's sub (L12) → 9 and 12 → absconding.
+  - Left home 12-4-1960 ~noon (Jupiter–Venus–Sun–Mars–Rahu prana); lagna Gemini (Mercury), Punarvasu (Jupiter). 3/9/12 significators: Jupiter, Ketu, Venus, Rahu, Sun, Mercury, Mars. CONFIRMED.
+  - FLAG: text says 12-4-1965 once (typo).
+
+### KSK letter, "Return to foreign land — when?" (Dr …, in USA; predicted 15-5-1969 at Delhi that he'd return to India in the conjoined Venus–Saturn–Moon–Mars period; he came in Venus–Saturn–Moon unexpectedly)
+- **Going back abroad: when returning to the native land judge 3, 9, 11 and 12; when leaving relatives/parents judge 3, 9, 12 alone.**
+- 3rd unoccupied, owned by Venus; Saturn and Mars in Venus's star … (continues).
