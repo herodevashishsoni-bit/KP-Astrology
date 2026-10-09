@@ -4154,3 +4154,90 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 
 ### N. D. Kedare, "Correct position of lagna — ruling planets" (born Saturday 23-12-1939, 4–6 PM, Ahmednagar; Gemini vs Taurus disputed)
 - "The first important question is always answered by the RPs at the moment of judgment": lords of the day, rasi, star and lagna. (Continues.)
+
+## MC_113 (Apr–May 1970)
+
+### N. D. Kedare, "Correct position of lagna — ruling planets" (cont.; native 23-12-1939, 4–6 PM, Ahmednagar)
+- "According to KP, the RPs at the moment of query are the significators of the matter."
+- RPs at 8:20 PM IST Monday 18-8-1969: Moon (day), Venus (Libra rasi), Mars (Chitra), Saturn (Aquarius lagna); Rahu in Aquarius.
+  - **Lagna lord vs node**: "as the lagna is the strongest among RPs, its ruler Saturn is stronger than Rahu" ("if Rahu were stronger, the querist would have come on a Rahu-star day"). FLAG: contrasts with "node stronger than the sign lord".
+- **"RPs deposited in the star or sub of a retrograde planet will not reveal the results — reject them."** None here → accept.
+- Number 41 → Taurus 27°53'20"–30° (Venus–Mars–Saturn). Mercury is not an RP → not Gemini → Taurus. Mars star (the number is in Mars star) → Mrigasira; Saturn sub; Moon sub-sub → Taurus 29°10'.
+
+### KSK, "For God's sake forget rajayogas"
+- KP-computed charts are identical from any student (vs traditional variants).
+- Gajakesari, Sunapha, Anapha, Chandra-adhi, Sakata, Vasumati, Amala, Hamsa yogas and kendradhipatya dosha — their overlapping, contradictory definitions are listed. E.g. Jupiter 6th from the Moon = Sakata + Chandra-adhi + Vasumati at once ("quote whichever fits after the event").
+- Example: D. G. Ubhayakar, born 18-8?-1913, Bombay; Rahu dasa balance 5y 7m 7d. Jupiter dasa (25-? 1919 to Mar 1935) with many "yogas" brought car accidents (1922, 1923, 1935), mother's death (1925), typhoid (1927), lost teeth, piles, adoption (1927), stopped education (1929), no marriage. Married 1942, separated 1945, wife died 1951.
+- "Forget all these yogas. Work hard. Do your duty. God gives results according to your fate (karma)."
+
+### "Gemini", "What a headache! Can you read the state of married life?" (born 2:13 AM IST 7-2-1946, Bombay 18°55'N 72°54'E; Mercury dasa balance 7y 6m 3d)
+- Betrothal 8-12-66; married 19-5-67; separation from 12-10-69.
+- 2/7/11 significators: Jupiter, Mars, Saturn, Rahu, Sun, Venus, Mercury; strongest Venus, Mars, Jupiter.
+- Venus gave both marriage and separation: Venus = L7 & L12, in the star of a planet in 7, in the sub of Rahu (a 6th significator: Rahu in the star of Mars, L6) → Venus–Mars marriage; Venus–Rahu separation.
+- **RULE (7th cusp sub lord & married life)**: undesirable results come when the 7th cusp sub lord is connected with 2/7/11 AND also with 1, 6, 10 or 12 → marriage plus disharmony. Only when it is connected with 2/7/11 and NOT with 1/6/10/12 → pleasant married life. Here the 7th sub lord Saturn is in 7, in the star of a planet in 11, in the sub of the node in 1 → unhappy until the Saturn sub-period ends.
+- Reunion is judged like marriage. Next reunion: Venus–Jupiter–Mercury ~3-12-1971, until Feb 1976; separation a few months; permanent reunion from Mercury bhukti 23-8-1976. CHECK.
+
+### K. M. Subramaniam, "Ruling planets never err" (Advocate Raghaviah; born Saturday 30-3-1935, Soorareddipalayam 80 miles E of Nellore, 14°27'N 80°55'E; day or night unknown)
+- RPs at 8:25 PM Tuesday 23-12-1969: Mars (day), Rahu (Moon star Ardra; Moon 67°17'56"), Mercury (Moon sign Gemini), Moon (Cancer asc 12°19'), Saturn (asc star Pushya).
+- **"KSK advocates taking the Moon's (current) position to fix the birth ascendant degree when birth particulars are lacking."** The Moon-sign lord Mercury → star lord; the Moon-star lord Rahu → sub lord. Mercury star + Rahu sub occur in Cancer, Scorpio, Pisces; Jupiter is not an RP → reject Pisces. The Moon (asc lord) is stronger than Mars (day lord) → Cancer, Ashlesha, Rahu sub, Saturn sub-sub, Mars sub-sub-sub → 114°53'11" (Cancer 24°53'). Ayanamsa 1935 22°51' → 2:43:17 PM IST 30-3-1935. Moon dasa balance 11y 3m 4d? Thiruvonam 3rd pada.
+- KSK's check (3:55 PM Monday 19-1-1970): RPs Moon (day), Mars (Moon in Mrigasira 61°44'), Mercury (Gemini Moon sign), Mercury (Gemini 7°18' asc), Rahu (Ardra asc star; Saturn represented: Rahu in Aquarius) → the same RPs → confirmed.
+  - KSK explained the delay in meeting him: Saturn was aspecting the Gemini lagna (3:23–5:34 PM); success because Jupiter also aspected Gemini. FLAG: aspects.
+
+### KSK Q&A
+- **Lagna is a point, not a region.** Birth = when the child fully emerges, timed to the second (1 second ≈ ¼' of zodiac). No rule distinguishes results for 2-minute differences; take the exact point. (Correspondent banned from further letters.)
+- **Can one tell sex from a horoscope?** No: twins of different sexes are born together; males and females are born at the same moment in big hospitals. "In either Hindu or Western system there is no method … Actually there is no science." Pancha-tattva theory (sex alternating in ~½-hour cycles) cited. "The science should improve to find sex." → **GAP confirmed: no rule for sex from a natal chart.**
+
+### KSK, "No more doubts" — birthdays and transits
+- Two natives born near sunrise on New Moon days: one Virgo lagna (Sun, Moon in Virgo), one Leo lagna (Sun, Moon in Leo); birthdays celebrated by nakshatra (the Moon returns to its natal place).
+  - Virgo native: Moon = L11 → gain on the nakshatra birthday. Leo native: Moon = L12 → loss; Moon in Magha (Ketu) → confusion.
+  - On calendar birthdays (the Sun returns): Virgo native Sun = L12 → worry/loss; Leo native Sun = L1 → success.
+  - **Transit rule**: the result of a planet returning to its natal place depends on the houses it signifies (owned houses, and its star lord's nature in the chart).
+- **Sade-sati**: not uniformly bad. Ignores the Moon's exact degree, the Moon's lordship, the relative indicated, and Saturn's houses. Many succeed in sade-sati. The Tamil proverb (1st moderate, 2nd good, 3rd bad) is meaningless.
+  - Proper (for non-stellar users): note which houses the Moon and Saturn rule for that rasi, and read Saturn's aspects to the natal Moon (Western) by those lordships (e.g. Aries Moon: Moon = L4, Saturn = L10 & L11 → favourable aspects → car/land/service in the native place …).
+  - "Those who use the stellar method give the nature and time correctly." (A transit book was in progress.)
+
+### Mathura Ram, "Election results" (number 111, 7:30 PM 19-12-1969, Patna; ward commissioner election 20-12-69)
+- 111 → Virgo, Sun star, Venus sub (7°46'40"–10°).
+- RPs: Venus (day), Mars (rasi), Venus (star), Mercury (lagna).
+- **11th cusp sub lord** promises victory? 11th cusp Cancer 8°40', Venus sub; Venus in 3, in Mercury's star (L1, L10), Rahu's sub (Rahu in 6 with Mars; Mars in Rahu star, Jupiter sub; Jupiter in Rahu star and sub) → victory. Houses 6 and 11 (Mars and Rahu in 6; Mars and Jupiter in Rahu star) → won by 71 votes. CONFIRMED.
+- FLAG: lists failure houses as "4, 6, 7, 8, 9, 12" (6 is a typo for 5).
+
+### "Health and heart" (fragment)
+- Traditional body parts from the lagna (1 head; 2 right eye; 3 right ear; 4 right nostril; 5 right cheek; 6 right jaw; 7 mouth; 8 left jaw; 9 left cheek; 10 left nostril; 11 left ear; 12 left eye). FLAG: traditional (drekkana-type list).
+- Moon = heart; Sun and Mars = blood; Moon in Aquarius → heart disease (Horasara).
+- 6th significators → disease in their periods. Lagna 25°06' (Venus star, Mercury sub). Cure by a surgeon (Sun = Dhanvantari, Mars = surgery) ~July 1976 (Mercury bhukti, Jupiter antara; Sun in Punarvasu in the 11th). CHECK.
+
+### "Mercury", "Bother is to become father" (number 157, 1:35 PM IST 24-7-1969, Vijayawada 16°31'N 80°37'E; married 15 years, childless)
+- **KSK: the 5th cusp sub lord indicates fatherhood. If it signifies 2, 5 or 11 → a father; especially if it signifies 1, 4 or 10 and has no connection with 2/5/11 → not.**
+- 5th sub lord Venus: in the star of Mars (in 12; L1 & L5?) and the sub of Rahu (in 4) → signifies 1, 4, 6, 12 (and 7 & 12 by lordship/occupation) → no hope of children. (Significator tables with conjunctions.)
+
+### "V.K." Hyderabad, "Assurance for insurance" (number 196, 11:30 AM IST 18-5-1969, Hyderabad 17°20'N 78°30'E; Mars dasa balance 6y 1m 23d)
+- 196 → Capricorn 11°06'40"; sayana Aquarius 4°26'40" → Raphael cusps; nirayana chart.
+- **Endowment vs life policy = a longevity question**: if long-lived → endowment; else life policy.
+- **Longevity (KP per the author): if the ascendant sub lord is a "benefic" (not owning 6, 8, 12) → long life.** Lagna in Mars sub (L4 & L11, in 11) → long life guaranteed. FLAG: contributor's simplification (lordship-based).
+- Marakas 2 & 7; badhaka (movable) 11th = Scorpio (Mars). Rahu in 2 — Moon alone in Rahu's sub; 7th vacant; Mercury in Moon's star; Venus in Moon's sub; Moon in Mars's star. Significators Moon, Mercury, Venus; their dasas don't come before 100 (Mercury bhukti 13-7-2012). → Endowment policy.
+
+### "Mercury", "Scholarship for studies?" (number 46, 8:15 AM IST 5-7-1969, Vijayawada; Ketu dasa balance 1y 4m 11d)
+- Moon (mind) in 11, in the star of Ketu (in 4), in the sub of Saturn (in 11) → educational gains.
+- **Scholarship = 4 (education) connected with 6 and 11**: the 7th = college administration; the 6th (12th to 7th) = the college bears the expense; 4 and 11 = education gained.
+- 4th: Jupiter and Ketu; Sun and Rahu in Jupiter's star; Ketu in Jupiter's sub; L4 Sun; Jupiter, Venus, Ketu in Sun's star → Sun, Rahu, Jupiter, Venus, Ketu; Rahu in Mars sub; Mars = L6 & L11, in 6, in the star of Saturn (in 11), sub of Venus (in 12) → will receive; Saturn delays.
+- Ketu dasa, Saturn bhukti (to 22-11-69), Rahu antara (29-7 to 29-9-69). Jupiter transits Moon's star from 6-8-69 and Mars's sub 12–18 Aug; the Moon in Mars's star on the 8th/9th (Fri/Sat — Venus in 12, Saturn delays) → communication on 11-8-1969. CHECK.
+- Mars in Venus's sub (in 12) → he'll spend on conveniences (not a hostel; a hostel would need the 3rd).
+
+### "Guess why the editor is happy" — KP being taught in vernaculars; KSK invited to Kuala Lumpur, Singapore, Ceylon; sponsors from Canada, USA and France for a research institute.
+
+### KSK, "Maturity of trunk call" (Friday 20-2-1970, 7:20 PM; Delhi call unanswered)
+- RPs: Venus (day), Moon (own sign Cancer), Mercury (Moon star); Sun not an RP → the call materialises when the Asc is in a Mercury sign, Moon star, Venus sub → 8:54 PM. It came at exactly 8:54 PM (the visiting US doctor witnessed it). "Only when KSK ayanamsa is followed … if the ayanamsa differs, the Moon would have been in Leo in Ketu's star."
+- **Trunk-call horary rules (KSK, from his own research)**:
+  - **3rd cusp sub lord in the star of a retrograde planet** → the telephone office soon calls back: line out of order → cancelled. **If the sub lord itself is retrograde but its star lord direct** → not cancelled; it matures later.
+  - **9th cusp sub lord in the star of a retrograde planet** → the party is absent → cancelled. If the sub lord itself is retrograde → the relatives keep the call pending, send word, and it connects later.
+  - **11th cusp sub lord in the star of a retrograde planet** → connected but nobody can hear (disturbance) → wasted. If the sub lord itself is retrograde → a complaint is lodged, the defect fixed, then the talk happens.
+  - **Sun and Moon are never retrograde. Rahu and Ketu always move backward steadily — "treat Rahu and Ketu as never retrograde".** Only the other planets can be direct or retrograde.
+  - → **GENERAL RULE (important)**: a cusp sub lord IN THE STAR of a retrograde planet → denial/failure. A cusp sub lord that is ITSELF retrograde (with a direct star lord) → delay, then success. (Consistent with "star lord gives the matter; retrograde star lord kills it".)
+
+### May 1970 — KSK, "Author's progress in research and success"
+- Research method: KSK used matters verifiable within hours/days.
+  - (1) Electric power restoration: took a number, erected the horary chart, noted the RPs and the sign/star/sub lords of the ascendant; when the light came, computed the asc and 11th cusp at that moment → found that the RPs and the lords of the number's position and the 11th cusp gave the moment.
+  - (2) The peon returning from the treasury (the accountant gave a number) → the lords of the 11th cusp agreed (also his wife's numbers).
+  - (3) Strikes in Calcutta offices — the manager's number → call-off time; his son predicted the Simpson's group strike to the hour.
+  - (4) Trunk calls: the moment of booking, a student's number → houses 3, 9 and 11 (continues).
