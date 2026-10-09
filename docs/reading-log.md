@@ -74,4 +74,5 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - MC_097–MC_100 (Mar–Jun 1969)
 - MC_101–MC_108 (Jun–Nov 1969)
 - MC_109–MC_115 (Dec 1969–Jul 1970)
-- Next to read: mc/MC_116
+- MC_116–MC_119
+- Next to read: mc/MC_120

@@ -4642,3 +4642,66 @@ Mostly **REPRINTS** in the July 1970 Students Section:
 ### KSK letter, "Return to foreign land — when?" (Dr …, in USA; predicted 15-5-1969 at Delhi that he'd return to India in the conjoined Venus–Saturn–Moon–Mars period; he came in Venus–Saturn–Moon unexpectedly)
 - **Going back abroad: when returning to the native land judge 3, 9, 11 and 12; when leaving relatives/parents judge 3, 9, 12 alone.**
 - 3rd unoccupied, owned by Venus; Saturn and Mars in Venus's star … (continues).
+
+## MC_119 (Aug–Sep 1970)
+
+### End of "Return to foreign land" (Dr M.S.R., b. 7:23 PM 18-9-1940, 8°48'N 78°11'E)
+- Mercury dasa balance 7y 7m 17d; Venus–Saturn from 5-3-68. Number 97 → Leo, Venus star, Rahu sub.
+- Rule: any significator of the 4th that lies in the sub of a 3/9/12 significator → change of place.
+- KSK rule (used for rectification): one meets the astrologer or a benefactor in the conjoined period of planets that were RPs at the benefactor's birth. KSK's lagna and Moon star are Saturn and Moon; the querist met him in Saturn bhukti, Moon antara → dasa balance verified.
+- Timing: leaves India in Venus–Saturn–Rahu–Saturn about 3-8-1970, when the Sun reaches the query-Moon position and the lagna lord Sun transits the 12th cusp. (CHECK)
+
+### Kedare — "Will there be any raid in my house?" (no. 66?, 3:30 PM 13-8-1969, Bombay)
+- 12th = sudden loss, confiscation, secret enmity, loss of reputation.
+- Informant from the 12th cusp sub lord:
+  - connected with 3 & 6 → younger brother or neighbour betrays openly;
+  - 3 & 12 → betrays secretly;
+  - 2 & 12 → a partner after severing ties, or a wife after divorce.
+- Significator order as given here for nodes: conjoined planet → star lord → aspecting planet. (Differs slightly from the KSK node order noted earlier: conjoined, aspecting, star lord, sign lord. FLAG.)
+
+### "Mercury" — "Partner in business not advisable" (no. 98 → Leo 20°06'40", 6:30 PM 12-8-1969, 16°31'N)
+- 7th connected with 11 → profitable partnership; 7 & 12 → disputes and legal worries.
+- Rahu in 7, in the star of Jupiter (L5, L8; 5 & 8 are 11th and 2nd from the 7th, so advantageous to the partner), in the sub of the Sun in 12 → avoid a partner.
+
+### "Will my love affairs materialise?" (no. 78, 7:40 PM 17-8-1969)
+- Moon in 3 in its own star, Venus sub → love affair indicated.
+- Significators Rahu, Ketu, Sun and Moon will bless; Moon dasa, Venus bhukti. (OCR partly lost.)
+
+### "Mercury" — "How long will I live?" (no. 33 → Taurus 15°40', 2:45 PM 28-9-1969)
+- Contributor's rule (FLAG — lordship-based, not KSK's significator method):
+  - lagna sub lord owning 6/8/12 → short life (33 y);
+  - owning 1/5/9/10 → long life (66+);
+  - both groups → middle life.
+- Sub lord Saturn (L9, L10) → long life.
+- Marakas: 2 & 7; badhaka: 9th (fixed lagna). Significators Venus, Mars, Rahu, Ketu → death in Venus dasa, Ketu bhukti, 1988–89 (unverified prediction).
+- The querist was still alive past a traditional astrologer's "Friday" death prediction.
+
+### "Will I succeed in examination?" (no. 137 → Libra 18°06'40", 8:30 PM 13-9-1969)
+- 4 = education, 11 = success, 12 = failure.
+- The contributor's significator list uses "star or sub" (FLAG; KSK's rule is star).
+- Moon dasa; the Moon's sub lord Mercury in 12 → signifies 4 & 12 → fail.
+
+### Ramachandran Nair — "Promotion — when?" (no. 147 → Scorpio 1°20', 11:50 AM 23-3-1970, Kanyakumari 8°04'N 77°36'E)
+- Promotion = 2, 6, 10, 11.
+- Moon (L10) in 11 in its own star. 11th cusp Virgo 0°37' (Mercury sign, Sun star, Rahu sub); Ketu replaces the Sun.
+- Contributor rule: "when Rahu/Ketu are significators, planets in their subs are also significators" (FLAG, new rule).
+- RPs: Moon, Moon, Mercury, Mercury, Mars → Moon–Mars–Mercury–Ketu, 12–14 Aug 1970 → 12-8-1970 (Wednesday, Jyeshta). (CHECK; prediction only)
+
+### P. C. Bhattacharya — "Employment — when?" (b. 4:00 AM IST 6-4-1925, 23°59'N 85°22'E)
+- Ayanamsa 22°43'; Aquarius lagna 19°13'; Venus dasa balance 19y 1m 15d.
+- Employment = 2, 6, 10, 11.
+- Significators:
+  - Rahu (in 6, representing the Moon L6);
+  - Mars (L10, no planet in its star);
+  - Moon (L6 in 6, aspected by L10 and L2/L11);
+  - Saturn (the only planet in Jupiter's star; Jupiter L2/L11 in 11).
+- Employed 24-5-1952 in Moon–Rahu–Saturn–Mars (a Saturday). CONFIRMED (test case).
+
+### Ramachandran Nair — "No news — your views" (no. 248, 10:20 AM 7-12-1969, Jorhat)
+- Receiving a letter = 3, 9, 11.
+- Saturn antara retrograde → won't fructify in it.
+- Mercury antara from 17-12-69 (L7 = the correspondent, in Ketu's star, Sun's sub).
+- Sun in Ketu's star 16–18 Dec; Moon in Aries, Aswini, Ketu/Venus sub → Thursday 18-12-1969. The letter came that day. CONFIRMED.
+
+### M.S.R. Murthy & M. Purushottam — "Colleague's resumption of work — when?" (2:45 PM Friday 20-2-1970, Gulbarga)
+- Houses 1, 6, 7, 11 (1st: Mercury; Moon and Mars in its star; 6th: Mars …). Continues in MC_120.
