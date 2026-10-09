@@ -8030,3 +8030,45 @@ Contents: tour programme; K.P. new Readers I to VI; annual horoscope; love and l
 ### Visaka — Jataka Chandrika stanza 9 (benefics owning kendras becoming marakas if in 2 or 7)
 - Traditional. The editorial K.P. gloss: such results come only if they are in the stars of planets signifying 2, 7 or badhaka (11/9/7 for movable/fixed/common).
 - **The 2nd is maraka as the 12th to the 3rd (longevity) and the 8th from the 8th; the 7th is the 12th to the 8th.** (Supports the maraka logic.) FLAG: traditional text.
+
+## MC_139 (Nov 1971 end + Dec 1971 start)
+
+### Visaka — Jataka Chandrika stanzas 10–12 (with K.P. editorial glosses)
+- Stanza 10: Jupiter or Venus (or any planet) occupying the 2nd or 7th can inflict death (traditionally "occupation is stronger than ownership"). The Sun and Moon owning the 8th are not malefic.
+  - **K.P. gloss (KEY)**: "unless the lord of the constellation is a significator of maraka or badhaka sthanas, longevity will not come to an end". People have outlived the dasas of benefic kendra lords in marakas, and died in dasas of planets not in 2 or 7 but in the stars of maraka/badhaka significators. **"A planet is much more strong to offer the results denoted by its constellation lord than the results of the house it occupies; and it offers the results of the house it occupies more strongly than those of the house it owns."** (Explicit KSK strength order: star lord > occupation > ownership.)
+- Stanza 11: Mars as L10 is good only if it also rules a trikona. K.P. gloss: "a planet becomes inimical only when it is in the constellation of a planet signifying houses inimical to longevity; longevity ends in the conjoint time of the significators of maraka and badhaka, irrespective of kendra lordship."
+- Stanza 12: Rahu and Ketu give the results of the house occupied and of the planets conjoined.
+  - Gloss: nodes alone are stronger than their sign lord in giving the house results; in conjunction, the nodes are strongest (Rahu with exalted Jupiter is stronger than Jupiter).
+  - **KSK's node order (per K.P., stated here)**: the planets conjoined → the planets aspecting → the lord of the constellation tenanted → the lord of the sign on the cusp of the house where the node is posited, "in that order". (Matches MC_120; and "sign lord" = the sign containing the node.)
+
+### Ganesa's Jatakalankara (start; traditional)
+- House names, kendra/trikona/panaphara/apoklima/trika; planetary friendships; Hindu partial aspects (¼, ½, ¾, full). FLAG: traditional reference only.
+
+### Basudev Patro — "Marriage" (number 217 → Aquarius 14°26'40"; 5:30 PM IST 27-10-1970, Sundargarh; KSK ayanamsa 23°20'50")
+- The Moon in the 7th, in the star of L7? and Venus's sub → a marriage query. Uranus in the 7th → hasty marriage (FLAG).
+- **The 11th sub lord decides fulfilment**: the 11th cusp in a Jupiter sign, Venus star, Sun sub, Jupiter sub-sub. The Sun never retrogrades → promised. (Debilitation and the Sun in 8 → delay; FLAG.)
+- 2, 7, 11 significators: no planets in 2 and 11; the Moon, Mars and Uranus in 7. Mars and Uranus are in the Moon's star; Rahu is in Mars's star, Moon sub. L2/L11 Jupiter (Jupiter and Venus in its star); L7 Sun (the Sun, Saturn and Moon in its star) → the Moon strongest, then Mars; Rahu replaces Mars.
+- Cusps: 2nd Mercury/Moon/Moon; 7th Venus/Venus/Rahu; 11th Venus/Sun/Jupiter. Venus is retrograde; the Sun, Mercury and Jupiter are in 8 → obstacles.
+- Moon dasa from 14-4-71: Moon–Moon–Mars (9–26 May 71) gives a proposal that fails abruptly (the Moon L6 with Mars in 7 → enemy action). Moon–Moon–Rahu (26-5 to 11-7-71), Mercury sookshma 16–23 June → 17/18-6-1971, sudden, arranged.
+- RPs: Mars (day), Moon (Moon star), Mercury (Moon sign), Mars (lagna), Ketu–Mercury–Rahu (lagna star/sub/sub-sub); Venus retrograde → excluded.
+- One proposal was cancelled; another was finalised within 3 days; married 17-6-1971. CONFIRMED.
+
+### G. S. Nanjundiah — "When will the party arrive?" (6:15 PM Tuesday 17-8-1971, Dharwar)
+- RPs: Saturn (lagna Capricorn), **Moon (lagna sub lord, Sravana)**, Mercury (Moon sign Gemini), Jupiter (Moon star Punarvasu), Mars (day); Rahu conjoined with Mars in Capricorn.
+- The next RP point: Saturn sign, Mars star, Rahu sub = Capricorn 24°06'40"–26°06'40" (≈25°). ST 16h03m48s; KSK ephemeris ST at 5:30 PM 15h10m51s → +52m57s → 6:23 PM; + 28m40s (Dharwar longitude) → 6:53 PM.
+- They arrived at 6:53 PM. CONFIRMED.
+
+### Chavadi & Hanagodimath — "When shall I be promoted?" (number 216 → Aquarius 12°33'20"; 12:59 PM Monday 1-2-1971, Dharwar 15°27'N 75°05'E; Ketu dasa balance 6y 1m 5d)
+- The Moon (in 2, L6) is in the star of Ketu (in 6) and the sub of Venus (in 10) → 2, 6, 10 → the green signal.
+- **The 11th sub lord connected with 2, 6, 10 or 11 → promoted.** Here Venus (in 10, in the star of Ketu in 6) → promised.
+- Significators: Sun (Ketu) 2; Ketu, Venus, Moon 6; Saturn (Rahu) 10; Mercury 11; Jupiter (L2, L11, with Mars L10, aspecting 2 and 6) → Ketu, Venus, Sun, Moon, Rahu, Saturn, Mercury, Jupiter. (Continues; the article is cut off.)
+
+### Dec 1971 issue — "Bala", "Experiments with Krishnamurti Padhdhati" (lady b. 12:30 AM IST 20/21-11-1934, 9°30'N 76°?E; Sun dasa balance 4y 5m 6d)
+- Dasa table to Mars–Mars 1974 given.
+- Marriage on Wednesday 11-9-1957 in Rahu–Rahu–Mercury.
+  - The 7th cusp: Aquarius, Satabhisha (Rahu), Rahu sub. The sub lord Rahu is in the same sign as Saturn (L7) and is the star lord of the 11th cusp. Mercury (L2, L11 cusps) is in Rahu's star and Venus's sub.
+  - "Rahu and Ketu act as agents of the planets conjoined with or aspecting them; next the sign lord; and the lord of the constellation they occupy."
+- Child: son 10-10-1959 in Rahu–Jupiter–Mercury. Jupiter is L5 and the 5th cusp sub lord, conjoined with Mercury (L2, L11), both in Rahu's star → 2, 5, 11.
+- **Explains marriage = 2, 7, 11 (KSK) and progeny = 2, 5, 11**: the 11th = the 5th from the 7th (the partner's progeny); the 5th = the 11th from the 7th and the 10th from the 8th (sex).
+- **FLAG (major)**: the bulk of the article applies Western progressions (day-for-a-year secondary progressions, the "perpetual calculation date" method, Western aspects, Uranus/Neptune transits) combined with K.P. star/sub lords. KSK's magazine publishes it, but it is not K.P. core and the user wants no Western methods → exclude. Note the signifier table categories (A)–(L), including "planets in the sub of occupants/lords" and "the planet owning the constellation on the cusp" (FLAG: extended significator categories, contributor).
+- (Continues in MC_140.)
