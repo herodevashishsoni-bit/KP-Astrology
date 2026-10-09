@@ -6943,3 +6943,114 @@ Rahu represents Saturn; Ketu represents the Sun.
 - **Ketu is in the 12th, in the star of Mercury in the 6th → Ketu cannot give marriage in its period.**
 - RPs: Jupiter (Thursday), Rahu (Moon star), Saturn/Rahu (Moon sign), Mercury (lagna Gemini), Jupiter (lagna star), Saturn (Asc sub).
 - Rahu–Mercury–Ketu to 3-3-1971, then the Venus antara; Saturn sookshma → June 1971, when the Sun is in Gemini in Rahu's star (Ardra) conjoined with the Moon. Married on that date (prediction; date partly lost in OCR). CHECK.
+
+## MC_132 (Jun 1971 end + Jul 1971 start)
+
+### P. V. Raman — "Time of transfer" (natal; b. 4:45 AM IST 8/9-9-1929, 15°09'N 76°55'E; KSK ayanamsa; Jupiter dasa balance 2y 11m 16d)
+
+| Planet | Star lord | Sub lord |
+|---|---|---|
+| Sun | Venus | Saturn |
+| Moon | Jupiter | Mars |
+| Mars | Moon | Mercury |
+| Mercury | Moon | Mercury |
+| Jupiter | Moon | Venus |
+| Venus | Mercury | Mars |
+| Saturn | Ketu | Venus |
+| Rahu | Venus | Saturn |
+| Ketu | Jupiter | Saturn |
+
+- **Transfer = 3, 10, 12**: 3 = short journey and change of the present place (the 12th to the 4th = the present seat); 10 = employment; 12 = an entirely new environment.
+- Significators:
+  - 3rd: the Moon and Ketu occupy it; Jupiter, Mars and Mercury are in the Moon's star; Saturn is in Ketu's; L3 Venus (in a movable sign in 12) has the Sun and Rahu in its star.
+  - 10th: L10 Venus is in 12 and L12 the Moon is in 3. **Parivartana → frequent short-term transfers** (FLAG: traditional yoga term). Jupiter occupies the 10th.
+  - 12th: the Moon (L12) …
+  - → all nine.
+- RPs (3:03 PM Friday 8-1-1971, Bellary): Venus (day), Venus (Moon sign), Moon (Moon star), Venus (lagna), Moon (lagna star); the Moon in the lagna, aspected by Jupiter and Mars.
+  - "The Moon in its own star in the lagna, and the lagna star also the Moon → the event happens very immediately."
+- Ketu–Moon–Ketu till 11-1-71. Ketu represents Venus and Jupiter → include it.
+- Transfer on 21-1-1971: the Moon in a Venus sign, Jupiter star, a movable sign, in the natal 3rd; Ketu–Moon–Venus–Moon. "The prediction came very true." CONFIRMED.
+
+### KSK — "Significance of the sub" (Scorpio subs 146–166, Sagittarius 167–187; heavily deduplicated)
+- Examples:
+  - 152 Mars–Saturn–Venus: venereal distemper (Scorpio = sex organs, Saturn = chronic, Mars = boils).
+  - 153 Mars–Saturn–Sun: death registrar, CID/CBI (Mars police, Saturn secret, Sun government).
+  - 155: gallows, jail, casualty ward, bone fracture ("Saturn = bone"). **"6 and 8 show disease and danger; 6 and 10 the doctor who cures."**
+  - 156 Mars–Saturn–Rahu: "as Rahu indicates".
+  - 182 Jupiter–Venus–Saturn: barrenness (azoospermia).
+- Planets in nodes' subs: "find the significators of Rahu/Ketu and predict accordingly."
+- App: descriptive text only.
+
+### Speech — "K.P. system versus traditional system" (SARI Bombay anniversary)
+- K.P. excludes navamsa, trimsamsa, dwadasamsa, shadbala and ashtakavarga. K.P. followers all cast the same chart (determinate).
+
+### Book contents (KSK's new book on transits — Reader 5 contents list)
+- Moon in the 8th; Saturn in the 8th; sade sati; division of the zodiac; constellation significance; star per lagna; role of the sub; significance of each sub; **"systematic procedure for transit results step by step"**; selection of the sensitive point for each dasa/bhukti/antara; a ready reference table; lucky time (muhurtha) for 25+ activities; chandrashtama; Mars–Saturn and Saturn–Rahu conjunctions; Saturn's transit sub by sub.
+- (This is Reader 5 / Transits, already read.)
+
+### KSK — "Krishnamurti Padhdhati verified: Indira Gandhi" (KEY KSK case study; Jul 1971)
+- KSK admits a failure: he had predicted Indira would be an MP, not PM. Cause: he relied on others' wrong horoscopes. Re-rectified using the chronology in the Illustrated Weekly (14-3-1971).
+- **Rectification by RPs** (judged 1:08 PM IST Monday 3-5-1971, Delhi): the lagna in a Sun sign; the Moon in Magha (Ketu) in Leo; day Monday → **Sun sign, Ketu star, Moon sub** → Leo 3°42'.
+- **KSK also cites the prenatal epoch** (Western rule of the epoch; FLAG: non-KP, used only as a cross-check):
+  - born 11:10 PM – 12 midnight 19-11-1917, Allahabad 25°28'N 81°54'E; waxing Moon below the horizon → gestation over 9 solar months; epoch 8-2-1917, 5:35–5:37 AM;
+  - epoch-based Asc Leo 5°19' (11:44:34 PM LMT) vs K.P. Leo 3°42' (11:39:16 PM).
+  - Leo rises at 11:25 PM → "her lagna must be Leo, no other word".
+  - KSK: the traditional rectification gives many alternatives; "genuine nadis may be useful … thumb-impression, yakshini may or may not".
+- Chart: KSK ayanamsa 22°37'; Sun dasa balance 1y 10m 12d; Mars in the Asc (L9, in the star of L10 Venus); Saturn in 12 (in the star of Mercury, L2/L11, in 4); Venus + Rahu in 5; Jupiter (L5) in 10; the Moon in 6; Ketu in 11.
+- **Character from the lagna sub lord (KEY RULE)**: "according to K.P. take the sub lord of the ascendant; note the lord of the constellation in which the sub lord is deposited; read the results according to that constellation lord." Here both the sign lord and that star lord are the Sun → solar character (a long description: leader, walks ahead, etc.).
+  - Mars in the Asc gives immunity and extraordinary mental strength.
+- **Events, with period and transit verification** (all CONFIRMED by KSK post-mortem):
+  1. **Vanar Sena (1930)**: Mars–Rahu (from 28-2-1930).
+     - Mars is in Venus's star; Venus is in the 5th (politics).
+     - **Node rule restated**: "if a node occupies a sign, the tenant is stronger than the sign lord; if conjoined with or aspected by a planet, the node is stronger than that planet" → Rahu (with Venus) gives Venus's 5th-house results more than Venus. Venus is L10 → fame.
+  2. **Mother Kamala Nehru's death 28-2-1936** (Mars–Sun–Venus–Ketu).
+     - **KSK mother-death rule**: note the sign of the 4th cusp.
+       - movable → badhaka = the 11th from the 4th;
+       - fixed → the 9th from the 4th;
+       - common → the 7th from the 4th.
+       - Marakas = the 2nd and 7th from the 4th (= the 5th and 10th from the lagna).
+     - Here the 4th cusp is Scorpio 2°09' (fixed) → badhaka = the 12th from the lagna (Saturn there; the Sun and Mercury in Saturn's star). Marakas: 5 (Venus, Rahu; Jupiter's sign) and 10 (Jupiter; Venus's sign). Ketu is in Rahu's star; Mars and Venus are in Venus's star → Saturn, Mars, Ketu strongest.
+     - **Short life of the mother**: the 4th cusp is in the star of L2-from-4, deposited in the 7th from the 4th, and the 4th cusp sub lord Rahu signifies the 2nd and 7th from the 4th → short-lived mother.
+     - Transit on the day: Mars in Pisces, Saturn star; the Sun in Aquarius, Rahu star, Venus sub; Ketu in Gemini, Rahu star; Saturn in a Saturn sign, Rahu star, Mars sub; Jupiter in a Mars sign, Mercury star, Saturn sub.
+  3. **Joined the Congress**: Rahu–Rahu–Venus (Rahu, Venus, Mars strongest for the 5th).
+  4. **Marriage 26-3-1942 (Thursday)**: Rahu–Saturn–Saturn, Jupiter sookshma. 2, 7, 11. Rahu represents Jupiter → many events on Thursdays.
+     - Transit: Saturn in the Sun's star, Jupiter's sub; the Moon in Punarvasu (Jupiter); Ketu (natal 11th) in a Saturn sign, Rahu star; the Sun in a Jupiter sign, Saturn star.
+     - "If K.P. had been known then, Allahabad astrologers would have predicted this date."
+  5. **Arrest 10-9-1942 (Quit India)**: Rahu–Saturn–Mercury–Saturn (Thursday). **Separation from husband = 12th; leaving home = 3 and 12.** Rahu offers the 3rd via Venus; Saturn in 12; Mercury in Saturn's star.
+  6. **Birth of Rajiv 20-8-1944**: Rahu–Saturn–Jupiter–Mercury. Children = 2, 5, 11. Transit: the Moon in Venus's star; Jupiter in Mercury's sub; Rahu in its own sub; Saturn in Mercury's sub; Venus in Rahu's sub.
+  7. **Birth of Sanjay 14-12-1946**: Rahu–Mercury–Saturn. Ketu in the 11th, in the sub of Saturn, in a barren sign → no more children (FLAG: barren sign). Saturn in the star of Mercury (L2, L11).
+  8. **Death of Feroze Gandhi 8-9-1960**: Jupiter–Mercury–Rahu–Rahu (Thursday).
+     - **KSK rule: the husband's end happens in the periods of the significators of houses 1, 6 and 10** (the 12th from 2, 7, 11). One may also judge the 7th and its longevity, but since the 7th also covers partners and others, confirm with 1, 6, 10.
+     - Significators: Mars (occupies the Asc, nothing in its star); the Moon in 6 with Jupiter in its star; Jupiter in 10 (nothing in its star); L1 Sun with the Moon in its star; L6 Saturn with Mercury in its star; Rahu, Jupiter's agent.
+     - Transit: Jupiter in Saturn's star, the Moon's sub (the owner and occupant of 6).
+     - **"6th is loss of husband as the 6th is vyaya to 7."**
+  9. **Death of Jawaharlal Nehru 27-5-1964**: Jupiter–Venus–Saturn.
+     - **Father = 9th** (Aries 9th cusp, movable) → badhaka lord = Saturn (Aquarius, the 11th from the 9th). Venus owns the 2nd and 7th from the 9th (marakas). Jupiter is in 10.
+     - KSK: "This event was predicted by me years in advance, correct to the date."
+  10. **President Zakir Husain's death 3-5-1969**: Jupiter–Rahu–Saturn–Jupiter.
+      - **The President = the 9th house (protector, guardian, equal to a father)**; his death from 2, 7, 11 counted from the 9th (movable) → the same combination as the father's death. Rahu (with Venus, in Jupiter's sign) gives the same as Venus.
+      - "Mars and Moon conjunction with Neptune shows death in a lavatory/sewer/cesspool" (FLAG: Neptune, Western).
+      - "Let students observe what happens in Saturn–Saturn–Venus–Jupiter, around the 1st week of March 1972" (a hint at another death?).
+  11. **Elected Congress President 8-2-1959**: Jupiter–Saturn–Jupiter.
+      - Election = the 6th (others silenced or won over). Position of trust = Saturn. Prestige = the 10th and Jupiter. Jupiter L5 in 10; Saturn L6 aspects 6.
+      - "If the ascendant were Cancer, it could never happen."
+      - **"Houses 6 and 11 are always auspicious for victory over competitors or opponents."**
+  12. **Information & Broadcasting Minister 2-7-1964**: Jupiter–Venus–Saturn. **Minister = 2, 6, 10, with the significators connected with the 5th.** Rajya Sabha unopposed 20-8-1964 (Thursday).
+  13. **Bank nationalisation**: Jupiter–Rahu–Mercury (Jupiter = finance and banks; Mercury = plurality). Jupiter in natal in the sub of a planet in a fixed sign → lasting popularity (FLAG).
+      - Mundane: Jupiter conjunct Uranus that day; India's lagna Capricorn (FLAG: Uranus, Western).
+  14. **V. V. Giri elected 20-8-1969, 10:30 PM**: Jupiter–Rahu–Mercury; the Moon in Jupiter's star, Rahu's sub.
+  15. **Devaluation 5-6-1966**: Jupiter–Moon–Rahu. The Moon (L12) in 6 → expenses exceed income; 6 = borrowing. Mercury = currency. The Sun and Mercury in the 4th oppose the 10th (FLAG: opposition aspect).
+  16. **March 1971 landslide**: Saturn–Saturn–Saturn.
+      - **KSK restates the core rule**: "a planet offers the results of the lord of the constellation in which it is deposited very strongly; its strength to offer the results of the house it occupies is weak."
+      - Saturn in the 12th is in Mercury's star (L2, L11 in 4) → strongly 4, 2, 11; weakly 12. Saturn = the masses, labour; in Mercury's star → literary and business support. 19 years of Saturn dasa → great success.
+- KSK "believes in nimittam" (omens): an advertisement seen while dictating confirmed growth (FLAG: omen).
+- App: excellent multi-event validation chart (Indira Gandhi, b. 19-11-1917, Allahabad, rectified to ~11:39 PM IST; Leo 3°42'). The rules for the mother's death, the husband's death (1, 6, 10), the father's death (badhaka from the 9th) and the President (= 9th) are all here.
+
+### KSK — "Learn K.P. and earn — no income tax" (cards and races, horary; Apr 1971 research)
+- Method: note the place of judgment; tables of houses and ephemeris; take any number that comes to mind or that one sees (a book with numbers preferable) … (32 lines deduplicated).
+- Visible rules:
+  - if the 5th cusp sub lord is in the sub of the significators of houses 4 and 8 → one won't over-trade; the loss will be moderate;
+  - if the 5th cusp sub lord is in the sub of the significators of 7 and 9 → the loss will be negligible;
+  - "proved correct in about 95% of cases"; but in 1 in 20 cases the 5th sub lord moves from one sub at judgment to another at the time of play.
+  - Business: whether one will be cheated. If promised, be careful in the conjoined period of the significators of 5, 8, 12; gains in the period of the significators of 3(?), 9, 11 (OCR "3, 3, 9 and 11"; likely 2, 3?, 6, 11) …
+- (Continues in MC_133.) FLAG: a speculation rule set; partly lost to deduplication (the full text is likely in the Readers).
