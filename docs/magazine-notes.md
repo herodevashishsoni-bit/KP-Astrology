@@ -4241,3 +4241,72 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
   - (2) The peon returning from the treasury (the accountant gave a number) → the lords of the 11th cusp agreed (also his wife's numbers).
   - (3) Strikes in Calcutta offices — the manager's number → call-off time; his son predicted the Simpson's group strike to the hour.
   - (4) Trunk calls: the moment of booking, a student's number → houses 3, 9 and 11 (continues).
+
+## MC_114 (May–Jun 1970)
+
+### KSK, "Author's progress in research" (cont.)
+- The daughter's return (5:30–6:30 PM): the wife's number + RPs + the lords of sign/star/sub at the time of arrival.
+- Trunk-call rules repeated (see MC_113), BUT here printed: "**treat Rahu and Ketu as EVER retrograde**" (MC_113 said "NEVER retrograde"). **FLAG — CONTRADICTION/OCR?** Both texts say "they never retrace their pathway, movement steady in its own direction". The intent seems to be: nodes don't have station/retrograde phases, so the retrograde-denial rule doesn't apply to them. → APP: treat nodes as exempt from the retrograde rule (consistent with MC_101 "except Rahu and Ketu").
+- **KSK's book-page method**: when nobody gave a number, he opened a 400-page book and took the right-hand page number. **If the number was above 249 → the matter never materialised** (friend away; berth unavailable) — "decision of God known at once; I never divided by 249". FLAG: KSK's personal practice; numerological in spirit.
+- **Right vs left side**: experiments with flies on honey — the 6th cusp sub lord (12th from the 7th: the flies leaving) told which fly left first. Then applied to which side of the body is affected (right/left leg, hand). Details of the rule not given. FLAG: GAP (side determination rule unstated).
+
+### "Horoscopy" (long-range death predictions by a contributor; three family charts)
+- **Wife**: born 7:20 AM 17-1-1927, Calcutta 22°34'N 88°24'E; ayanamsa 22°44'; Jupiter dasa balance; now Mercury dasa (from 7-2-58), Rahu bhukti. Told she'd die when her son turned 16 (19-1-1972).
+  - RPs at query (Saturday 3-1-1970, Delhi): Saturn, Venus (lagna sign), Moon (lagna star), Venus (Moon sign), Rahu (Moon star); Ketu and Mars conjoined with Rahu. Verified her chart via RPs = birth RPs and running dasa.
+  - Analysis: Capricorn lagna (movable) → badhaka 11th; Ketu in 11 (Mars lord, in 3); Ketu transiting Venus's star (L4, L9 = marakas to the 3rd and 8th "life-giving houses"); Moon (L7) aspects Ketu. Ketu also represents Jupiter (L12, an RP). 7th: Moon lord; Venus in 12 in Moon's star, Saturn sub (L2). 2nd: Saturn (L1, L2); Rahu replaces Saturn ("node stronger"), Rahu in own star, Mercury sub (L6 in 12).
+  - "As significator of badhaka it is stronger than maraka" → Ketu dasa, Rahu bhukti, Moon antara → dies ~3-1-1979 (car accident on a long journey, plural casualties since the DBA lords are in dual signs), aged 52.
+  - Accident reasoning: 4th = vehicle; 8th from 4th; 9th = 6th from 4th (vehicle diseased); Sun (L8) fiery with Venus (vehicle).
+  - CHECK (long-range). FLAG: heavy use of Hindu aspects; "3rd and 8th = life-giving houses" (longevity = 8th and 3rd = 8th from 8th).
+- **Husband**: born 1:07:36 AM Sunday 17-4-1921, Calcutta (ayanamsa 22°39'). RPs at query (3-1-1970): Jupiter (Thursday?), Venus/Jupiter (Moon in Libra in Venus–Jupiter stars), Moon/Mercury (Cancer 20°50' lagna)… "nodes and occupants are stronger than the star occupied by them" → Ketu replaces Venus; Saturn retrograde → ignored. → Jupiter, Mercury, Ketu, Moon.
+  - Death: Jupiter dasa, Mercury bhukti, Ketu antara, Sept–Nov 2004 (age ~83). (Jupiter: L12, in Venus star, sub of Moon = L7 in 7; Mercury in 2 in Saturn star, Moon sub.) CHECK.
+- **Son**: born 5:52:34 AM Thursday 19-1-1956, Allahabad 25°28'N 81°54'E (ayanamsa 23°09'); now Mercury dasa, Venus bhukti. RPs at 6:45 PM Monday 5-1-1970 Delhi: Moon, Saturn, Mercury, Mars. Common lagna → 7th = badhaka + maraka … (lost).
+- Other case (fragment): death on Friday 25-11-1949 ~2 PM in Rahu–Rahu–Moon; RPs Moon, Saturn (Rahu), Venus → "KP and KSK ayanamsa verified".
+
+### Bimal Kanti Ghose, "Rectification of birth time" (Cuttack)
+- Baby born 4:47 AM local 27-9-1968 (day counted sunrise to sunrise), Cuttack 20°28'N 85°54'E.
+- RPs at 9:46 AM Monday 17-3-1969: Moon (day), Venus (Taurus asc), Saturn (Aquarius Moon), Rahu (Moon star), Sun (asc star). The Moon is conjoined with Mercury → Mercury added; final RPs Sun, Venus, Mercury, Saturn.
+- Using the KP tables: Leo 24°00'–25°53'20" (Sun sign, Venus star, Mercury sub), sub-sub Saturn → Leo 25°42'. The given time gives 26°27' → corrected birth 4:44 AM (3 minutes earlier).
+
+### Sivapatham, "Clarification of birth time" (lady from Kopay, born ~6:00 AM 29-6-1943)
+- RPs at 5:45 AM CST Friday 12-12-1969 (7°21'N 80°37'E): Venus (day), Mars (Scorpio lagna 19°52'), Mercury (lagna star Jyeshta), Saturn (Moon in Capricorn 3°18'), Sun (Moon star Uttarashadha).
+- Sun in Gemini on the birth date → lagna near Gemini. "Today Sun and Mercury are in the hora lagna" (FLAG: hora lagna). → Mercury sign, Mars star (Mrigasira), Venus sub, Sun sub-sub → Gemini 3°05'33". Ayanamsa 22°58' → 5:10:55 AM standard → 6:10:55 AM CST (war time). Sun dasa balance 2y 8m 4d.
+- Verification: employment (2, 6, 10). Nodes represent planets (Ketu → Saturn and Mars; Rahu → Moon and Mercury). "Any planet in the sub of a node gives the node's result." Select planets in the subs of planets in 2, 6, 10 → Rahu, Ketu, Saturn.
+  - Rahu dasa, Saturn bhukti, Saturn antara, Ketu sookshma (from 27-5-68); Saturday or Monday → appointed 1-6-1968, a Saturday. CONFIRMED.
+
+### B. I. Bose (M.S., USA), "What is my correct birth time?" (met KSK 13-1-1970)
+- KSK: "In your horoscope the lagna must be under Saturnine influence" (because the conversation was delayed — a delaying factor). Bose's Saturn in the 11th (Virgo) aspects Scorpio lagna by the 3rd aspect. FLAG: Hindu aspect.
+- KSK: the ruling star today is Rahu's (Ardra/Swati/Satabhisha); today's lagna lord is Saturn, where Rahu is posited → Rahu sub, Rahu sub-sub → the birth ascendant degree.
+- Born 9-12-1922, Faridpur 23°36'N, near sunrise (6:26). Scorpio lagna, Rahu sub, Rahu sub-sub (24°06'40"–24°24'40"?). Traditional ghati rectification (Ashlesha → 27 ghatis after sunrise; KP II pp.408–409) gives 24°17' → within the Rahu sub-sub → correct.
+  - FLAG: uses the traditional Hindu rectification formula found in Reader II, together with KSK's RPs.
+
+### KSK (letter), "Can you find out the time of my birth?" (lady born 11-6-1932, Saturday, New York 40°43'N)
+- **"The moment of judging a horoscope is ruled by the same planets who governed the moment of birth of the consultant, if one puts such a query."**
+- RPs: Sun (Moon star now), Saturn (sign occupied by … at meeting), Mercury (day), Jupiter (asc star) + nodes.
+- **KSK definition of node results (restated)**: nodes give the results of the planet conjoined; then of the planet aspecting; then of the planet whose star they are in (what that star lord signifies); only when neither conjoined nor aspected do they act as agent of the sign lord. Rahu in a Saturn sign → Saturn's agent; Ketu in a Sun sign → represents Sun.
+- RPs: Jupiter, Sun, Ketu, Saturn, Rahu, Mercury.
+- Birth on Saturday (Saturn ✓). The Moon in Venus's star until 1:30 PM NY → reject those hours (Venus not an RP). Moon in Sun's star, with sub of an RP: the Sun sub → asc Libra (Venus) → reject; Moon/Mars subs → Libra/Scorpio → reject (Venus, Moon, Mars not RPs). Rahu sub (agent of Saturn) → asc Sagittarius (Jupiter ✓) in Ketu's star (Ketu in Sun's sign, stronger than Sun; not Purvashadha since Venus is not an RP) → Rahu sub → Sagittarius 5°33'20"–7°33'20"? → 5°52'.
+  - Ayanamsa 1932 22°40' → sayana 28°41' Sag at 40°43'N → 8:00 PM LMT = 7:56:04 PM New York time. She was told 7:50 PM. CONFIRMED (approx).
+  - → **ALGORITHM (KSK birth-time rectification via RPs)**: step through the Moon's star/sub over the birth day to keep only windows whose lords are RPs, then within those find the ascendant positions whose sign/star/sub are RPs.
+- Sun dasa balance 4y 1m 13d.
+- **Marriage? Find the 7th cusp sub lord. Unless it signifies 2, 7 or 11, marriage is not promised. In horary, if the sub lord is in the star of a retrograde planet → no marriage.** Here the 7th sub lord Moon is in Sun's star (Sun owns the 9th cusp sign) and is L8 → nothing to do with 2/7/11 → no marriage. CONFIRMED (unmarried). "When the 7th cusp is correct, the ascendant is also correct."
+- Health: Moon (L8) in the star of Sun in 6 → illness in Moon dasa 1944–46; ill in 1953; education ended 1953/54 at Rahu dasa start.
+- Rahu dasa (Rahu in a Saturn sign, Jupiter star, Sun sub; represents Saturn in the lagna bhava = depressing) → Rahu–Saturn (24-12-53 to 6-12-61) depressed. Mercury bhukti from Dec 1961 → success. Saturn = silent philosopher (mouni) → sadhanas and yoga. Leaving her land, probation, training: Rahu–Venus (12-7-65 to 12-7-68), Rahu antara after Aug 1966. CONFIRMED.
+
+### N. D. Kedare, "When can I sell my property? Good price?" (number 188, 5:30 PM IST 9-7-1969, 15°55'N; ayanamsa 23°20'; Sun dasa balance 5y 5m 26d)
+- Property = 4th. The 3rd = 12th to 4 (parting). The buyer = 7th. **The 10th (4th from 7th) = the buyer's property; the 5th (11th from 7th) = the buyer's fulfilment.**
+- **Rule**: if the 10th cusp sub lord is not retrograde, not in the star of a retrograde planet, and signifies 3 or 10 (here 5 and 10) → the sale (purchase by the buyer) happens.
+  - 10th cusp Libra 11°06' (Venus sign, Rahu star, Saturn sub); Saturn direct, in the star of Venus (direct) in 5 (L5, L10) → you will sell.
+- **Selling = houses 3 and 10; handing over possession = 3 and 12.** (Same rules for land and property.)
+- Price analysis (lost): "it will not be a sale at a satisfactory price".
+
+### J. G. Hasbe, "Telephone confirmation of the degree of the Moon" (1:10 PM local 12:31 PM, Monday 9-3-1970, Bombay)
+- RPs: Mercury (Gemini 9°29' lagna), Saturn (Uttarabhadra), Jupiter (Pisces), Moon (Monday); Rahu in a Saturn sign → Rahu; Sun conjoined with Rahu → Sun.
+- **Filter (contributor)**: reject RPs posited in the 6th/8th/12th from their own sign — Mercury in Aquarius is 6th from Virgo → reject. FLAG: not KSK's rule; a traditional "dusthana from own sign" notion.
+- Client's Moon claimed Pisces 0°30' (Jupiter–Jupiter–Moon) vs the astrologer's Aquarius 29°12'. Jupiter (sign lord) is retrograde; the star lord Saturn is stronger than the sign lord → Aquarius. Moon is an RP but in the sub of retrograde Jupiter → reject. → Saturn sign, Jupiter star, Sun sub, Jupiter sub-sub = Aquarius 29°xx'. The client found his arithmetic error. CONFIRMED.
+- "Nodes are stronger, but there is no Rahu sub in Jupiter's star in Aquarius" (and "he'd have asked on a Rahu star day").
+- KSK received a trunk call announcing a fulfilled litigation prediction while reading the article → "good omen" (nimitta). FLAG.
+
+### Sivapatham, "When will my mother arrive here?" (5:00 PM CST Friday 31-10-1969, Matale; Aries lagna 3°25')
+- RPs: Venus (Friday), Mars (lagna sign), Ketu (lagna star), Mercury (Moon in Gemini), Jupiter (Moon star Punarvasu).
+- Mother = 4th; her arrival at the right destination (wish fulfilled) = 11th. 4th cusp Jupiter star, Venus sub; 11th cusp Mars star, Jupiter sub. **"KP: planets connected with 1, 2, 3, 6, 10, 11 portray success; 4, 5, 7, 8, 9, 12 portend failure."** Star lords Jupiter (in 6) and Mars (in 10); sub lords Venus and Jupiter (in 6) → arrival today is definite.
+- Timing (minor, fast) → the Moon's transit: Moon (now Gemini, Jupiter star, Mercury sub) reaches Mercury sign, Jupiter star, Ketu sub, Mars sub-sub within hours (on a Venus day) → (continues).
