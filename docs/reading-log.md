@@ -69,4 +69,5 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - MC_076–MC_078 (Oct–Nov 1967): read in full; notes in magazine-notes.md
 - MC_079–MC_084 (Nov 1967–May 1968): read in full; notes in magazine-notes.md
 - MC_085–MC_088 (May–Aug 1968): read in full; notes in magazine-notes.md
-- Next to read: mc/MC_089 (MC_088 ended mid-article "Service or business?" by S. N. Mishra)
+- MC_089–MC_093 (Aug–Dec 1968): read in full; notes in magazine-notes.md
+- Next to read: mc/MC_094 (MC_093 ended mid-article "Horse racing—individual luck")
