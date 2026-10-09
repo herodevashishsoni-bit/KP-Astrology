@@ -5089,3 +5089,107 @@ Anecdotes, all reported correct:
 
 ### Erratum
 - Sep 1970, p.63: "Nirayana position and transit of planets" should read September 1970, not July 1970.
+
+## MC_122 (Nov 1970, first part)
+Contents: Is thinking a sacrilege; Astrology and art; Longevity of partnership; Fortune favours him; The infallible K.P.; Actor or administrator; Election results; Success in litigation; Jataka Chandrika; How planets conspire to unlock the wedlock; Experiments with K.P.; When will I get water from the well.
+
+### Editorial — "Is thinking a sacrilege?"
+- An argument against blind traditionalism. Brihat Samhita has aphrodisiac slokas (Adhyaya 76) → not all ancient texts are authoritative; texts are corrupted, with interpolations and conflicting commentaries.
+- Traditional profession rule (navamsa lord of the strongest 10th lord from Moon/Sun/lagna) is called vague. "Sun = Govt, Mars = army" karakatva lists are not comprehensive for modern jobs.
+- Ayanamsa: "no two traditionalists agree; each follows his pet ayanamsa" → K.P. fixes its own.
+- **Restatement of K.P.'s core**: it is not dignities or debilities, friendships, kona/kendra relationships, or navamsa/amsa positions that justify events, but "the constellation held by the planet and the constellation lord's house position by occupation and ownership". K.P. also uses the RPs (lagna star lord, lagna sign lord, Moon star, Moon sign, day lord), especially in prasna.
+- A SPICA (Jan 1967) article by an Indian author used "subs" without credit to KSK.
+
+### KSK — "Astrology and art" (painter; b. 9:02 AM IST 15-11-1928, 23°09'N 79°57'E; Mercury dasa balance 0y 8m 20d)
+- **Rules (KSK, "my finding, simplified and universally applicable")**:
+  - Award = houses 6, 10, 11 (punishment = 8, 12). Award includes income, name, honour, gains.
+  - Art = Mercury and Venus; painting = the Moon. Venus, Mercury and the Moon should be connected with 2, 6, 10 for earnings. 5th = arts (qualification/source). So judge 2, 5, 6, 10 (and 11).
+  - **Leader among them** if Mars assists, i.e. Mars signifies the 11th by being in the star of planets in 11, or of the owner of 11, or of a node in a sign of the 11th lord. (Here "Mars aspects Venus" is used as the reason; FLAG: aspect.)
+  - Fertile imagination: Venus and the Moon connected with airy or watery signs → originality. (FLAG: sign-element rule, KSK's own.)
+- Chart:
+  - Venus rising in the Asc, L6 and L11, in Ketu's star (Ketu represents 2, 11, 5, 12), in the Moon's sub;
+  - Mercury L10 in 10, in Rahu's star (5, 6, 11);
+  - the Moon in Mercury's star;
+  - Jupiter (popularity) in Ketu's star.
+- The Sun and Moon are both debilitated, yet awards came in their dasas → debility is irrelevant (consistent with KSK).
+- Training and earning from Venus dasa, Mercury bhukti; popularity from Sun dasa. International awards 1957, 1960, 1968; national awards 1959–67. CONFIRMED (test case: event years, not exact dates).
+
+### M. R. Sharma — "Longevity of partnership" (number 34; 6:00 AM? Sat 20-6-1970, Calcutta 22°33'N 88°24'E; Venus dasa balance 11y 3m 18d)
+- The Moon (mind) is in the 2nd from the 7th, in Venus's star (the Asc sign lord), Rahu's sub; the 7th cusp is in Mercury star and sub → the query is about his own business partnership.
+- **Rule (contributor)**: partnership = 7th. Its longevity = the maraka and badhaka of the 7th, i.e. derived houses: the 2nd and 7th from 7 (= 8th and 1st) and the badhaka from 7.
+  - The 7th cusp is in Scorpio (fixed) → the 9th from it (= the Asc, 3rd house?) is its badhaka.
+  - Badhaka Cancer (Saturn star, Ketu sub): Venus there; Moon and Saturn in Venus's star.
+  - Marakas of the 7th: Sagittarius (Ketu star, Mercury sub) and Taurus (Moon star, Mercury sub). OCR mixes the mapping of houses.
+- Significators: Moon, Saturn, Venus, Mercury, Jupiter, Sun, Rahu, Ketu.
+- RPs at the first judgment (Saturday): Saturn, Venus, Jupiter, Rahu. Interrupted, so re-judged 5:30 PM Friday 26-6-70: Venus, Saturn, Jupiter, Mars, Mercury. (FLAG: RPs taken at a second moment.)
+- Venus–Rahu–Mercury–Saturn (13-8 to 8-9-70) → the partnership dissolves. But the querist will not close the firm; he will continue under the same name with a new deed.
+  - Mercury goes retrograde on 31-8 → it gives results before that.
+  - Transit 28-8 (Friday): Sun in Ketu star, Mercury sub; Moon in Saturn's star and sub, in its own sign; Venus in Mars star, Jupiter sub, Mercury sign.
+- Predicted 28-8-1970. Outcome not given. CHECK.
+
+### Nirmalendu Bhattacharya — "Fortune favours him" (number 168; 12:56 PM IST 7-5-1969, Kalyani 22°56'N 88°24'E)
+- Ayanamsa 23°20'. Sun dasa balance 3y 1m 16d.
+
+  | Planet | Star lord | Sub lord |
+  |---|---|---|
+  | Sun | Venus | Saturn |
+  | Moon | Sun | Saturn |
+  | Mars (R) | Mercury | Moon |
+  | Mercury | Moon | Jupiter (R) |
+  | Jupiter (R) | Sun | Saturn |
+  | Venus | Mercury | Mercury |
+  | Saturn | Ketu | Jupiter (R) |
+  | Rahu | Saturn | Saturn |
+  | Ketu | Sun | Saturn |
+
+  Cusp 3: Rahu star, Rahu sub? Cusp 11: Rahu star, Saturn sub.
+- **Interview = 3rd cusp** (contributor rule).
+  - The 3rd cusp sub lord Rahu is in 3, conjoined with Venus (star lord of 6 and 11), in Saturn's star and sub (L2, L3).
+  - Saturn in a movable (chara) sign → quick → "you'll get the interview soon". (FLAG: sign quality for speed.)
+- The Moon in 2, in the Sun's star, conjoined with/aspected by Saturn → query about the interview (3) and an income increase (2). Promotion = 2, 6, 10, 11.
+- Success from the 11th cusp sub lord Saturn (in Ketu's star, Jupiter (R) sub).
+  - **Contributor rule: a retrograde sub of a significator denies the result.**
+  - But Ketu conjoined with retrograde Jupiter "draws up the powers" and replaces Jupiter (the retrograde planet is the idle component). Ketu is in Mercury's sign; Mercury signifies 2, 6, 10 → success. (FLAG: complex contributor reasoning; the KSK rule is about the star of a retrograde planet.)
+- Employer = 10th. Ketu signifies 10 and represents Mercury = young/junior → the junior is chosen; Jupiter (senior/wise) is retrograde → seniors repelled. (Karaka reasoning, FLAG.)
+- Interview timing: the 3rd significators connected with the running dasa and with 6 and 11.
+  - 3rd significators: Rahu and Saturn, standing for Venus and the Sun (conjunctions).
+  - Sun–Saturn–Saturn–Saturn now; Venus sookshma 18–27 May 69 (Venus signifies 6 and 11).
+  - On 22-5-69 the Moon is in Pushya and the Sun in Venus's sign, own star → interview on 22-5-1969. The querist said it was indeed 22-5-69. CONFIRMED.
+- **Promotion rules (K.P., as the contributor states them)**:
+  - (a) significators of 2, 6, 10, 11;
+  - (b) the common ones between the significators and the RPs are the strong significators, then confirmed by the SUB;
+  - (c) the conjoined period of (b) gives the time, provided transit permits.
+- Significators: Mercury, Moon, Rahu, Saturn, Mars, Venus, Sun.
+- RPs: lagna Leo (Sun), lagna star P. Phalguni (Venus), Moon sign Capricorn (Saturn), Moon star Uttarashada (Sun), day Wednesday (Mercury). Rahu conjoined with Venus → Rahu for Venus.
+  - → Sun, Saturn, Mercury, Rahu.
+- Sun–Saturn–Mercury (23-6-69 to 11-?-69) – Rahu sookshma 20–27 Jul 1969.
+- **Lahiri ephemeris used for approximate transits**, "Lahiri's ephemeris has some difference with that of Krishnamurti … result varies but very little" (relevant to the ephemeris/ayanamsa decision).
+  - 23-7-69: the Sun in Pushya; the Moon in Swati.
+- He joined as Assistant Engineer on 23-7-1969 (Virgo rising, Swati day, Wednesday). CONFIRMED.
+
+### N.C.P. — "The infallible K.P." (number 112; 6:15 PM IST Fri 12-9-1969, 21°05'N 81°05'E; Asc Capricorn 10°00')
+- Question: safe delivery, date and sex.
+- **The Moon reveals the query**: the Moon is in 12, in the star of the Sun (occupant and owner of 12) → worried. The Moon is L11 → worry about fructification. The Moon is the star lord of the lagna sub lord and of the 5th cusp sub lord → about the mother and the child.
+- Delivery = 5, 2, 11 (5 = progeny, 2 = family addition, 11 = fulfilment).
+  - 5th: vacant; lord Saturn (R), with nothing in its star. **Saturn is in the star and sub of a direct planet (Venus) → its own retrogression "needn't worry"** (consistent with KSK: the star lord's retrogression matters). Rahu in a Saturn sign represents Saturn → Saturn, Rahu.
+  - 2nd: vacant; lord Venus with the Sun and Saturn in its star. Ketu is conjunct the Sun → Sun, Saturn, Venus, Ketu.
+  - 11th: Venus occupies it; L11 the Moon has Jupiter and Mercury in its star → Ketu, Sun, Saturn, Venus, Jupiter, Mercury, Moon.
+- Selection: keep the significators that are also RPs. RPs: Venus (Friday), Mercury (Moon sign Virgo), Sun (Moon star U. Phalguni), Saturn (Asc Capricorn), Jupiter (Asc star P. Bhadra).
+- Horary dasa: Sun–Saturn–Rahu (to 2-10-69), then Jupiter antara (1m 16d).
+  - The Sun signifies 11, 2, 9 (via its star) and 12 → long journey plus hospitalisation, i.e. delivery in a distant hospital.
+  - Saturn signifies 11, 2, 9 (star), 8 (occupation), 5 and 6 (ownership) → illness and danger. But the lagna is strong (occupied by Jupiter and Mercury, benefics; no malefic aspects) → danger melts. (FLAG: benefic/malefic reasoning.)
+- **Rahu antara rejected**: the node gives its star lord's results first when unconjoined (FLAG: this order conflicts with KSK's "conjoined, aspect, star lord, sign lord"; consistent when nothing is conjoined or aspecting). Its star lord Jupiter owns 4 (12th to 5) and occupies 1 (12th to 2); Rahu is in 6, a maraka for the 5th house → no delivery in Rahu antara.
+  - Jupiter antara: Jupiter is in the star of the Moon (L11, in 12) and the sub of Saturn (which signifies 2, 5, 11) → delivery in Jupiter antara. Jupiter is also an RP (the lagna star lord).
+- **Transit method**: for slow movers, give importance to the sub they transit over the star.
+  - Saturn in Venus star and sub (retrograde) till 13-10; Jupiter in Moon star, Venus sub till 7-10; the Sun in Mercury sign, Moon star till 10-10 → before 7 Oct.
+  - The Moon on 5-10-69 in Cancer (own sign, L11, and 12 = hospital) and Saturn's star (2, 5, 11 and 6, 8) → Sunday 5-10-1969.
+- **Sex of the child (contributor's own improvisation; FLAG, KSK says there is no rule)**:
+  - The 5th cusp sub lord Moon is a female planet, in Virgo (female sign); the 5th cusp is in Capricorn (female sign).
+  - Dasa/bhukti lords in the star of Venus (female), the antara lord in the Moon's star (female) → female.
+- Safety: Jupiter in the lagna aspecting the 5th cusp; Venus in 11 aspecting the 5th. Mars neither occupies nor aspects 2, 5, 11 → natural delivery, no surgery. (FLAG: Mars = surgery, karaka.)
+- **Twins**: the 5th cusp sub lord is not in a dual sign → a single child. (Contributor, by analogy with the 7th-sub-lord dual-sign rule for multiple marriages; FLAG.)
+- Outcome: a female baby, born safely on Sunday 5-10-1969; the doctor had said not before 15 Oct. CONFIRMED.
+
+### "Actor or administrator?" (starts; continues in MC_123)
+- Question: a well-known film actor or an industrialist? Actor houses 1, 5, 6, 10 (cf. earlier note: 10 & 6 connected with 5).
+- 2nd house owned and occupied by the Sun plus exalted Mercury …
