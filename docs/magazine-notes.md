@@ -3476,3 +3476,139 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 - KP twist: L4 may be a malefic, but if it is in the star of a natural malefic and signifies the 12th → criminal.
 - Natures: Mars → open crime, challenges; Saturn → secret, back-door ("digging a grave"); Mercury → cunning, gives hopes then lets down; Saturn in 12 → acts unnoticed.
 - (Continues.)
+
+## MC_107 (Oct–Nov 1969)
+
+### KSK Q&A (cont.)
+- **Honesty, traditional** (Jataka Tattva):
+  - malefic in the 4th → fraudulent;
+  - Mercury in Aries → insincere (KSK: time-serving, "changing the coat");
+  - Mercury + Mars conjunct → fraud;
+  - L4 and L9 in 6 → dishonest;
+  - Mars in 3 without benefic aspect → unreliable;
+  - Mercury afflicted → ungrateful.
+  - KSK adds: Saturn connected with Mercury and occupying the 4th → cunning cheat, forgery, falsified accounts, misappropriation.
+- **KP — unreliable**: any planet in the star of Saturn and the sub of Saturn, Rahu, Ketu or Mars.
+- **Worst combination (KP)**: Mercury in the star of Saturn (12th significator, secret) and the sub of Rahu/Ketu connected with Mercury in the 4th → never follows any law; most unreliable.
+- **Divorce through lack of faith**: a connection between the 12th or 4th significator, Saturn, and an ill-placed Mercury signifying 4 or 12. (The 4th = sincerity; the 12th = secret enmity.)
+- **Uranus and Neptune**: KP uses only the 9 dasa planets (no stars allotted to the outer planets). KSK nonetheless includes Uranus and Neptune in TRANSIT for confirmation.
+  - Neptune transiting over natal lagna/Moon/Sun degree → deception, obstacles, nebulous matters, treachery, loss of vitality, gas, frustration, water grave. Neptune in Scorpio 3° (Sept 1969), 4° (27 Oct), 5° (18 Nov), 6° (15 Dec).
+  - Uranus → destructive machinery, explosives, incurable nervous diseases, impulsive "flash and crash", divorce, estrangement, accidents.
+  - FLAG: Western outer-planet transit lore; KP confirmatory only. Not for the app core.
+- **Why horary over natal (KSK)**: birth data is often unreliable (LMT vs standard time; pre-1906 time standards). A natal chart can't choose among 4–5 girls with the same RPs, or among houses or courses. When a planet signifies many matters, horary picks one. Example: Calcutta partner query (10/12-7-69) → "reorganisation of partnership imminent; you'll be independent" → the partner died of heart failure at the work table. Wife (also 7th) — "yes, she'll live" from her chart and her children's charts.
+- **Games**:
+  - Planet roles: Sun = body building and vitality; Moon = habits and change; Mars = strength and courage; Mercury = clever handling; Jupiter = weight, fair dealing; Mars/Saturn = foul play.
+  - 5th = games/sports/gambling. 3rd = hands (tennis, badminton, hockey, polo, volleyball). 12th = feet (football).
+  - Football: 3, 5, 12; Saturn a 5th significator; 5th cusp sub lord in an airy sign (inflated ball).
+  - Volleyball: 3, 5; Mars in the sub of a 3rd significator; 5th sub lord in an airy sign.
+  - Earthy sign → cricket ball. Sun/Moon/Venus + 5th sub lord in a watery sign → swimming. Sun and Venus → wrestling (5th sub lord in 3rd, earthy). Houses 3 and 12 + Mars/Saturn → running.
+  - Sagittarians with lagna sub lord Mars → keen sportsmen. Leo lagna in Venus star, Mars sub (17°20'–18°06'40") with Sun/Venus/Mars signifying 5 → renowned captain.
+  - FLAG: detailed but unverified.
+- **"Can I be an astrologer like Krishnamurti?"** (G. D. Joshi, 1:30 AM 9/10-10-1944, 20°57'N 77°45'E, wartime; Jupiter dasa balance 1y 9m 11d; Mercury dasa from 21-7-1965, Venus bhukti from 15-12-68):
+  - KSK's advice to learners: astronomy; correct elementary maths; KP ephemeris/tables or Raphael; KSK ayanamsa only; study KP; record hits and misses; join SARI; post-mortem verification for 2 years (self, relatives, friends, then clients); 5-minute talk to gauge temperament (sugar-coat for the timid). Avoid guessing, dishonesty, jealousy.
+  - Western/traditional astrologer indicators listed (Uranus, Saturn/Mars, earthy signs; Saturn-Moon in 1/3/9/10; aspects; Moon in Cancer; Prabhava/Kalayukti years; Satabhisha; Mercury placements) — mostly general; KSK's chart cited (aspects). FLAG/reject.
+  - **KP rules (profession: astrologer/editor/journalist)**:
+    1. Jupiter, Mercury, Mars signifying 2, 10, 11 → editor, publisher.
+    2. Jupiter and Mercury signifying 3 and 9 → journalist.
+    3. L9 in the sub of a 9th significator, and it should be Mercury or represent/join/be aspected by Mercury.
+    4. Lagna sub lord a significator of 12 (occult) or 9 (higher studies of philosophy, religion, astrology).
+    5. Jupiter in the sub of a 12th or 9th significator.
+    6. Moon in the sub of a 9th or 12th significator.
+    7. Any of these in the sub of a 10th significator → name and fame.
+    8. In the sub of an 11th significator → success in its periods.
+    9. Saturn in the sub of a 9th/12th significator → sound knowledge.
+    10. Planets in the star or sub of the 2nd occupant/owner → meticulous expression.
+    11. Planets in the star or sub of the 3rd occupant/owner → edit, print, publish if the 3rd is connected with Mars; otherwise contribute articles.
+    12. **Honest if the lagna sub lord is NOT a significator of 8 or 10; tactful, diplomatic, cunning or hypocrite if it signifies 8 or 10.**
+  - Joshi: will learn, become famous and earn; Mars in 4 in Venus sub → won't bluff. Luck from Mercury–Venus–Mercury–Jupiter, July 1971. CHECK. Prayers — reject.
+- **Houses for special matters (KSK)**:
+  - (a) **Stepmother** = 10th (2nd from the 9th: the father's second wife; the 7th = first wife, the 2nd = second wife).
+  - (b) **Stepfather** = 5th (2nd from the 4th); the 5th cusp sub lord should be ruled by a 3rd significator (?).
+  - (c) **Accepting a bribe**: 11th cusp sub lord ruled by Saturn and the 6th cusp sub lord a significator of 2 or 11.
+  - (d) **Giving a bribe**: 12th cusp sub lord Saturn, or a planet in Saturn's star, with Saturn in 5 or 12.
+  - (e) **Underground treasure**: traditional (2, 4, 9, 11; L2 in 8; benefic in 8). **KP**: Saturn and Mars significators of 4 & 11; obtained in the conjoined periods of significators of 2, 4, 6, 11. (4 = 12th to 5, "at the expense of poorva punya"; Mars = land; Saturn = geology, under the ground, mines.)
+    - Saturn+Moon → underground water, kerosene, oil; with Venus → refined oil. Saturn → mines (check mine owners' charts, e.g. Maharaja of Ramgarh).
+  - (f) Treasure from the surface: significators of 6 & 11 or 4 & 11 …
+  - (g) **False statement, verbal**: 2nd cusp in Mercury star, Saturn sub (2nd sub lord Saturn).
+  - (h) False statement, written: 3rd sub lord Saturn.
+  - (i) True statement, oral: 2nd sub lord Jupiter.
+  - (j) True statement, written: 3rd sub lord Jupiter.
+  - (k/l) Good or bad character: lagna sub lord governed by benefics or malefics. KSK rejects "Moon = mentality, Sun = guna" (twins argument).
+  - (m) **Debauchery**: Saturn, Venus and Mars connected with 1, 5 or 11. E.g. the lagna, 5th or 11th cusp in Taurus 27°53'20"–30° (Venus sign, Mars star, Saturn sub), or Aquarius 2°40'–4°53'20" (Saturn sign, Mars star, Venus sub), or Aries 21°53'20"–24° (Mars sign, Venus star, Saturn sub).
+  - (n) **5th cusp sub lord** signifying:
+    - 10 & 12 → prestige lost;
+    - 4 & 12 → property lost;
+    - 2 & 12 → cash wasted;
+    - also 7 → court proceedings; then with 12 → lose the case; with 11 & 6 → win.
+- November 1969 issue contents:
+  - "Which gem can I use?" and "About dress" (REJECT: gems, colours, metals by planet).
+  - "To find the physical features and characteristics of the partner" (lost to de-dup).
+  - "Marriage"; "Any child at all? If so when?"; "Your son is not Robert Clive"; "Cusps and subs"; "Follow KP"; Q&A; "Termination of service"; "When will I retire?"; Letters; "Road to success".
+
+### KSK, "Marriage" (permanent tie of friendship)
+- Example of a domineering wife (born 7:34 AM Tuesday 18-4-1911, 10°47'N 79°12'E); analysis lost.
+
+### "Any child at all?" (chart 24-6-1940?)
+- 5th occupied by Sun, in the star of Venus in the 4th (12th to 5) → denies children.
+- L5 Moon in Ketu star, in the sub of the planet in the 4th, conjoined with retrograde Saturn (L11, L12).
+- 11th unoccupied; its lord Saturn is retrograde in the 12th (?) → "He can never have a child at all."
+- RULE: the 5th significators linked to the 4th (12th to 5), with a retrograde L11 → childlessness.
+
+### "Your son is not Robert Clive" (fragment): a son with Mercury? in Jupiter's star in 3 (3 = hands, assistance) → forgery tendency (copying signatures). Jupiter and Saturn spoil him by crimes. "Never put him in a bank or college job or commission business."
+
+### KSK, "Which profession will suit me?" — Aries-born with 10th cusp sub lord Sun (much lost)
+- Fragments: clearing agency, shipping, transport, bus/tram/railway, press, paper mill; university goodwill; lawyer drafting contracts.
+- **2nd cusp sub lord** significations:
+  - 2 & 4 → gains via mother, automobile, transport; successful in one's own place;
+  - 2 & 5 → gains via music, opera, cinema;
+  - 2 & 10 → steady progress, government service or business, honours, awards; children get into service.
+
+### KSK, "Presidential election 1969" (Reddy vs Giri)
+- Critique: "Sathabisha" (in the Astrological Magazine — maybe B. V. Raman) used a Prasna-tantra chart for 8:05 AM 23-7-1969 (Bangalore assumed) and the Tajik "Ithasala yoga"; predicted Reddy "likely". Giri won.
+- **KSK: horary must ask about ONE person/matter ("will A win?"), not "A or B?"**
+- **RULE — election/competition/litigation success in horary: judge the 11th cusp sub lord. If it occupies or signifies 4, 5, 7, 8, 9 or 12 → must lose; if it promises victory (1, 2, 3, 6, 10, 11) → win.**
+  - 11th cusp Gemini 6°53' (Rahu star, Rahu sub); Rahu in the 7th house (8th sign) representing 5 & 8, and Jupiter (in the star of L12 in 2) → Reddy (lagna) loses.
+  - Confirm: the opponent's 11th cusp (5th) at Sag 6°53' → Rahu sub; Rahu in the 1st from the 7th, representing 2 & 11 from the 7th → Giri wins.
+  - The opponent's 6th (12th) cusp Cancer 5°53' → Mercury sub; Mercury in the 5th (loss to the opponent, i.e. 11th from 7 = …); "plurality is Mercury" → counted more than once (Giri won on the second count). CONFIRMED.
+  - The querist's 6th cusp Capricorn 5°53' → Mercury sub, Mercury in 12 → loss to the lagna.
+
+### Q&A
+- Engagement: significators of 2, 7, 11 … (lost).
+- If the 11th cusp sub lord is retrograde, desires and ambition will not be realised.
+- **C.B.I. action** (secret crime/bribe exposure): planets connected with the 10th and 12th.
+- **Spending**: Mars signifying 10 → earns more and spends more. 2nd cusp sub lord Saturn → economical. 12th cusp sub lord Mars connected with Jupiter → over-liberal, spends beyond income.
+- **Rahu in Pisces (KSK reading of the 9-2-1931 chart, Revati = Mercury star)**: Rahu acts as agent of Jupiter (L6 too) → 6th results; star lord Mercury's house; in the 9th → 9th; not conjoined or aspected; Jupiter in 11 → Rahu gives 6, 9, 11 (6 = success, 11 = status/income/rapport with superiors, 9 = change of work and master in Mercury dasa).
+  - **RULE**: "If planet A is in the star of B, A gives B-based results when the conjoined period of A and B operates" → Mercury dasa, Rahu bhukti, Mercury antara, Rahu sookshma; transit Sun and Mercury in Gemini, Ardra (Rahu) → 26–28 June 1971. CHECK.
+  - RP check of the given chart: Wednesday, Ashlesha, Libra lagna → Moon, Mercury, Venus = his Ashlesha lagna and Libra rasi → chart correct.
+
+### P. C. Bhattacharya, "Termination of service" (born 8:18 AM IST 18-7-1922, 24°48'N 85°01'E; ayanamsa 22°40'; Leo lagna 12°11')
+- KSK: termination of service = **1, 5, 9, 12**: 1 = negation of 2 (self-acquisition); 5 = negation of 6 (service); 9 = negation of 10 (status); 12 = general loss.
+- 1st vacant, L1 Sun; Saturn in Sun's star → Saturn strong. 5th vacant, L5 Jupiter; Sun in Jupiter star but in 11; Jupiter in the star of Moon (L12, in 9) → stronger. 9th: Moon; Rahu and Jupiter in Moon star; Rahu also in Moon sub → very malefic. Mars (L9) in Mercury star and sub (L2, L11) → not bad. 12th: Venus; Saturn in Venus sub.
+- Event (de-dup lost) occurred in the conjoined periods. CONFIRMED (claimed).
+
+### "When will I retire?" (born 7:15 AM 5-12-1914, 19°03'N 72°52'E; Rahu dasa balance 6y 3m 2d)
+- Significators of 1, 5, 9 (+12?): Saturn, Moon, Rahu, Mercury, Ketu (Ketu in 9, none in its star) → Mercury dasa, Saturn bhukti, Mercury antara; when the transit Sun passes natal Mercury (~20-11-1970) → retirement. CHECK.
+- **Transit rule**: the event occurs when the Sun transits over the natal position of the antara lord.
+- Jupiter (current dasa) = L2 in the star of Mars (L1, L6) → financial benefit and continuity of service. Mars in a watery sign owning the 6th → joined the Navy.
+
+### Letters
+- P. D. Raval: admitted to Philadelphia for Business Management; KSK's 1967 prediction correct.
+- Gurdev Singh Kler: requests regular "significators and subs" lessons and an article "how to find whether a planet is good or bad from the sub theory".
+- D. C. Sharma: asks how KP would do the presidential prediction (answered above).
+- **M.J. (Naperville, USA)**, 11:46 AM IST Sunday 21-2-1943, 18°55'N 72°54'E; Venus dasa balance 9y 7m 6d. KSK predicted an automobile accident: car damaged but native escapes.
+  - Rule: accident = 8th (danger to body). Rahu in the 4th (vehicle) in Ketu star, Venus sub; Venus is in the 8th from 4 (vehicle destroyed) but 11th from lagna (native safe). CONFIRMED.
+  - **RULE**: vehicle damage = 4th-house significator linked to the 11th (8th from the 4th); the native's safety comes from the same link being the 11th from lagna.
+- K. Ganapathy, "Road to success": weaknesses from the sign occupied by … (lost); advice to compromise in land litigation; control temper in marriage.
+- K. Vaidyanathan (high official, Delhi): K. M. Subramanian (Madras, KP only) predicted his promotion 4–12 July 1969 (conjoined DBAS of significators); promoted 10-7-1969. CONFIRMED.
+
+### S. K. Chandak, "When will I get a fridge?" (horary number 72, 7:30 AM 20-5-1968; Delhi querist)
+- Cusps: Asc Cancer 12°06'40" … (12 listed). Rahu dasa, Venus bhukti to 17-8-1970.
+- **Fridge: 4 (pleasure/comfort), 12 (investment), 11 (fulfilment) + Saturn (cool)**.
+  - 4th vacant; L4 Venus, none in its stars → Venus.
+  - 11th: Mars and Mercury; Mercury in Mars star; Ketu in Virgo represents Mercury → Ketu; Saturn and Rahu in Mercury star → Rahu, Saturn.
+  - 12th vacant … (lost).
+- Predicted 3rd week Sept 1969 → bought 22-9-1969. CONFIRMED.
+- Editor: "Taking a number within 249 … has been advocated by me alone."
+
+### S. P. Verma, "The miracle that is KP" (start)
+- Delivery query, number 245 → Pisces, Revati (Mercury), Moon sub (22°13'20"–23°20'). The doctor's due date was 27-9-1969; the KP answer differs (continues).
