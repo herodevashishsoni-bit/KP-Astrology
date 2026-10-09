@@ -2310,3 +2310,169 @@
     - Father: 9th cusp in Taurus (fixed) → badhaka of the 9th = 9th from the 9th = 5th. 5th occupied by Rahu; Sun alone in Rahu star → Sun dasa = end of father; Mercury bhukti.
     - Folk note: "in some families father dies when a child is expected; the father takes birth as the child" — belief, ignore.
 - April 1969 contents list (also: Errata, Tour programme, Photography and prosperity, Daily guide, Monthly prediction).
+
+## MC_099 (Apr–May 1969)
+
+### End of "KP verified" (from MC_098)
+- **Derived-house double results**:
+  - 10 + 11 operating → promotion to the native and death of a child (the 10th is maraka 6th... text: "6 and 10 show death of child and promotion").
+  - 5 + 10 → improvement in status and death of a son- or daughter-in-law. The 11th indicates them; the 5th is 7th (maraka) from the 11th, and the 2nd is also maraka to the 11th.
+  - 12 (2nd from 11) + 10 → death of an in-law and loss of money.
+  - 5 + 12 → loss of job to the native and danger to a child.
+  - "A house indicates results which include good to a relative and bad to the person, or vice versa." → APP: when showing a window, cross-list derived-house meanings (another relative's maraka). Example: getting a job and a parent's death in the same period.
+- Father's end: 10th = 2nd from the 9th (maraka to father) AND profession. Meridian in Gemini → Mercury. Venus and Mars in Mercury star. Venus gave it because Venus is in the sub of the dasa lord Sun (karaka of father, dangerous by occupation). Mars is in Mercury sub (L3 in 2nd) → danger to co-borns, predicted in Jupiter dasa, Mercury bhukti, Rahu antara, Saturn sookshma after 2001. CHECK.
+- Slogan: "Read KP. Follow KP. Use his ayanamsa. Forget others."
+
+### "Photography and prosperity" (letter signed K. S. Krishnamurti)
+- Native 26-11-1923, 3:15 PM, 15°27'N 75°05'E. Rahu dasa balance 10y 9m 10d. Mercury dasa from 6-9-69.
+- 10th cusp in Venus star, Jupiter sub. Saturn (L11, L12) is in the 7th → avoid any partner in business. Mars → independent venture. Saturn as L11 & L12 → mixed results.
+- Ketu in the 11th bhava; Venus alone is in Ketu stars → success and prosperity through Venus matters (photography).
+- Mercury in Mars sub (Mars signifies 2 self-acquisition and 8 difficulties) → Mercury dasa: quick turnover, profits; Saturn sub-periods (Jul–Aug 1983) → worry through the Tax Department. Expansion in Mercury dasa, Venus bhukti, Saturn antara (Nov 1974). CHECK.
+- Rule: profession's nature from the planet(s) in the star of the 11th-house occupant + the 10th cusp star/sub.
+
+### "Moles: their meaning" (unsigned)
+- Malefics (Saturn, Rahu, Ketu) in a house give a mole on the body part of that house: 11th = ankle; 3rd = arm (movable/common sign) or neck (fixed sign). Example: widower at 40 (Rahu dasa, Saturn bhukti, Rahu antara).
+- Also uses Western oppositions and "Rahu/Ketu in 5 = putra dosha" (traditional).
+- FLAG / NOT ADOPTED: no Reader basis is cited; mixed traditional and Western. Record only.
+
+### "Difficulties solved" — birth DATE from RPs (KSK)
+- Querist born in Hyderabad-Sind, last week of October 1945, about 9–10 AM IST; chart lost.
+- Judged early morning 4-2-69 before sunrise. The lagna was in Purvashadha (Venus). Moon was in Magha (Ketu); Ketu was in Virgo (Mercury). Day lord = Moon, because by Hindu reckoning the day is still Monday until sunrise (calendar date Tuesday).
+  - **RULE**: the day lord changes at sunrise, not midnight. Important for the app's RPs and birth day lord.
+- RPs Venus, Ketu, Mercury, Moon → the birth day lord, birth star and Moon sign must be among them → Wednesday (Mercury), Rohini (Moon), Taurus (Venus) → 24-10-1945. CONFIRMED by the querist (implied).
+- Tail of a monthly-prediction column (traditional Moon-sign reading) — ignore.
+
+### May 1969 issue (Vol. 7 No. 5) contents
+- Ephemeris ready.
+- Students Section I "How to judge a nativity".
+- Students Section II "Astra alerts astrologer".
+- "Ayanamsa and house divisions".
+- "Correct time of birth and birth star".
+- Scholars Section "Reward to astrologers".
+- "KP and decision followed by God".
+- Sringarishiji.
+- "Research and success".
+- "Anxious mother — late arrival of Miss".
+- Uchista.
+- "Seniority and success".
+- "Earning — when?".
+- "Marriage time analysed".
+- "Election and electric shock".
+- "Alive or dead!".
+- "Overseas — when?".
+
+### **KSK, "How to judge a nativity" (Students Section I) — CORE METHOD STATEMENT**
+Native: Alibag 18°39'N 72°55'E, 9:00 PM IST, Tuesday 23-12-1924. Cancer lagna 18°22'.
+- Cusps: I Cancer 18°22', II Leo 15°01', III Virgo 15°01', IV Libra 17°01', V Scorpio 19°01', VI Sag 19°01' (VII–XII opposite).
+- Planets: Mars 9°49' in 9th; Rahu 23°23' near lagna; Ketu 23°23'; Mercury 17°21', Sun 8°51', Jupiter 8°32', Venus 9°33', Moon 3°11'. (Partly garbled.)
+
+**Chart-casting instructions**
+- Use the Krishnamurti Ephemeris (sidereal time and daily positions; "do not use condensed ones") or Raphael's.
+- Use Raphael's Table of Houses (the Krishnamurti Table of Houses is forthcoming; same values).
+- Use only the KSK ayanamsa. Erect the nirayana chart plus a dasa-bhukti ready reckoner.
+- Day: note which calendar date is over and on which calendar date the sun is to rise.
+- **APP**: Placidus houses (Raphael's tables) + KSK ayanamsa; confirmed again.
+
+**Steps**
+- **Step I**: cusps → bhava extents (house = cusp to next cusp).
+- **Step II**: occupants of each bhava, with the constellations ruled by each occupant.
+- **Step III**: planets tenanted in the constellations of the occupants, house by house. In the example, only houses 1, 4, 5, 7, 8 have occupants: Saturn in Swati (1st, Rahu); Venus in Anuradha, Mars in UBhadra, Mercury in PAshadha (4th, Saturn, Venus …); Moon in Visakha (5th); Rahu in Ashlesha; Jupiter and Sun in Moola (7th, Ketu); Ketu in Dhanishta (8th, Mars).
+- **Step IV**: owners of the signs on the cusps, and their constellations.
+- **Step V**: planets in the constellations of those owners.
+- **Strength order** (part lost to de-dup, reconstructed from the text):
+  1. planets in the constellation of occupants (strongest);
+  2. occupants;
+  3. planets in the constellation of owners;
+  4. owners ("very weak");
+  - plus those conjoined with or aspected by the significators found already.
+  - If no planet is in an occupant's star, the occupant itself gives.
+- **Step VI**: ready reckoner, planet → houses signified. Example table:
+
+  | Planet | Houses signified |
+  |---|---|
+  | Sun | 2, 7, 5 |
+  | Moon | 4, 1, 6, 9 |
+  | Mars | 4, 8, 5, 10 |
+  | Mercury | 11, 4, 3, 3, 12 |
+  | Jupiter | 7, 5, 6, 9 |
+  | Venus | 4, 4, 4, 11, 7, 8 |
+  | Saturn | 1, 4, 8, 7 |
+
+  And house → significators:
+
+  | House | Significators |
+  |---|---|
+  | I | Moon, Saturn, Rahu |
+  | II | Sun |
+  | III | Mercury, Rahu |
+  | IV | Moon, Mercury, Venus, Saturn, Rahu, Ketu |
+  | V | Sun, Mercury, Jupiter, Rahu |
+  | VI | Jupiter, Moon |
+  | VII | Sun, Ketu, Jupiter, Venus, Mer… |
+
+  - "Only this chart is needed along with the horoscope and the dasa table." → APP: build exactly this significator table (planet ↔ houses, at 4 levels).
+
+**Verify husband's chart by the wife's birth RPs (VALIDATION RULE)**
+- Wife: 0:30 AM Sunday 12-4-1936, 18°55'N 72°54'E; Mercury dasa balance 14y 11m 23d.
+- Her RPs at her birth: lagna star lord Venus, lagna sign lord Jupiter, Moon sign lord Mercury (garbled: "lord of the sign occupied by Jupiter Moon"), day lord Sun, Ketu in lagna → Venus, Jupiter, Mercury, Sun, Ketu.
+- These must agree with the significators of 2/7/11 in the husband's chart. Moon, Mars and Rahu are NOT 2/7/11 significators in his chart and are not her RPs → his chart is confirmed. (Spouse's birth RPs = native's 2/7/11 significators.)
+
+**House goodness (KSK)**
+- Houses 1, 3, 10, 11 are best for health, longevity, success, name, fame. 1 and 10 excellent; 3 very good, always helpful.
+- 2 and 6 bring receipt of cheques (money), but 2 = end of life (maraka) and 6 = disease and debts → mixed.
+- 11 is badhaka for a movable sign, yet in one's lifetime it promises realisation of ambition, success and prosperity → very good.
+- Businessman needing overdraft → also the 6th.
+- Strongest significators of 1, 10, 11 → periods for health, success, name and object gained.
+
+**Gem section** — REJECT (gems/colours/prayer). Ruby/coral for Ketu and Mars; wear on Aswini days; pray to Ganesh / Uchchishta Maha Ganapathi.
+- Rule-bearing text embedded in it:
+  - Mars as a significator of 10 and also 8 (strongly) → "grand success"; Mars in Venus sub (Venus signifies 4, 7, 8, 11) → he will gain real estate and transfer it to his wife (4 is 10th from 7; 7 and 8 are 1 and 2 for the wife).
+  - Mercury signifying both 11 and 12 → useless for bank position ("rain in a desert").
+- KSK theory: during a planet's period one meets that planet's people ("Martians in Mars period, Saturnians in Saturn period"); the astrologer acts as the agent of the planet. A "Saturnian" = born on a Saturday, or lagna/Moon in Capricorn or Aquarius, or born in Pushya/Anuradha/UBhadra, or Saturn in lagna. Curiosity only.
+- Good days: day lord and nakshatra lord both agreeing with the running period = most lucky and certain. "They do not do good or bad; they indicate the destiny" (from the previous birth's deeds). KP vs traditional: KP gives certainty, traditional "tendency/likely".
+
+**Longevity of the native (KSK method)**
+- Cancer = movable → badhaka = 11th. The 11th (Taurus 19°01' to Gemini 19°01') is vacant; lord Venus. Mercury in Purvashadha (Venus star) → strongest; Venus next. No node in the signs of Mercury or Venus.
+- Marakas = 2 and 7 "to all, whether born in movable, fixed or common sign". The 2nd is vacant. From the ready reckoner the significators are Ketu, Sun, Jupiter, Venus, Mercury, Saturn.
+- **Selecting among many significators**: RPs at judgment. 8 PM, Virgo rising → Mercury; is there a node in a Mercury sign at judgment? Ketu is in Virgo → Ketu stronger ("node is stronger than the lord"). Star lord now = Sun. → RPs Sun and Ketu, which are also strong significators → death in Sun dasa, Ketu bhukti, 22-10-92 to 28-2-93.
+- **Date**: the dasa lord transits in Sun star / Ketu sub or Ketu star / Sun sub. Ketu in lagna at judgment → stronger → Ketu star, Sun sub. Possible dates 18 Apr, 21 Aug, 19 Dec; only 19-12-1992 falls within Ketu bhukti (the text misprints 1922). CHECK prediction.
+  - "Always confirm by the transit of slow-moving planets": on that day Jupiter in Virgo (Moon's sign at judgment) in Ketu sub; Saturn in Capricorn in Ketu sub.
+- **Insurance**: take a life policy if death is within 2–3 years of the prediction; an endowment policy if the person will live another 25 years.
+- **Nature of death / lingering illness at the end**: see the 8th cusp SUB lord. 8th cusp Aquarius 15°01' (Rahu star); sub lord Ketu. Check conjunction (none), then Ketu's star lord: Dhanishta → Mars → "sudden end". Ketu is in the 7th → intestinal disorder, high fever, dysentery.
+  - RULE: 8th cusp sub lord → its conjunct planet / star lord gives the manner of death; the house it occupies gives the organ/cause.
+- **Who dies first, husband or wife?**
+  - Take the RPs at the moment (5-3-69, Wednesday, Virgo rasi, Virgo lagna, UPhalguni star → Mercury and Sun).
+  - Whoever had these as RPs at their own birth dies first: he had Jupiter, Mars, Moon; she had Sun, Jupiter, Mercury → the wife dies first ("Dheerga Sumangali").
+  - Cross-check: 8th cusp sub lords — his Ketu; hers Mercury, a natural benefic.
+- **"In KP there is no use for uchcha, neecha"**. Examples: C. P. Ramaswamy Iyer's chart has many neechas; a proprietor has 3 neechas yet the employee with exalted planets serves him. FLAG: contrasts with the earlier note that "a planet in the star of an exalted planet gives maximum results"; KSK here dismisses exaltation/debility altogether.
+- Wife's longevity:
+  - Common lagna → 7th = badhaka AND maraka (a kendra). Rahu in 7; Venus alone in Rahu star; 7th sub lord Saturn (…); Rahu evil, Venus more evil.
+  - The student proposes Venus dasa, Rahu bhukti → KSK: she already passed it (suffered blood pressure then) → "it was dangerous; judge further" (RULE: a past period that only threatened is excluded).
+  - 2nd: Mars, Jupiter, Venus. Jupiter in Mars star; Rahu and Saturn in Jupiter star; no planet in Venus star → Rahu dasa, Rahu bhukti, Saturn antara, Venus sookshma, Feb–Mar 1992 (Sun in a Saturn sign, Rahu star). The husband lives ~10 months after her. CHECK.
+- **Sister's marriage**: girl born 5:24 AM 13-5-1945 Bombay (sunrise 6:31). The family astrologer converted to ghatis assuming 6 AM sunrise → errors (a long chart with "uchchas" everywhere).
+  - Prediction: arranged marriage to a man working in a bank; betrothal ~12 Oct 1969; celebration 2nd week Dec 1969. CHECK.
+  - **RP confirms running dasa**: at the consultation (Friday = Venus; Chitra = Mars; Libra = Venus) the officer had entered Venus dasa, Venus bhukti, Mars antara on 28-2-1969. RULE: the RPs at the moment = the querist's running dasa/bhukti/antara lords.
+
+### KSK, "Astra alerts astrologer" (Students Section II)
+- Event reading from the moment:
+  - Moon in Bharani, Libra lagna → Venus (food).
+  - Venus in Pisces (watery) → drink.
+  - Jupiter (lord of Pisces) aspects → good, healthy drink. (Neptune or Mars aspecting Venus → intoxicating.)
+  - Dual sign → served twice.
+  - Saturday → Saturn delays the job. Western aspects used — FLAG.
+- **Girl's birth star from RPs**: Venus star, Venus-sign lagna, Moon in Aries (Mars), Saturday → Bharani 3rd pada or Mrigasira 2nd pada → visitors confirmed Bharani. Method promised for the next issue.
+- Panchangs disagree on Moon's star transitions because of different ayanamsas → "any other ayanamsa is incorrect".
+
+### KSK, "Ayanamsa and house divisions" (start)
+- Explains the equinoxes. The Hindus fixed the autumnal equinox opposite Chitra/Spica: the zodiac starts 180° from Spica.
+- Precession is about 1° in 71 years (KSK's figure). Ayanamsa = distance between the true vernal equinox and the fixed Hindu point. Continues (de-dup cut). FLAG: KSK's ayanamsa differs from Lahiri (Chitrapaksha) by about 6'; check the continuation for KSK's derivation.
+
+### KSK, "Correct time of birth and birth star"
+- 3-5-1923, between 3:00 and 3:20 AM, 26°55'N 80°59'E. Anuradha or Jyeshta?
+- Judgment 8:28 AM IST 11-3-1969 Bombay (Tuesday), Asc 27° Pisces, Moon in Scorpio in Mercury star → RPs Jupiter, Mercury, Mars, Mercury, Mars.
+- Rahu in a Jupiter sign, Ketu in a Mercury sign → lagna Pisces 2°33' (Jupiter sign, Jupiter star, Rahu sub, Ketu sub-sub) → 3:08:31 LMT = 3:14:35 IST.
+  - Before 3:04:25 → Aquarius; Saturn is not an RP → not before 3:05.
+  - After 3:18 → beyond 3°20' Pisces (Saturn star).
+- Star: Saturn (Anuradha) is not an RP; Mercury and Mars are → Jyeshta. The Moon entered Jyeshta at 2:28:45 AM (Moon speed 14°40'/day). He had been told his star was Uttarabhadra. CONFIRMED-ish.
+- Note: lagna at judgment in Revati (Mercury) in Pisces (dual) → more than one mistake to correct.
+- Scholars Section "Reward to astrologers": prize announcement for articles on horary (minor events same day etc.); continues.
