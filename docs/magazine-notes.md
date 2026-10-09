@@ -7183,3 +7183,131 @@ Dreams and astrology; Fortune and misfortune; Horoscopy analysis; Imprisonment a
 
 ### V. Balakrishnamurthi — "Fortune and misfortune" (start)
 - Traditional benefic/malefic, kendra and conjunction yogas (Gaja-Kesari, etc.) often fail. Example chart follows in MC_134.
+
+## MC_134 (Aug 1971 cont.)
+
+### V. Balakrishnamurthi — "Fortune and misfortune" (b. 2 AM, 11°39'N 78°12'E; Saturn dasa balance 11y 9m 2d)
+- **K.P. principle (as stated)**: any planet can give good or bad irrespective of its nature, sign, dignity or friendship. What matters is its constellation (matter: the houses of the star lord) and its sub (whether it allows the result in full).
+  - If the sub lord is a beneficial significator of that house → the result is given in full.
+  - **"If the sub lord is a significator of unfavourable houses, the matter indicated by the star lord will appear to fructify but will fall through."**
+  - **"K.P. advocates that the star lord and also the sub lord both should be significators of the matter; then only can a man enjoy the benefit of the house in full."**
+- The 6th, 8th and 12th are not always evil (counted from the house under discussion). 6 = service, pets, loans, maternal uncle; 8 = unexpected income, insurance, bonus; 12 = investment, hospital treatment, paternal property, good sleep.
+- Case: Mercury–Rahu–Mercury to 25-11-70; Ketu antara to 19-1-71; Venus antara to 22-6-71. A job seeker succeeds in interviews but gets unsatisfactory jobs.
+  - The dasa lord Mercury (L10, in 2) is in the star of Mars (L5, L12, in 8) and the sub of Saturn in 8 → no job.
+  - The bhukti lord Rahu, in the star of Venus in 4 (signifying 4, 6, 11), in Mercury's sub → relief.
+  - Ketu (in Jupiter's star) → a discontented job; Venus (Mercury star, Saturn sub) → resigned, got a distant job.
+- **The 10th lord in a movable sign and the 10th cusp sub lord (Jupiter) in 12 in a dual sign → employment in a distant place, frequent changes.** (Contributor heuristic; FLAG.)
+- Mentions aspects heavily (FLAG).
+
+### S. R. Venkatraman — "Horoscopy: analysis past and future" (b. 4-10-1926, Palghat; Aries Asc 5°44'; Venus dasa balance 7y 0m 18d)
+- **Horary Astrology (KSK) sign-wise readings — the app's descriptive layer**:
+  - **Character / physical appearance**: the sign occupied by the star lord of the Asc sub lord (Horary pp.109–110). Asc sub lord Rahu, in its own star in Gemini → Gemini traits (tall, long hands, thin legs, long nose; versatile, restless, fond of travel). Confirmed.
+  - **Disease**: the sign of the star lord of the 6th cusp sub lord. The 6th sub lord Rahu (own star, Gemini, Moon sub) → delicate health, over-strain, lung trouble (pleurisy, bronchitis, TB in the Moon bhukti); shoulders and arms. Confirmed.
+  - **Finance**: the 2nd cusp sub lord's star lord's sign (Horary p.113). The 2nd sub lord Mercury in Chitra (Mars) → Aries: "can earn much, spend much, rash investment; start in a flash, end in a crash". Confirmed.
+  - **Romance**: the 5th cusp sub lord's star lord. The 5th sub lord Saturn, in Scorpio, Jupiter star → complex mood, no romance.
+  - **Longevity**: the Asc sub lord Rahu in its own star; Mercury represents Rahu; Mercury in Mars's star; Mars not a significator of 12 → long life.
+  - Health generally fair: the Asc sub lord in a dual sign without bad aspect. The 6th sub lord Mercury is in Mars's star and Saturn's sub → chronic (Saturn), occasionally acute (Mars). FLAG: mixed rule versions (6th sub lord = Rahu earlier vs Mercury here; OCR).
+- **Loan and repayment**:
+  - "If the significator of the 2nd is in the sub of the 6th → one borrows." Borrowed from LIC (Feb 1969) in Rahu–Venus–Moon–Ketu.
+  - Repayment: the 8th cusp sub lord Mercury and the 12th sub lord Mars; part repaid in Rahu–Venus–Mercury–Mars.
+  - Gain: 2nd significators in the sub of the 11th → won a lottery prize of Rs 100 plus arrears on 3-5-1970 in Rahu–Venus–Saturn (11th sub lord Saturn).
+  - House or car: 2nd significators in the sub of the 4th → flat ready 15-10-1970 (Rahu–Venus–Saturn–Moon; 4th sub lord Moon).
+- Promotion: the 11th sub lord Saturn is direct but in the star of Jupiter (R), "retrograde both natally and now" → only after Jupiter turns direct.
+  - FLAG: natal star lord retrogression is applied here (KSK: natal retro is irrelevant; the contributor mixes in the horary rule).
+  - Number 137 (Venus–Rahu–Moon) judged 17-5-1971 (Monday, Sravana). Promotion in Rahu–Moon–Venus (Moon bhukti 12-5-71 to 13-6-72). CHECK.
+
+### N. Bhattacharya — "Imprisonment and release" (political leader b. 7:52:09 AM IST 25-11-1909, 22°42'N 88°22'E; ayanamsa 22°30'; Ketu dasa balance 2y 5m 6d)
+- **KSK (K.P. Vol II, quoted)**: "Imprisonment includes separation from the family; no free movement; confined within four walls; change of residence and bedding."
+  - "Malefics occupying the constellation of planets situated in **2 and 12**; occupants of these houses; evil planets in the constellation of the lords of these houses; and the lords of these houses threaten imprisonment; evil planets aspecting or conjoined are also to be taken."
+  - **FLAG / CONTRADICTION**: the earlier magazine note gives imprisonment = 3, 8, 12 (and house arrest 4, 8, 12). Here the K.P. Vol II quote gives 2 and 12 (2 = the 12th to 3, i.e. loss of free movement?). Reconcile from Reader 2/3 in kp-rules.md.
+- 2nd: unoccupied; L2 Saturn; the Sun, Mars, Mercury and Ketu are in Saturn's star. 12th: Ketu occupies it; the Moon is in Ketu's star; L12 Mars has nothing in its star. Jupiter, Venus and Rahu are aspected by Saturn and Mars → all significators.
+- Arrested 18-8-1930 (Monday; the Moon in Rohini), convicted for 1 year, in Venus–Mercury–Jupiter–Moon. Reasoning via the dasa lords' stars and subs; Jupiter in 9 → political cause (9 = politics, bhagya; FLAG); 7 = litigation.
+- **Release = 2 and 11** (reunion with kith and kin, free movement). Released in Venus–Ketu–Mars. CONFIRMED (post-mortem).
+
+### Mahendra Sarap — "Transfer to my original post — when?" (number 9 → Aries 11°26'40"; 7:34 PM IST Saturday 11-7-1970, Burla; Moon dasa balance 0y 4m 10d)
+- The Moon in 6 (service), in its own star, the Sun's sub (the Sun in 3, change) → a transfer query.
+- **KSK's 11th-cusp test (as stated)**: the 11th sub lord should not be in the constellation or sub of a retrograde planet, nor a strong significator of houses detrimental to the matter. Here the 11th sub lord Mercury is in Jupiter's star, Mars's sub; both direct; in 6 and 3 (not detrimental to 3, 10, 12) → fulfilled.
+- Significators (3, 10, 12) by a table: Saturn, Jupiter, Sun, Mars, Mercury. Reject those in unfavourable subs → Mars, Mercury, Rahu, Ketu.
+- RPs: Saturn → Rahu (day), Mercury (Moon sign), Moon (Moon star), Saturn → Rahu (lagna), Mars (lagna star) → Rahu, Mercury, Moon, Mars. Common: Mars, Rahu, Mercury (+ Sun).
+- The Moon dasa ends 26-11-70 → Mars dasa, Mars bhukti, Rahu antara (29-11 to 21-12-70), Mercury sub-sub 8–11 Dec → Wednesday 9-12-1970. Relieved on 9-12-1970 to rejoin the original post. CONFIRMED.
+
+### S. Lakshminarasimhan — "Eye trouble — surgical cure" (boy b. 8:40 AM IST 23-5-1957, 13°13'N 80°08'E)
+
+| Planet | Bhava | Star lord | Sub lord |
+|---|---|---|---|
+| Sun | 11 | Rahu | Rahu |
+| Moon | 9 | Ketu | Jupiter |
+| Mars | 12 | Saturn | Ketu |
+| Mercury | 11 | Mars | Rahu |
+| Jupiter | 2 | Sun | Rahu |
+| Venus | 12 | Jupiter | Venus |
+| Saturn (R) | 4 | Saturn | Jupiter |
+| Rahu | 4 | Jupiter | Mercury |
+| Ketu | 10 | Venus | Mercury |
+
+- **Rules (contributor, partly KSK)**:
+  - the 6th cusp sub lord connected with the ascendant causes disease, shown by the 6th; the defect is read from the 12th;
+  - surgery from the 8th, with Mars;
+  - **the 2nd house = the right eye; the Sun rules the eyes** (FLAG: traditional body-part rule; earlier note "eye defect = 12th"; the right/left rule was previously a GAP: here the 2nd = right eye, implying the 12th = left eye per tradition).
+- The 6th sub lord Moon is in Ketu's star and Jupiter's sub. Jupiter (L6) is in the Sun's star, in the 2nd → right-eye trouble (saw nothing through the right eye on 11-6-1969).
+- Ketu, in a Mars sign that is in the 12th → hospitalisation and surgery. The 8th is aspected by Mars.
+- The 12th sub lord Venus is in 11 → a dual role: hospitalisation plus recovery.
+- Admitted 11-6-1969 (Wednesday) in Moon–Saturn–Saturn–Ketu. Operated 19-6-1969 (Thursday) in the Venus sookshma (Venus in 12 with Mars, also the 11th → cure). Transit tables are given. CONFIRMED.
+
+### P. Swamy — review of KSK's "Horary Astrology" (Mahabala Publishers, Rs 16)
+- Contents cited:
+  - pp.89–97: the 249-sub table; pp.97–103: horary erection with a number; pp.103–106: minor and major events with RPs;
+  - **pp.123–131: ruling planets** ("invariably, in all cases, without any single failure, using RPs one can decide correctly the nature of the event and predict precisely the moment", p.125);
+  - p.265: a case on the order in which RPs should be taken;
+  - p.79: a stellar example (Saturn in 12 in the star of Venus in 11 gave 11th-house success; Ketu and Venus in Anuradha (Saturn in 12) gave 12th-house results);
+  - p.82: reading subs;
+  - pp.144–154: strength of planets, eclipsed planets;
+  - p.104: trunk calls (3, 9, 11; the 3rd sub lord in a retrograde star → a call saying the line is out of order);
+  - pp.109–113: sign-wise character, health, finance, romance (examples: Aries active, ambitious; health Aries energetic, headaches, fever, insomnia; Taurus slow recovery, tonsils; Cancer asthma, stomach; Leo heart disease, sunstroke; finance Aries "start in a flash, end in a crash", Taurus hoards, invests in estates; Leo high position, gambles);
+  - p.277: cusp subs, e.g. "the lagna cusp in the 12th sub → struggle, disappointment; the 10th cusp in the sub of 11 → success, promotion".
+- KSK's experiments: noted the lords of the Asc sub and the 11th cusp, and the number's sign/star/sub lords plus the RPs → found the moment.
+- App: Horary Astrology (Reader 6) is already read; these page refs help locate rules for kp-rules.md.
+
+### A. Venkatachalam — "Death by fire accident" (man in power, b. 3:57 PM IST 5-3-1935, Tirunelveli district; Leo lagna 14°08'?)
+- **The 8th cusp sub lord gives the mode of death**: the 8th cusp is in Rahu's star, Mercury's sub. Mercury is in the star of the fiery Mars → fire.
+- The Sun and Moon … are in the 8th. Rahu in the Sun's star → a strong significator of danger. The Moon and Rahu are in Mercury's sub; Mercury is in the 7th (maraka) → death in Mercury dasa, Moon bhukti, by fire accident.
+- Transit at the event: Rahu in Mars's star, Mercury's sub; the Moon in its own star, Saturn's sub (passing the Taurus lagna); Mercury in Ketu's star, Mercury's sub; Jupiter in Saturn's star, Mercury's sub (Jupiter for the year); a Friday (Venus in the star of L7/L8).
+- CONFIRMED (post-mortem, date not given).
+
+### R. J. Mandrawadker — "Fortune's favourite" (surgeon b. 3:30 AM IST Tuesday 18-12-1934, Gulbarga 17°19'N 76°34'E; ayanamsa 22°50'; Libra lagna 22°53'; Moon dasa balance 9y 5m 21d)
+
+| Planet | Star lord | Sub lord | Bhava |
+|---|---|---|---|
+| Moon | Moon | Moon | 7? |
+| Rahu | Moon | Moon | 3? |
+| Mars | Moon | Moon | 11 |
+| Sun | Ketu | Sun | 2 |
+| Venus | Ketu | Saturn | 2 |
+| Mercury | Mercury | Mercury | 2 |
+| Saturn | Mars | Mercury | 4 |
+| Jupiter | Jupiter | Jupiter | 12 |
+| Ketu | Saturn | Venus | 9 |
+
+- **Wealth = houses 2, 6, 10, 11 (the article says "2, 4, 10, 11 strongest").** Seven planets signify 2, 10 or 11.
+- Character: the lagna sub lord Saturn is in Mars's star; Mars is in Virgo → Virgo traits (tall, slender; changeful, commercial instinct, critical, prudent).
+- "Three planets in the star of the Moon, the 10th lord → long life" (FLAG: unclear rule).
+- The 6th sub lord Rahu, in the Moon's star in Taurus → robust health.
+- **Education = 4 (school), 9 (higher)**: significators Ketu, Saturn, Mercury (+ Moon by aspect; Jupiter aspects the 9th).
+  - Rahu dasa from June 1951; Mercury the strongest 9th significator → science; Mars strong (surgery). MBBS in Rahu–Mercury–Venus (Jan 1960); MS in Rahu–Venus (1964).
+  - Canada on 19-7-1965 (Rahu–Venus–Jupiter–Jupiter; Jupiter the strongest significator of 3 and 12, aspecting the 9th). Return 1-8-1969 (Jupiter–Jupiter–Jupiter).
+- **Profession (KSK, K.P. Vol I p.365, quoted)**: "if Mars is well dignified by sign position and connected with the Sun and the 10th house, one may serve as a surgeon in a hospital (Mars surgery, Sun medicine)." Venus association → plastic surgery. Mercury in its own star in 2 → gains by teaching (professor). The 7th = independent profession → runs his own hospital.
+- Marriage 8-5-1960 in Rahu–Mercury–Sun–Rahu (Rahu = 7th, Mercury = 2nd, Sun = 11th). The wife is related to the elder brother's family (Saturn aspects 11 and 2; FLAG).
+- **Children (series rule, consistent with KSK)**:
+  - 1st child → 2, 5, 11 (son 4-8-1961, Rahu–Mercury–Saturn);
+  - **2nd child → the 7th (3rd from 5)** (9-11-1962, Rahu–Ketu);
+  - **3rd child → the 9th in addition to 2 and 11** (6-1-1966, Rahu–Sun–Sun);
+  - **4th child → the 11th** (31-5-1969, Rahu–Mars–Moon).
+  - I.e. each next child = the 3rd from the previous child's house: 5, 7, 9, 11.
+- Sex (contributor, FLAG): all male, "lagna masculine; Jupiter (masculine) in the 5th cusp sign; the 5th, 7th, 9th and 11th cusps all in masculine signs". Not KSK; KSK says no reliable rule.
+- Status: the 10th significators Rahu, Moon, Mars in the Moon's star and sub → high position; Rotary president.
+- Minus: a movable lagna → badhaka 11th; Saturn the strongest badhaka significator → rivals' jealousy.
+- **Father's death (Oct 1943)**: the 9th (Gemini, common) → the 7th from it = badhaka and maraka; the 2nd from the 9th = Cancer (the 10th), whose lord the Moon is in its own star and sub = the strongest maraka lord. Moon–Venus–Mercury. CONFIRMED.
+- A rich multi-event test chart.
+
+### G. L. Shah — "K.P. made astrology rich and easy (I)" (start)
+- An Aquarius-lagna native has ten different "rectified" charts (Capricorn to Pisces). Lesson: always verify with past events (the father's death) before predicting. Continues in MC_135.
