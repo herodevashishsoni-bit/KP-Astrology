@@ -3335,3 +3335,144 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 - Sun transit (months) → when the Sun enters a Venus sign, Rahu star, Mars sub, Ketu sub-sub → 3-11-1968 ~midnight. CONFIRMED ("did come very correct").
 
 ### Book reviews: yoga, palmistry — ignore.
+
+## MC_106 (Sep–Oct 1969)
+
+### Book reviews (yoga; palmistry — Ilm-ul-kaff, Jaquin, Benham) by KSK — ignore.
+
+### "Marriage — when?" (Pappa; born 13-5-1942, Wednesday, 30 ghatis 15 vighatis after sunrise; Ketu dasa balance 1y 9m 3d)
+- Sun dasa 16-2-64 to 16-2-70; Venus bhukti from 16-2-69.
+  - Venus bhukti antaras: Venus to 16-4-69; Sun to 4-5; Moon to 4-6; Mars to 25-6; Rahu to 19-8; Jupiter to 7-10; Saturn to 4-12-69; Mercury to 25-1-70; Ketu to 16-2-70.
+- Sun (dasa lord) = L11, on the 7th cusp? in its own star, Mars sub (L2, L7) → sure significator. Venus (bhukti, karaka) exalted in Pisces in the star of Saturn (in 7). Saturn in the 7th is the strongest significator. Uses the Chandra lagna also. FLAG.
+- **Second marriage**: L7 Mars in a dual sign (Gemini) and Mars is the 7th cusp sub lord → second marriage (here "second marriage" seems to mean the prior fixation broke). The marriage comes in Venus bhukti, Saturn antara (Saturn in the star of the dasa lord, sub of the bhukti lord) → 7-10 to 4-12-69.
+- **Transit rule**: the significator of the 7th should transit the degree ruled by the dasa, bhukti and antara lords. Mars (L7) in a Saturn sign, Sun star, Venus sub (Capricorn 7°46'40"–10°) on 7-11-1969 (Friday, Hasta, Sagittarius lagna).
+- Also "PROGRESSION" (secondary progression of Sun, Moon, Saturn, Jupiter, Mars, Venus) cited as support. FLAG: Western progressions — not KP Reader method; reject.
+- Girl's chart: Venus dasa, Mars bhukti, Ketu antara also → 7-11-1969. CHECK.
+
+### "Capricorn", "Promotion and overseas — same number" (number 125, 11 AM IST 10-7-69, Calcutta 22°33'N)
+- Promotion houses 2, 6, 10, 11 (2nd Mars; 6th owner Jupiter — Sun and Rahu in its star; 10th owner Moon — Venus in its star; 11th Ketu, owner Sun …).
+- Overseas: 9th Sun and Mercury (Moon in Sun star; Ketu agent of Mercury); 12th Jupiter (Rahu in Pisces represents it).
+- Promotion ~10-10-69 or the 1st week of June 1970; transit favours June 1970. CHECK.
+- Profession from the significators: Venus, Moon, Jupiter, Mercury → finance adviser, auditor or accountant (confirmed by the querist?). Moon dasa next → another lift.
+
+### "Gemini", "Change in service" — CORE RULES
+- Service = 2 (income by any means), 6 (payment by another for consideration; serving another), 10 (main profession). Business when the 7th and 10th significators are well disposed and connected with the 2nd.
+- **12th-from rule**: each house is negation (12th) of the next: 1 is 12th to 2, 3 is 12th to 4, 5 is 12th to 6, 9 is 12th to 10.
+- **Change in service = significators of 1, 5, 9 (+ planets in their subs)**, but ONLY when these are also connected with 6 or 10, and the dasa lord is one of them. If they are connected with the 2nd instead → vision, speech, childbirth or father matters, not service change.
+- "The so-called Trikona houses (1, 5, 9) bring retirement, dismissal, end of service or transfer."
+- A planet in the star of the "rajayoga lord" L10 is connected with profession, but the sub lord decides good or bad: judge the sub lord individually — which star it's in, which houses it signifies.
+- Example: born 7 PM Wednesday 2-9-1931, 11°N 77°E (KP ephemeris and ayanamsa); Venus dasa balance 16y 11m 3d.
+  - Significators: 2nd (Ketu, Rahu sub; Moon, Venus sub; Mars L2); 6th (Venus, Sun, Mercury in 6; Moon and Saturn in Venus star; Jupiter in Mercury star; Moon in Venus star is the strongest); 10th (Saturn in 10 — Rahu in its star; L10 Mars — only Mars in its star).
+  - Changes: Rahu in lagna, Saturn (L1), Jupiter in 5, Mercury (L5), Mars (L9 in own star) → change significators. Rahu and Ketu in Rahu sub; Mars and Mercury in Jupiter sub; Saturn in Mercury sub.
+  - Last change 19-12-68 (Mars–Mercury? –Saturn–Mercury). Transit: Sun in a Jupiter sign, Ketu star, Mars sub; Moon in a Mars sign, Mercury star, Jupiter sub; Mars in its own star, Mercury sub; Saturn in Mercury star, Rahu sub, retrograde. Agrees.
+  - Appointment 4-2-69 at a better place: Mars dasa, Ketu bhukti, Ketu antara; Tuesday; Sun in Moon star, Venus sub; Moon in Ketu star, Saturn sub; Mars in Jupiter star, Ketu sub, etc.
+  - Traditionally the worst time (sade-sati; Jupiter in 6; Mars in 7). "Prof. Krishnamurti never gives imaginary horoscopes."
+
+### October 1969 issue contents
+- Calcutta branch
+- "KP verified"
+- "When will my financial worry be over and what follows?"
+- "When is the marriage?"
+- Horary: "Will my husband come and join me?"; "Overseas — when?"; "Father's whereabouts"
+- "Simplicity of KP"
+- "Seniority in service — will I have justice?"
+- "Will stammering disappear?"
+- "Can I ever be A1?"
+- "Two marriages"
+- "Questions and answers"
+
+### "KP verified" (gentleman 12:17:12 PM IST 2-7-1936, 27°10'N ?°E)
+- Marriage 8-11-1962 (Venus dasa, Moon bhukti, Moon antara, Moon sookshma): 2nd vacant, owner Venus, none in its star, no node in its sign → Venus strong. 7th vacant, owner Jupiter; Rahu in a Jupiter sign → Rahu; Sun and Venus in Rahu star. 11th vacant, owner Moon, none in its star, no node → Moon strong.
+- **Mother's death** (Venus dasa, Rahu bhukti, Venus antara): 4th cusp Sagittarius (common) → badhaka = 7th from 4th (10th). Sun and Venus occupy it. Marakas from the 4th (2nd from 4 = 5th; 7th from 4 = 10th): the 7th from the 4th is owned by Mercury but represented by the node Ketu → planets in Ketu's star are evil (Rahu alone). The 2nd from the 4th: no planet; owned by Saturn; no planet in Saturn's star → Saturn evil.
+- **Transfers**: 3, 9, 12 connected with the 10th → transfer from the permanent place. 3rd: Moon, Jupiter, Rahu; 9th: Mercury, Mars, Ketu; 12th: none. Nodes strongest; Sun and Venus in Rahu star; Rahu in Ketu star.
+  - Transfers occurred 14-8-1967 and in Venus–Moon–Mars, Venus–Moon–Sun, Venus–Mars–Venus, Venus–Mars–Moon, Venus–Rahu–Rahu, Venus–Rahu–Venus. "Only the significators of 3, 9, 12 connected with the 10th gave transfers without fail."
+  - FLAG: transfer houses 3, 9, 12 + 10 here (vs 3, 10, 12 elsewhere) — consistent with "3 short, 9 long distance".
+- Service 20-12-1960 (Venus–Venus–Saturn): 2nd vacant (Venus, none in its star); 6th owned and occupied by Saturn (none in its star); 10th Sun and Venus (none in their stars).
+- "Planets which are not significators have not produced any result."
+
+### KSK, "When will my financial worry be over and what follows?" (number 78, Madras 13°N, ayanamsa 23°20')
+- 78 → Cancer, Ashlesha (Mercury), Sun sub, from 21°33'20" → sayana Leo 14°53'20" → cusps from Raphael. Sun dasa balance only 9 days.
+- Nature of event = getting money; source = sale of goods. **Sale and gain = 3 & 11** (4 = possessions, 3 = parting with them, 11 = profit). 3 & 12 → loss. 3, 11, 12 → profit and loss both, when the 3rd cusp is in Mercury's sub or the cusp lord is in a dual sign.
+- First judge whether the 3rd-house significator connects with 11 or 12 or both. (Rest lost.)
+
+### KSK Q&A on horary method (numbers)
+- Students worry that a horary chart depends on the moment. The number fixes the ascendant; "Is it numerology?" — "No, pure genuine astrology".
+  - 74 → Cancer, Pushya (Saturn), Jupiter sub, 14°53'20".
+  - Add the ayanamsa, then use the table of houses for the latitude of the PLACE OF JUDGMENT ("Will cusps vary with place? — yes, take judgment place").
+  - Planets for the moment of judgment (IST; no LMT conversion needed for planets).
+- Avoid calculations when ready reference exists. "Follow KSK ayanamsa. Forget all others."
+- Significator strength: "Occupant of the constellation of a planet is stronger than the occupant; occupant of a house is stronger than the lord of the house." Use bhavas (cusp to cusp), not signs as houses.
+
+### "Will my husband come and join me?" (number 1, 3 PM Monday 4-8-1969, Delhi 28°38'N)
+- Ketu dasa balance 1y 5m.
+- **Reunion = 11, 7, 6** (husband returning to join wife). Separation = 12, 7, 6.
+- "In horary first note whether he will come at all (from the cusp sub lord), then find the significators and the timing."
+- 11th cusp Capricorn 17°04' (Moon star, Venus sub). Venus is in the star of Rahu in 12 → unfavourable for union; but Venus also signifies 2, 3, 7 and is aspected by the lagna lord → reunion. Venus gives both separation and reunion (wife goes away and returns during Venus periods).
+- Significators: 11th (Saturn owns; Rahu in its sign; Venus in Rahu star; Mars in Saturn star); 7th (vacant, Venus; Saturn alone in Venus star); 6th (Ketu and Jupiter; Moon and Mercury in Ketu star) → Venus, Saturn, Mercury, Moon, Ketu → Ketu dasa, Mercury bhukti, Moon antara, Venus sookshma, July 1970. CHECK.
+
+### "Horary — overseas — when?" (10:32 AM 7-8-69 Delhi)
+- **12th cusp sub lord** decides whether one gets life in a foreign place.
+- 3rd/9th/12th significators: Mercury, Saturn, Venus, Jupiter, Ketu, Rahu. "Those planets which are not in the sub of the significators of 3, 9 or 12 are not useful to make the journey, but will offer other results of the houses they signify." Also RPs (Thursday Jupiter, Rohini Moon, Taurus Venus, Virgo lagna …). (Rest lost.)
+
+### "Father's whereabouts" (7:20 AM IST 24-7-1969, Calcutta 22°33'N; Jupiter dasa balance 6y 9m 4d)
+- Father = 9th; his leaving home = 3, 9, 12 from the 9th = 11th, 5th, 8th of the chart (Libra lagna?). Jupiter and Ketu in 11, Rahu in 5, Venus in 8; Rahu in Jupiter star; Saturn in Venus star.
+  - Left in Jupiter–Saturn–Ketu–Rahu (Apr–May 1963) or Jupiter–Ketu–Saturn–Rahu (Jan 1968).
+- Return: RPs (lagna Leo in Purvaphalguni = Venus; Moon in a Venus sign, Jupiter star). Jupiter dasa, Venus bhukti; the Sun, Moon and Mars antaras have passed → Jupiter–Sun–Venus antara.
+  - Transit: Jupiter turning direct in a Mars sign, Jupiter star; Venus in Jupiter star, Sun sub; Sun in a Moon sign; Mars exalted in own star; Saturn in Sun star, Venus sub → 4th week of July 1971. CHECK.
+- "Whether you pray or not, publish in the paper or not, his date of return will and must be 4th week July 1971." (fatalism)
+
+### KSK, "Simplicity of KP" — riches and poverty (Calcutta class)
+- Traditional absurdities: "L7 exalted in lagna → not more than one wife" can't apply to 11½ of 12 signs. Hindu astrology is "never universally applicable".
+- Western rules for wealth listed (Moon's strength and aspects, 2nd lord/occupant, luminaries' aspects, Jupiter/Venus angular, 2nd cusp and Fortuna aspects, benefics in 8 → legacy; movable/fixed/common sign nature of wealth; progressions) — fail for twins.
+- Hindu rules (rajayogas; L2 exalted; L2 in kendra/kona; lords of 2/6/11 in kendra/kona; benefics in 3/6/10/11 from the Moon; 4 planets in own sign; navamsa/vaiseshikamsa; benefics in kendras; particular combinations) — contradictory. Crorepatis without rajayoga; rajayoga natives suffering. B. V. Raman's defence of yogas is rebutted.
+- **KP — riches**:
+  - "There is no limit for riches; rich = enjoys life and meets expenses without borrowing; assets > liabilities."
+  - Houses: 2 = bank position; 6 = money received from others (share, interest, rent, profit, salary, allowance); 10 = name, fame, profession; 11 = gains, reward, donation.
+  - Planets owning or occupying a house give its results in the periods of planets in the 3 stars of the owner/occupant. If no planet is in their stars, the owner/occupant includes those results themselves.
+  - **"Occupation of a constellation is stronger than occupation of a house."**
+  - **"In KP for natal horoscopes there is no place for exaltation, debilitation, eclipse (combustion) or retrogression."**
+    - Examples: (1) born 11:20 PM 8-2-1922 with Rahu, Jupiter, Saturn, Mercury retrograde and successive retrograde dasas — fine. (2) Jupiter eclipsed → advocate, earning. (3) Engineer born just after New Moon 22-10-1911 near Kanyakumari (Swati) → rich in Mercury dasa. (4) A retired Madras Chief Engineer with Mercury at the Sun's exact degree → became Chief Engineer in Mercury period.
+    - FLAG: contrasts with the horary rule (retrograde significators/RPs fail) — retrogression matters in HORARY and RPs, not in natal.
+  - **Wealth rule**: significators of 2, 6, 10, 11 in the SUB of significators of 2, 6, 10 or 11 give wealth in their periods. If the sub lord doesn't co-operate, no riches. (KP II p.74.)
+  - **"Recent research: judge the sub lords of the 2nd and 11th cusps. Unless the sub lord is a significator of 2, 6, 10 or 11, one cannot improve one's bank position."** (Twins: same planets but different cusp sub lords.)
+- **KP — poverty/loss**: if the sub lords of the 2nd and 11th cusps are significators of 5 & 8, 8 & 12, or 5 & 12 → lose money in those significators' periods, via the sources shown by their houses.
+  - Money comes in the periods of significators of 1, 2, 3, 6, 10, 11 in the sub of significators of 2, 6, 10, 11 (receive cheques); others issue cheques.
+  - A planet signifying both good (6) and bad (5) gives income in benefic sub-periods and loss in evil ones.
+  - The dasa sequence matters: a ruinous long dasa can't be offset by short good bhuktis (race analogy). If the 11th sub lord is favourable and its dasa long, one becomes rich despite drains. If the 12th sub lord signifies 5 & 8 and has a long dasa → steady loss (like TB).
+- Traditional poverty combinations listed (Sun in Cancer, Mars in Leo, avasthas, etc.) — REJECT.
+
+### "Seniority in service — will I have justice?" (number 184, 9:33 AM Friday 8-8-1969, Delhi)
+- 184 → Sagittarius, Purvashadha (Venus), Ketu sub from 25°53'20". Cusps: 2 Aquarius 3°36' … 7 Gemini 25°53'20".
+- Rahu in 2; Venus (L10) in 6 in the star of the planet in 2 → seniority settled in his favour.
+- 10th cusp Libra (Venus sign), Swati (Rahu), Mercury sub. No planet in 10; Saturn alone in Venus star. 11th owned and occupied by Mars; Moon alone in Mars star. 11th cusp Scorpio 8°36' (Anuradha = Saturn), Venus sub.
+- → Mars dasa, Rahu bhukti, Venus antara, Saturn sookshma … → 10-1-1970. CHECK.
+
+### "Will stammering disappear?" (born 12:45 PM 1-11-1932, 16°46'N 81°44'E)
+- Each sign also has subsidiary dominion over the body part of the opposite sign (Heindel). FLAG: Western source.
+- **Speech by the 2nd cusp sub lord**:
+  - Mercury → talkative (insurance agent, salesman, propagandist);
+  - Mars → blunt, outspoken;
+  - Saturn → speaks little, drags;
+  - Jupiter → wise talk;
+  - Venus → talk mostly about the other sex;
+  - Rahu/Ketu → (lost).
+- Example: 2nd cusp in a Saturn sign, Jupiter star, Ketu sub; Rahu also gives 2nd results → stammering. Mars afflicting Ketu or the 2nd by conjunction or aspect → (lost).
+
+### "Can I ever be A1?" (Aries lagna 22°06'; Venus dasa balance 15y 1m 24d; Rahu–Venus from 20-4-69)
+- Aries-born → ambition, leadership.
+- **Steep rise**: judge the meridian. If the 10th cusp sub lord is Mars, or a planet connected with Mars, or the 10th is connected with Mars whose sub lord signifies 2, 6 or 10 → one surely reaches the top. Uranus on the 11th cusp → leaps and bounds (FLAG: Uranus).
+- Meridian in Venus sub; Venus aspected by Mars (4th aspect); Venus in the sub of Rahu (in a Mars sign); Mars in Venus sub (L2).
+- Promotion = 2, 6, 10, 11: Venus and Moon → 2; Sun and Mercury → 6; Rahu, Jupiter, Saturn → 10, 11.
+- RPs (8-7-69): Sagittarius lagna (Rahu represents), Aries (Mars), Bharani (Venus), Tuesday (Mars) → Rahu–Venus–Rahu–Mars (Oct 1970) and Rahu–Mars–Mars–Venus (Oct 1974, top). CHECK.
+
+### "Two marriages" (born 5:36:40 PM IST 9-2-1931, 25°27'N 78°37'E; Jupiter dasa balance 10y 2m 5d)
+- KSK's only rule for more than one marriage: note the 7th cusp sub lord (text lost).
+- Mercury in Sun's star (Sun connected with marriage) → married life; in Saturn's sub (Saturn = L7 & L6, in 6, in Mercury's sub in 6) → not auspicious; Saturn gives union and separation, marriage and divorce.
+- Moon alone in Jupiter's star (Jupiter in 11); Moon in the sub of Mercury in 6 → separation.
+- "Whether favourable or not is decided only by the sub lord."
+
+### Questions and answers — "Can I trust my officer?"
+- Traditional (Jataka Tattva): Saturn/Mars/Rahu in 4 → dishonest; L10 or L8 in 4 → insincere; 4th hemmed by malefics; malefic in or aspecting the 4th.
+- KP twist: L4 may be a malefic, but if it is in the star of a natural malefic and signifies the 12th → criminal.
+- Natures: Mars → open crime, challenges; Saturn → secret, back-door ("digging a grave"); Mercury → cunning, gives hopes then lets down; Saturn in 12 → acts unnoticed.
+- (Continues.)
