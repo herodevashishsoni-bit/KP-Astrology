@@ -25,11 +25,13 @@ Order of work:
 | `docs/kp-test-cases.md` | Test cases from the Readers |
 | `docs/magazine-notes.md` | Running notes on the magazines, one section per chunk |
 | `docs/reading-log.md` | What has been read; last line says **Next to read** |
+| `docs/kp-rules.md` | The consolidated rulebook for the app (for user review) |
 | `docs/PROCESS.md` | This file |
 
 ## Status
 - Readers 1–6: read in full.
 - Magazines: MC_000 to MC_141 read (ALL magazines read) in full with detailed notes in magazine-notes.md (MC_000–010 notes are the "[detailed redo]" sections at the end of that file, after MC_078).
+- `docs/kp-rules.md` written; waiting for user review of its §8 decisions before building the app.
 - Always trust the "Next to read" line in `docs/reading-log.md` over this file.
 
 ## Step-by-step process (repeat for each chunk)

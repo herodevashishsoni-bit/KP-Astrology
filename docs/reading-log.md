@@ -94,4 +94,4 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - MC_138 (Oct–Nov 1971)
 - MC_139 (Nov–Dec 1971)
 - MC_140–MC_141 (Dec 1971) — magazine set complete
-- Next: write docs/kp-rules.md
+- docs/kp-rules.md written (all sections). Next: user reviews the DECIDE items in §8, then build the app.
