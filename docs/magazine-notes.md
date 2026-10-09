@@ -4310,3 +4310,119 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 - RPs: Venus (Friday), Mars (lagna sign), Ketu (lagna star), Mercury (Moon in Gemini), Jupiter (Moon star Punarvasu).
 - Mother = 4th; her arrival at the right destination (wish fulfilled) = 11th. 4th cusp Jupiter star, Venus sub; 11th cusp Mars star, Jupiter sub. **"KP: planets connected with 1, 2, 3, 6, 10, 11 portray success; 4, 5, 7, 8, 9, 12 portend failure."** Star lords Jupiter (in 6) and Mars (in 10); sub lords Venus and Jupiter (in 6) → arrival today is definite.
 - Timing (minor, fast) → the Moon's transit: Moon (now Gemini, Jupiter star, Mercury sub) reaches Mercury sign, Jupiter star, Ketu sub, Mars sub-sub within hours (on a Venus day) → (continues).
+
+## MC_115 (Jun–Jul 1970)
+
+### Sivapatham, "When will my mother arrive here?" (end)
+- Arrival when the Moon reaches Gemini 26°03'04" (Mercury sign, Jupiter star, Ketu sub, Mars sub-sub) → 7:18 PM. Bus 42 arrived; mother entered at 7:18 PM. CONFIRMED.
+
+### Sivapatham, "When will I have a child?" (lady, Wellampitiya; married 1967; number 18)
+- Male planets' aspects to 5 and 11 (FLAG: gendered planets/aspects); the abortive Ketu in 5; Saturn in 8th from 5 → denying. 11th: Rahu, in Jupiter's star (Jupiter 8th from 11), in the sub of a retrograde planet in 12 → never a child.
+
+### Sivapatham, "When will I have a child?" (male querist "Mr D.G."; number 220 → Aquarius 18°06'40"; 8:50 PM 4-12-69 Matale)
+- **Male querist → houses 11 and 5** (2, 5, 11 for timing).
+  - 11th cusp Jupiter sign, Venus star, Rahu sub; sub lord Rahu in 3rd from 11th (= 1st; 12th to 2nd?) → denies.
+  - 5th cusp in a mute sign; L5 Mercury in 6th from 5th; 5th cusp Rahu star, Moon sub; Moon in 3rd from 5th → doesn't promise.
+  - 2nd cusp Mercury star, sub of a planet in 6th from 2nd; retrograde Saturn in 2 with the abortive node, 6th from 2nd → no.
+  - → never a child.
+- FLAG: contributor uses "Nth from house" schemes and "abortive Ketu".
+
+### "Mercury", "Can I prosper as an actor or musician?" (number 143 → Libra 26°33'20" (Venus–Jupiter–Venus); 7:35 AM IST 5-5-1969, Hyderabad 17°20'N 78°30'E)
+- Sayana Scorpio 19°53'20" → Raphael cusps.
+- **Entertainment = 5th. Significators of 6 and 10 connected with 5 → talent employed as a profession. Prosperity → those also connected with 11.**
+- Requirements:
+  - **Actor**: physique and face (well-placed Venus, Mercury); clear pronunciation, memory (Mercury); fertile imagination (unafflicted Moon); 2nd house; Mars to direct.
+  - **Musician**: vocalist — 2nd house (voice), airy sign, unafflicted; instrumentalist — 3rd house (instruments), 7th (colleagues/orchestra), unafflicted with benefics; director — 2nd (memory, expression), strong Moon, Mars.
+- Moon (L10) in Ketu's star and sub (Ketu in 11) → professional prosperity.
+- 6th: Saturn and Sun; Rahu in Saturn's star; Jupiter in Saturn's sub and Sun's star; Rahu in Jupiter's sign → Rahu for 6. 10th vacant, owned by Moon; Mercury in Moon's star; Mars in Moon's sub. Mercury in Rahu's sub (Rahu = 5th occupant, 6th significator) → connected with 5. Mars not connected with 5.
+- → Rahu and Mercury indicate entertainment as profession; Rahu (in Ketu's sub; Ketu in 11) gives prosperity. Rahu in a Jupiter sign (L3, L6), Saturn star (L4, L5), sub of Ketu (representing Mercury, L9/L12 in 7) → **instrumental music**.
+- 2nd cusp in Scorpio (mute sign) in Rahu's sub (watery mute) → not a vocalist. Venus exalted but in the star and sub of Mercury (L9, L12 in 7) → acting won't last. FLAG: mute-sign notion (traditional).
+
+### N. D. Kedare, "Will I be able to borrow? When and from whom?" (number 156, 5:30 PM IST 13-7-1969, Bombay 18°55'N)
+- **Borrowing = 6th cusp sub lord**: if the sub lord is retrograde, or is in the star of a retrograde planet → cannot borrow. If both the sub lord and its star lord are direct → can borrow.
+- **Nodes clarification (contributor, consistent with KSK)**: "The motion of the nodes is always unidirectional; unlike retrograde planets it does not reverse. This retrograde nature of planets should not be confused with the unidirectional retrograde motion of the nodes. So the Moon in Rahu's star is NOT 'in the star of a retrograde planet'." → resolves the "ever/never retrograde" print discrepancy: the nodes are exempt.
+- 6th cusp: Venus star, Moon sub → friendly manner (Venus); the lender agrees quickly (Moon); Saturn aspecting the Moon → not the full amount (FLAG aspect).
+- Timing: RPs → the Moon transiting a Ketu star (Magha in Leo, or Mula in Sag), whichever comes first → 20-7-1969.
+- **From whom**: the 6th sub lord's house position (rule): if mother gives → 4th & 6th; if father gives → 8th? (text: "if father gives 8 and 6"? unclear; earlier "9"); elder brother → 10 & 6? (text garbled, says 10; logically 11); friend → 10 & 6 (garbled). Here the 6th sub lord Moon is in the 8th bhava (?) → borrow from father. FLAG: garbled relative-house mapping; father = 9th normally (8th = 12th from 9th?). Not reliable.
+
+### N. D. Kedare, "Will I be able to clear off loans? When?" (number 20)
+- **Investment, expenditure or loan repayment = 12th cusp sub lord**: if it or its star lord is retrograde → cannot repay/invest. If both are direct → repay.
+- Saturn in the 12th aspecting Mercury (the 12th cusp's star lord) → not the full amount; Mercury → in instalments.
+- Timing by RPs: Mercury dasa, Moon bhukti, Mercury antara (13-4 to 25-6-1970); Sun transit … 25-7-1970 (Sun in Cancer, Saturn star, Mercury sub). CHECK.
+
+### Kumbiigudi P. S. Chandra Bose (numerologist), "Marriage" (number 96 of 108, 3 PM 25-4-1969; Mercury dasa balance 15y 2m 25d? Mercury–Mercury–Jupiter running)
+- Moon in Mercury's star and sub; Mercury represents Sun (L7, in 2); the Moon is also the 7th cusp sub lord → marriage query confirmed.
+- 2nd: Sun, Venus (R), Saturn → Rahu replaces retrograde Venus (in Saturn's star?); 7th: Jupiter and Ketu → Jupiter, Sun, Saturn significators; 11th vacant → Jupiter.
+- "Always note the 7th cusp sub lord when making marriage predictions."
+- RPs: Venus (Friday), Moon (Cancer), Mercury (Ashlesha), Sun (lagna), Venus (lagna star) → last week of May 1969 (Mercury–Mercury–Jupiter; Mercury transiting the Moon's star). Married 22-5-1969. CONFIRMED.
+
+### June 1970 issue contents
+- Letters
+- "First of its kind"
+- "Erection of correct horoscope"
+- "Will I recover my golden ring?"
+- "Astrological tables for all"
+- "What is wrong with my child?"
+- "Predict election results through KP"
+- "Who is our next Chief Minister?"
+- "Tumour"
+- "Rectification of birth chart"
+- "Rectification of birth time"
+- "Correct position of lagna — RPs"
+- "Is my house a haunted one?"
+
+### Muralidharan, "Erection of correct horoscope" (born 12:30 PM IST 28-12-1928, Hubli 15°20'N 75°12'E) — APP VALIDATION CASE
+- KSK Ephemeris gives sidereal time and planets at **5:30 PM IST (= LMT of 82°30')**: take the ST at 5:30 PM LMT of the previous day if the birth is between noon and 5:30 PM LMT; of the same day if after 5:30 PM. Longitude correction negligible in India.
+- LMT 12:00:48 PM. ST at 5:30 PM 27-12-1928 = 23h52m53s; + interval 18h30m48s + 3m05s → 18h26m46s.
+- Raphael (15°N): between 18:26:09 and 18:30:30 → Asc Aries 8°14'38" sayana; cusps 10 Cap 6°09', 11 Aqu 2°17', 12 Pis 3°09', 2 Tau 12°09', 3 Gem 10°09'.
+  - Minus KSK ayanamsa 1928 = 22°45' → Asc Pisces 15°29'38"; 2 Aries 19°24'; 3 Taurus 17°24'; 4 Gemini 13°24'; 5 Cancer 9°32'; 6 Leo 10°24'; opposites.
+- Planets at 5:30 PM IST 27 and 28 Dec 1928 interpolated for 19h. Nirayana results:
+
+  | Planet | Nirayana |
+  |---|---|
+  | Sun | 253°34' |
+  | Moon | 94°04' |
+  | Mars | 64°10' (R) |
+  | Mercury | 259°14' |
+  | Jupiter | 7°42' |
+  | Venus | 296°32' |
+  | Saturn | 240°32' |
+  | Rahu | 35°43' |
+  | Ketu | 215°43' |
+
+- Fortuna = Asc + Moon − Sun = 185°59'.
+- Dasa: Moon in Pushya (93°20'–106°40'); remaining 12°35.86' → Saturn 19 y × 755.86/800 = 17y 11m 12.57d.
+
+### Sivapatham, "Will I recover my golden ring?" (number 120 → Virgo 22°40'; 11:45 AM CST 8-2-1970, Matale)
+- Uses navamsa lagna (Cancer, movable) and aspects to the lagna/Moon ("malefic Mars aspects lagna → unfavourable reply") — FLAG: traditional.
+- Possessions: 2 (movable), 4 (immovable), 11 (profit, savings). Ketu in Venus's star (Venus = L2) is Venus's agent; Ketu signifies 5, 2, 11, 12 → savings lost.
+- **Recovery = 2nd and 11th cusp sub lords**: 11th cusp Mercury star, Venus sub (Venus in 5); 2nd cusp Jupiter star, Saturn sub (Saturn in 7). "KP: planets in 5, 7, 8, 9, 12 cause loss; in 1, 2, 3, 6?, 10, 11 gains" (text: 1, 2, 3, 5, 10, 11 — typo). The sub lords are deciding → no recovery.
+- **Thief = 7th**: Saturn in the 7th, Ketu's star, Saturn's sub → lean, dark, middle-aged, a labourer/servant. (She admits she sold it.)
+
+### Sivapatham, "What is wrong with my child?" (number 139, 7:40 PM CST Wednesday 21-1-1970, Matale)
+- "Moon rules the mind; Moon and aspects to the Moon indicate the nature of the query." Mercury (air) aspects its own sign and the Moon's sign → upper chest or ear. Saturn (cold) aspects the Moon → phlegm. Venus with Sun in an earthy Saturn sign aspected by Saturn → phlegm. WBC/RBC discussion. FLAG: aspect-based medical horary (contributor).
+
+### Sivapatham, "Predict election results through KP" (number 143, 6:25 PM CST 19-12-1969, Matale; ward 2)
+- **11th cusp sub lord**: 11th cusp Leo 26°04', Venus star, Ketu sub. Venus in the lagna; Ketu in 10 (in Venus's star, Saturn's sub; Saturn in 6) → success. "KP: if the sub lord occupies or signifies 4, 5, 7, 8, 9, 12 → lose; 1, 2, 3, 6, 10, 11 → win."
+- Opponent: their 11th = 5th cusp Aquarius 26°04' (Jupiter star, Ketu sub). Jupiter is 6th from 7 (their loss); Ketu is 4th from 7, in the star of Venus (7th from 7) and Saturn's sub (12th from 7) → opponents lose. UNP won 22-12-1969. CONFIRMED.
+
+### Mathura Ram, "Who is our next Chief Minister?" (Bihar; number 123, 12:55 PM Sunday 18-1-1970, Patna 25°37'N 85°13'E)
+- RPs: Sun (day), Venus (rasi), Moon (star), Mars (lagna).
+- **KP II p.324**: Venus (worldly pleasure) is a "minister" among planets and must be strong; Saturn (position of trust) must be well placed. **KP II p.326**: the fortune to become a minister — cusps of 1, 6, 9, 10 should receive beneficial aspects; the occupants of those houses should be in the stars of benefics (by lordship), with subs ruled by such benefics connected with 1, 6, 9, 10, 11.
+  - 1 = he enjoys; 6 = failure/loss of the opponent; 9 (fortune) …; 10 (power); 11 (gain).
+- Mercury (L1, L10, in 3 = messenger/agent/representative) in Venus's star, Saturn's sub; both in Jupiter's sub (Jupiter in 1 aspecting 10). Mercury retrograde → hard struggle.
+- 1st: Jupiter; Rahu and Mars in Jupiter's star. 6th: Mars (none in its star). 9th vacant (Venus, in Sun's star, Jupiter's sub). 10th vacant (Mercury). 11th: Ketu (Jupiter sub; in Venus's star; Saturn in Ketu's star).
+- Predicted: Daroga Prasad Rai becomes CM → happened 15-2-1970 at 5:15 PM. CONFIRMED.
+- Traditional: Jupiter = karaka of the "Chief Minister of the celestial bodies".
+
+### Nirmalendu Bhattacharyya, "Tumour" (female born 1:13:27 AM IST 9/10-2-1936, 26°28'N 80°24'E; ayanamsa 22°52'; Venus dasa balance 5y 3m)
+- Lost one breast to malignant tumour, operated (plastic surgeon).
+- Western/traditional rules: Mars = karaka of tumours, carbuncles; Jupiter + afflicted Saturn → fibro-cartilaginous tumours; Rahu → malignant; Moon = breast, blood; Cancer (4th sign) = chest, breast. **4th house = breast; the 10th rules the left breast, the 4th the right** (FLAG). Earthy houses 2, 6, 10 = flesh. Mars karaka for breast gland, Venus for glands, Mercury for breastbone. Rahu → virulent and long; Mars → sudden; Saturn → long.
+- **KP diagnostic method (contributor)**:
+  - Each house = a body part (1 head, 2 neck/throat, …).
+  - The cusp sub lord of the body-part house (and its star lord) gives that part's condition. A sub lord in a malefic star or afflicted → defective.
+  - **Disease nature = 6th cusp sub lord.**
+  - When the sub lord of a body-part cusp connects with 1 and 6 → disease in that part; with 8 → danger; with 12 → defect / loss of limb.
+  - "Malefics for health" = planets connected with 6, 8, 12, marakas and badhaka.
+  - Rationale: a house takes ~2 hours to rise, a sub minutes → the sub lord gives the exact condition.
+- 4th cusp sub lord Jupiter in Scorpio (lagna bhava), aspected by Saturn, conjoined with Mars (star lord of 6 and 1) → breast tumour. (Continues.)
