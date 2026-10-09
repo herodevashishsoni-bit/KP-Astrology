@@ -3724,3 +3724,91 @@ Native: Libra lagna 5°51', Saturn in lagna (own star, Mercury sub? "Saturn's st
 - Western aspects (Saturn sesquiquadrate Mars, opposite Sun) → lack of haemoglobin; Sun = heart; Mars = iron, red bone marrow, RBC, spleen. FLAG: Western.
 - **Disease: 6th** (danger 8, hospital 12). The 6th (Sag 5°24' – Cap 5°26') is vacant; L6 Jupiter; Mercury in Jupiter's star → Jupiter/Mercury cause the disease. Mercury conjoined with Ketu and Jupiter, in the 11th? → Mercury indicates the disease AND the cure in its period (in Mercury star, Saturn sub).
 - Improvement from Mars dasa, Jupiter bhukti, Mercury antara (30-12-1969); normal in Venus bhukti (March 1973). Liver extract and vitamin B advised. CHECK.
+
+## MC_109 (Dec 1969 – Jan 1970)
+
+### KSK, "Health, disease and cure" (end)
+- The disease relates to heart, blood and spleen (Mars-ruled signs; Jupiter in Leo in Rahu sub; Rahu in Aries).
+- **Cure = 11th**: first see whether cure is promised at all, then the timing. 11th (Taurus 1°34' – Gemini 5°24') vacant; none in Venus stars → Venus gives cure. Ketu in Libra = Venus's representative. Rahu, Jupiter, Venus in Ketu star.
+  - Rahu signifies the 10th (12th to 11 → doesn't help the cure) but also the 5th (no further disease).
+  - Jupiter (conjoined with L11, in Ketu star) has 4, 11, 6, 10 → can cure if the dasa lord connects with 11. Mars dasa (in 5 = 12th to 6) …
+- RPs (Thursday 2-9?-1969; Mrigasira; Gemini; Pisces 24° lagna) → Jupiter, Mars, Mercury → their conjoined period starts the cure. "L11 for this moment is direct from 4-1-1970." CHECK.
+
+### Letter: P. N. Kakkar (SDO, MES Delhi; born 38 ghati 39 vighati?, 16-1-1912; Mercury dasa balance 6y 1m 8d)
+- In 1965 he feared retirement at 55 (Oct 1966) because of an adverse confidential report. KSK predicted service until Oct 1969 with 3 years' extension in the same capacity (published Jan 1967). He retires 10-11-1969. CONFIRMED.
+- KSK reasoning (Jan 1967 article): service = 2, 6, 10; **retirement = 9 & 12** (sic here).
+  - Entered service in Venus dasa, Mercury bhukti, Moon antara (Venus = L6, in the star of L10/node in 10, Jupiter sub; Moon in the star of L10, Rahu sub).
+  - Mars dasa lord is in the star of L9 but in Saturn's sub → retires but is reappointed; serves throughout Mars dasa. Rahu (in Ketu star = profession; Sun sub = L9) → retirement in Rahu dasa, Rahu bhukti.
+  - **RULE**: the star lord shows the matter (retirement); the sub lord can reverse it (Saturn sub → continued service).
+- Editor: KSK reprints only articles whose predictions came true; other magazines republish failed approaches.
+
+### "Sarada", "Gains without pains" (born 4:27 PM IST 22-11-1934, 28°01'N 73°19'E — the B.L.S. chart from MC_105; Moon dasa balance 1y 2m 3d)
+- **Gains without pains (lottery) = 2, 6, 11, and the significators must also connect with the 5th.** Conjoined period of such significators.
+- Saturn (L11 in 10, on the 11th cusp) in Mars star (Mars in 5) → 11 and 5. Rahu with Saturn, in the star of a planet in 2 → 2 and 5.
+- Significators: Moon (exalted in 2; Moon and Rahu in Moon star), Ketu (in Cancer, none in its star, in Moon's sub), Mercury (L6, Sun sub) and Sun (L5, Mercury sub), Venus (in Saturn star, Ketu sub), Saturn (Mars star, own sub), Jupiter (Rahu star, Venus sub).
+- RPs (9:15 PM Sunday 16-3-1969): Sun, Rahu (Satabhisha), Saturn (Aquarius), Venus (Libra 20°56' lagna), Jupiter (lagna star Visakha) → by strength: Jupiter, Venus, Rahu, Saturn, Sun.
+  - FLAG: the RP strength order here puts the lagna star lord first.
+- Jupiter dasa, Venus bhukti, Rahu antara (from 21-11-69), Saturn sookshma 31-12-69 to 23-1-70 → Sun transit 4-1-1970 (Sunday; Sun in Sag, Purvashadha, Rahu sub); other transits confirm (Visakha day). CHECK.
+
+### K. Ganapathy, "Road to success" (cont.) — lost to de-dup.
+
+### P. C. Bhattacharya?, "Retirement" (born 4:06:23 PM IST 4-9-1910, Sunday, 23°36'N 80°19'E; ayanamsa 22°51'; Capricorn lagna 17°30'; Venus dasa balance 0y 0m 27d)
+- KSK: retirement = conjoined significators of 1, 5, 9, 12 (1 = negation of 2 self-earning; 5 = of 6 service; 9 = of 10 status; 12 = seclusion/separation).
+- 1st vacant, L1 Saturn, none in its stars → Saturn strong.
+- 5th vacant, L5 Venus; Saturn, Sun, Mars, Moon in Venus stars; Mars and Moon in Ketu sub (Ketu in a Mars sign, aspected by Mars); Sun conj Mars (L11) — relief. Saturn in Venus star and sub → highly malefic (unrelieved by the 11th). Rahu deputising for Venus → malefic; aspected by Jupiter (L12) → 5, 9, 12.
+- 9th vacant; Venus lord; Rahu in its sign → same.
+- 12th vacant, L12 Jupiter; Ketu in Jupiter star → Ketu stronger.
+- Retired 30-9-1968 in Saturn dasa, Saturn bhukti, Ketu antara, Rahu sookshma. Moon in Sagittarius (Jupiter) in Venus's star (L5, L9). CONFIRMED.
+
+### January 1970 issue contents (Vol. ?, 1970)
+- "1970 — transit of planets"; "Will the wedding bell ring?"; Letters; "Fate will behave better"; "Astrology and disease"; "Saturn"; "Correct time of birth"; "When will my daughter deliver?"; "Ear trouble"; Daily guide; Ephemeris; Sidereal time table.
+
+### "Will the wedding bell ring?" (girl born 7:05 PM 15-6-1939; query 10:25 PM IST 22-10-1969, New Delhi)
+- KP: the 7th cusp sub lord decides whether marriage is possible (text lost). Table of 2/7/11 significators by level (A) planets in the star of occupants, (B) occupants, (C) planets in the star of owners, (D) owners.
+- Ketu conjoined with Saturn (L2), aspected by Mars from the 2nd, in Mars's sign → substitute for Saturn and Mars; in Mercury's sub → very powerful.
+- At query: Gemini rising; lagna star and sub both Rahu ("coincidence"); the 7th cusp in Sagittarius, Mula (Ketu) star, Rahu sub → Rahu and Ketu in their conjoint period must cause fixation and celebration. Moon at the query was in Jupiter star and Rahu sub; Mercury in Rahu star, Jupiter sub natally.
+- Transits plus **progressions** (Sun, Moon, Mercury, Venus "progressed positions") on 24-6-1970 → marriage date. FLAG: progressions are Western, not KP Reader method. CHECK (came true "to the hour" per the editor's note on another prediction?).
+
+### Letters: K.L.N.R. (Essex) requests reading of a friend born London 26-6-1886 after midnight. V. Srihari: KP accurate even for minor events (children's arrival, power restoration).
+
+### K. Ganapathy, "Fate will behave better" — sign-based character advice (Aries … Virgo shown).
+- "Astrology indicates and does not dictate" (contradicts KSK's fatalism; FLAG).
+- Sun-sign style personality sketches — NOT KP methodology; ignore for the app, except perhaps as generic text (reject).
+
+### "Astrology and disease" (much lost)
+- Cure denied → wait until significators of 5 and 11 operate.
+- Nature of disease by the ascendant and its significators. Fatal disease = significator of the 8th; "the last disease from which one dies is judged from the sub lord of the 8th cusp" (cusps change between twins).
+- **Table: 6th cusp sub lord (planet) × sign → disease** (if that planet is the 6th sub lord and signifies 6 and 1, or the 6th significator is also a 1st significator and in that planet's star):
+  - Moon: Aries — insomnia, headache, lethargy, weak eyes; Taurus — sore throat, eye trouble, menstrual complaints; Gemini — lung catarrh, asthma, bronchitis, pneumonia, rheumatism; …
+  - Sun: Sagittarius — sciatica, limb paralysis, pulmonary; Capricorn — rheumatism, skin, digestive; Aquarius — varicose veins, dropsy, poor circulation, palpitation; … Pisces — tender feet, abdominal disorders (drugs, drink).
+  - Mars: Gemini — lung haemorrhage, pneumonia, bronchitis, fractures of arm/collarbone/femur, sciatica; Cancer — milk fever, stomach ulceration and haemorrhage, dyspepsia; … Aquarius — varicose veins, leg fracture, blood poisoning, heart failure, fainting.
+  - Mercury: Aries — brain fever, nervous headache, vertigo, neuralgia, kidney nerves, lumbago; Taurus — stuttering, hoarseness, deafness, genito-urinary nerves; Gemini — gout in the head …; Leo? — palpitation, heart neuralgia; Pisces — gout in the feet, weakness, TB, deafness.
+  - (Other planets lost.) FLAG: largely Western (Heindel-type) planet-in-sign disease lists; usable as descriptive text for the app's disease nature, marked "magazine, contributor".
+
+### "Saturn" — delineation of Saturn by its sub lord and by houses signified (Jan 1970; author not shown)
+- General: patience, industry, delay, limitation, humility; tests most; tempts and few succeed.
+- **Saturn in the sub of**:
+  - **Sun**: generous, quick-tempered, bold; secret enmity of servants if Sun signifies an evil house; accidents, overwork; love affairs unpleasant; children sorrow; weak heart; father dies early or separation. If Sun is well placed: inheritance from old people, organising ability, economical, rich, permanent investments, land; promotion; wholesale trade; position of trust; municipal/government service.
+  - **Moon**: unfortunate for position and possessions; obstacles; downfall; bank overdraft trouble; parents' health; separation; residence problems; painful marriage; dissatisfied, changes residence/job. If Moon is well placed: honest, gains, legacy, rentals, rich, responsible position, agriculture, oils, petrol, mine products.
+  - **Mars**: ambitious, power, diplomatic, selfish; companies and farms; bad for father (disagreement, separation, bereavement). Well placed: courageous, enterprising (engravers, masons, contractors, builders, surveyors, mine engineers, advocates, surgeons, musicians). Ill placed: temper, rash ruin, crimes or robbery, property disposal, poxes, fractures.
+  - **Mercury**: early-life and education troubles, depression, bad relations with siblings/cousins/maternal uncle; fruitless short journeys. Well placed: depth of thought, research, analytical (draftsman, writer, teacher, scientist, mathematician, statistician, handwriting expert, museum). Ill placed: irritable, cynic, inferiority, reversion; mental disease, headache; forgery, falsification, misappropriation → prison.
+  - **Jupiter**: frank, philosophical, helpful, occult/prophetic, power, religious position, two occupations, gains through father/long travel/strangers, inheritance, adoption or legacy, government position, speculation gains, long-term investment. Ill placed: public scandal, nervous breakdown, hostile superiors, false friends, chronic illness (tumour, cancer); banks, mines, physician, hospitals; litigation losses; may lose a grown child.
+  - **Venus**: firm, quiet, kind; money in public ventures, shares, speculation, banks; gains through partner/wife; arranged marriage; botany, horticulture, stock breeding, veterinary, skins, leather. Ill placed: womanising, separation, broken contracts, dismissal ("high position only to drop him"); discredit, VD, wife's premature death. Well placed: one marriage, faithful partner, honours, exam success.
+  - **Own sub**: general Saturn traits. **Node sub**: as for the planet the node represents.
+- **Saturn as significator of** (good if it also signifies a favourable house; bad if an evil house):
+  - 1: thoughtful, prudent, economical, methodical, slow success; with evil houses: losses, poverty, struggle.
+  - 2: maximum labour, minimum wages; hard to get a job; sudden reversals. Good sub: land, buildings, mines, cold storage, ice plant, coal. **"Saturn as significator of the 2nd will cause death."**
+  - 3: tactful, studious, slow speech, brief writing; misunderstanding with siblings/neighbours; postal delay; school hindrance.
+  - 4: property, agriculture, real estate, mine ores; evil: property trouble, no inheritance, domestic unrest, can't thrive in native place.
+  - 5: gain by speculation, cinema; prolonged love affairs; a female marries an elderly man, a male someone equal or older. Evil: no speculation, delay in parenthood, still birth, film losses, danger from animals; weak heart; drowning if in a watery sign.
+  - 6: colds, chills, constipation, poor circulation, rheumatism, bladder stone, toothache, ear trouble, spleen, kneecap, stunted growth (calcium phosphate); labour trouble; loss of pets; service in mining, masonry, cement, excavation.
+  - 7: sincere, faithful partner (may be older); property and children. Evil: death to native(?), troubles with partner, contract losses, litigation, late marriage.
+  - 8: long life, natural death, legacy, recovery of entangled money. Evil: lingering painful end, poor wife, no dowry, business failure, swindling partner, separation from or loss to father; drowning (watery sign); accident/fracture/death (Mars sub).
+  - 9: studious (law, mineralogy, geology, metaphysics, occult), religious, archaeology. Evil: trouble through strangers or abroad, long-journey danger, lose court case, mental derangement.
+  - 10: power, advancement beyond birth station (minister, official, manager, advocate, judge, surveyor, geologist, architect, mine engineer, contractor, coal, printer…). Evil: rapid rise then great fall; dishonour, reversion; bankers fail; lose election deposit.
+  - **Saturn signifying 10, 11 and 12**: in its dasa, bhuktis of planets signifying 1/2/3/6/10/11 → advantages; bhuktis of planets signifying 4/5/7/8/12 → adverse (lose position, betrayal, danger to mother, car damage, building pulled down, child's death, pets, partner's speculation loss, elder brother's health). → convertible-planet rule restated.
+  - 11: lasting friends, elders; delayed childbirth; children's marriages after attempts; gains, promotion by a senior's death, legacy, litigation success, speculation and auction gains, donations.
+  - 12: success in secret work (CBI/CID), investments, jails, hospitals, isolation, famine/refugee centres, asylums. Evil: conviction and prison, bribery trap, theft, deception, fracture, hospitalisation, false accusation, running away from home, hallucination.
+- Advice section (Saturday actions, elders, labour, discretion, colours/sapphire/lead/numbers 8, 17, 26) — REJECT remedies.
+- Saturn-period journeys: postponements, breakdowns, second trips needed. Health: chronic complaints, falls, bones, teeth. Professions: agriculture, bricks, coal, cement, clay, geology, farming, glue, gravel, hides, ice, slaughterhouse, cremation, tannery, leather, labour, mines, monuments, prison, paralysis treatment, famine centres, quarry, refugee camps.
+- → APP: these are "magazine delineation" texts usable for natural-language descriptions keyed by (planet, sub lord) and (planet, houses signified). Mark source.
