@@ -340,6 +340,12 @@ For each matter the engine walks every dasa–bhukti–antara of the native's li
 3. The dasa lord must score > 0 (dasa supremacy); otherwise the window is dropped.
 4. Ties broken by: (a) RPs at judgment time, (b) "A–B–A" full-extent pattern, (c) a matching Sun/Jupiter transit point in the window.
 5. Top 3 non-overlapping windows are shown; each with dates, the lords, and a one-line reason ("Venus: occupant of 7, sub lord Jupiter signifies 11"). Past windows are marked PAST.
+   - **Ranking covers the whole life, past and future together.** For a person born in the 1970s, a 1990s marriage window can rank #1 and is shown as "#1 most probable — PAST".
+   - **One-time vs repeating events.** For one-time events (first marriage, death, birth of the first child), the #1 window is "the" predicted time. If it is past, the bio says the event most probably happened then. Later windows apply only if the chart also promises a repeat (e.g. second marriage per §3.4). For repeating events (job change, transfer, travel, residence), every strong window is listed, past and future.
+   - **Actual events (optional user input).** The user can enter "married on 12-5-1996", etc.
+     - The engine reports whether the real date fell in window #1, #2, #3 or none, which is a check on birth time and method.
+     - The entered events feed rectification (§6.1 step 4).
+     - Once a one-time event is confirmed, its future windows are shown only as "repeat, if promised".
 6. Each window can be opened to see the transit-pinpointed dates within it (§4.1).
 
 ---
@@ -396,6 +402,8 @@ The bio is natal. Horary (1–249 numbers, R6) is used inside the app for one pu
 ---
 
 ## 8. Decisions you need to make (summary of every DECIDE)
+
+**User policy (decided):** wherever the sources give two or more rules for the same thing, the app computes **every variant** and shows all of them side by side. Each result is labelled with its source (e.g. "Retirement — R3 houses 3, 5, 9: window A; KSK magazine houses 9, 12: window B"). The "default" column below now only decides which variant is listed first. This does not cover methods you have excluded outright (traditional and Western, §7); those stay off unless you switch them on.
 
 | # | Question | Options | My default |
 |---|---|---|---|
