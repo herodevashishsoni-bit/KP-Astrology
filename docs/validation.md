@@ -79,3 +79,9 @@ The whole-life lists remain only as "periods when the matter is active", not pre
   - Class 10 (2015, Mer–Mer–Sat) and Class 12 (2017, Mer–Ven–Moon) both fit education houses 4/9/11.
   - The younger siblings' births (24-11-2001, 23-6-2005) fit only weakly or partly: rule 3 (or 5 for the 2nd younger) with 2 and 11.
 - **Birth time:** RP rectification at the judgment moment gives 8:05:30–8:06:30 PM IST (Cancer 3°21′–3°34′, Moon / Saturn / Saturn / Saturn). The recorded 8:07 PM is in the same sub. The event scan also favours 8:06–8:09 PM.
+- **User's actual jobs:** Oct 2024 (~2 months), Sep 2025 (~1.5 months), ~Feb–Apr 2026. Antara rule (R4 p.118, fruitful significator): the antara lord signifies 2, 6 or 10 AND its sub lord does too.
+  - 9 of 10 antaras from Apr 2024 to Oct 2026 match. The job antaras are Rahu–Moon, Jupiter–Saturn and Jupiter–Ketu.
+  - Jupiter–Mercury qualifies, but the job began only in its last month.
+  - The ends of the jobs fall at antara boundaries.
+  - Next qualifying antara: Mercury–Jupiter–Moon, from 17-10-2026, the same as ask-now #1.
+  - This antara rule did not stand out over whole lives in the book cases (lift 1.06), so a dated-event test on more charts is needed before it becomes the default.
