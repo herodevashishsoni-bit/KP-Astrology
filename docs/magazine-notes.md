@@ -9012,3 +9012,17 @@ Cusps (sign, star, sub): XI Jupiter/Ketu/Venus; VI Mercury/Jupiter/Venus; V Merc
 - **Matching of horoscopes for marriage (KSK)**: bride **6:05 AM, 31-10-1943** (Anuradha); groom **2:20 AM, 8-5-1941** (Uttaraphalguni). KSK walks through **traditional porutham (dina, gana, sthree-dheerga, yoni, rasi, rasyadhipathi, vasya, rajju, vedha, mahendra) and Mars dosha (exceptions)** and declares agreement — **CONTRADICTION** with his statements that porutham is secondary/unreliable (MC_046) → FLAG (DECIDE: compatibility via KP significator–RP cross-match only). KP part: "**For matrimony 7 and 8 houses (of both) to be judged; the ruling planets of the partner must be governed by the native's significators**" (bride's significators Mercury, Rahu; groom's Rahu, Mars, Saturn). Marriage: bride Mercury–Rahu–Mercury, groom Rahu–Saturn–Mars → Sun in Mars sign Mercury star Rahu sub **9-12-1966**, Swathi day. CHECK.
 - **Horary — can I see my Guruji again? (KSK, Bombay 9:30 AM 23-7-1966, no. 70)**: 70 → Jyeshta 2nd qtr Scorpio (20°–23°20′). **Guru/father/officer/teacher = 9th**; Moon (lord 9) in own star Hasta in 10th/11th sign; Moon square Mars (lagna lord) separating → cannot meet now; next applying aspects (FLAG aspects, "rule applicable for father's whereabouts too"). **RPs at query: Saturn (day), Mars (lagna), Mercury (rasi), Moon (star).** **Reunion = 1, 9, 11**: no occupants; lords Mars, Moon, Mercury; Rahu in Mars's sign → stronger. Horary dasa: Moon balance 6y0m1d → Moon–Jupiter (3m1d), Moon–Saturn (19m; Saturn opposes Moon → no), **Moon–Mercury–Rahu ~April 1969** (transit Jupiter in Virgo, Mars in lagna). CHECK.
 - **Timing of events by progression (Bala)** → FLAG (Western progressions). (cont. MC_055)
+
+## MC_055 (Oct 1966) [detailed redo]
+- **Bala, "Timing of events by progression"**: primary/secondary directions, Adjusted Calculation Date, guide to aspects; example native 7:30 PM IST 16-3-1933. FLAG (Western progression; not KP).
+- **Gnana Pradeepika ch. XIII–XVI** (serial): traditional prasna. REJECT for engine.
+- **Anjaneyulu, "Saturn offers sale of vehicle"**: Leo lagna; lagna lord in 12th with Saturn in Ashlesha.
+  - Rule used: sale of vehicle = 1, 3, 8, 10 (+ Venus karaka); sale of house = 3, 5, 8, 10 (+ Mars karaka).
+  - Saturn dasa–Saturn bhukti; Saturn in own star Pushya signifies 1 & 2 (its houses) → vehicle sold, house not.
+  - Timing: 14-5-1966 (Saturday) 10 AM–noon; Saturn entering Uttarabhadra in own sub; Sun in Rahu sub; Moon in Sathabhisha (Rahu star). Transit of dasa/bhukti lords through stars/subs of each other for the date.
+- **Anjaneyulu, "Exalted Jupiter offers accidents"**: accidents 23-7-1963 (Tuesday, Moon in Magha) and 11-4-1966 (Monday, Moon in Moola) — under Saturn–Rahu, not Saturn–Jupiter as querist claimed.
+  - Saturn in Rohini (Moon, lord 12); Rahu in Magha, Jupiter sub (lord 5 & 8) → accident.
+  - Rule: "RPs at event indicate the running periods" (validation/rectification).
+  - Predicted Mercury dasa danger dates (Mercury exalted, in Chitra, Rahu sub): 2–3 Apr 1968, 28–29 Sep 1968, 8–9 Dec 1968, 22–24 Jun 1969, 6–7 Jul 1969; avoid driving Tue/Wed. CHECK (prediction, no outcome).
+- **M.S. Mani, "Appointment—when"**: RPs restated — astrological day starts at sunrise (day lord changes at sunrise, not midnight); Moon star lord, Moon sign lord, lagna sign lord, lagna star lord; 108-number method for horary. Continues MC_056.
+  - Rule: weekday for RP = sunrise-to-sunrise. (Engine: compute day lord from local sunrise.)
