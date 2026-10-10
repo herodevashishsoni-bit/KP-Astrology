@@ -19,7 +19,7 @@ from kp.rectify import candidates as rect_candidates, check_events, vighati_chec
 from kp.remedies import gems
 from kp.rp import rp_now
 from kp.significators import Engine
-from kp.windows import bio as make_bio
+from kp.windows import ask_now, bio as make_bio
 
 from .auth import check_pw, current_user, hash_pw, token_for
 from .db import ChartRec, EventRec, SessionLocal, User, init
@@ -211,6 +211,15 @@ def bio_view(chart_id: int, ayanamsa: str = "KSK", aspects: bool = True, matter:
                    only=[matter] if matter else None)
     out["ruling_planets_now"] = {k: v for k, v in rp.items() if k != "chart"}
     return out
+
+
+@app.get("/api/charts/{chart_id}/ask")
+def ask_view(chart_id: int, matter: str, lat: float, lon: float, ayanamsa: str = "KSK", years: float = 5,
+             user: User = Depends(current_user)):
+    """KSK's timing: one matter, asked now, at the asker's current place."""
+    with SessionLocal() as s:
+        ch = chart_of(get_chart(chart_id, user, s), ayanamsa)
+    return ask_now(ch, matter, datetime.now(timezone.utc), lat, lon, min(years, 15))
 
 
 class RectIn(BaseModel):

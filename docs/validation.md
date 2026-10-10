@@ -34,3 +34,36 @@ What helps within the source rules:
 - the RPs at the moment the user asks about a specific matter, KSK's own method.
 
 Status: the sum method is the default. Ranking quality is reported honestly in the app.
+
+## Run 2: timing investigation (42 events, 34 with verified data)
+
+**Data check.** An event counts as "verified" when our dasa–bhukti at the event equals the printed one, or when nothing is printed. 8 events failed this check: the printed birth data is probably damaged (e.g. Madras-1929, where the source says Rahu–Ketu and we compute Mercury–Venus). Those were left out of tuning.
+
+**Diagnostic** (`backend/tests/diag.py`). For each source-based criterion: how often does the actual event period pass it, and what share of all life periods pass it? Lift = hit rate ÷ share of periods passing; 1.0 means no better than chance.
+
+| Criterion | Event periods passing | Share of life passing | Lift |
+|---|---|---|---|
+| D, B, A all signify the houses (levels 1–4) | 25/34 | 0.68 | 1.08 |
+| D, B, A all signify at levels 1–2 | 10/34 | 0.27 | 1.08 |
+| B and A among the strongest significators (KSK selection) | 12/34 | 0.35 | 1.02 |
+| D, B, A signify, with fruitful sub lords | 21/34 | 0.58 | 1.06 |
+| Star and sub lords of D, B, A signify | 23/34 | 0.56 | 1.21 |
+| Cusp sub lord or its star lord among D, B, A | 11/34 | 0.33 | 0.98 |
+| Negation filters (12th houses) | — | — | 0.0–1.15 |
+
+**Finding.** Applied over a whole life, the significator rules hardly separate the event period from other periods. Each planet signifies 4–6 of the 12 houses, so most periods qualify for most matters. In the books KSK never ranked a whole life. He judged at the moment someone asked, and the ruling planets of that moment picked the period.
+
+**Question-time test (horary module, 3-year horizon).** The actual date was in the top 3 windows for 3 of 4 confirmed cases:
+- brokerage: rank 1;
+- Kulu transfer: rank 3;
+- Gaya transfer: rank 1–3, depending on the source version;
+- Chopra promotion: missed (the order came within 3 weeks; finer sub-periods are needed).
+
+**Change made.** Timing is now KSK's method, "When? Ask now" for one matter (`kp.windows.ask_now`):
+- every one of the dasa, bhukti and antara lords must signify the matter;
+- the ruling planets of the moment must be among the bhukti or antara lords;
+- the earliest strong period comes first.
+
+The whole-life lists remain only as "periods when the matter is active", not predictions.
+
+**Limit.** The ruling planets are the same for every question asked at the same moment. So the method distinguishes matters only when they are asked one at a time, as KSK's clients did.

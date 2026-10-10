@@ -367,3 +367,69 @@ def bio(chart: Chart, now: datetime | None = None, use_aspects: bool = True,
     return {"generated": now.isoformat(), "ayanamsa": chart.ayanamsa_name, "matters": reports,
             "significators": engine.table(), "houses": engine.house_table(),
             "aspects": [a.as_dict() for a in engine.aspects]}
+
+
+def ask_now(chart: Chart, matter_key: str, now: datetime, lat: float, lon: float,
+            horizon_years: float = 5.0, use_aspects: bool = True) -> dict:
+    """KSK's timing practice for a question asked now (R3 l.~13400; R6; MC_056–061):
+    the significators of the matter's houses give the candidates; the ruling planets at the
+    moment of the question select among them; the earliest strong conjoined period wins.
+    Validation note: whole-life ranking has little lift (docs/validation.md); question-time
+    selection reproduced 3 of 4 confirmed horary cases in the top 3."""
+    from .rp import rp_now
+    engine = Engine(chart, use_aspects=use_aspects)
+    rp = rp_now(now, lat, lon, chart.ayanamsa_name)
+    rps = rp["ruling_planets"]
+    mats = {m.key: m for m in catalogue(chart)}
+    m = mats[matter_key]
+    end = now + timedelta(days=365.25 * horizon_years)
+    periods = [p for p in D.periods(chart.utc, chart.planets["Moon"].lon, 3, 120)
+               if p.end > now and p.start < end]
+    agents = {n: [a for a, _ in engine.node_agents(n)] for n in ("Rahu", "Ketu")}
+    rp_ext = set(rps)
+    for n, ag in agents.items():
+        if n in rps:
+            rp_ext |= set(ag)
+        if set(ag) & set(rps):
+            rp_ext.add(n)
+    out = []
+    for v in m.variants:
+        scored = score_periods(engine, m, v, periods)
+        if not scored:
+            out.append({"houses": v.houses, "source": v.source, "windows": [],
+                        "promise": promise(engine, *v.promise) if v.promise else None})
+            continue
+        top = max(s.score for s in scored)
+        cands = []
+        for s in scored:
+            lords = s.period.lords[:3]
+            if not all(engine.strength(l, v.houses)[0] > 0 for l in lords):
+                continue                                     # D, B, A must all signify the matter
+            k = len(set(lords[1:]) & rp_ext)
+            if k == 0:
+                continue                                     # RPs must pick the bhukti or antara
+            cands.append((s, k))
+        cands.sort(key=lambda x: (-(x[1] + (x[0].score >= 0.7 * top)), x[0].period.start))
+        picked, seen = [], set()
+        for s, k in cands:
+            key = s.period.lords[:2]
+            if key in seen:
+                continue
+            seen.add(key)
+            st = "CURRENT" if s.period.start <= now else "FUTURE"
+            picked.append({"lords": list(s.period.lords[:3]), "start": s.period.start.date().isoformat(),
+                           "end": s.period.end.date().isoformat(), "status": st, "score": s.score,
+                           "rp_lords": sorted(set(s.period.lords[:3]) & rp_ext), "reasons": s.reasons[:4],
+                           "pinpoint": pinpoint(s.period.lords[:3], max(s.period.start, now), s.period.end,
+                                                chart.ayanamsa_name, agents=agents)})
+            if len(picked) >= 3:
+                break
+        picked.sort(key=lambda w: w["start"])
+        for i, w in enumerate(picked):
+            w["rank"] = i + 1
+        out.append({"houses": v.houses, "source": v.source, "windows": picked,
+                    "promise": promise(engine, *v.promise) if v.promise else None})
+    return {"matter": m.title, "key": m.key, "asked_at": now.isoformat(), "ruling_planets": rps,
+            "ruling_planets_with_nodes": sorted(rp_ext), "horizon_years": horizon_years, "variants": out,
+            "method": "KSK: significators of the matter's houses; ruling planets at the moment of asking select the "
+                      "period; earliest strong conjoined period first (R3 l.~13400; magazines)."}

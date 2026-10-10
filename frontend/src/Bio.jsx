@@ -34,10 +34,44 @@ function Window({ w }) {
   )
 }
 
-function Matter({ m }) {
+function Ask({ id, m, aya }) {
+  const [open, setOpen] = useState(false)
+  const [lat, setLat] = useState(() => { try { return localStorage.getItem('kp_lat') || '' } catch { return '' } })
+  const [lon, setLon] = useState(() => { try { return localStorage.getItem('kp_lon') || '' } catch { return '' } })
+  const [years, setYears] = useState(5)
+  const [res, setRes] = useState(null)
+  const [err, setErr] = useState('')
+  const go = async () => {
+    setErr(''); setRes(null)
+    try { localStorage.setItem('kp_lat', lat); localStorage.setItem('kp_lon', lon) } catch {}
+    try { setRes(await api.ask(id, m.key, lat, lon, aya, years)) } catch (e) { setErr(e.message) }
+  }
+  if (!open) return <p><button className="primary" onClick={() => setOpen(true)}>When? Ask now</button>
+    <span className="small muted"> KSK's method: ask about this one matter, now. The ruling planets of this moment pick the period.</span></p>
+  return (
+    <div className="variant">
+      <div className="row">
+        <div><label>Your latitude now</label><input value={lat} onChange={(e) => setLat(e.target.value)} /></div>
+        <div><label>Your longitude now</label><input value={lon} onChange={(e) => setLon(e.target.value)} /></div>
+        <div><label>Look ahead (years)</label><input value={years} onChange={(e) => setYears(e.target.value)} /></div>
+        <div style={{ flex: 'none' }}><button className="primary" disabled={!lat || !lon} onClick={go}>Ask</button></div>
+      </div>
+      {err && <div className="error">{err}</div>}
+      {res && <div className="small">
+        <p>Ruling planets at {res.asked_at.slice(0, 16).replace('T', ' ')} UTC: <b>{res.ruling_planets.join(', ')}</b></p>
+        {res.variants.map((v, i) => <div key={i}><b>Houses {v.houses.join(', ')}</b> <span className="muted">— {v.source}</span>
+          {v.windows.length === 0 && <div className="muted">No period in this span has lords that signify the matter and are picked by the ruling planets.</div>}
+          {v.windows.map((w) => <Window key={w.rank} w={{ ...w, age_at_start: '' }} />)}</div>)}
+        <p className="muted">{res.method} Ask once and with intent; asking repeatedly changes the moment.</p></div>}
+    </div>
+  )
+}
+
+function Matter({ m, id, aya }) {
   return (
     <div className="panel matter">
       <h3 style={{ margin: '0 0 4px' }}>{m.title} {m.one_time && <span className="badge muted">one-time</span>} {m.karaka && <span className="muted small">karaka {m.karaka}</span>}</h3>
+      <Ask id={id} m={m} aya={aya} />
       {m.span && <div className="small">Span of life — {m.span.rules.map((r, i) => <div key={i}><b>{r.band}</b>: {r.reason} <span className="muted">({r.source})</span></div>)}
         {!m.span.agree && <div className="warn">The two span rules disagree, so no window is pushed down for age.</div>}</div>}
       {m.variants.map((v, i) => (
@@ -89,14 +123,14 @@ export default function Bio({ id }) {
           {groups.map((g) => <option key={g}>{g}</option>)}</select>
       </div>
       <p className="small muted">
-        Windows are dasa–bhukti–antara periods over the whole life, past and future, ranked by significator strength (kp-rules §4.2).
-        Where the sources disagree, every version is shown with its source. In tests on confirmed cases the actual event was in the top 3
-        windows only some of the time (see docs/validation.md). Treat the windows as candidates, and enter known events to check the chart.
+        For a date, use <b>When? Ask now</b> on one matter: that is how KSK timed events, and it is the method that passed the tests.
+        The whole-life windows below are periods when the matter is active by significators only. In tests on 34 confirmed events they
+        did not single out the actual period (docs/validation.md), so they are not predictions.
       </p>
       {err && <div className="error">{err}</div>}
       {!d && !err && <p>Computing…</p>}
       {d && d.ruling_planets_now && <p className="small muted">Ruling planets now (tie-break only): {d.ruling_planets_now.ruling_planets.join(', ')}</p>}
-      {d && d.matters.filter((m) => group === 'All' || m.group === group).map((m) => <Matter key={m.key} m={m} />)}
+      {d && d.matters.filter((m) => group === 'All' || m.group === group).map((m) => <Matter key={m.key} m={m} id={id} aya={aya} />)}
     </div>
   )
 }

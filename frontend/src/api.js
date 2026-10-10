@@ -36,6 +36,7 @@ export const api = {
   chart: (id, aya) => call('GET', `/api/charts/${id}/chart?ayanamsa=${aya}`),
   dasa: (id, aya, depth) => call('GET', `/api/charts/${id}/dasa?ayanamsa=${aya}&depth=${depth}`),
   bio: (id, aya, aspects = true) => call('GET', `/api/charts/${id}/bio?ayanamsa=${aya}&aspects=${aspects}`),
+  ask: (id, matter, lat, lon, aya, years) => call('GET', `/api/charts/${id}/ask?matter=${matter}&lat=${lat}&lon=${lon}&ayanamsa=${aya}&years=${years}`),
   rectify: (body) => call('POST', '/api/rectify', body),
   horary: (body) => call('POST', '/api/horary', body),
   rp: (lat, lon, aya) => call('GET', `/api/rp?lat=${lat}&lon=${lon}&ayanamsa=${aya}`),
