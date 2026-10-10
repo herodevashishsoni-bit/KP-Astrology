@@ -67,3 +67,15 @@ Status: the sum method is the default. Ranking quality is reported honestly in t
 The whole-life lists remain only as "periods when the matter is active", not predictions.
 
 **Limit.** The ruling planets are the same for every question asked at the same moment. So the method distinguishes matters only when they are asked one at a time, as KSK's clients did.
+
+## Run 3: user chart (Devashish Soni, 16-12-1999 8:07 PM IST, Ajmer)
+
+- **Ask now, first earning (job, houses 2/6/10):** asked 10-10-2026 4:33 PM IST, Jaipur. Ruling planets: Jupiter, Saturn, Moon, Mercury, Rahu.
+  - #1: Mercury–Jupiter–Moon, 17-10-2026 to 25-12-2026; Sun-transit dates 16 and 20 Dec 2026.
+  - #2: Mercury–Saturn–Mercury, 18-11-2027 to 5-4-2028.
+  - The promise is "promised" (10th cusp sub lord Jupiter).
+  - Prediction, to be checked.
+- **Known events:**
+  - Class 10 (2015, Mer–Mer–Sat) and Class 12 (2017, Mer–Ven–Moon) both fit education houses 4/9/11.
+  - The younger siblings' births (24-11-2001, 23-6-2005) fit only weakly or partly: rule 3 (or 5 for the 2nd younger) with 2 and 11.
+- **Birth time:** RP rectification at the judgment moment gives 8:05:30–8:06:30 PM IST (Cancer 3°21′–3°34′, Moon / Saturn / Saturn / Saturn). The recorded 8:07 PM is in the same sub. The event scan also favours 8:06–8:09 PM.
