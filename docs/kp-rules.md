@@ -32,6 +32,13 @@ Markers used:
 ### 1.4 Lagna only
 - "In the research after 1967 it was found that we have to take always the Lagna alone. Never judge whether Moon sign or Lagna is stronger" (R3 l.~10725; reconfirmed R3 l.~18680: "since end 1965").
 - Earlier magazine cases (1964–Jan 1968) read from the Moon sign when the lagna was "afflicted". **Decision:** lagna/cusps only. The Moon-sign method is not implemented (listed under excluded methods).
+- The early rule as KSK himself stated it (MC_057 "Smooth life", MC_059 "Defect from birth", MC_060 "Which is half-baked"):
+  - Lagna afflicted and Moon sign not → take the Moon sign.
+  - Lagna not afflicted, or both afflicted → take the lagna.
+  - "Afflicted" means Saturn, Rahu, Ketu or Mars in the sign, whether before or after the degree ("a snake in the room").
+  - When in doubt, use the RPs.
+
+  KSK also used it in "Building—will I shift?" (MC_056). The later R3 statement supersedes it, so these cases are validated on the lagna only.
 
 ### 1.5 Birth time and place
 - The birth moment is when the child is severed from the mother (separate breathing) [KSK].
@@ -75,6 +82,13 @@ Markers used:
 
 - Strength statement (R3 p.318–319, l.~13730): occupant of a star > lord of the star; star > sign; occupant of a sign > lord of the sign.
 - **DECIDE (aspects for level 5–6):** R3 uses Western degree aspects (conjunction, opposition, trine, square, sextile, 108°, semi-square) in the dasa principle, and Hindu full aspects (Jupiter 5/9, Saturn 3/10, Mars 4/8) for nodes. **Default:** conjunction only for levels 5–6 within the same bhava and a small orb (APP CHOICE: 3°20′, one pada), plus Hindu full aspects for nodes as R3 does. Western aspects are listed as excluded from scoring (§7) — you may switch them on.
+- **New evidence for this DECIDE (MC_061, Jan 1967, official statement of the method):**
+  - The method statement says: "Follow western system of houses; aspects and progression, Hindu aspects."
+  - So in 1967 KSK's own method included Western aspects and even progressions. Many 1966 cases use 108°, 144°, 135° and other aspects, and transit aspects to natal positions.
+  - The later Readers drop progressions. R3 still uses degree aspects in the dasa principle.
+
+  Because you asked for no Western methods, the default stays "off". This is the single biggest source-vs-preference conflict, so please confirm.
+- Inverse aspect rule [KSK, MC_060]: a good aspect or conjunction of lord 12 with the lords of 2, 6 and 10 harms; an adverse aspect from lord 12 helps. This applies only if aspects are switched on.
 
 ### 2.3 Cusp sub lords decide the promise
 - "The sub lord of each cusp gives the correct solution of that house (promise); significators show the time" (R3 l.~18680).
@@ -90,6 +104,9 @@ Markers used:
 - At a given moment: (1) day lord, (2) Moon's star lord, (3) Moon's sign lord, (4) lagna sign lord, (5) lagna star lord; plus a node that is in the sign of, conjoined with, or aspected by one of them (R3 l.~21250; R6).
 - The day runs sunrise to sunrise for the day lord [KSK]. The Moon's star and sign change at their real ingress (a contributor's "change only after sunrise" is rejected, MC notes l.6590).
 - Horary/RP use only: reject an RP that is in the star of a retrograde planet (R6).
+- RPs are taken when the astrologer judges and answers ("when the urge is there"), not when the question was asked [KSK, MC_057 "Fortune—from when"].
+- RPs are used to confirm and to select 3–4 significators when many come up. "It does not mean that the RPs promise success" [KSK, MC_058].
+- RPs reveal correctly only with the KP ayanamsa [KSK, MC_117].
 - **DECIDE (RP strength order):** variants found — lagna star lord > lagna sign lord > Moon star lord > Moon sign lord > day lord (R6 usual list); "star lord > sign lord > day lord" (R3 l.~12370); contributors give lagna lord first (MC_131). **Default:** the R6 order; the app uses RPs mainly as a filter (yes/no), so the order only breaks ties.
 
 ### 2.6 Nodes (Rahu, Ketu)
@@ -100,6 +117,11 @@ Markers used:
   - (b) star lord first, unless the node is in its own star (MC_123).
   - (c) other orders in R6.
   - **Default:** (a), and the node also carries every house its agents signify (so the order only matters for ranking).
+- **Substitution** [KSK, MC_058 "Service or independent work"; MC_060]:
+  - If a planet selected as significator owns the sign that a node occupies, substitute the node, which is stronger ("tenants are stronger than the owner; nodes are ever tenants").
+  - A node in either sign of a planet represents both of that planet's signs and houses.
+  - A node conjoined with, aspected by, or in the sign of an RP is a stronger RP (KSK editor's note, MC_057).
+  - An unconjoined node in the sign of planet X gives the houses of both of X's signs (MC_057 example: Pisces lagna, node in Aries → houses 2 and 9).
 
 ### 2.7 Dasa principle (R3 l.19248+, "to be strictly and universally applied")
 - The dasa lord's nature = how the result comes; houses it owns = source; its star lord's houses = what it predominantly gives; its sub lord benefic → realised, malefic → denial/anxiety.
@@ -107,6 +129,15 @@ Markers used:
 - "A dasa, B bhukti, A antara give the result to the full extent" (R3 l.~9560).
 - Do not split a dasa into halves; a planet owning good and bad houses gives the good in bhuktis whose lords are in benefic subs and the bad in the others (R3 l.~10400).
 - Western aspects between dasa and bhukti lords (R3 (e)–(h)): see §2.2 DECIDE; default not scored.
+- "If four significators come up, stop; but if the dasa lord is not one of them, check whether it is connected. If not connected, the matter will not happen in its dasa even if the bhukti lord is a significator" [KSK, MC_058]. "The dasa lord is ever stronger than the bhukti lord" (MC_060).
+- **Sub classification** [KSK, MC_058]: take planets A, B and C in the star of D.
+  - A in the sub of D itself → fulfils.
+  - B in the sub of a lord owning the 6th, 8th or 12th from D's houses → incapable.
+  - C in the sub of a lord unconnected with both groups → neutral, which means **delay** ("a few disappointments, then success"), not denial.
+  - **APP:** windows whose sub lord is neutral are labelled "with delay/obstacles".
+- **Plurality:** the bhukti lord in a dual sign → two engagements at once, e.g. service and practice, or two places [KSK, MC_058]. Changes within a dasa come from the bhukti lord; dasa and bhukti lords must "both vote".
+- A in the star of B → A gives B's matters in A dasa, B bhukti (MC_059 "Return from overseas").
+- Sub of lord 12 (or its node agent) → loss; sub of lord 6 (or a node in 6) → bank position improves [KSK, MC_057 "Rajayogathipathi"].
 
 ### 2.8 Retrogression
 - **Natal:** retrogression makes no difference to the promise [KSK, MC_139 and earlier] — contributors who reject retrograde natal planets are overruled. One R3 case (10th cusp sub lord Saturn retrograde → no ministership, R3 l.~17125) is treated as horary-type evidence; **DECIDE**, default: natal ignores retrogression.
@@ -130,6 +161,11 @@ For every matter the app shows: **promise** (from the cusp sub lord — yes / no
 - **Asc sub lord in the star of a significator of:** 6 → disease, not death; 8 → accident; 12 → long bed rest/hospital (R6).
 - **Timing:** death = the conjoined period of the significators of the badhaka and maraka houses (order: planets in the star of badhaka occupants > occupants > planets in the star of the badhaka lord > the lord; then the marakas 2 and 7 the same way), within the band the span allows; confirmed by RPs and Sun/Moon transits (R3 Ex.1, death 18-2-1970; R6 p.154–157).
 - Saturn in the 8th is an exception as a killer: it gives long life (R3 p.157).
+- The same period can give a child (2/5/11) and the mother's death, when its lords are also maraka/badhaka significators. Case: girl born 9 AM 30-1-1966, mother died at the birth (MC_059).
+- Contributor rules (M.S. Mani, MC_060 Kennedy case), used only as tie-breakers, **DECIDE**:
+  - "Planets in the sub of the lagna lord cannot cause death in their periods."
+  - Use "subha kendradhipati" (lord of a benefic kendra) as a killer.
+  - Default: off. KSK (MC_139) says kendra lordship is irrelevant and only maraka/badhaka significance counts.
 - **Mode of death:** the 8th cusp sub lord, its star lord, sign lord (R3 l.~7480; R2). Jupiter peaceful; Mars sudden/accident/fire/surgery (fiery sign fire/violence, watery drowning, airy haemorrhage); Saturn chronic, lingering, falls; Moon conjoined with many planets in the 8th → sudden, unnatural (R5 p.241). Death cause by the star lord of a Moon in 8 signifying maraka/badhaka (R5 p.241).
 - **Place of death:** the 8th cusp sub lord signifying 1, 4, 10 → home; 3 → during a short journey; 6, 8, 12 → hospital/jail/unknown place; 9 → far away (R3 p.168).
 - **Self-caused / suicide:** lagna lord in 8, or a planet in 8 in the star of the lagna lord, or lord 8 conjoined lagna lord (R2); the 8th sub lord in the star of a significator of badhaka/maraka + 8, connected with Mars (R6 p.258). **DECIDE:** show this or not (default: shown only inside the mode-of-death text, worded as the texts word it).
@@ -164,12 +200,15 @@ For every matter the app shows: **promise** (from the cusp sub lord — yes / no
 - No cure from chronic disease: no planet in 11, none in the star of the owner/occupant of 11, and the 11th cusp and lord 11 in evil subs (R3).
 - Eyes: 2 right, 12 left; the 12th sub lord in 6 and in the star of a 6/8/12 significator → defect. Speech: the 2nd cusp sub lord (Mercury talkative, Mars blunt, Saturn slow, nodes defect).
 - Body-part and disease tables per sign/planet/sub (R3 l.~12390–12540; R3 249-sub table) → descriptive data.
+- **Defect from birth:** the dasa/bhukti lords running at birth are significators of 6/8/12 [KSK, MC_059 hernia child]. Surgery timing: the cure significator (11) connected with Mars; Pisces = hospital.
+- Chronic illness lasts while the dasa lords are in the stars of lords of 6/8/12. Recovery comes in the dasa of a planet in the star of the 11th occupant/lord, even if that planet is lord 6 itself [KSK, MC_060 "Health"].
 
 ### 3.4 Marriage and married life — R3 l.13078+; R4; R6
 - Houses **2, 7, 11**. Promise: the 7th cusp sub lord signifies 2, 7 or 11 (R4 p.108). Denial: the 7th sub lord signifies 1, 6, 10 (12) — or is in the star of significators of 4, 6, 10 (R4 p.105).
 - **DECIDE (blocking houses):** 1, 6, 10 (R4) vs 1, 6, 10, 12 (R3 p.430, R4 elsewhere). Default: 1, 6, 10 with 12 as an additional negative.
 - Timing: fruitful significators of 2/7/11 (sub lord also a 2/7/11 significator; reject those in subs of 1/6/10 planets, R4 p.150). Saturn aspecting Venus or the Moon → delay (R3; magazines).
 - **Spouse:** the spouse's birth star is ruled by the 7th sub lord (magazines). Partner's profession: significators of 4, 8, 12 (R4 p.85); career wife: the 4th sub lord signifying 4/8/12 (R4 p.98).
+- KSK: marriage is judged from **2, 7, 11 only**, not 4/8/12, "like those who failed" (MC_060). The 2nd is for second marriage; the **11th also shows illegal intimacy** (MC_059 Seshadri case). The bio does not label an 11th-only connection as "intimacy" (**DECIDE**, default: not shown).
 - **Second marriage:** the 7th sub lord (or its star lord) in a dual sign, or in the star of a dual-sign planet, or Mercury — **and** signifying 2 or 11 (R4 p.181; R6 p.165). The 2nd house = second spouse.
 - **Disharmony / separation / divorce:** any planet whose sub lord signifies 6, 10 or 12 → dispute/separation in its periods (R4 p.69); divorce = 1, 6, 10 (R4 p.153). The partner leaves: 7th significator in the sub of a 6th significator; the native leaves: 12 (R3).
 - **Love affair:** 5th sub lord and significators of 5; the lover married is the one whose birth RPs are significators of 2/7/11 (R4 p.171). The 2nd sub lord connected with 11 → extramarital (magazines).
@@ -196,12 +235,18 @@ For every matter the app shows: **promise** (from the cusp sub lord — yes / no
 | Change of job | 3, 5, 9 (R6) vs 3, 9, 12 (R3 l.~15080). **DECIDE**; default 3, 5, 9 |
 | Suspension | 1, 5, 9 (12th from 2, 6, 10); 5 or 9 with 12 |
 | Termination of service | 1, 5, 9, 12 |
-| Retirement | 3, 5, 9 (R3 l.~16570) vs 1, 5, 9 (R3 l.~8680) vs 1, 5, 9, 12 [KSK magazine]. **DECIDE**; default 3, 5, 9 + 12 |
+| Retirement | 3, 5, 9 (R3 l.~16570) vs 1, 5, 9 (R3 l.~8680) vs 1, 5, 9, 12 [KSK magazine] vs 9, 12 [KSK, MC_060 "Extension of service"]. **DECIDE**; default 3, 5, 9 + 12 |
+| Extension / re-employment | Retirement significator whose sub lord signifies 2/6/10 → retires and is re-appointed (MC_060) |
+| Seniority | Same as competition: 1, 2, 3, 6, 10, 11 keep it; 4, 5, 7, 8, 9, 12 lose it to juniors (7th = juniors) [KSK, MC_060–061] |
+| Transfer distance | 3 = short distance; 9 = long distance (MC contributor, confirmed case) |
 | Pension | 2, 11 (+10); Saturn delays, never denies |
 | Reinstatement | 10, 11; the 10th (or 6th) sub lord's star lord signifying 2/6/10 |
 | Politics / election | 1, 6, 9, 10, 11 (R3 l.~16830); win 1, 2, 3, 6, 10, 11 vs lose 4, 5, 7, 8, 9, 12 |
 | Actor | 5, 6, 10 (+11 prosperous) (R6 p.192) |
 | Farming | Mars, Venus, Moon, Jupiter with 2, 6, 10 |
+- **Profession houses DECIDE:** 2, 6, 10 (KSK, most cases) vs 2, 6, 10, 11 (R3; promotion). Default: 2, 6, 10 for the job itself, plus 11 for promotion and income growth.
+- Nature of work (descriptive, KSK cases): Sun = government; Jupiter = finance; Mercury = accounts and inspection; Venus = assessment; Mars = authority, land (bhukaraka); Saturn = position of trust. The natural-zodiac sign number gives the field: 4th sign = land, 8th = waste/insurance/legacy, 12th = hospital (MC_056–060).
+- Nature from the sub lord: within a house's significators, the sub lord's karaka picks the sub-topic, e.g. for the 4th, Moon sub = mother, Venus sub = vehicle, Mars sub = building [KSK, MC_058].
 - Earning at all: the 10th sub lord retrograde → never (R6; horary rule — natal **DECIDE**, default not applied, §2.8).
 
 ### 3.7 Finance, debt, gains, losses — R3 l.~7720–9560
@@ -209,13 +254,26 @@ For every matter the app shows: **promise** (from the cusp sub lord — yes / no
 - Receipt 2, 6, 10, 11; discharge of debts 4, 5, 8, 12; raising loans 6; repayment 8, 12.
 - **Lottery:** the 3rd sub lord connected with 5, 6 or 11; the 11th cusp sub lord gives the promise (R5 p.224). **Speculation:** 5 with 6 and 11 → gain; 5 with 8 and 12 → loss.
 - Arrears, legacy, insurance, bonus: 8 (with 6/11 → gain; with 12 → pays out). Treasure: Saturn + 4 with 8 and 11 [magazines].
-- Gifts: receiving 2, 3, 6, 11; giving 5, 8, 9, 12. Loss through informers/theft: 12 combined with 3/6/11/9/4/7 (R6 p.313; MC).
+- Money due from another person: 6 and 11, since the other person's loss is your gain [KSK, MC_059 commission case].
+- Gifts: receiving 2, 3, 6, 11; giving 5, 8, 9, 12.
+- **Who causes the loss** (12 combined with):
+  - 3 & 6 → brother or neighbour, openly;
+  - 3 & 12 → secretly;
+  - 6 & 12 → servants;
+  - 11 & 12 → friends turned approver;
+  - 9 & 12 → father or a stranger;
+  - 4 & 12 → someone in one's own house, street or town;
+  - 7 & 12 → a business partner after severing ties.
+
+  [KSK, MC_059 "Loss and litigation"] Loss through informers/theft: 12 combined with 3/6/11/9/4/7 (R6 p.313; MC).
 
 ### 3.8 Property and vehicles — R3 l.10232–11320; R6
 - Buying a house: 4, 11, 12 (+6 or 9 for possession). Acquisition 2, 4, 11; **sale/disposal: 3, 5, 10**. The 4th sub lord decides whether one owns property; 4 + Mars land/buildings.
 - Vehicle: 4 + Venus; the 4th sub lord in the star of a 4th significator and connected with Venus → will own one. Car purchase 4, 9, 10, 11 + Venus; sale **DECIDE**: 3, 4, 5, 10 (KSK 1967) vs 1, 3, 8, 10 (earlier note) — default 3, 4, 5, 10.
 - Change of residence: 3 (12th to 4) with 9/12; the 4th sub lord decides the move (R6 p.305).
 - Partition of property: 3, 9, 12 with 4 or 10.
+- House sale variant: 3, 5, 8, 10 + Mars; vehicle sale 1, 3, 8, 10 + Venus [contrib Anjaneyulu, MC_055] — part of DECIDE #14.
+- Luck of a place: a new house, seat or office is lucky or unlucky according to the periods that follow, not the place itself or its facing direction [KSK, MC_056]. The bio never attributes results to a place.
 
 ### 3.9 Education — R3 l.11329–11760
 - 4 regular study; 9 higher study; 3 inclination; 11 success. Success: lords 4 and 9 in the sub of a significator of 11. Ends: significators of 3, 5, 8. Subject: R3 combination table (engineering, medicine, law …). Ph.D.: 4 and 9 with 11. Foreign study: 9 + 12 (overseas + study 6, 9, 11, 12).
@@ -231,10 +289,30 @@ For every matter the app shows: **promise** (from the cusp sub lord — yes / no
 - Litigation/competition: 1, 2, 3, 6, 10, 11 win vs 4, 5, 7, 8, 9, 12 lose; the opponent's 11th = the 5th cusp (magazines; R3 l.~8700).
 - **Imprisonment — DECIDE:** 2 and 12 (R3 l.~17527; KP Vol II quote) vs 3, 8, 12 (R3 l.~18215) vs 2, 3, 8, 12 with the 12th sub lord being **Rahu** (R6 p.313). Default: R6 (strictest, latest) as the promise test, and periods of significators of 2, 3, 8, 12 for timing. Release: 2, 11. House arrest 4, 8, 12.
 - Friends and enemies: lord 11 in star/sub of significators of 1, 2, 3, 6, 10, 11 → helpful friends; 4, 5, 7, 8, 9, 12 → loss through friends (R3 l.~17140).
+  - More detail [KSK, MC_058], for lord 11 in the star of:
+    - lord 1 → sincere, permanent friend;
+    - lord 10 → most helpful;
+    - lord 7, 8 or 9 → time-serving;
+    - lord 5 → you always lose;
+    - lord 6 → the friend loses and you gain.
+  - Compatibility with any person (saved charts): the other person's birth-star lord ruling your 1, 2, 3, 6, 10 or 11 → you gain; 4, 5, 7, 8, 9 or 12 → you lose.
+- **Missing or absconding person** [KSK, MC_058; MC_059]:
+  - Leaving home: 3, 9, 12. Return: 2, 11 (+4; 1 and 10 = rejoining the old place).
+  - Child missing (5th), from the native's chart. Lord 5 in the star or sub of:
+    - lord 10 → ill;
+    - lord 12 → dead;
+    - lord 1, 4 or 7 → gone out but alive.
+  - Lord 5 connected with 11 → returns. Mars connected with 11 → police help.
+- Imprisonment additions (MC_058): Mars + Saturn → for violence. Evil planet with 2 and 12 in a fixed sign → long term. Lord 8 strong and afflicted → dies in jail. Release: benefics in the star of significators of 2 and 11.
 
 ### 3.13 Mind, character, spiritual life
 - Character: the sign of the star lord of the Asc sub lord (R3 l.~18690, descriptive table). Physical build: same sign (R3 l.~6900).
-- Courage 3; depression 2; fear/dreams 12 [magazines]. Truthfulness, spending: the 2nd and 12th sub lords (R3).
+- Courage 3; depression 2; fear/dreams 12 [magazines].
+- **Mood of each period** [KSK, MC_059 "Courage and confidence"]:
+  - Houses 3 and 5 = bravery; 8 = fear.
+  - A period lord in the star or sub of Mars or the Sun → confident; of Jupiter → buoyant; of Saturn → pessimistic; of Ketu → confused; of Rahu → per Rahu's own star and sub lords. Moon and Mercury are changeable, Venus easy-going.
+  - Shown as descriptive text per window.
+- Subjects of study (KSK cases): Sun, Virgo, Scorpio → medicine; Mars + Venus → botany, zoology, chemistry; Mars in a Mercury star → maths and chemistry; Venus + Mars + Mercury → music (MC_056; MC_059). Descriptive only. Truthfulness, spending: the 2nd and 12th sub lords (R3).
 - Writing 3; speech 2; book completion 3, 11 + Mercury; publication + Jupiter.
 - Spiritual: initiation 5, practice 10, progress 11 (R3 l.~17625); sanyasi: the Asc sub lord connected with 3, 10, 12 and Saturn (R6); siddhi: 11th sub lord in the star of a significator of 5 and 10.
 - Negotiation/agreements 3, 9 (+11 success, +12 failure); engagement: 2, 7, 11 also signifying 3 and 9.
@@ -250,6 +328,9 @@ For every matter the app shows: **promise** (from the cusp sub lord — yes / no
 - **Repeating events** (job change, transfer, travel, children, residence) recur whenever their significators' periods recur; birth and death happen once (R3 l.~16200).
 - **Pinpointing within a window (R3 ch.2; R5 p.161–187):** sensitive points are every sign/star/sub permutation of the D, B, A lords; the event comes when one of them is transited by the D/B/A lords, the Sun or the Moon, or the **Ascendant at the native's current place of residence**. Order of fineness: Jupiter → year, Sun → month, Moon → day, Ascendant → hour [KSK; R5].
 - Retrograde transits: retrograde in an evil sub aggravates; stationary = severest (R5 p.287).
+- The transit point's sign, star and sub lords are the antara, bhukti and dasa lords in any order. Example: Sun at 21° Aries = Mars sign (antara), Venus star (bhukti), Jupiter sub (dasa) → cure date [KSK, MC_059]. The sub-sub level is also used (MC_056 marriage at 6:32 AM: lagna in the D/B/A/S lords' sign/star/sub/sub-sub).
+- The day lord changes at **sunrise**: an event before sunrise belongs to the previous weekday (MC_055; MC_059).
+- Customary avoidances (e.g. no Tuesday weddings in Madras) can shift a predicted date. The app ignores them; the user can (KSK, MC_059).
 - **Undoing rule:** a result given in A–B can be undone in a later bhukti of a planet 6/8/12 from A and B (R5 p.257) → used to describe "loss of what was gained".
 
 ### 4.2 Scoring — APP CHOICE (not a KP rule; for your approval)
@@ -304,6 +385,13 @@ The bio is natal. Horary (1–249 numbers, R6) is used inside the app for one pu
 | Remedies, gems, shanti, homa | Not given. KSK 1963 said remedies help; later KSK: fate cannot be changed, prayer may mitigate. Gem by Asc/11th sub lord could be shown as information — **DECIDE**, default off | R3 p.258; R4 p.279; magazines |
 | Sex of children, number of children | GAP — no rule | R2; magazines |
 | Muhurta / "lucky time" tables | Out of scope for the bio (possible later feature) | R5 p.195–234 |
+| Traditional muhurtha items (chandrashtama, Rahu kalam, inauspicious stars and tithis) | Excluded; KSK deliberately travelled against all of them (15-5-1970) with full success | MC_119 |
+| Western progressions (secondary, lunar, solar), regressions, applying/separating orbs | Excluded (KSK listed progression in his 1967 method statement; Readers drop it) — part of DECIDE #2 | MC_055–061 (Bala series); MC_061 |
+| Gnana Pradeepika, Prasna Marga (Aruda, Gulika, sphutas, sutras), Bhuvana Deepika navamsa timing, Uttarakalamrita annual dasa, Tajik | Excluded (traditional) | MC_055–060 |
+| Omens (nimitta), star-day "rehearsal" heuristic | Excluded | MC_059 |
+| Colour remedies, prayers, gems | Not given (KSK sometimes advised them; "astrologer predicts, cannot change fate") | MC_058–060 |
+| Sex of child by masculine/feminine signs (Mani) | GAP stays — contributor guess, KSK says no rule | MC_059 |
+| Pars Fortuna in KSK cases ("Fortune—from when") | Descriptive only | MC_057 |
 
 ---
 
@@ -331,6 +419,11 @@ The bio is natal. Horary (1–249 numbers, R6) is used inside the app for one pu
 | 18 | Exaltation magnitude weight | on / off | off |
 | 19 | RP moment for the bio | time of generation / none | time of generation, ties only |
 | 20 | Scoring scheme (§4.2) | as proposed / changes | as proposed |
+| 21 | Profession houses | 2, 6, 10 / 2, 6, 10, 11 | 2, 6, 10; +11 for promotion/income |
+| 22 | "Planet in sub of lagna lord cannot kill"; subha kendradhipati as killer (Mani) | use / ignore | ignore |
+| 23 | Mark 11th-only connection as "illegal intimacy" (KSK) | show / hide | hide |
+| 24 | Significator level 1 = "star **or sub** of occupants" (Mani, other contributors) vs star only (KSK) | star only / star or sub | star only (sub used via §2.4 fruitfulness) |
+| 25 | Horary numbers (if a horary module is added) | 1–108 (KSK) / 1–249 (R6, later) | 1–249, with 1–108 option |
 
 Other contradictions already resolved by later KSK statements (no decision needed): lagna vs Moon sign (lagna only); barren signs (not in natal); sub discovery dates (sub 1947, full method 1951); remedies (no remedies); nodes never retrograde.
 
@@ -351,7 +444,7 @@ Other contradictions already resolved by later KSK statements (no decision neede
   - Dasa arithmetic: R5-C antara table; all printed dasa balances.
   - Events: R3-B (mother's death, marriage), R3-C (death 18-2-1970), R3-AQ (KSK's own service/retirement), R4-G, R4-I, R4-L (marriages), R4-R (wife's death), R4-S/T (divorce), R4-X (child), R4-Z/AA (childless — negative), R5-D (lottery), R5-L (father's death).
   - Rectification: R6-A, R6-B, R6-C, R3-AS, R5-K.
-- Magazines (CONFIRMED cases noted in `docs/magazine-notes.md`): Indira Gandhi multi-event chart; Yogananda's death; Bandaranaike's assassination; father's death across five sons' charts (MC_135); KSK aeroplane timing 4:39:20 PM; chart-casting procedure (MC_130); Agra 15-5-1963 worked cusps.
+- Magazine cases from the redo pass are listed in `docs/kp-test-cases.md` (section "Magazines"). Others are under CONFIRMED in `docs/magazine-notes.md`, which also has these: Indira Gandhi multi-event chart; Yogananda's death; Bandaranaike's assassination; father's death across five sons' charts (MC_135); KSK aeroplane timing 4:39:20 PM; chart-casting procedure (MC_130); Agra 15-5-1963 worked cusps.
 - Acceptance target (APP CHOICE): the engine reproduces printed cusps/planets within 5′, dasa dates within a few days, and ranks the actual event window in its top 3 for at least most of the event cases; every miss is listed for review rather than tuned away.
 
 ---

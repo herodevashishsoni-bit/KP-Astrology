@@ -96,3 +96,54 @@ These are charts with birth data and dated events, taken from the books. They ar
 | R6-A | R6 p.140 | 16-10-1919, approx 4:30–5:30 AM | 21°N 73°40′E | **RP-rectified to 5:23:50 AM IST** (judged 21-1-1968 10:30 AM). KP ayanamsa 1919 = 22°38′. |
 | R6-B | R6 p.142 | 13-11-1948 | 17°44′N 83°23′E | **RP-rectified Asc 23°10′ Virgo → 3:36:45 AM IST** (judged 24-12-1967 6:45 PM). |
 | R6-C | R6 p.143 | Year 1913, date unknown, born around sunset | 74°E (lat ~?) | **RP-derived: 26-5-1913, 6:10:14 PM IST**, Asc 23°33′ Scorpio. Mars dasa bal 6y1m18d. Judged 9-10-1967 8:37 PM Delhi. KP ayanamsa 1967 = 23°18′. |
+
+## Magazines (cases with birth data and dated events, from the detailed redo pass)
+
+C = confirmed by the querent; P = a prediction only (use for regression checks, not as truth). Exact source details are in `docs/magazine-notes.md` under each chunk.
+
+| # | Source | Birth | Place | Events |
+|---|---|---|---|---|
+| M-01 | MC_032+ | 31-10-1919, 3:53:48 AM IST | 31°19′N 75°18′E (Jullundur) | Casting check: Asc 6°53′ Virgo nirayana; ayanamsa 22°38′. |
+| M-02 | MC_04x | 5-5-1928, 8 PM IST (also printed 6:53:20 PM, MC_060) | 31°19′N 75°54′–55′E | Ayanamsa 22°45′; Jupiter balance 3y6m29d (MC_060 says 4y2m12d — **CHECK**). P: promotion + transfer 12-4-1967 (Mer–Sat–Ven–Jup). |
+| M-03 | MC_04x | 9-8-1929, 2:31:24 PM IST | 10°31′N 79°24′E | Ayanamsa 22°46′. |
+| M-04 | MC_04x | 8-6-1931, 11:33 PM | Madras | Full cusps printed; married 24-4-1964 (C). |
+| M-05 | MC_053/056 | 23-7-1938, 11:45 PM | Madras | Bride. Married 6:32 AM 13-6-1966 (Monday), Gemini lagna, in Saturn–Moon (C). Balance Rahu 11m14d. |
+| M-06 | MC_056 | 1-9-1933, 11:35 AM | ? | Groom of M-05. Married 6:32 AM 13-6-1966 in Rahu–Sat–Mer–Jup; lagna ≈ 8°56′ Gemini = Mer/Rahu/Jup/Sat (C). Balance Venus 3y10m16.5d. |
+| M-07 | MC_04x | 14-11-1889, 11:30 PM | 25°26′N 81°52′E (Allahabad) | Nehru. Died 27-5-1964 in Rahu–Mer–Rahu (C). |
+| M-08 | MC_056 | 8-9-1944, 5:50 AM war time (= 4:50 AM IST) | ? (Andhra) | Balance Saturn 3y1m19d. Married 10-3-1966 (Rahu–Rahu–Mer; Sun/Jup sookshma), as predicted (C). |
+| M-09 | MC_056 | 17-5-1917 | ? (Maharashtra) | Dr S.L.D. P: shift to new building 17-11-1966 (Moon–Jup); prosperity from June 1968. |
+| M-10 | MC_056 | 9-11-1942, 4:26 AM | ? | Libra lagna; balance Jupiter 7y3m21d. Failed exam, results 19-6-1966, in Sat–Rahu (C). P: success 10-12-1966. |
+| M-11 | MC_056 | 31-12-1946, 1:55 PM | Gudur | P: M.Sc. (not MBBS), admission in Ketu–Rahu. |
+| M-12 | MC_056–057 | 9-3-1923 (Friday) | 17°58′N 79°47′E (Warangal) | Balance Mercury 7y2m28d. Moon dasa 7-6-1963; Rahu bhukti 7-11-1964; Saturn antara 10-4-1965. Left home 25-5-1965; met KSK next day; darshan of Shankaracharya 31-5-1965; KSK visited 12-6-1965 (C). |
+| M-13 | MC_057 | 11-11-1933, 7 PM | ? | Balance Ketu 2y11m5d. P: leave service April 1969; business May 1969. |
+| M-14 | MC_057 | 3-1-1925, 2:53 AM | Masulipatam | Balance Mercury 2y6m4d. P: service 4-1-1969. |
+| M-15 | MC_057 | 10-6-1921 (Friday) | ? | Taurus lagna, Moon in Pushya. Profits 1957–60 (Ven–Jup); losses from 1962 (Ven–Sat, Ven–Mer) (C). |
+| M-16 | MC_057 | 13-4-1929, 6:24 PM | 31°32′N 75°57′E | Balance Moon 2y8m12d. P: improvement from Jup–Ven–Sat–Sun (13-10-1966). |
+| M-17 | MC_058 | 20-6-1942 (Saturday) | 17°58′N 79°40′E | Balance Venus 16y6m27d. Moon dasa 17-1-1965. Transfer to Revenue Dept 7-12-1965 in Moon–Mars–Mars (C). |
+| M-18 | MC_058 | 21-11-1935, rectified 5:18:24 AM IST (claimed 3–4:30 AM) | 31°19′N 75°18′E | **RP rectification:** judged 6:02 PM Friday 2-9-1966 Delhi → Asc 12°28′ Libra nirayana (5°19′ Scorpio sayana). |
+| M-19 | MC_059 | 21-11-1935, 3:55 AM | 31°18′N 75°18′E | (Same date and place as M-18 — CHECK whether the same person.) Rahu–Ven from 14-1-1966. P: confiscation loss 7-10-1966. |
+| M-20 | MC_058 | 28-12-1934, 7:13 PM | 23°02′N 72°38′E (Ahmedabad) | Balance Sun 1y1m20d; Rahu dasa from 18-2-1953. P: job change and practice 19/20-8-1967. |
+| M-21 | MC_059 | 13-10-1930 | ? (Taurus lagna) | Saturn dasa 2-12-1957; Venus bhukti 23-9-1964. Transfer orders 11-8-1966; cancellation 29-8-1966, as predicted (C). |
+| M-22 | MC_059 | 18-4-1964, 11:40 AM | 8°29′N ? | Balance Jupiter 12y4m10d. Hernia from birth. P: surgery/cure 5-5-1969. |
+| M-23 | MC_059 | 16-9-1966 (time OCR ?) | Coimbatore | Balance Moon 4y11m3d. P: education ends Rahu–Mer–Sat. |
+| M-24 | MC_059 | 20-5-1933, 6:30 AM IST | ? | Moon nirayana 17°06′ Pisces (Revati); balance 16y5m11d. P: overseas Ven–Sat–Rahu. |
+| M-25 | MC_059 | 20-7-1943, 2:05 AM IST | 13°N 80°E | Balance Mars 1m17d. Left India 26-10-1963 (Jup–Sat–Sat); Germany→Canada 21-7-1965 (Jup–Sat–Mars) (C). P: return ~7-4-1967. |
+| M-26 | MC_059 | 30-1-1966, 9 AM | ? | Girl born; mother died at the birth in Ven–Sat–Rahu (mother's chart) (C). Balance Ketu 5y10m14d. |
+| M-27 | MC_060 | 12-8-1941, 16:21 | ? | Girl. P: marriage 28-6-1967. |
+| M-28 | MC_060 | 28-7-1944, 43:32½ ghatis | ? | Aries lagna 20°–23°20′; balance Rahu 4y8m14d. Married in Sat–Sat–Ven (C, date not printed). |
+| M-29 | MC_060 | 29-5-1928, 11:53 AM IST | 20°02′N 74°30′E | Chronic illness through Jupiter dasa (to 1973) (C, ongoing). |
+| M-30 | MC_060 | 29-5-1917 | (Kennedy; Brookline) | Balance Venus 3y5m3d. Shot 22-11-1963 in Jup–Jup–Rahu–Ven (C). The magazine prints its own cusps. |
+| M-31 | MC_060 | 19-11-1928, 1:54 AM IST | 29°37′N 74°40′E | P: status rise ~23-7-1967. |
+| M-32 | MC_060 | 16-1-1912, 58 gh 39 vig | ? | Balance Mercury 6y1m28d. Joined service Ven–Mer–Moon (C). P: retire Oct 1969 with extension. |
+| M-33 | MC_060–061 | 12-7-1920, 54 gh 42 vig | 27°28′N 82°01′E | Balance Sun 2y9m22d. Appointed July 1944 (Rahu–Jup–Ven); confirmed April 1948 (Rahu–Mer); seniority lost 1956 (Rahu–Moon), regained June 1960 (Jup–Jup–Rahu); juniors promoted June 1966 (Jup–Ven–Ven) (C). |
+| M-34 | MC_061 | 12-11-1879, 3:15 AM | (Sir C.P. Ramaswami Iyer; Madras?) | Balance Mars 4y8m21d. College in Rahu dasa; rose in Saturn and Mercury dasas; died Sept 1966 in Venus dasa (C). |
+| M-35 | MC_119 | 1-11-1908 | Thiruvaiyaru | KSK (= R3-S). Journey 15-5-1970 a success despite the traditional muhurtha "faults". |
+| M-36 | MC_055 | (Leo lagna; birth not printed) | ? | Accidents 23-7-1963 and 11-4-1966 in Sat–Rahu (C). Vehicle sold 14-5-1966 in Sat–Sat (C). |
+
+Horary-only confirmed cases (no birth data) that test the transit/ascendant timing code:
+- MC_056 guest arrival: number 51, 10:03 AM 4-8-1966.
+- MC_057 sister's return: 3:57 PM 1-6-1966.
+- MC_056 LIC orders: 4-1-1966.
+- MC_056 brother's marriage: 9-6-1966, 8:21 PM.
+- MC_059 brokerage: 1-10-1966.
+- MC_139 party arrival: 6:53 PM 17-8-1971.
