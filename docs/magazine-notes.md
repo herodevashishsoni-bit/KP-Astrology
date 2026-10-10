@@ -9026,3 +9026,60 @@ Cusps (sign, star, sub): XI Jupiter/Ketu/Venus; VI Mercury/Jupiter/Venus; V Merc
   - Predicted Mercury dasa danger dates (Mercury exalted, in Chitra, Rahu sub): 2–3 Apr 1968, 28–29 Sep 1968, 8–9 Dec 1968, 22–24 Jun 1969, 6–7 Jul 1969; avoid driving Tue/Wed. CHECK (prediction, no outcome).
 - **M.S. Mani, "Appointment—when"**: RPs restated — astrological day starts at sunrise (day lord changes at sunrise, not midnight); Moon star lord, Moon sign lord, lagna sign lord, lagna star lord; 108-number method for horary. Continues MC_056.
   - Rule: weekday for RP = sunrise-to-sunrise. (Engine: compute day lord from local sunrise.)
+
+## MC_056 (Sep 1966) [detailed redo]
+- **M.S. Mani, "Appointment—when" (cont.)**: query 2:40 PM Fri 5-8-1966; RPs Venus (day), Jupiter (Moon star Poorattathi), Jupiter (Moon sign Pisces), Mars (lagna Scorpio). Significators Mars, Jupiter, Venus (Mars conjoined Jupiter & Venus in Gemini).
+  - Timing rule: event within hours → ascendant transit; within days → Moon transit; within months → Sun transit. Point transited must be governed (sign/star/sub) by the significators.
+  - Sun in Jupiter sign–Venus star–Mars sub (Sag 17°20′–18°06′) and Moon in star of significator. 2-1-1967 rejected (Moon in Hasta, non-significator). Predicted 6-1-1967 Friday before 10 AM, Pisces lagna. "Mars conjoined Jupiter → Jupiter sub can replace Mars sub" (conjunction substitution). CHECK (prediction, no outcome reported).
+- **M.S. Mani, "Time of arrival of a guest"** (4-8-1966): number 51 = Virgo 16°40′–20° (Hasta pada 3; Mercury sign, Moon star, sub Saturn/Mercury/Ketu).
+  - Horary: Lagna Virgo; 11th = Cancer (reunion, fulfilment); lord 1 Mercury in Cancer (lord 11 sign) → yes.
+  - Timing: ascendant transit of Mercury sign–Moon star–Mercury sub (Mercury in 11 chosen over Saturn in 7) → 10:03 AM; guest arrived 10:03. Lagna 17° Virgo.
+  - Mani: "traditional astrologers must accept new research" (editorial).
+- **Saturn Hora and its use**: hora lore (sow bulbs/groundnut, handle violent persons, yoga). Duplicate of Readers. FLAG (hora = muhurtha lore; not in prediction engine).
+- **Annual horoscope (author unclear)**: KP solar return = Sun returns to natal nirayana longitude, adjusting for ayanamsa difference between birth year and current year. Kalidasa's Uttarakalamrita annual dasa (Sun 110 days, Moon 60, Mars 32, Mercury 40, Jupiter 45, Venus 56, Saturn 4, Rahu 5, Lagna 10 days; start from Moon portion) and Tajik → FLAG/REJECT (traditional). Jupiter/Venus/lord 2,10,11 in 10th in annual chart → good year (traditional). Note KP-flavour "note Sun's lordship, house, star and sub" for annual reading.
+- **Sarma (Warangal), timing of marriage of third daughter**: born 8-9-1944 5:50 AM war time (−1 hour → 4:50 LMT/IST correct per note: war-time advance 1 hour 1-9-1942 to 15-10-1945). Balance Saturn 3y1m19d.
+  - Rule restated: marriage 2/7/11; significator order 1–5; "if enough significators found under items 1 and 2, need not go to 3–5." Neptune has no star → reject (outer planets ignored).
+  - Significators: Sun, Mercury, Jupiter (in Venus star P.Phalguni; Venus occupies 2nd); Rahu in Pushya (Saturn, occupant of 11) — "nodes are more powerful than planets."
+  - Horary/RP selection of period: consulted on Wednesday (Mercury), Moon in Sathabhisha (Rahu) in Saturn's sign → Rahu dasa–Rahu bhukti–Mercury anthra (6-1-1966 to 9-6-1966) → Sun or Jupiter sookshma → March or May 1966.
+  - Transit: Rahu (dasa lord) in Krittika (Sun star)–Mercury sub, 2nd week of March; Sun in P.Bhadrapada (Jupiter)–Mercury sub 8th evening to 10th sunrise; Moon in Swathi (Rahu). Predicted 10-3-1966 → married that day (attempts on 23-2-1966 failed). Test case.
+  - Rule: RPs at time of consultation pick the D/B/A lords for the event (KSK method extension).
+- **M.S. Mani, "Horary astrology"**: bride born 11:45 PM 23-7-1938 (Madras; same as MC_053 case?); marriage 13-6-1966 (Monday) 6:32 AM Gemini lagna.
+  - Bride in Saturn dasa–Moon bhukti; Mani first predicted 7:16 AM (lagna on natal Moon — traditional; FLAG); refined to 6:32 AM when lagna forms trine to 7th cusp → FLAG (aspect to cusp, DECIDE #1).
+  - Competition-horary for astrologer vs astrologer: querist's own lagna Libra, rival = 7th (Aries); 5th bhava rising = 11th from 7th → rival wins; but Moon in Revati (Mercury, lord 12 to Mani) in Jupiter sub (lord 6 = 12th from 7 → loss to rival) → Mani wins. Rule: 12th from 7th = loss of opponent; sub decides.
+  - Number 72 = Scorpio 236°40′–240° (Jyeshta pada 4: Mars sign, Mercury star, Saturn/Jupiter sub). Within hours → lagna transit. Combinations Mercury sign (marriage lagna Gemini) + star of Mars/Mercury + sub Jupiter/Saturn. Mars conjoined Rahu (closer than Sun) → replace Mars by Rahu (node substitution rule). Selected Gemini–Arudra (Rahu)–Jupiter sub, sub-sub Saturn ≈ 9° Gemini → 6:32 AM exact.
+  - Groom: Rahu dasa–Saturn bhukti–Mercury anthra–Jupiter sookshma; marriage lagna = Mercury sign, Rahu star, Jupiter sub, Saturn sub-sub → lagna at event governed by D/B/A/S lords (strong validation rule; sub-sub level used).
+- **Sarma, "Horary—major event"**: number 96 = Aquarius 16°40′–20° (Sathabhisha pada 4). Moon 19°50′ Gemini in Rahu star, Mars sub, Venus sub-sub. Moon's position reveals querist's mind ("Moon is Mathi").
+  - Mercury (in 9th bhava though 10th sign) and Rahu (3rd bhava) → 3/9 = change. Bhava (cusp-based) placement overrides sign placement. Sub lord Mars (lord 10 in 11) benefic → change fulfilled.
+  - Profession = 2/6/10 (this author; KSK elsewhere 2/6/10/11). Sun alone in 10th; Mars & Venus in Uttarashada (Sun) → strongest; Rahu in Rohini (Moon lord of 10?) → significator. Significators Rahu, Mars, Venus, Sun.
+  - Running Rahu–Mars; Venus anthra till 13-1-1966; Moon transit in Sun's star (Krittika) Venus sub, conj Rahu → 4-1-1966 (Tuesday, Mars day); Sun in Venus star Rahu sub Mars sub-sub. Orders received 4-1-1966 from LIC. Department: Sun in 10 aspected by Saturn (Uttarakalamrita "mritha-dhana" = money of deceased = LIC; Sun in Jyeshta, Mercury lord 8; Scorpio = 8th sign) → nature of department from 8th-house link. Test case (no birth data; horary).
+  - Author: KP needs no shadbala, ashtakavarga "unreliable".
+- **M. Madhusudan Rao, "Marriage—when?"**: horary 9-5-1966 6:55 PM, number 81 (Sagittarius 26°40′–30°, Uttarashada pada 1). Query = younger brother's marriage → take 3rd house (Aquarius) as lagna (derived houses).
+  - Lord 2 & 11 Jupiter aspecting Aquarius → promised (traditional aspect; FLAG).
+  - Rahu in Venus sign, Sun (lord 7) star, Jupiter (lord 2, 11) sub → significator. Venus karaka exalted in lagna, in Saturn star. Saturn (lord of lagna) in Jupiter star, Rahu sub.
+  - Note: here houses counted from querist's lagna (2/7/11 of querist) mixed with 3rd-house lagna — inconsistent. FLAG.
+  - Period Venus–Saturn–Mars (horary dasa?). Transit: Sun in Venus sign, Mrigasira, Rahu sub; Moon in Saturn sign, Sathabhisha; lagna Jupiter-ruled → Thursday 9-6-1966 after 6:17 PM. Married 9-6-1966 8:21 PM Sagittarius lagna. Test case.
+  - Bhuvana Deepika navamsa method (Mars bhratrukaraka, Venus kalatrakaraka; 3 days per navamsa → ~30 days) → REJECT (author: "rough idea for research").
+- **M.S. Mani, "Time of marriage"**: born 1-9-1933 (OCR "J-9-1933") 11:35 AM; balance Venus 3y10m16.5d. Analysis 9:10 AM Friday 17-6-1966; RPs Venus, Moon (Rohini), Venus (Taurus), Moon (Cancer lagna).
+  - Lagna Scorpio 12°26′; lord Mars in 12th bhava → lagna weak; Moon in Aries aspected by its lord Mars → Moon sign strong → judge 2/7/11 from Moon sign. Also "find stronger of lagna and Moon by RPs": Moon in Bharani (Venus, an RP) → Moon sign. FLAG (lagna vs Moon sign; contradicts KSK cusp method).
+  - Significators: Jupiter (aspects 2nd bhava, no planet in its stars), Mercury (in Jupiter sub, Venus star lord 2/7); Rahu in 11th (Mars in Swathi; Mars aspects Rahu 108° — non-standard aspect), Venus trine Rahu. Rule stated: "when a node is significator, planets conjoined with it, aspected by it, and the lord of the sign it occupies become significators" → Saturn.
+  - Married 13-6-1966 (same wedding as above) Rahu–Saturn–Mercury–Jupiter. Transit confirmations: Saturn in own star U.Bhadra in Jupiter sign; Mercury in own sign in Arudra (Rahu); Moon in Revati. Lagna at 6:32 AM ≈ 8°56′ Gemini governed by Mercury–Rahu–Jupiter–Saturn = D/B/A/S lords. Test case.
+  - Principles: transit significators in sign/star/sub of significators and good aspects to natal positions (FLAG aspects).
+- **KSK, "Building—will I shift?"** (reply, Dr. S.L.D., born 17-5-1917):
+  - Doctrine: luck of a place/seat/house is not due to the place, but to the dasa/sub-sub period running; change comes when the period shows change; gain after change is due to the next favourable period. Facing direction, storeys etc. irrelevant → reject vastu-type reasoning.
+  - Moon dasa–Jupiter bhukti; Jupiter lord 1 & 10; Moon in star of Mercury (lord 4) → shift to new building on 17-11-1966. Moon–Saturn 19 months: money entangled, bills delayed; from June 1968 (Moon–Mercury) roaring practice; Mercury = plurality (both places).
+  - Rahu in lagna → lagna weak → take Moon sign as 1st house (KSK himself!). FLAG — contradicts cusp-based method; record as KSK early practice.
+  - KSK: "An astrologer is to predict, not advise; no astrologer can change fate." (App tone: predictions only, no remedies.)
+  - Moon as 8th lord need not be bad — judge by star lord.
+- **M.S. Mani, "Results of examination"**: born 4:26 AM 9-11-1942 (Libra lagna); balance Jupiter 7y3m21d. Exam 24-3-1966, failed (results 19-6-1966) in Saturn–Rahu.
+  - Saturn in 8th bhava in Rohini (Moon in lagna, lord 10) → mixed; owns 4 (education, good) and 5 (11th from 7 → competitor gains) → mixed.
+  - Rahu in 11th Leo; for Libra (movable) 11th = badhaka (FLAG — badhaka used for exam, not health); Rahu not conjoined → represents Sun (Leo lord); in Magha (Ketu) and Ketu in 5th (Aquarius) → loss to native.
+  - Uses transit aspects to natal positions as "final deciding factor" → FLAG (Western, DECIDE #1).
+  - Prediction: success on 10-12-1966 (Saturday) Saturn–Jupiter–Rahu; Moon in Visakha Rahu sub. CHECK.
+  - Principle (1) planets give results of their star lord — consistent with KSK.
+- **KSK reply, "M.Sc. or M.B.B.S."**: born Gudur 31-12-1946 1:55 PM. Higher studies = 9th (3 = inclination to study, 4 = attending class/exams, 9 = higher studies).
+  - Mars alone in 9th; no planet in Mars's stars → Mars, in P.Ashadha (Venus), own sub → Mars & Venus indicate subject: Mars+Venus = botany, zoology, chemistry; Virgo/Scorpio + Sun = medicine. Mars not in Sun's star/sub → not medicine → M.Sc.
+  - Ketu dasa–Rahu bhukti: Ketu in Mars sign represents Mars; Rahu agent of Venus (sign lord) → admission in Rahu bhukti. Node-as-agent of sign lord rule. CHECK (prediction).
+  - Subject-of-study karakas: Sun/Virgo/Scorpio = medicine; Mars/Venus = biology/chemistry. Add to rules as KSK example (limited).
+- **M.M. Rao, "Guru Upadesam"**: born 9-3-1923 Friday, 17°58′N 79°47′E; balance Mercury 7y2m28d. Libra lagna, Jupiter in lagna; 9th Gemini, lord Mercury in Aquarius in 4th bhava with Sun, Ketu, Uranus → Guru visits his house. Heavy symbolic/traditional reasoning (Kumbha = pot of milk; Uranus = occult master; Parivarthana yoga Saturn–Mercury) → FLAG (traditional/Western). Significators of 9th: Mars (in Aswini, Ketu); Moon (in Rahu sub); Moon aspected by Saturn gets Saturn's results. Concludes Moon dasa–Saturn bhukti. Example: Guru darshan of Jagadguru. Spiritual initiation = 9th house (KP-compatible).
+  - Rule fragment: a planet aspected by another gains the results of that planet in its dasa — FLAG (aspect-based).
+- TOC also lists: Tour programme, Avoid bad time, Ruling planets reveal, Service or business, Smooth life—when?, Gnana Pradeepika, KP article, "Rajayogathipathi and Ashtamadhipathi", Daily guide Sep 1966 — not present in this OCR chunk (likely in MC_057). CHECK.
