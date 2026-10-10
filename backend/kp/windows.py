@@ -113,7 +113,60 @@ def _lord_score(engine: Engine, lord: str, v: Variant, matter: Matter) -> tuple[
 
 
 def score_periods(engine: Engine, matter: Matter, v: Variant, periods: list[D.Period],
-                  rps: list[str] | None = None) -> list[Scored]:
+                  rps: list[str] | None = None, method: str = "sum") -> list[Scored]:
+    if method == "strong":
+        return score_strong(engine, matter, v, periods, rps)
+    return score_sum(engine, matter, v, periods, rps)
+
+
+def score_strong(engine: Engine, matter: Matter, v: Variant, periods: list[D.Period],
+                 rps: list[str] | None = None) -> list[Scored]:
+    """KSK method: the event comes in the conjoined period of the strong significators;
+    the dasa lord must be connected with the houses (any level)."""
+    from .significators import strong_significators
+    strong = strong_significators(engine, v.houses)
+    rank = {s.planet: i for i, s in enumerate(strong)}
+    why = {s.planet: s.reason for s in strong}
+    fruitful = {p: bool(engine.sub_lord_houses(engine.chart.planets[p].lords.sub) & set(v.houses)) for p in rank}
+    out = []
+    ch = engine.chart
+    for p in periods:
+        d, b, a = p.lords[:3]
+        sd, _ = engine.strength(d, v.houses, weights=v.weights)
+        if sd <= 0:
+            continue
+        if b not in rank and a not in rank:
+            continue
+        score = 0.0
+        reasons = [f"Dasa {d} is connected with houses {v.houses}"]
+        for role, l, wt in (("Bhukti", b, 3.0), ("Antara", a, 2.0), ("Dasa", d, 1.5)):
+            if l in rank:
+                score += wt * (len(strong) + 1 - rank[l]) / len(strong)
+                if fruitful[l]:
+                    score += wt * 0.5
+                reasons.append(f"{role} {l}: strong significator — {why[l]}"
+                               + (" (sub lord also signifies the houses: fruitful)" if fruitful[l] else ""))
+        if v.negate:
+            for l in (b, a):
+                neg = engine.signified(l, 2) & set(v.negate)
+                if neg and l not in rank:
+                    score -= 1
+        if a == d and d != b:
+            score += 0.5
+            reasons.append("A–B–A pattern: result to the full extent (R3)")
+        if d != b and engine.use_aspects:
+            asp = western_between(d, ch.planets[d].lon, b, ch.planets[b].lon)
+            if asp and asp.name != "conjunction":
+                score += 0.25 if asp.quality == "good" else -0.25
+                reasons.append(f"{d}–{b} {asp.name} ({asp.quality}) (R3 dasa principle)")
+        if rps:
+            score += 0.1 * len({d, b, a} & set(rps))
+        out.append(Scored(p, round(score, 2), reasons))
+    return out
+
+
+def score_sum(engine: Engine, matter: Matter, v: Variant, periods: list[D.Period],
+              rps: list[str] | None = None) -> list[Scored]:
     cache: dict[str, tuple[float, list[str]]] = {}
 
     def ls(l):

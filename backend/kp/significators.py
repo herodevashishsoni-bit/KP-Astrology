@@ -188,3 +188,21 @@ class Engine:
 
     def house_table(self) -> list[dict]:
         return [{"house": h, "significators": [s.as_dict() for s in self.of_house(h)]} for h in range(1, 13)]
+
+
+def strong_significators(engine: "Engine", houses: list[int], want: int = 4) -> list[Sig]:
+    """KSK selection: walk the levels (1 → 6) over all the matter's houses and stop once
+    at least `want` distinct planets are found ("if enough significators are found in
+    items 1 and 2 one need not go to 3, 4, 5", MC_056; "if four significators come up,
+    stop", MC_058). Nodes rank with their agent's level − 0.5."""
+    allsigs = sorted([s for h in houses for s in engine.of_house(h)], key=lambda s: s.level)
+    chosen: dict[str, Sig] = {}
+    cutoff = None
+    for s in allsigs:
+        if cutoff is not None and s.level > cutoff:
+            break
+        if s.planet not in chosen:
+            chosen[s.planet] = s
+        if len(chosen) >= want and cutoff is None:
+            cutoff = int(s.level + 0.5) if s.level % 1 else s.level   # finish the current level
+    return list(chosen.values())
