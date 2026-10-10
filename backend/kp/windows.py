@@ -312,8 +312,27 @@ def matter_report(chart: Chart, engine: Engine, matter: Matter, now: datetime,
                     "pinpoint": pinpoint(s.period.lords[:3], s.period.start, s.period.end,
                                          chart.ayanamsa_name, agents=agents) if rank else []}
 
+        # KSK's practice (R3 l.~13400; magazines): judge the coming periods, and select with the
+        # ruling planets at the moment of judgment. Upcoming = periods starting within 15 years.
+        horizon = now + timedelta(days=365.25 * 15)
+        up = [s for s in scored if s.period.end > now and s.period.start < horizon]
+        if up:
+            top = max(s.score for s in up)
+            up = [s for s in up if s.score >= 0.7 * top]   # only strong windows compete
+        rp_set = set(rps or [])
+        up.sort(key=lambda s: (-s.score, -len(set(s.period.lords[:3]) & rp_set)))   # RPs break ties only
+        up_pick, seen_u = [], set()
+        for s in up:
+            k = s.period.lords[:2]
+            if k in seen_u or s.score <= 0:
+                continue
+            seen_u.add(k)
+            up_pick.append(s)
+            if len(up_pick) >= 3:
+                break
         pr = promise(engine, *v.promise) if v.promise else None
-        entry = {"houses": v.houses, "source": v.source, "note": v.note, "promise": pr,
+        entry = {"upcoming": [dict(win(s, i + 1), rp_lords=sorted(set(s.period.lords[:3]) & rp_set))
+                              for i, s in enumerate(sorted(up_pick, key=lambda s: s.period.start))],"houses": v.houses, "source": v.source, "note": v.note, "promise": pr,
                  "windows": [win(s, i + 1) for i, s in enumerate(picked)],
                  "other_strong_windows": [win(s, None) for s in strong]}
         if known_event:
