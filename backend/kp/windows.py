@@ -62,26 +62,44 @@ def promise(engine: Engine, cusp: int, good: list[int], bad: list[int]) -> dict:
 
 
 def longevity_span(engine: Engine) -> dict:
-    """Span from the Ascendant sub lord (R3)."""
+    """Span of life from the Ascendant sub lord — two source rules, both shown.
+
+    R3: the Asc sub lord benefic (lord of 1, 5, 9, 10) → long; malefic (lord of 6, 8, 12) → short;
+        both → middle (R3 p.157–169; bands R3 l.~7200).
+    R6: the Asc sub lord in the star of a significator of badhaka/maraka → short life.
+    """
     ch = engine.chart
     sl = ch.cusp_lords[0].sub
-    dh = set([badhaka_from(ch, 1), 2, 7])
-    star = ch.planets[sl].lords.star
-    star_sig = engine.signified(star, 4)
-    if star_sig & dh:
-        band, why = "short (0–33)", f"Ascendant sub lord {sl} is in the star of {star}, a significator of badhaka/maraka houses {sorted(star_sig & dh)}"
+    ranges = {"short (0–33)": (0, 33), "middle (33–66)": (33, 66), "long (66–100)": (66, 100)}
+    owns = set(ch.owner_houses(sl))
+    good, bad = owns & {1, 5, 9, 10}, owns & {6, 8, 12}
+    if good and not bad:
+        r3 = ("long (66–100)", f"{sl} owns {sorted(good)} (benefic lordship)")
+    elif bad and not good:
+        r3 = ("short (0–33)", f"{sl} owns {sorted(bad)} (malefic lordship)")
+    elif good and bad:
+        r3 = ("middle (33–66)", f"{sl} owns both {sorted(good)} and {sorted(bad)}")
     else:
         hs = engine.sub_lord_houses(sl)
-        good, bad = hs & {1, 5, 9, 10}, hs & {6, 8, 12}
-        if good and not bad:
-            band, why = "long (66–100)", f"Ascendant sub lord {sl} signifies {sorted(good)}"
-        elif bad and not good:
-            band, why = "short (0–33)", f"Ascendant sub lord {sl} signifies {sorted(bad)}"
-        else:
-            band, why = "middle (33–66)", f"Ascendant sub lord {sl} signifies both {sorted(good)} and {sorted(bad)}"
-    ranges = {"short (0–33)": (0, 33), "middle (33–66)": (33, 66), "long (66–100)": (66, 100)}
-    return {"sub_lord": sl, "band": band, "reason": why, "years": ranges[band],
-            "source": "R3 p.157–169 (bands R3 l.~7200)"}
+        g2, b2 = hs & {1, 5, 9, 10}, hs & {6, 8, 12}
+        r3 = (("long (66–100)" if g2 and not b2 else "short (0–33)" if b2 and not g2 else "middle (33–66)"),
+              f"{sl} owns no deciding house; it signifies {sorted(hs)}")
+    dh = {badhaka_from(ch, 1), 2, 7}
+    star = ch.planets[sl].lords.star
+    star_sig = engine.signified(star, 2)          # occupant-level significance (strict reading)
+    if star_sig & dh:
+        r6 = ("short (0–33)", f"{sl} is in the star of {star}, which occupies/is in the star of an occupant of {sorted(star_sig & dh)}")
+    else:
+        r6 = (None, f"{sl}'s star lord {star} is not a strong significator of badhaka/maraka houses — R6 rule does not shorten life")
+    agree = r6[0] is None or r6[0] == r3[0]
+    band = r3[0]
+    return {"sub_lord": sl, "band": band, "years": ranges[band],
+            "rules": [{"source": "R3 p.157–169 (lordship of the Asc sub lord)", "band": r3[0], "reason": r3[1]},
+                      {"source": "R6 (Asc sub lord in the star of a badhaka/maraka significator)",
+                       "band": r6[0] or "no shortening", "reason": r6[1]}],
+            "agree": agree,
+            "reason": f"R3: {r3[0]} — {r3[1]}; R6: {r6[0] or 'no shortening'}",
+            "source": "R3 p.157–169; R6"}
 
 
 # ---------------------------------------------------------------- windows
@@ -261,12 +279,15 @@ def matter_report(chart: Chart, engine: Engine, matter: Matter, now: datetime,
     for v in matter.variants:
         scored = score_periods(engine, matter, v, periods, rps)
         if span:
+            # R2/R3: if long life is promised an evil period in youth gives illness, not death.
+            # Applied only when the span rules agree; otherwise both are shown and nothing is penalised.
             lo, hi = span["years"]
-            for s in scored:
-                age = (s.period.start - chart.utc).days / 365.25
-                if not (lo <= age <= hi + 5):
-                    s.score -= 4
-                    s.reasons.append(f"outside the promised span {span['band']}")
+            if span["agree"]:
+                for s in scored:
+                    age = (s.period.start - chart.utc).days / 365.25
+                    if not (lo - 3 <= age <= hi + 5):
+                        s.score -= 2
+                        s.reasons.append(f"outside the promised span {span['band']} (R2/R3)")
         scored.sort(key=lambda s: -s.score)
         picked, seen = [], set()
         for s in scored:
