@@ -96,4 +96,4 @@ Chunk names: R1..R6 = Readers, M<year> = magazines; e.g. R4_03 = Reader 4, 4th c
 - MC_140–MC_141 (Dec 1971) — magazine set complete
 - docs/kp-rules.md written (all sections). Next: user reviews the DECIDE items in §8, then build the app.
 - REDO PHASE (user approved): notes for MC_011–MC_061 were too thin (1–5 KB per chunk vs 10–20 KB later). Re-reading each in full and appending "## MC_0xx (...) [detailed redo]" sections at the END of magazine-notes.md. Then spot-check MC_096, MC_117, MC_119, MC_139, and merge new rules/contradictions into docs/kp-rules.md.
-- Redo done: MC_011–MC_045. Next to read (redo): MC_046
+- Redo done: MC_011–MC_047. Next to read (redo): MC_048
