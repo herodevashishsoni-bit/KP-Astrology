@@ -296,10 +296,13 @@ def matter_report(chart: Chart, engine: Engine, matter: Matter, now: datetime,
                  "windows": [win(s, i + 1) for i, s in enumerate(picked)],
                  "other_strong_windows": [win(s, None) for s in strong]}
         if known_event:
-            rank = None
-            for i, s in enumerate(scored):
+            rank, seen_k = None, []
+            for s in scored:
+                k = s.period.lords[:2]
+                if k not in seen_k:
+                    seen_k.append(k)
                 if s.period.start <= known_event < s.period.end:
-                    rank = i + 1
+                    rank = seen_k.index(k) + 1
                     break
             entry["known_event_check"] = {"date": known_event.date().isoformat(),
                                           "rank_of_its_window": rank,
