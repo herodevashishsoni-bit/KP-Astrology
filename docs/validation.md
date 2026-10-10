@@ -85,3 +85,8 @@ The whole-life lists remain only as "periods when the matter is active", not pre
   - The ends of the jobs fall at antara boundaries.
   - Next qualifying antara: Mercury–Jupiter–Moon, from 17-10-2026, the same as ask-now #1.
   - This antara rule did not stand out over whole lives in the book cases (lift 1.06), so a dated-event test on more charts is needed before it becomes the default.
+- **Ask now, marriage:** asked 10-10-2026 4:46 PM IST, Jaipur; ruling planets as above. 7th cusp sub lord Saturn (retrograde) gives "promised with delay".
+  - KSK Saturn rules (MC "Undue delay"; MC 1965 "Delayed marriage") point to Saturn's sub-period.
+  - Most consistent window: Mercury–Saturn–Rahu, 20-5-2029 to 14-10-2029, with the Sun in Pushya 20-7 to 3-8-2029.
+  - Alternatives: Mercury–Jupiter–Rahu (Feb–Jun 2027), or from 22-2-2030 in Ketu dasa.
+  - Predictions, to be checked.
