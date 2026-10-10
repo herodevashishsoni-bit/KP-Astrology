@@ -411,7 +411,13 @@ RPs at the moment of the question also confirm natal judgments, as KSK did.
 **User decisions (final):**
 - **#2 Aspects:** ON. Both Western degree aspects (conjunction, opposition, trine, square, sextile, and KSK's 108°/144°/135° etc.) and Hindu full aspects (Jupiter 5/7/9, Mars 4/7/8, Saturn 3/7/10, all 7th) are used. They act at significator levels 5–6, in the dasa principle (R3 (e)–(h)) and in transit pinpointing. Each window's reason names the aspect used.
 - **#1 Ayanamsa:** the whole chart (cusps, significators, dasas, windows) is computed twice, KSK and Lahiri, and shown side by side. KSK is listed first.
-- **#18 Exaltation:** used as the sources use it. R6 p.145 treats it as **magnitude** only ("container/contents": how big the result is). KSK repeatedly says it does not decide good or bad (e.g. exalted Jupiter in Ashlesha harmful, MC_058). So it scales the size of a result and never its direction.
+- **#18 Exaltation:** used **only in the rules where a source mentions it**, each citing that source:
+  - (a) Magnitude of a result: the star lord's strength, "container/contents" (R6 p.145–146).
+  - (b) The owner of a house beats the occupant if it is exalted, vargottama or in its other own sign, or if the occupant is debilitated or in an enemy sign (R3 p.464–466).
+  - (c) Saturn exalted aspecting the 7th cusp delays marriage (R3 example 23-5-1925).
+  - (d) The magazine cases in `magazine-notes.md` (grep "exalt") where KSK or a contributor applies it; each such rule is attached to its matter with a [KSK]/[contrib] tag.
+
+  Exaltation never decides good vs bad on its own (KSK: exalted Jupiter in Ashlesha still harmful, MC_058).
 - **#23** "Illegal intimacy" (11th-only marriage link, KSK) is shown.
 - **#17** Gemstone and colour suggestions are ON, from the source rules (gem by Asc/11th sub lord; KSK colour notes), labelled as remedies.
 - **#25 Horary module:** added. It uses numbers 1–249 (R6), with 1–108 (KSK magazines) as an option, plus a time-of-question chart, RPs, horary retrograde rules and transit timing of minor events.
