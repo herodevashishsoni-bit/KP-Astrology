@@ -220,32 +220,43 @@ def magnitude_note(engine: Engine, lords: tuple[str, ...]) -> str | None:
 
 
 def pinpoint(lords: tuple[str, ...], start: datetime, end: datetime, ayanamsa_name: str,
-             max_dates: int = 4) -> list[dict]:
-    """Days in the window when the Sun transits a sign/star/sub all ruled by the D/B/A lords (R3 ch.2; R5)."""
+             max_dates: int = 4, agents: dict[str, list[str]] | None = None) -> list[dict]:
+    """Days in the window when the Sun transits a point whose sign, star and sub lords are all
+    period lords (R3 ch.2; R5 p.161–187). Nodes count for the planets they act for, and vice
+    versa. If no such day exists, days with the star and sub ruled by period lords are given."""
     from .chart import ayanamsa
     want = set(lords)
-    out = []
-    t = max(start, start)
-    step = timedelta(days=1)
-    prev = False
-    while t < end and len(out) < max_dates:
+    for l in list(lords):
+        want |= set((agents or {}).get(l, []))
+    for n, ag in (agents or {}).items():
+        if set(ag) & set(lords):
+            want.add(n)
+    full, partial = [], []
+    t = start
+    prev_f = prev_p = False
+    while t < end:
         jd = julday(t)
         xx, _ = swe.calc_ut(jd, swe.SUN, swe.FLG_MOSEPH)
         lon = (xx[0] - ayanamsa(jd, ayanamsa_name)) % 360
         L = lords_of(lon)
-        hit = {L.sign, L.star, L.sub} <= want
-        if hit and not prev:
-            out.append({"date": t.date().isoformat(), "sun": f"{L.sign_name} / {L.star_name} / {L.sub} sub",
-                        "rule": "Sun in sign, star and sub of the period lords"})
-        prev = hit
-        t += step
-    return out
+        f = {L.sign, L.star, L.sub} <= want
+        pp = {L.star, L.sub} <= want
+        if f and not prev_f:
+            full.append({"date": t.date().isoformat(), "sun": f"{L.sign_name} / {L.star_name} / {L.sub} sub",
+                         "rule": "Sun in a sign, star and sub all ruled by the period lords"})
+        elif pp and not prev_p and not f:
+            partial.append({"date": t.date().isoformat(), "sun": f"{L.sign_name} / {L.star_name} / {L.sub} sub",
+                            "rule": "Sun in a star and sub ruled by the period lords"})
+        prev_f, prev_p = f, pp
+        t += timedelta(days=1)
+    return (full or partial)[:max_dates]
 
 
 def matter_report(chart: Chart, engine: Engine, matter: Matter, now: datetime,
                   periods: list[D.Period], rps: list[str] | None = None,
                   known_event: datetime | None = None, top_n: int = 3) -> dict:
     variants_out = []
+    agents = {n: [a for a, _ in engine.node_agents(n)] for n in ("Rahu", "Ketu")}
     span = longevity_span(engine) if matter.key == "death" else None
     for v in matter.variants:
         scored = score_periods(engine, matter, v, periods, rps)
@@ -278,7 +289,7 @@ def matter_report(chart: Chart, engine: Engine, matter: Matter, now: datetime,
                     "score": s.score, "reasons": s.reasons,
                     "magnitude": magnitude_note(engine, s.period.lords[:3]),
                     "pinpoint": pinpoint(s.period.lords[:3], s.period.start, s.period.end,
-                                         chart.ayanamsa_name) if rank else []}
+                                         chart.ayanamsa_name, agents=agents) if rank else []}
 
         pr = promise(engine, *v.promise) if v.promise else None
         entry = {"houses": v.houses, "source": v.source, "note": v.note, "promise": pr,
