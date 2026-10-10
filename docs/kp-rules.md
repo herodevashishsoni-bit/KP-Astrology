@@ -351,7 +351,12 @@ For each matter the engine walks every dasa–bhukti–antara of the native's li
 ---
 
 ## 5. Horary (only as needed)
-The bio is natal. Horary (1–249 numbers, R6) is used inside the app for one purpose: KSK's own practice of confirming a natal judgment with the RPs at the moment of the question. A full horary module is **not** planned unless you ask for it. Retrograde-denial rules (§2.8) are horary-only.
+The bio is natal. **A full horary module is included (user decision #25):**
+- Number 1–249 (R6), or 1–108 (KSK magazines), or the time of the question.
+- Uses the RPs, cusp sub lords, and the horary retrograde-denial rules (§2.8).
+- Times minor events with ascendant, Moon, Sun or Jupiter transits (§4.1).
+
+RPs at the moment of the question also confirm natal judgments, as KSK did.
 
 ---
 
@@ -402,6 +407,20 @@ The bio is natal. Horary (1–249 numbers, R6) is used inside the app for one pu
 ---
 
 ## 8. Decisions you need to make (summary of every DECIDE)
+
+**User decisions (final):**
+- **#2 Aspects:** ON. Both Western degree aspects (conjunction, opposition, trine, square, sextile, and KSK's 108°/144°/135° etc.) and Hindu full aspects (Jupiter 5/7/9, Mars 4/7/8, Saturn 3/7/10, all 7th) are used. They act at significator levels 5–6, in the dasa principle (R3 (e)–(h)) and in transit pinpointing. Each window's reason names the aspect used.
+- **#1 Ayanamsa:** the whole chart (cusps, significators, dasas, windows) is computed twice, KSK and Lahiri, and shown side by side. KSK is listed first.
+- **#18 Exaltation:** used as the sources use it. R6 p.145 treats it as **magnitude** only ("container/contents": how big the result is). KSK repeatedly says it does not decide good or bad (e.g. exalted Jupiter in Ashlesha harmful, MC_058). So it scales the size of a result and never its direction.
+- **#23** "Illegal intimacy" (11th-only marriage link, KSK) is shown.
+- **#17** Gemstone and colour suggestions are ON, from the source rules (gem by Asc/11th sub lord; KSK colour notes), labelled as remedies.
+- **#25 Horary module:** added. It uses numbers 1–249 (R6), with 1–108 (KSK magazines) as an option, plus a time-of-question chart, RPs, horary retrograde rules and transit timing of minor events.
+- **Everything else follows the sources**, showing every version where they disagree:
+  - #5 natal retrogression: both results.
+  - #6 combustion: shown per R3's 8°30′, plus the R1 variant.
+  - #15 suicide/murder indications: shown as the sources state them.
+  - #16 vighati check: shown next to the RP method, since R3 used it and R6 rejects it.
+  - #19 and #20 are app choices, not source rules, so they keep the proposed defaults.
 
 **User policy (decided):** wherever the sources give two or more rules for the same thing, the app computes **every variant** and shows all of them side by side. Each result is labelled with its source (e.g. "Retirement — R3 houses 3, 5, 9: window A; KSK magazine houses 9, 12: window B"). The "default" column below now only decides which variant is listed first. This does not cover methods you have excluded outright (traditional and Western, §7); those stay off unless you switch them on.
 
