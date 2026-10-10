@@ -9321,3 +9321,28 @@ Cusps (sign, star, sub): XI Jupiter/Ketu/Venus; VI Mercury/Jupiter/Venus; V Merc
   - Traditional readings (lord 12 in 2, lord 2 debilitated in 12th bhava, Rahu in 4, Saturn in 7, Sakata yoga, no raja yogas) all predict failure — but he was hugely successful. → reject sign-lordship/yoga reading.
   - KP: Rahu dasa (college) — Rahu in star of lord 9 (higher studies), sub of node in 10 → graduate. Jupiter dasa (from 23) — in star of node in 4, sub of lord 5 & 6 → ended study; 5th → children (C.R. Pattabhiraman b. 1906); 6th → self-acquisition. Saturn dasa (39–58) in star & sub of lord 10 → rose to fame, Diwan etc. Mercury dasa (58–75) star & sub of lord 10 → Mettur dam, temple entry. Ketu dasa: unconjoined, aspected by Jupiter, in Jupiter star, sub of lord 9 → philosophical. Venus dasa → death: Venus lord 2 (maraka) — not kendradhipati, not badhakadhipati, not aspected by badhaka lord Jupiter; Jataka Chandrika: lord 2 also owning 9 is benefic (FLAG traditional).
   - Table: planet → (star lord, its owned houses) → (sub lord, its owned houses). Engine table format confirmed. Continues MC_062 (death analysis). Test case for life-bio: dasas mapped to life phases.
+
+## Spot-check results (MC_096, MC_117, MC_119, MC_139)
+- MC_096: every article heading (Panchang, Correct time of birth, Promotion by horary, KP history, RPs read results, Chandrashtama) is covered in the existing notes. OK.
+- MC_117: the opening pages (KSK's Bombay/Madras visits 1969) were checked. They are RP birth-star and lagna demonstrations already noted under MC_102:
+  - Jupiter exalted at 29°24′–29°43′ Cancer, fixed by RPs.
+  - A sade-sati student born Salem 2:48 AM 21-10-1945.
+  - An official's birth star Jyeshta, read from the interview time.
+  - A professor's lagna (Leo vs Cancer), born 7:10 PM 29-1-1928, Madras.
+  - The birth-star trunk call by KSK's daughter.
+
+  One added point: "RPs reveal correctly only when the KP ayanamsa is used; a smaller value fails." Notes OK.
+- MC_119: two items were missing and are added here.
+  - **KSK, "Muhurtham: election of timing — traditional — absurd, meaningless"** (Sept 1970):
+    - KSK's own data: born 1-11-1908 (OCR "1—D—1908"), birth star Sravana, Moon sign Capricorn.
+    - He left for Malaysia on Friday 15-5-1970, a P.Phalguni day, deliberately going against tradition: Moon in the 8th from his Moon sign (chandrashtama), during Rahu kalam (left home 10:55 AM, flight at noon), and on the tithi navami.
+    - The trip was very successful: title "Sothida Mannan", gold medal, foreign exchange, meetings with the PM and Chief Minister, radio and TV.
+    - **Rule: traditional muhurtha items (chandrashtama, rahu kalam, inauspicious stars and tithis) are rejected. Choose times by KP RP and significator logic.** The app's muhurtha feature, if any, uses KP only.
+  - **"Siva" (Matale, Ceylon), KP horary using numbers 1–249** (19-5-1970, 5:30 PM CST; number 61; house purchase):
+    - Purchase houses: 4 (immovable property), 11 (gain to you), 12 (paying cheque or cash to the seller). The 11th cusp sub lord decides.
+    - 11th cusp: Venus sign, Sun star, Jupiter sub. Jupiter is retrograde, in Mars star and Venus sub; Venus (lord 11) is in the 12th → cannot buy.
+    - Rule (contributor): a planet in the same star and sub as another gives that planet's results.
+    - Moon (lord 2 in 4) in Rahu star, Mercury sub → the query is about property.
+    - Uses a retrograde sub lord as a negation, an occult reading of "house hemmed between Uranus and Neptune" (psychic experiences), and planetary aspects. FLAG (Western outer planets and retrogression).
+    - **Rectification by RPs plus a 249 number**: RPs Mars, Venus, Rahu (Ketu governs Venus); number 231 → lagna in Mars sign, Venus star, Rahu sub, Sun sub-sub = 19°43′40″ Aries. (This is a 249-number variant, used here for the querist's birth lagna.) FLAG: contributor method, 249 numbers.
+- MC_139: all articles are covered (Jataka Chandrika glosses, Jatakalankara, Marriage, Party arrival, Promotion, Experiments with KP). OK.
